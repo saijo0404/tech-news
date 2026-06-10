@@ -1,16 +1,19 @@
-# 以代理技能與 NVIDIA Nemotron Speech 加速臨床語音辨識模型評估
+---
+# Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech
 
 - **來源**: NVIDIA Developer Blog
 - **發布日期**: 2026-06-09
-- **原文連結**: https://developer.nvidia.com/blog/evaluate-clinical-asr-models/faster-with-agent-skills-and-nvidia-nemotron-speech/
+- **原文連結**: https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/
 
 ## 核心主題
-NVIDIA 提出「臨床 ASR 品質飛輪」（Clinical ASR Quality Flywheel），結合 AI 代理技能（Agent Skills）、NeMo Data Designer 合成數據生成與 Magpie TTS 語音合成，打造可重複的語音辨識評估工作流——讓開發者透過對話驅動建立臨床專用語料庫、人工審查音標發音、生成合成音訊並評估辨識品質，將臨床 ASR 的改進從一次性作業轉為結構化循環。
+NVIDIA 提出一套結合 AI 代理技能與合成資料生成（SDG）的臨床自動語音辨識（ASR）評估流程，讓開發者能快速建立專科導向的語音測試基準，並透過結構化的品質飛輪循環持續改善模型表現。
 
 ## 關鍵重點
-- **臨床 ASR 的獨特挑戰與合成數據的解決路徑：從對話驅動建立專屬 benchmark**：通用語音系統能流利說話卻仍會遺漏關鍵臨床術語（如藥物名稱 Acetaminophen、Amlodipine，手術名稱，解剖術語）；真實臨床語音受 HIPAA 規範限制難以收集與分享，合成音訊則不含 PHI（保護健康資訊），可自由版本控制與共享；此飛輪以對話而非靜態設定檔啟動——開發者在 Claude Code 或 Codex 等代理工具中執行 `flywheel-build` 技能，代理依序提問（專業領域、觀察到的失敗模式、日常 vs 困難術語），建立專屬 benchmark 配置（含藥物、手術、解剖、病症四大類別），並先產出小型 QA 測試集再逐步擴展。
-- **音標審查循環：LLM 提案非真理，必須經過人工驗證與 TTS 音素庫存檢查**：NeMo Data Designer 將種子術語擴展為完整合成語音記錄（含 sample_id、包含目標術語的句子、ipa_pronunciation、SSML 句子、audio_filepath）；透過 SSML `<phoneme alphabet="ipa">` 標籤注入音標；但字典 lookup 無法涵蓋所有臨床術語（特別是新型藥物、貿易名稱、罕見手術），飛輪設有明確的人工審查路徑——標記缺少或低信心 IPA 的列、由 LLM 代理提案候选音標、驗證 TTS 音素庫存、合成 QA 小片段、人工審查接受/編輯/拒絕、寫入覆寫檔、重新生成 SSML 與音訊；技能本身強制代理在此階段停止等待人工輸入，確保審查不會被跳過。
-- **五階段品質飛輪：從建置、評估到適配與重新評估的結構化改進循環**：飛輪包含五個階段——（1）Setup：檢查依賴、憑證與煙霧測試；（2）Build：收集專業語境、提案術語、執行音標 QA、生成 manifest；（3）Evaluate：執行轉錄並報告整體與實體層級指標（WER、CER、KER、SERS）；（4）Adapt：在兩個閾值（優先類別 KER > 0.3 且 manifest ≥ 100 列）背後過濾微調，否則路由回 build 擴增資料集；（5）Reevaluate：比較當前與先前執行，建議下一循環；其中一個反直覺的路由規則特別值得注意——如果 Merriam-Webster 語音得分改善但 Magpie 後備語音得分不佳，技能會路由回 build 而非微調，因為這是「音標覆蓋缺口」而非「模型缺口」；在骨科實務模擬中，代理識別出藥物名稱是最弱環節，下一循環專注於音標審查、額外藥物涵蓋與模型適配。
+- **臨床語音的特殊挑戰與合成資料優勢**：一般語音模型容易在藥物名稱、手術程序、解剖術語等臨床專科用詞上失準；合成語音不含患者隱私資料（PHI），可自由版本控制與分享，且能精確控制發音，讓團隊能在數小時內建立專科基準測試，無需收集真實臨床錄音或等待 IRB 核准。
+- **AI 代理技能引導的結構化評估飛輪**：透過 NVIDIA agent skills 引導五階段循環（設定 → 建構基準 → 評估 ASR → 改善模型 → 重新評估），agent 會逐項詢問專科背景、已知錯誤模式與困難詞彙，自動生成含 SSML 音標標記的合成語音，並在發音不確定時暫停等待人工審查，確保音標品質。
+- **實體層級指標驅動的精準改善**：評估技能不只報告整體詞錯誤率（WER），更重點追蹤關鍵字錯誤率（KER）等實體層級指標，當發現特定類別（如藥物名稱）錯誤集中時，可針對性擴充詞彙覆蓋或進行模型微調；若發音涵蓋不足導致分數低落，系統會自動導回建構階段而非盲目微調。
 
 ## 結論
-臨床 ASR 品質飛輪代表了一個從「一次性資料集」到「可重複改進循環」的典範轉移——它不只是生成合成語音的工具，更是一套由 AI 代理技能引導的結構化工作流，將臨床語音辨識的評估從模糊的整體分數轉化為以實體層級（entity-level）指標為導向的決策系統；透過對話驅動建立專屬 benchmark、嚴格的人工音標審查閾值、以及以 KER（關鍵字錯誤率）等指標驅動的適配路由，這個飛輪確保開發者不會在錯誤的方向上浪費資源（例如在音標覆蓋缺口上進行無效微調）；雖然合成語音不能替代真實臨床語音，但它提供了一種可控的方式來針對罕見術語建立壓力測試，而飛輪的設計為後續整合聲學壓力條件（如警報、重疊說話者、口罩、遠距醫療麥克風等）留下了清晰的擴展路徑。
+此流程將臨床 ASR 的評估從一次性資料集升級為可重複的改進循環，結合 NeMo Data Designer 的文本擴增、Magpie TTS Multilingual 的發音控制合成語音，以及 NVIDIA Nemotron Speech 的語音辨識服務，讓開發者能以對話式的方式快速建立專科基準、審查發音、生成合成語音，並根據實體層級指標做出精確的改善決策。
+
+---
