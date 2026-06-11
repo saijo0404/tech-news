@@ -1,19 +1,16 @@
----
-# NVIDIA, KRAFTON, NC and Reigning 'League of Legends' Champions T1 Celebrate RTX Spark at Korea's PC Bangs
+# NVIDIA、KRAFTON、NC 與《英雄聯盟》冠軍 T1 攜手慶祝 RTX Spark 登陸韓國 PC 網咖
 
 - **來源**: NVIDIA Blog
 - **發布日期**: 2026-06-07
 - **原文連結**: https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/
 
 ## 核心主題
-NVIDIA 執行長黃仁勳在 GTC Taipei 公佈 RTX Spark 後，親赴韓國 PC Bang 向當地遊戲社群展示這款專為個人 AI 代理時代重新設計的 Windows PC 超晶片，並與 KRAFTON、NC、Riot Games 及 T1 戰隊合作展現 RTX Spark 的遊戲與 AI 能力。
+NVIDIA 執行長黃仁勳赴韓國展示 RTX Spark 超晶片，聯合 KRAFTON、NC 與電競冠軍隊伍 T1，向韓國遊戲社群介紹將個人 AI 代理與高效能遊戲體驗帶入輕薄筆電與小型桌機的 RTX Spark 平台。
 
 ## 關鍵重點
-- **RTX Spark：為個人 AI 代理時代而生的超晶片**：RTX Spark 融合 NVIDIA 30 年創新，打造輕薄筆電（全日電池）與小型高效能桌機，支援 1440p/100+ fps 高畫質遊戲與光線追蹤、DLSS、Reflex 及最新 DLSS 4.5 Ray Reconstruction，讓玩家隨時隨地享受高品質 PC 遊戲。
-- **韓國遊戲開發商攜手 RTX Spark**：KRAFTON 展示《PUBG: BATTLEGROUNDS》與《Subnautica 2》，並亮相由 NVIDIA ACE 技術打造的「PUBG Ally」AI 隊友角色——能像真正隊友般行動；NC 則展示《CINDER CITY》與《AION 2》，後者支援 DLSS 4.5 動態多幀生成，預計今年晚些時候在 RTX Spark 設備上推出。
-- **與 T1 戰隊共同慶祝**：黃仁勳前往 T1 戰隊基地 PC Bang，與六次世界冠軍「Faker」李相赫見面，Riot Games 亦宣布《英雄聯盟》與《VALORANT》將支援 RTX Spark；現場玩家有機會贏得 RTX Spark 筆電、簽名周邊與 GeForce RTX 5090 顯卡。
+- **RTX Spark 重定義 Windows PC 遊戲體驗**：RTX Spark 整合 NVIDIA 30 年技術，打造全一天電池續航的輕薄筆電與高效能小型桌機，支援 1440p 解析度與每秒超過 100 幀的 AAA 遊戲效能，並完整支援 DLSS 4.5 Ray Reconstruction 等 RTX 技術。
+- **韓國頂級遊戲開發商全面支援**：KRAFTON 展示《PUBG: BATTLEGROUNDS》與《Subnautica 2》，並演示結合 NVIDIA ACE 技術的「PUBG Ally」AI 隊友；NC 則展示《CINDER CITY》與《AION 2》，兩者皆將於 RTX Spark 平台上市。
+- **電競與網咖文化深度結合**：黃仁勳造訪 T1 基地網咖與《英雄聯盟》六屆冠軍選手 Faker 會面，並到首爾江南區網咖讓玩家親自體驗 RTX Spark，NVIDIA 亦與 Riot Games 合作將《英雄聯盟》與《VALORANT》帶入 RTX Spark 生態。
 
 ## 結論
-RTX Spark 讓高階 PC 遊戲與個人 AI 代理輕鬆帶入輕薄設備，NVIDIA 透過與韓國頂尖開發商及電競戰隊的緊密合作，進一步鞏固韓國在全球遊戲產業的地位，並為超過 100 家合作夥伴開創更廣泛的遊戲與 AI 體驗。
-
----
+RTX Spark 透過結合輕薄硬體與強大 AI 運算能力，為韓國遊戲玩家帶來全新的個人 AI 與遊戲體驗，也顯示 NVIDIA 與韓國遊戲產業長期合作關係的深化，推動高效能遊戲從傳統桌機走向行動裝置與小型化平台。

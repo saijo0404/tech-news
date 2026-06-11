@@ -1,19 +1,16 @@
----
-# Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell
+# 使用 JAX 與 MaxText 搭配 NVIDIA Blackwell 上的 NVFP4 加速模型訓練
 
 - **來源**: NVIDIA Developer Blog
 - **發布日期**: 2026-06-08
 - **原文連結**: https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/
 
 ## 核心主題
-NVIDIA 推出 NVFP4 訓練配方，讓開發者能透過 JAX 與 MaxText 在 NVIDIA Blackwell 平台上進行高吞吐量、4-bit 混合精度大語言模型預訓練，在幾乎沒有準確度損失的情況下，相較於 FP8 取得 1.31 至 1.73 倍的加速。
+本文介紹 NVIDIA Transformer Engine 中的 NVFP4 混合精度訓練配方，搭配 JAX 與 MaxText 框架在 NVIDIA Blackwell 架構上實現高效能的 4-bit 模型預訓練，在無顯著精度損失的前提下帶來高達 1.73 倍的加速。
 
 ## 關鍵重點
-- **NVFP4 格式的五項關鍵技術**：採用 16 元素微區塊縮放（小於 MXFP4 的 32 元素）、E4M3 區塊縮放因子搭配每張量 FP32 縮放、僅對 WGRAD GEMM 輸入套用隨機哈達瑪變換、2D 權重縮放（16×16 區塊一個 FP8 縮放）以及隨機取整，共同確保 4-bit 精度下的收斂品質。
-- **精確的量化策略**：NVFP4 僅對 Transformer 的 MLP（前饋）層三個 GEMM 套用 NVFP4 量化，注意力區塊維持較高精度，因為 softmax 會指數級放大量化雜訊；MLP 佔大多數訓練 FLOPs，此策略捕捉了大部分加速同時避免收斂風險。
-- **顯著的效能提升與零準確度損失**：在 Llama 3 8B 模型上，GB200 實現 1.35 倍加速、GB300 實現 1.31 倍加速；Llama 3.1 405B 在 GB200 實現 1.44 倍加速、GB300 實現 1.73 倍加速；10,000 步預訓練顯示 NVFP4 與 FP8 基準的損失曲線幾乎完全重疊（收斂期平均差距僅 +0.026 nats）。
+- **NVFP4 格式的五大技術要點**：採用 16 元素微區塊縮放、E4M3 尾數比例因子、隨機哈達瑪變換（僅用於權重梯度 GEMM）、2D 權重縮放，以及隨機取整，這些技術共同確保 4-bit 精度下的模型收斂品質，相比 MXFP4 可減少約 36% 的訓練 token 需求。
+- **MaxText 中的 NVFP4 實作方式**：僅對 Transformer 的 MLP（前饋）層應用 NVFP4 量化，注意力區塊則保持較高精度以避免 softmax 放大量化雜訊；提供兩種模式（含/不含隨機哈達瑪變換），透過單一 `quantization` 旗標即可切換。
+- **實測效能提升顯著**：在 GB200 與 GB300 超級晶片上，Llama 3 8B 與 Llama 3.1 405B 模型的 NVFP4 配方相較 FP8 基線帶來 1.31x 至 1.73x 的加速（GPU 每卡可提升 500-700 TFLOP/s），同時 Llama 3 8B 的訓練損失曲線與 FP8 幾乎完全重疊，確認無可測量的精度損失。
 
 ## 結論
-NVFP4 配方讓 AI 工廠能在相同時間預算內訓練更多更大的模型，或以更短時間完成訓練。開發者可從 NVIDIA JAX-Toolbox 獲取 MaxText NVFP4 訓練腳本，在 Blackwell 平台上輕鬆啟用，享受更高運算吞吐量同時不犧牲模型品質。
-
----
+NVFP4 配方透過在 JAX/MaxText 中整合低精度訓練技術，讓開發者能在 NVIDIA Blackwell 架構上以極低的精度開銷獲得顯著的速度提升，為大規模 LLM 預訓練提供了一個兼具效能與精度的實用方案。
