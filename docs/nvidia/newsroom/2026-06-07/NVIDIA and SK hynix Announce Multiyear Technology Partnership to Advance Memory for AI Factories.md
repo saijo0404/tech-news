@@ -1,16 +1,19 @@
-# NVIDIA 與 SK 海力士宣佈多年期技術合作夥伴關係，推進 AI 工廠記憶體技術
+---
+# NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories
 
 - **來源**: NVIDIA Newsroom
 - **發布日期**: 2026-06-07
 - **原文連結**: https://nvidianews.nvidia.com/news/sk-hynix-ai-factory
 
 ## 核心主題
-NVIDIA 與 SK 海力士宣布多年期技術合作夥伴關係，共同開發下一代記憶體以支援全球 AI 工廠建設，同時將 AI 應用於半導體晶片設計與製造，並透過數位分身推動工廠自動化營運。
+NVIDIA 與 SK 海力士宣布簽訂多年技術合作協議，共同開發下一代記憶體技術以支援全球 AI 工廠擴建，並利用 NVIDIA 技術加速半導體設計、製造與工廠自動化。
 
 ## 關鍵重點
-- **多年期合作：從 VR 超級電腦到 RTX Spark 筆電與 Jetson Thor 機器人的跨領域記憶體共開發**：雙方協議支援先進記憶體供應，應對記憶體開發週期延長、先進製造與資本投資的挑戰；SK 海力士將進入 NVIDIA 創造的新市場——涵蓋 AI 基礎設施、個人 AI 與具身 AI——為以下平台共同開發記憶體：（1）NVIDIA Vera Rubin AI 超級電腦、（2）NVIDIA Vera CPU、（3）NVIDIA RTX Spark 驅動 PC、（4）NVIDIA Jetson Thor 機器人運算平台；黃仁勳指出「AI 工廠是下一代工業革命的引擎，而先進記憶體是其實現績效的關鍵」；SK Group 會長崔泰源表示此合作反映了多年深度共工程的成果，將共同開發下一代 AI 工廠記憶體並將 AI 應用於半導體設計與製造。
-- **AI 加速半導體設計與製造：CUDA-X 與 PhysicsNeMo 推動 TCAD 工作流與計算光刻**：SK 海力士使用 NVIDIA CUDA-X 庫與 AI 加速半導體模擬，包含技術電腦輔助設計（TCAD）與計算光刻工作流；並使用 CUDA-X 與 NVIDIA PhysicsNeMo 框架，在其內部模擬程式碼與 AI 物理工作流中提供核心負載加速；此舉將這些工具延伸至半導體電子設計自動化（EDA）與模擬生態系，開啟晶片製造商、NVIDIA 與 EDA 軟體供應商之間的三方合作機會。
-- **工廠數位分身邁向全自主營運：Omniverse + OpenUSD + cuOpt 驅動無人化半導體廠**：SK 海力士以數位分身為基礎推動全自主工廠營運——利用場景優化技術、NVIDIA Omniverse 庫與 OpenUSD 管線建置 3D 工廠場景，用於可視化、模擬與最佳化複雜半導體製造環境；數位分身同時支援營運最佳化，包括自主移動機器人與其他廠內資產的移動，使用 GPU 加速的 cuOpt 決策最佳化引擎與 NVIDIA Metropolis 平台；雙方也在探索將數位分身與現有舊系統及代理式 AI 工作流串接，使 AI 系統能推理廠內數據、自動化任務並改善製造決策。
+- **下一代記憶體共同開發**：SK 海力士將針對 NVIDIA 基礎建設藍圖，共同開發下一代記憶體，涵蓋 Vera Rubin AI 超級電腦、Vera CPU、RTX Spark 個人電腦與 Jetson Thor 機器人運算平台，支援 AI 基礎建設、個人 AI 與物理 AI 等新興市場。
+- **AI 加速半導體設計與模擬**：SK 海力士採用 NVIDIA CUDA-X 函式庫與 PhysicsNeMo 框架，加速技術電腦輔助設計（TCAD）、計算光學與內部模擬程式，並推動晶片製造商、NVIDIA 與 EDA 軟體供應商三方協作。
+- **推動智慧工廠數位分身**：SK 海力士結合 NVIDIA Omniverse、OpenUSD 與 cuOpt 決策優化引擎，建構工廠數位分身以實現自主製造，整合自主移動機器人、資產管理與 AI 代理工作流，提升生產決策自動化與效率。
 
 ## 結論
-NVIDIA 與 SK 海力士的合作從「供應鏈關係」升級為「技術共創夥伴」——在記憶體開發方面，雙方以多年期協議對齊 NVIDIA 基礎設施路徑，確保先進記憶體供應能跟上全球 AI 工廠擴張；在半導體製造方面，SK 海力士利用 CUDA-X 與 PhysicsNeMo 將 AI 深度整合至晶片設計與模擬流程，開啟三方合作新紀元；在營運層面，以 Omniverse + OpenUSD + cuOpt 打造的工廠數位分身，正將半導體廠從「高度自動化」推向「全自主營運」；這三方維度（記憶體共開發、AI 輔助製造、無人化工廠）共同勾勒出 AI 時代半導體產業的進化藍圖——AI 不僅用於訓練模型，更成為設計晶片、製造晶片與營運晶圓廠的核心基礎設施。
+NVIDIA 與 SK 海力士的長期合作將從記憶體供應延伸至半導體設計、製造與智慧工廠的全面升級，共同奠定全球 AI 基礎建設擴建的核心基礎。
+
+---
