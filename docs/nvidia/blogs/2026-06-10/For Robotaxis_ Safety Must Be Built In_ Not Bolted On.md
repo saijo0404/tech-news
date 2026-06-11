@@ -1,20 +1,19 @@
 ---
-# For Robotaxis, Safety Must Be Built In, Not Bolted On
+# For Robotaxis: Safety Must Be Built In, Not Bolted On
 
-- **來源**: NVIDIA Blog
+- **來源**: NVIDIA Blogs
 - **發布日期**: 2026-06-10
 - **原文連結**: https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/
 
 ## 核心主題
-NVIDIA 介紹全新推出的 Halos Operating System，一套從底層架構深度建構的完整自動駕駛安全系統，強調機器人計程車的安全性必須內建於系統設計之中，而非事後添加。
+NVIDIA 宣布其全新 Halos 作業系統，作為 DRIVE Hyperion 平台的全堆疊安全基礎，透過認證 OS、標準化介面、AI 安全護欄與雲端驗證框架四大支柱，解決 Robotaxi 規模化部署中的安全性挑戰。
 
 ## 關鍵重點
-- **Halos Core — 安全認證作業系統**：作為 DriveOS 的下一代，透過 ISO 26262 ASIL D 認證，內建 Hypervisor 隔離安全關鍵功能，確保故障無法影響車輛控制，並支援 TensorRT Edge-LLM 進行大型語言模型推論。
-- **Halos SDK — 標準化安全介面**：提供感測器抽象層與車輛抽象層，解耦自動駕駛堆疊與個別感測器驅動程式，內建確定性排程器、零拷貝通訊與完整錯誤處理框架，降低整合複雜度並確保低延遲。
-- **Halos Applications — AI 安全防護**：透過確定性規則基礎函數為 AI 模型提供安全防護網，包含世界模型感知與 NVIDIA 獲獎的 DRIVE 主動安全套件（如自動緊急煞車、車道偏離警告、盲點監控），並支援可解釋的端到端 AI 模型。
-- **Halos Infra — 雲端驗證基礎設施**：整合 DGX 訓練、Omniverse 模擬與 AGX 車載電腦，搭配 Halos 安全評估框架（SEF），支援從 L2 到 L4 的完整安全案例建構，涵蓋超過 330 篇研究論文與 1,000 項專利。
+- **Halos 作業系統四大核心組件**：（1）Halos Core——基於 DriveOS 新一代認證 OS，符合 ISO 26262 ASIL D 標準，透過 Hypervisor 隔離安全關鍵功能防止故障蔓延至車輛控制；（2）Halos SDK——傳感器抽象層與車輛抽象層實現硬體與軟體介面標準化，提供確定性排程器、零拷貝 IPC 與全面錯誤處理框架；（3）Halos Applications——以確定性、基於規則的函數為 AI 提供安全護欄，整合世界模型感知、主動安全系統（自動緊急煞車、車道偏離警告等），並支援 NVIDIA Alpamayo 開源模型的思維鏈推理；（4）Halos SEF 安全評估框架——結合 DGX 訓練、Omniverse/OVX 模擬與 AGX 車載即時處理，提供從 L2 到 L4 的完整安全驗證工具。
+- **全球 Robotaxi 部署加速**：Uber 與 Autobrains 在慕尼黑部署、Foxconn 擴大與 NVIDIA 合作在臺灣部署、VinFast 在東南亞推出 L4 級別車輛、HUMAIN 將 DRIVE Hyperion 引入沙特阿拉伯，顯示 Robotaxi 正從原型階段邁入商業運營，安全基礎設施的必要性日益迫切。
+- **從「事後附加」到「內建安全」的理念轉變**：NVIDIA 強調僅靠感知與決策不足以滿足監管要求——必須證明整體系統行為可靠、故障能在升級前隔離、且從不超出設計邊界運行；Halos OS 橫跨完整開發生命週期，將安全從附加功能轉為內建基礎，透過 330 篇研究論文與 1,000 項專利支撐安全主張。
 
 ## 結論
-NVIDIA 透過 Halos 全stack 安全系統，為機器人計程車提供從作業系統、介面、AI 防護到雲端驗證的一體化解決方案，並已在慕尼黑、台灣、東南亞、沙烏地阿拉伯等地推動全球部署，展現其對安全至上的堅持。
+NVIDIA 以 Halos OS 回應 Robotaxi 產業從原型到商業化的關鍵安全痛點，透過認證作業系統、標準化介面、AI 安全護欄與雲端驗證的整合方案，確保自動駕駛車輛能在規模部署中維持安全可靠；隨著全球多個城市加速部署 Robotaxi，「安全必須內建而非事後附加」成為業界共識。
 
 ---
