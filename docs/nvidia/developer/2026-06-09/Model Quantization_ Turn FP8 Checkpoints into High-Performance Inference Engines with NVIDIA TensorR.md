@@ -6,7 +6,7 @@
 - **原文連結**: https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/
 
 ## 核心主題
-NVIDIA 示範如何將 FP8 量化模型checkpoint 透過 Model Optimizer 與 TensorRT 轉化為高效能推論引擎，在 CLIP 模型上實現高達 1.45 倍的加速與近半的記憶體佔用降低。
+NVIDIA 示範如何將 FP8 量化模型 checkpoint 透過 Model Optimizer 與 TensorRT 轉化為高效能推論引擎，在 CLIP 模型上實現高達 1.45 倍的加速與近半的記憶體佔用降低。
 
 ## 關鍵重點
 - **從 ModelOpt 到 TensorRT 的完整部署流程**：將 FP8 checkpoint 匯出為 ONNX 格式（文字編譯器檔案縮小約 34%、影像編譯器縮小約 50%），透過 trtexec 建置 TensorRT 引擎，過程中 Q/DQ（量化/反量化）節點會在引擎建置階段被融合為專用的 FP8 核心，消除不必要的精度轉換開銷。

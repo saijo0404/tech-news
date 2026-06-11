@@ -3,7 +3,7 @@
 
 - **來源**: NVIDIA Developer Blog
 - **發布日期**: 2026-06-09
-- **原文連結**: https://developer.nvidia.com/blog/accelerating-federating-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/
+- **原文連結**: https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/
 
 ## 核心主題
 NVIDIA 推出 FLARE Auto-FL，一套由 AI 代理驅動的自動化聯邦學習研究框架，讓研究者能透過結構化的實驗流程快速評估與優化各種聯邦學習策略，大幅提升研究效率。
