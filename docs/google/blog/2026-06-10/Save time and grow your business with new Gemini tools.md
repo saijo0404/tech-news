@@ -6,14 +6,14 @@
 - **原文連結**: https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/
 
 ## 核心主題
-Google 在 Gemini App 中推出專為小企業設計的新功能，包括直接串接 Google Business Profile 與全新的 Business notebooks，讓 Gemini 成為真正懂你品牌與客戶資料的 AI 助手。
+Google 推出專為中小企業設計的 Gemini 新功能，包含直接串接 Google 商家中心的個人化 AI 助理與 Business notebooks，讓企業主能更聰明地管理業務並節省時間。
 
 ## 關鍵重點
-- **Google Business Profile 串接**：一鍵即可安全連線，Gemini 能取得顧客評價、客戶問題與營運數據，幫你分析每月經營表現、以品牌語氣草擬回覆顧客評論，甚至即時更新營業時間與季節公告。
-- **Business notebooks 集中管理**：將對話、來源、Business Profile 與網站資訊整合在同一個筆記本中，Gemini 可基於你的獨特業務背景主動推送關鍵提醒（如未回覆的顧客問題）與市場建議，從構思到執行一氣呵成。
-- **全球 rollout 與小企業專屬優惠**：上述功能將於本月在全球（不含歐盟與英國）推出，Google 同時預告將推出 Workspace 與 Gemini 小企業專屬方案，讓創業者和中小企業主更易上手 AI。
+- **Google 商家中心直連 Gemini**：企業主可一鍵安全連接 Google Business Profile，使 Gemini 能讀取真實業務情境（顧客評價、顧客問答、搜尋曝光、導航請求、來電等績效數據），進而分析月度表現、以品牌語氣撰寫個性化回覆、即時更新營業時間與季節性貼文。
+- **Business notebooks 集中化工作流程**：將聊天紀錄、資料來源、Google Business Profile 與網站整合至單一筆記空間，讓 Gemini 能持續參考企業上下文；開啟時會主動顯示關鍵洞察（如未回覆的顧客問題、未設定的假日營業時間），並提供客製化市場機會建議與促銷活動創意構想。
+- **全球逐步推出**：此功能將於本月在全球 rollout（歐洲經濟區與英國除外），並提供專屬 Workspace 與 Gemini 優惠，讓中小企業主能以最低門檻使用 AI 工具成長業務。
 
 ## 結論
-這組新功能讓 Gemini 從通用型 AI 助手升級為深度理解小企業脈絡的專屬夥伴，幫助創業者在繁忙的日常工作裡節省時間、做出更明智的營運決策。
+此次更新將 Gemini 轉化為真正理解企業品牌的 AI 夥伴，從顧客服務到營運決策提供一站式支援，讓創業者在扮演多重角色的同時，能更有效率地推動業務成長。
 
 ---

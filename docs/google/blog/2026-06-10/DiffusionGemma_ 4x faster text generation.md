@@ -6,14 +6,14 @@
 - **原文連結**: https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/
 
 ## 核心主題
-Google 推出實驗性語言模型 DiffusionGemma，採用文字擴散（text diffusion）技術，突破傳統逐字生成的限制，在專用 GPU 上實現高達 4 倍的生成速度。
+Google 發布 DiffusionGemma——一款以 Apache 2.0 授權開放的實驗性 26B MoE 文字擴散語言模型，透過平行生成 256 個 token 的區塊而非逐字序列生成，在專用 GPU 上實現最高 4 倍的推論加速，專為速度敏感型互動式本地工作流程設計。
 
 ## 關鍵重點
-- **平行生成取代順序預測**：DiffusionGemma 不再像傳統 LLM 那樣一個接一個地生成 token，而是每次前向傳播同時生成 256 個 token，將解碼瓶頸從記憶體頻寬轉移到運算能力，在單一 NVIDIA H100 上可達 1000+ tokens/秒，RTX 5090 上達 700+ tokens/秒。
-- **雙向注意力與自我修正**：每個 token 都能注意到其他所有 token，對於非線性任務（如程式碼補全、Markdown 格式化、數值圖譜）有顯著優勢；模型也能整段評估並反覆修正自身輸出。
-- **輕量級 MoE 架構與硬件優化**：總參數 26B、推理時僅激活 3.8B，量化後可在 18GB VRAM 的消费級 GPU 上運行；與 NVIDIA 合作針對 Hopper/Blackwell 架構進行 NVFP4 4-bit 加速優化。
+- **平行生成突破記憶體頻寬瓶頸**：DiffusionGemma 將解碼瓶頸從記憶體頻寬轉向計算能力，在單張 NVIDIA H100 上達 1,000+ tokens/秒、GeForce RTX 5090 上達 700+ tokens/秒；作為 26B 總參數的 MoE 模型，推論時僅激活 3.8B 參數，量化後可裝入消費級 GPU 的 18GB VRAM；雙向注意力機制使每個 token 可關注所有其他 token，對行內編輯、程式碼填充、胺基酸序列等非線性領域具有顯著優勢。
+- **文字擴散的工作原理**：類似影像生成的擴散過程，模型從隨機佔位符 token 畫布開始，經過多次迭代逐步鎖定正確的 token 並利用已鎖定的 token 作為上下文線索來精修其餘部分，最終使文本收斂為高品質輸出；模型可反覆自我修正，一次性評估整個文本區塊來即時修復錯誤（如完美關閉複雜 markdown 格式）。
+- **實驗性質與生態系支援**：因優先考慮速度與平行生成，整體輸出品質低於標準 Gemma 4，建議高品質應用仍使用 Gemma 4；此加速優勢在低到中批量大小、單加速器的本地推論場景中最顯著，高 QPS 雲端服務中自回歸模型仍具成本優勢；已獲 MLX、vLLM、Hugging Face Transformers 等工具支援，並與 NVIDIA 合作針對消費級與企業級硬體最佳化，包括 NVFP4 4 位元浮點加速。
 
 ## 結論
-DiffusionGemma 以 Apache 2.0 授權開源，專為需要極低延遲的本地互動式工作流設計（如行內編輯、快速迭代），但由於優先追求速度，其整體生成品質仍低於標準 Gemma 4 模型；適合需要即時互動的場景，高品質產出則建議使用傳統自回歸模型。
+DiffusionGemma 開啟了文字生成從逐字打字機轉向同時印表機的新範式，特別適合行內編輯、快速迭代與生成非線性文本結構等互動式本地工作流程；模型權重已於 Hugging Face 開放，並提供 Unsloth、Hackable Diffusion、NVIDIA NeMo 等多種微調途徑供研究與開發者探索。
 
 ---

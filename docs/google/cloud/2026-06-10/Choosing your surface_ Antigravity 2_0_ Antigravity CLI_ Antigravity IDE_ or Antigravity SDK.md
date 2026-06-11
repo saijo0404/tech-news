@@ -6,15 +6,14 @@
 - **原文連結**: https://cloud.google.com/blog/topics/developers-practitioners/choosing-your-surface-antigravity-20-antigravity-cli-antigravity-ide-or-antigravity-sdk/
 
 ## 核心主題
-Google 介紹 Antigravity 2.0 的四種使用介面，讓開發者能根據自己的工作習慣與需求，選擇最適合的介面來使用 Antigravity AI 代理工具。
+Google 介紹 Antigravity 2.0 生態系中的四種開發介面——桌面應用、命令列工具、IDE 整合與 Python SDK，讓開發者依工作流程選擇最適合的 Agent 使用方式，所有介面共享同一底層 Agent 框架。
 
 ## 關鍵重點
-- **Antigravity 2.0（桌面應用程式）**：預設推薦選項，可同時管理多個專案中的獨立任務，支援排程例行檢查（如程式碼品質審查或套件過時偵測）。
-- **Antigravity CLI（終端機介面）**：以 Go 打造，適合偏好鍵盤操作與無頭環境（SSH、遠端容器）的開發者，可在背景啟動代理而不鎖定工作視窗。
-- **Antegravity IDE（整合開發環境）**：將代理直接嵌入編輯器，讓開發者能逐行檢視、接受或拒絕代理的修改，並內建除錯功能讓代理自動修復執行期錯誤。
-- **Antigravity SDK（Python 程式庫）**：讓開發者從頭建構自訂代理，共用與 Google 官方工具相同的底層工具與規則，可本地開發後零修改部署至 Google Cloud。
+- **Antigravity 2.0 桌面應用**：預設推薦介面，可同時管理多個專案的平行 Agent 任務，支援排程任務（如定期檢查程式碼品質或過時套件），從單一螢幕輕鬆切換與監控不同專案。
+- **Antigravity CLI 與 IDE**：CLI 以 Go 開發，提供快速的命令列鍵盤操作與背景 Agent 執行，適合 SSH 連線或遠端容器等非互動式場景；IDE 介面則讓 Agent 直接在開發者工作空間中編輯程式碼，支援逐行接受或拒絕變更，並內建除錯功能讓 Agent 能看到執行階段錯誤並一鍵修復。
+- **Antigravity SDK（Python）**：提供 Python 函式庫，開發者可從頭建立自訂 Agent 並部署至 Google Cloud；SDK 運行於相同的共享框架上，享有與 Google 官方工具相同的工具與規則支援，並相容外掛（plugins）與技能（skills）系統。
 
 ## 結論
-四種介面雖然外觀與使用場景不同，但都建立在相同的 Agent Harness 之上，支援外掛（plugins）、技能（skills）等核心功能；開發者可依需求挑選最適合的路徑，輕鬆進入 Antigravity 生態系。
+無論選擇哪種介面，所有 Antigravity 表面都運行在同一底層 Agent 框架上，共享相同的工具、外掛與技能生態系；開發者可依據工作需求——從平行任務管理、命令列自動化、直接在 IDE 中協同編碼，到建構客製化 Agent 管線——靈活選擇最適合的介面。
 
 ---

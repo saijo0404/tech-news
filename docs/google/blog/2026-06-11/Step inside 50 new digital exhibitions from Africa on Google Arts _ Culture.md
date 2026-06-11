@@ -6,14 +6,14 @@
 - **原文連結**: https://blog.google/company-news/outreach-and-initiatives/arts-culture/50-new-digital-exhibitions-from-africa-on-google-arts-culture/
 
 ## 核心主題
-Google Arts & Culture 與非洲八家領先機構合作，推出 50 個全新數位展覽，收錄超過 2,500 件非洲藝術品與歷史文物，讓全球用戶能從任何地方探索非洲的多元歷史、藝術與當代傳統。
+Google Arts & Culture 與非洲八家領先機構合作，推出 50 個新數位展館與超過 2,500 件數位藏品，讓全球使用者得以探索非洲豐富多元的歷史、藝術與生活傳統。
 
 ## 關鍵重點
-- **奈及利亞大師作高解析數位化**：Yemisi Shyllon 藝術博物館使用 Google Art Camera 將其超過 150 件奈及利亞大師作品以十億像素級超高解析度呈現，用戶可放大欣賞 Aina Onabolu 的約魯巴現實主義畫作、Diseye Tantua 的「非波普藝術」等，並透過沉浸式 3D 技術的 Pocket Galleries 虛擬展覽室身歷其境。
-- **歷史檔案與當代文化的多元探索**：Archivi.ng 將過時頭版報導轉為可搜尋的數位歷史檔案；Goge Africa 將皇家傳統與節慶帶上全球螢幕；南非 Photography Legacy Project 捕捉歷史瞬間與現代城鎮生活；Western Cape Museums 探索本土食物知識；African Leadership Academy 的 Rooted Identities 展現年輕藝術家如何以新技術連結祖源與未來創新。
-- **嵌入式技術擴大數位文化影響力**：非洲機構積極運用 Google 的嵌入技術，將數位檔案整合至自身網站，包括 African Career Networks、AFIDDF、Pop Central、West Africa Heritage Consultants 等，讓更多人能輕鬆接觸非洲文化內容。
+- **尼日利亚藝術大師作品高解析度數位化**：耶米西·希隆藝術博物館（Yemisi Shyllon Museum of Art）使用 Google Art Camera 將其超過 150 件尼日利亚藝術大師作品（包括 Aina Onabolu 的约鲁巴现实主义肖像、Diseye Tantua 的「Afro Pop Art」公車系列、Bruce Onobrakpeya 的《大獵人》等）以十億像素級細節數位化，並透過 3D 虛擬展館「Pocket Galleries」讓使用者遠程沉浸式探索。
+- **多機構多元主題展館**：Archivi.ng 將遺忘的復古頭條新聞轉為可搜尋數位檔案；Goge Africa 將皇室傳統與節慶推向全球螢幕；南非 Photography Legacy Project 平衡歷史時刻與現代鎮區生活；西開普博物館探索原住民食物知識；非洲領導學院的「Rooted Identities」展現年輕藝術家如何以新科技連結祖先根源與未來創新。
+- **嵌入技術擴展全球觸及**：非洲機構積極運用 Google 的嵌入技術，將數位檔案無縫整合至各自網站（如 African Career Networks、非洲國際紀錄片節基金會、Pop Central、West Africa Heritage Consultants 等），結合 Google Arts & Culture 既有的 Woolaroo（30 種瀕危語言專案）、塞拉利昂國家博物館、Magic Mali 等項目，透過 Android 或 iOS 應用程式向全球觀眾開放。
 
 ## 結論
-這些全新數位展覽加入 Google Arts & Culture 上由非洲各地夥伴策劃的數千項故事，無論是在線瀏覽或透過 Android、iOS 應用程式探索，都能讓全球受眾深入了解非洲豐富的文化底蘊與當代活力。
+這 50 個新數位展館不僅將非洲豐富的藝術與文化遺產以高解析度與沉浸式體驗推向全球，更透過多機構協作與嵌入式技術擴展，確保非洲故事能被世界各地的人們看見與探索。
 
 ---
