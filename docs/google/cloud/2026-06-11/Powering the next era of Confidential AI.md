@@ -1,19 +1,16 @@
----
-# Powering the next era of Confidential AI
+# 打造保密 AI 新時代
 
 - **來源**: Google Cloud Blog
 - **發布日期**: 2026-06-11
 - **原文連結**: https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai/
 
 ## 核心主題
-Google Cloud 宣布與 Apple 合作，在 Google Cloud 基礎設施上部署 Apple Private Cloud Compute（PCC），以 Google 的 Confidential Computing、Titanium 安全架構及 Intel TDX、NVIDIA 安全技術，為高敏感 AI 工作負載提供硬體級別的資料加密與隔離保障。
+Google Cloud 宣布與 Apple 合作，在 Google Cloud 基礎設施上擴展 Apple Private Cloud Compute（PCC），透過 Confidential Computing、Titanium 安全架構與 Intel TDX、NVIDIA Confidential Computing 的協同合作，為高安全性 AI 工作載量提供硬體層級的保密運算保障。
 
 ## 關鍵重點
-- **Apple PCC 擴展至 Google Cloud**：Google Cloud 與 Apple 合作打造符合 Apple 嚴苛安全、機密性與透明度目標的 PCC 服務平台，整合 Intel TDX（信任域擴展）與 NVIDIA Confidential Computing，為虛擬機器提供硬體級隔離，確保 AI 推理過程中 CPU 到 GPU 的完整計算路徑均受保護。
-- **Titanium 安全架構與硬體信任根**：Google 自研 Titan 晶片部署於整個機隊，提供硬體級信任根，確保開機流程與硬體平台的完整性；Confidential Computing 則在此基礎上確保資料在靜態、傳輸中及使用時均以加密狀態運行於可信執行環境（TEEs）內，防止未授權存取。
-- **開源主機堆疊與透明稽核**：Apple 與 Google 共同設計開源主機堆疊，專門支援 PCC 的透明度需求，使第三方能夠獨立檢視與驗證系統的安全屬性，實現可驗證的安全保障、無特權執行期存取與強制性防護。
+- **Confidential Computing 保障資料在使用中加密**：基於 Google Titanium 安全架構與 Titan 晶片建立的硬體信任根，搭配 Intel TDX（Trust Domain Extensions）與 NVIDIA Confidential Computing，在硬體級別的可信執行環境（TEEs）中保護資料從靜態、傳輸中到使用中的全生命週期安全。
+- **Apple PCC 在 Google Cloud 的多層安全設計**：Google Cloud 的 Confidential Computing 平台為 PCC 提供硬體隔離的虛擬機器，Titan 晶片確保開機流程與硬體平台的完整性，Intel CPU 與 NVIDIA Blackwell GPU 共同保護從 CPU 到 GPU 的完整運算路徑，並透過開源主機堆疊實現獨立驗證的安全性透明性。
+- **跨廠牌協作树立保密 AI 標竿**：此合作整合了 Apple、Google Cloud、Intel 與 NVIDIA 四家的安全技術與標準，確保從硬體到軟體的每一層都貢獻於可驗證的安全系統，不僅服務 Apple PCC 的嚴格隱私標準，也將使所有 Google Cloud 客戶受益。
 
 ## 結論
-這項由 Apple、Google Cloud、Intel 與 NVIDIA 四方協作的成果標誌著私密 AI 基礎設施的重大里程碑，所建立的先進平台不僅滿足 Apple PCC 的嚴格標準，其安全技術也惠及所有 Google Cloud 客戶，為處理 AI 與敏感資料的工作負載提供更透明、更安全、更具韌性的平台。
-
----
+Google Cloud 與 Apple 的 Confidential Computing 合作代表了雲端 AI 基礎設施在隱私保護上的重大里程碑，透過開源透明性、硬體信任根與跨廠牌技術整合，為處理敏感資料與 AI 工作載量的企業提供了可驗證、可審計的安全雲端平台。
