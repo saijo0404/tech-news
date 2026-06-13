@@ -1,19 +1,16 @@
----
-# Announcing vime: A Simple, Stable, and Efficient RL Framework for LLMs
+# 發佈 vime：一個簡單、穩定且高效的 LLM 強化學習訓練框架
 
 - **來源**: vLLM Blog
 - **發布日期**: 2026-06-09
 - **原文連結**: https://vllm.ai/blog/2026-06-09-announcing-vime
 
 ## 核心主題
-vLLM 社群發布 vime——一款結合 slime 強化學習訓練設計與 vLLM 推論優勢的 LLM 後訓練框架，將 Megatron 訓練迴圈與 vLLM rollout 串接為統一的 RL 管線，提供簡單、穩定且高效的強化學習微調體驗。
+vLLM 生態系統推出 vime，一款結合 slime 訓練架構與 vLLM 推理引擎的 LLM 後訓練框架，讓分布式訓練與推理在統一架構下穩定協同運作。
 
 ## 關鍵重點
-- **解耦式 train-inference 架構**：vime 沿用 slime 的三階段設計（Megatron 訓練、vLLM + Router rollout 抽樣、資料緩衝區橋接），以 vLLM 取代原有 rollout 後端，確保訓練與推論在統一架構下運作，透過 `--vllm-` 前綴即可傳遞 vLLM 參數。
-- **穩定訓練-推論對齊**：在 Qwen3-4B on A100 的 GRPO 實驗中，vime 的 `train_rollout_logprob_abs_diff` 穩定維持在 0.011 左右，而同框架基線則持續漂移至 0.77；對於 Qwen3-30B-A3B MoE 模型，新增的 R3（routing replay）機制將 logprob 差異從 0.019 進一步降至 0.013。
-- **多硬體支援與效能驗證**：在 GB200 上 Qwen3-30B-A3B 的端到端 step 速度為 H200 的 1.72 倍（約 147 秒 vs 252 秒）；支援 Dense 與 MoE 模型、GRPO 與 PPO 演算法，並涵蓋 Qwen3 與 GLM-4.5 等模型，以 Apache 2.0 授權開源。
+- **統一訓練與推理的 RL 管線**：vime 採用 slime 的三階段解耦設計，將 Megatron 訓練與 vLLM rollout 透過資料緩衝區連接，開發者不需在硬體堆疊、訓練穩定性或推理效能之間取捨，支援 GRPO 與 PPO 等演算法以及 Qwen3 Dense/MoE 和 GLM-4.5 等模型。
+- **穩定的訓練-推理一致性**：透過 vime 的 R3 路由回放機制，MoE 模型的訓練與 rollout 對數機率差異從約 0.019 降至 0.013；在 Qwen3-4B 的 A100 測試中，vime 的 logprob 差異穩定在 0.011 左右，遠優於基準模型持續漂移至 0.77 的問題。
+- **多硬體支援與效能驗證**：vime 在框架層面統一抽象化訓練資源、rollout 資源與叢集拓撲，支援 GB200、H200、A100 等多種硬體。在 Qwen3-30B-A3B MoE 的 GB200 測試中，每步驟時間約 147 秒，較 H200 快約 1.72 倍，且獎勵曲線與訓練一致性均保持穩定。
 
 ## 結論
-vime 將 slime 的輕量高效訓練理念與 vLLM 的推論能力結合，為強化學習後訓練提供一條「簡單、穩定、高效」的主管線；未來將持續深化 vLLM 整合（Router、PD 分離、FP8）、擴展多硬體後端，並支援非同步管線與 Agentic RL 等新演算法。
-
----
+vime 以簡潔的架構設計，為 LLM 強化學習後訓練提供了一條生產就緒的主流管線。未來將持續深化與 vLLM 新功能的整合、擴展多硬體支援，並推動非同步管線、Agentic RL 等進階功能，協助更多開發者高效進行模型微調與訓練。
