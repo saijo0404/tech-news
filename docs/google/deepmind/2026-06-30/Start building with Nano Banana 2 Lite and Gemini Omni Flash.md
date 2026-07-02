@@ -6,14 +6,14 @@
 - **原文連結**: https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/
 
 ## 核心主題
-Google DeepMind 宣布推出兩款生成式媒體模型——Nano Banana 2 Lite（超高速影像生成）與 Gemini Omni Flash（高品質影片生成與對話式編輯），讓開發者能串聯影像與影片創作，打造端到端的多媒體體驗。
+Google DeepMind 推出兩款全新生成式媒體模型——**Nano Banana 2 Lite**（超高速、低成本的圖片生成模型）與 **Gemini Omni Flash**（高品質影片生成與對話式編輯模型），讓開發者能以更低的成本與更快的速度建立從圖片到影片的端到端多媒體體驗。
 
 ## 關鍵重點
-- **Nano Banana 2 Lite：速度與成本至上的影像模型**：Nano Banana 家族最新成員，專注於高吞吐量與超高速生成，4 秒內即可產生文字轉影像輸出，每 1K 解析度影像僅需 $0.034。在保持可靠提示遵循、角色一致性和文字渲染能力的同時，建議取代舊版 Nano Banana（gemini-2.5-flash-image）。已開放於 Google AI Studio、Gemini API、Gemini Enterprise Agent Platform，並同步推出至 Google 消費者產品（搜尋 AI Mode、Gemini 應用程式、NotebookLM、Google 照片等）。
-- **Gemini Omni Flash：高品質影片生成與對話式編輯**：首次開放給開發者使用，支援文字、影像和影片的多模態輸入，以自然語言編輯影片，並將文字與畫面動作同步。定價為每秒影片輸出 $0.10（與 Veo 3.1 Fast 相同）。目前支援 10 秒影片生成，並提供多輪連續編輯（最多三層編輯疊加）。適用於對話式影片編輯、多模態參考、現實世界知識整合等場景。
-- **模型串聯與示範應用**：開發者可將 Nano Banana 2 Lite 產生的影像作為 Gemini Omni Flash 的參考輸入，將靜態影像動畫化為影片。Google 提供三款示範應用——Anywhere（自拍轉地标動畫）、Space Lift（室內設計概念轉影片）、Omni Product Studio（靜態商品圖轉電商影片），並可透過 Interactions API 維護多輪對話上下文。
+- **Nano Banana 2 Lite：速度與成本優先的圖片模型**：作為 Nano Banana 系列中最快的圖片模型，Nano Banana 2 Lite（gemini-3.1-flash-lite-image）可在 **4 秒內**完成文字轉圖片，每 1K 解析度圖片僅需 **$0.034**。它保留了可靠的提示遵循力、強角色一致性與清晰的圖片內文字渲染，適合互動式原型與大量工作流程。Nano Banana 系列現有四款模型：Lite（速度優先）、2（品質/成本平衡）、Pro（專業級）、以及已建議升級的舊版 Nano。
+- **Gemini Omni Flash：高品質影片生成與對話式編輯**：Omni Flash（gemini-omni-flash-preview）結合 Gemini 的多模態推理與影片生成能力，支援文字、圖片與影片的混合輸入，每 1 秒影片輸出價格為 **$0.10**（與 Veo 3.1 Fast 相同）。其亮點包括：對話式影片編輯（以自然語言修改影片）、多模態參考輸入、結合 Gemini 世界知識（歷史、生物、敘事邏輯）以及文字與動作同步。目前支援 10 秒影片生成，長時長功能即將推出。
+- **模型串接與示範應用**：真正的魔力來自兩模型串接——以 Nano Banana 2 Lite 高速生成圖片，再作為參考輸入 Omni Flash 轉為動畫影片。示範應用包括：**Anywhere**（自拍轉為各地地標再動態化）、**Space Lift**（室內設計概念生成與動態展示）、**Omni Product Studio**（靜態商品圖轉 cinematic 商業影片）。兩模型均已開放於 Google AI Studio、Gemini API 與 Gemini Enterprise Agent Platform，並整合於 Google AI Mode、Gemini app、NotebookLM、Google Photos 等消費者產品。所有生成內容均使用 SynthID 數位浮水印。
 
 ## 結論
-Nano Banana 2 Lite 與 Gemini Omni Flash 的推出，標誌著生成式 AI 從單一媒體類型邁向跨模態流水線——快速生成影像、轉化為動態影片，再以對話方式精煉。兩者皆內建 SynthID 數位浮水印，Google 強調在加速創意的同時維持內容透明度與安全性。
+Nano Banana 2 Lite 與 Gemini Omni Flash 的同步推出，為生成式媒體開發提供了一條完整的「圖片生成 → 影片動畫 → 對話式編輯」管道——Lite 負責快速大量產出圖片，Omni Flash 負責高品質影片生成與編輯，兩者可透過 Interactions API 串接成最多三輪的互動式體驗。這不僅降低了多媒體創作的成本與門檻，更讓開發者能以前所未有的速度將創意從概念推送到產品。
 
 ---
