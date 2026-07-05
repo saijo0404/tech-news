@@ -1,4 +1,3 @@
----
 # NVIDIA Dynamo Snapshot：Kubernetes 上推理工作負載的快速啟動技術
 
 - **來源**: NVIDIA Developer Blog

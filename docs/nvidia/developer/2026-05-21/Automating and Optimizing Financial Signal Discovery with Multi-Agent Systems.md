@@ -1,4 +1,3 @@
----
 # Automating and Optimizing Financial Signal Discovery with Multi-Agent Systems
 
 - **來源**: NVIDIA Developer Blog

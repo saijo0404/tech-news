@@ -1,4 +1,3 @@
----
 # Shipping huggingface_hub every week with AI, open tools, and a human in the loop
 
 - **來源**: Hugging Face Blog

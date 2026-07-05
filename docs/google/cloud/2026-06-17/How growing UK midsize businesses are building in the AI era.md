@@ -1,4 +1,3 @@
----
 # How growing UK midsize businesses are building in the AI era
 
 - **來源**: Google Cloud Blog

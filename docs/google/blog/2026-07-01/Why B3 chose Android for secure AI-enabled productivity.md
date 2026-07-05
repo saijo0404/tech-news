@@ -1,4 +1,3 @@
----
 # Why B3 chose Android for secure AI-enabled productivity
 
 - **來源**: Google Blog

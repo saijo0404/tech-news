@@ -1,4 +1,3 @@
----
 # NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance
 
 - **來源**: NVIDIA Technical Blog

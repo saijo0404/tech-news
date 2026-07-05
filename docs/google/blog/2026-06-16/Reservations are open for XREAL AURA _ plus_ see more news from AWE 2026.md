@@ -1,4 +1,3 @@
----
 # Reservations are open for XREAL AURA — plus, see more news from AWE 2026
 
 - **來源**: Google Blog

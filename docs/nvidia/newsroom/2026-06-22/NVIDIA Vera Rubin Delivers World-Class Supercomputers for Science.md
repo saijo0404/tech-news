@@ -1,4 +1,3 @@
----
 # NVIDIA Vera Rubin Delivers World-Class Supercomputers for Science
 
 - **來源**: NVIDIA Newsroom

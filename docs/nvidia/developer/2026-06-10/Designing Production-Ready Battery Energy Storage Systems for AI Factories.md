@@ -1,4 +1,3 @@
----
 # Designing Production-Ready Battery Energy Storage Systems for AI Factories
 
 - **來源**: NVIDIA Developer Blog

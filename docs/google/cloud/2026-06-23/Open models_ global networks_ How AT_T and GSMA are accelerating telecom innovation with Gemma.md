@@ -1,4 +1,3 @@
----
 # Open models, global networks: How AT&T and GSMA are accelerating telecom innovation with Gemma
 
 - **來源**: Google Cloud Blog

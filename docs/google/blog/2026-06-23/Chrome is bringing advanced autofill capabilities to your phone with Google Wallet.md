@@ -1,4 +1,3 @@
----
 # Chrome is bringing advanced autofill capabilities to your phone with Google Wallet
 
 - **來源**: Google Blog

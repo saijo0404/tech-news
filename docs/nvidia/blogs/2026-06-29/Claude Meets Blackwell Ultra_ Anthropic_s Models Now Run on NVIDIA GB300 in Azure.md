@@ -1,4 +1,3 @@
----
 # Claude Meets Blackwell Ultra: Anthropic's Models Now Run on NVIDIA GB300 in Azure
 
 - **來源**: NVIDIA Blogs

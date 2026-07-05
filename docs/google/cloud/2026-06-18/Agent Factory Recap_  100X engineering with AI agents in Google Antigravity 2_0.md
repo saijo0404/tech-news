@@ -1,4 +1,3 @@
----
 # Agent Factory Recap: 100X engineering with AI agents in Google Antigravity 2.0
 
 - **來源**: Google Cloud Blog

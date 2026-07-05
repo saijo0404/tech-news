@@ -1,4 +1,3 @@
----
 # 利用 NVIDIA RTX PRO 4500 Blackwell 加速關鍵基因組與蛋白質摺疊工作負載
 
 - **來源**: NVIDIA Developer Blog

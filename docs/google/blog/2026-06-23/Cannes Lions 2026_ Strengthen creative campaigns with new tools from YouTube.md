@@ -1,4 +1,3 @@
----
 # Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube
 
 - **來源**: Google Blog

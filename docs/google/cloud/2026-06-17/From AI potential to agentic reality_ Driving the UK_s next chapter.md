@@ -1,4 +1,3 @@
----
 # From AI potential to agentic reality: Driving the UK's next chapter
 
 - **來源**: Google Cloud Blog

@@ -1,4 +1,3 @@
----
 # PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
 
 - **來源**: HuggingFace Blog

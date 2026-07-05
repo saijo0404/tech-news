@@ -1,4 +1,3 @@
----
 # Micro-Agent: Beat Frontier Models with Collaboration inside Model API
 
 - **來源**: vLLM Blog

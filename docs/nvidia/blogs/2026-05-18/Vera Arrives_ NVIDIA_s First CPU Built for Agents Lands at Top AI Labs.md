@@ -1,4 +1,3 @@
----
 # Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs
 
 - **來源**: blogs  

@@ -1,4 +1,3 @@
----
 # ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration
 
 - **來源**: Hugging Face Blog

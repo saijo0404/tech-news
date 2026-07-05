@@ -1,4 +1,3 @@
----
 # Start building with Nano Banana 2 Lite and Gemini Omni Flash
 
 - **來源**: Google Blog

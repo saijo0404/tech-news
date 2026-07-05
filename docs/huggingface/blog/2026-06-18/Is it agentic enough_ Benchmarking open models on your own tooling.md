@@ -1,4 +1,3 @@
----
 # Is it agentic enough? Benchmarking open models on your own tooling
 
 - **來源**: HuggingFace Blog

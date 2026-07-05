@@ -1,4 +1,3 @@
----
 # Scaling Ray Serve LLM on GKE: Performance without losing the developer experience
 
 - **來源**: Google Cloud Blog

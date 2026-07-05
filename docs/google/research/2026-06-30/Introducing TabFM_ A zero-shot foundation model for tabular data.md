@@ -1,4 +1,3 @@
----
 # Introducing TabFM: A zero-shot foundation model for tabular data
 
 - **來源**: Google Research Blog

@@ -1,4 +1,3 @@
----
 # Investing in multi-agent AI safety research
 
 - **來源**: DeepMind Blog

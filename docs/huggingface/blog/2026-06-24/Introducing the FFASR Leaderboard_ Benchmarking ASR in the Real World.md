@@ -1,4 +1,3 @@
----
 # Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World
 
 - **來源**: Hugging Face Blog

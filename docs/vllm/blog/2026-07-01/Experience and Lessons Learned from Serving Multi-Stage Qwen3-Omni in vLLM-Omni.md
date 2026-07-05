@@ -1,4 +1,3 @@
----
 # Qwen3-Omni 在 vLLM-Omni 中的服務優化總結
 
 - **來源**: vLLM Blog

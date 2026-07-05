@@ -1,4 +1,3 @@
----
 # Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT
 
 - **來源**: NVIDIA Developer Blog

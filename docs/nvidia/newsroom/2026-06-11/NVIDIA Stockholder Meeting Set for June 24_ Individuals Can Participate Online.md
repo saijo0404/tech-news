@@ -1,4 +1,3 @@
----
 # NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online
 
 - **來源**: NVIDIA Newsroom

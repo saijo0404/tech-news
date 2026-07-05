@@ -1,4 +1,3 @@
----
 # Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron
 
 - **來源**: NVIDIA Blog

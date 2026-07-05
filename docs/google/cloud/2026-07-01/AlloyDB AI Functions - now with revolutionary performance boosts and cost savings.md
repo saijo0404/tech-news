@@ -1,4 +1,3 @@
----
 # AlloyDB AI Functions - now with revolutionary performance boosts and cost savings
 
 - **來源**: Google Cloud Blog

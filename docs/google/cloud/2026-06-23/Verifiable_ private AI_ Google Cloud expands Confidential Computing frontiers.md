@@ -1,4 +1,3 @@
----
 # Verifiable, private AI: Google Cloud expands Confidential Computing frontiers
 
 - **來源**: Google Cloud Blog

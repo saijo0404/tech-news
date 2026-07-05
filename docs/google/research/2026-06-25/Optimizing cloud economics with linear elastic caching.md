@@ -1,4 +1,3 @@
----
 # Optimizing cloud economics with linear elastic caching
 
 - **來源**: Google Research Blog

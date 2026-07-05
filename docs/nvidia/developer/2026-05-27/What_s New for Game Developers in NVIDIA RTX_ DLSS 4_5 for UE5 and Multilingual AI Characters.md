@@ -1,4 +1,3 @@
----
 # NVIDIA RTX 遊戲開發新亮點：DLSS 4.5 支援 UE5 與多語言 AI 角色
 
 - **來源**: NVIDIA Developer Blog

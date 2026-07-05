@@ -1,4 +1,3 @@
----
 # The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts
 
 - **來源**: NVIDIA Blogs

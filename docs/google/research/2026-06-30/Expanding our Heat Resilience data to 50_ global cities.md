@@ -1,4 +1,3 @@
----
 # Expanding our Heat Resilience data to 50+ global cities
 
 - **來源**: Google Research Blog

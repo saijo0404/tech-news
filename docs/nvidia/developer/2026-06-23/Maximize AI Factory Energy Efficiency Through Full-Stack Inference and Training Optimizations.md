@@ -1,4 +1,3 @@
----
 # Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations
 
 - **來源**: NVIDIA Developer Blog

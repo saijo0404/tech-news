@@ -1,4 +1,3 @@
----
 # Log Analytics is now Observability Analytics: Query logs and traces with SQL
 
 - **來源**: Google Cloud Blog

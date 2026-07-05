@@ -1,4 +1,3 @@
----
 # MolmoMotion: Language-guided 3D motion forecasting
 
 - **來源**: HuggingFace Blog (Allen AI)

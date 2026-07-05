@@ -1,4 +1,3 @@
----
 # NVIDIA Announces Halos for Robotics: the Industry's First Full-Stack Safety System for Physical AI
 
 - **來源**: NVIDIA Newsroom

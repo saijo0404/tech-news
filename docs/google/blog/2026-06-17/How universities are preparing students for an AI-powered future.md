@@ -1,4 +1,3 @@
----
 # How universities are preparing students for an AI-powered future
 
 - **來源**: Google Blog

@@ -1,4 +1,3 @@
----
 # Expanding financial advertiser verification across Europe
 
 - **來源**: Google Blog

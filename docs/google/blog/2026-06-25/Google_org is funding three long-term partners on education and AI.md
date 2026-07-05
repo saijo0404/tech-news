@@ -1,4 +1,3 @@
----
 # Google.org is funding three long-term partners on education and AI
 
 - **來源**: Google Blog

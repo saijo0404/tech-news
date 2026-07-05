@@ -1,4 +1,3 @@
----
 # Enhanced data resilience with cross-region backups in Backup and DR Service
 
 - **來源**: Google Cloud Blog

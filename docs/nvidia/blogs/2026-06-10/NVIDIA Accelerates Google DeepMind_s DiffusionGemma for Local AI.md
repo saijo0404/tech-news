@@ -1,4 +1,3 @@
----
 # NVIDIA Accelerates Google DeepMind's DiffusionGemma for Local AI
 
 - **來源**: NVIDIA Blogs

@@ -1,4 +1,3 @@
----
 # Towards a world where no one is surprised by a natural disaster
 
 - **來源**: Google Blog

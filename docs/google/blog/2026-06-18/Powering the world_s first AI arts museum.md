@@ -1,4 +1,3 @@
----
 # Powering the world's first AI arts museum
 
 - **來源**: Google Blog

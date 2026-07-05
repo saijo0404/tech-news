@@ -1,4 +1,3 @@
----
 # Our latest Google Finance upgrades, including a new app
 
 - **來源**: Google Blog

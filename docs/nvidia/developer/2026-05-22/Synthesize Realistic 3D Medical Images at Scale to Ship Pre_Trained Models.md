@@ -1,4 +1,3 @@
----
 # Synthesize Realistic 3D Medical Images at Scale to Ship Pre-Trained Models
 
 - **來源**: NVIDIA Developer Blog

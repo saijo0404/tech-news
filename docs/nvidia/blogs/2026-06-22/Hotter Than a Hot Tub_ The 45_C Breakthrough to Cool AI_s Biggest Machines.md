@@ -1,4 +1,3 @@
----
 # Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI's Biggest Machines
 
 - **來源**: NVIDIA Blogs

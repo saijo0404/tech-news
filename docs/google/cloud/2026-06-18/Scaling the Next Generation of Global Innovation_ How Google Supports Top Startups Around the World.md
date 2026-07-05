@@ -1,4 +1,3 @@
----
 # Scaling the Next Generation of Global Innovation: How Google Supports Top Startups Around the World
 
 - **來源**: Google Cloud Blog

@@ -1,4 +1,3 @@
----
 # STOCKSTAY: Another Day – The Latest Addition to Turla's Intelligence Gathering Apparatus
 
 - **來源**: Google Cloud Blog

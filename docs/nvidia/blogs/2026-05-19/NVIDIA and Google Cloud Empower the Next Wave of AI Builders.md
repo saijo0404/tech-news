@@ -1,4 +1,3 @@
----
 # NVIDIA and Google Cloud Empower the Next Wave of AI Builders
 
 - **來源**: blogs  

@@ -1,4 +1,3 @@
----
 # What's trending on Google this summer
 
 - **來源**: Google Blog

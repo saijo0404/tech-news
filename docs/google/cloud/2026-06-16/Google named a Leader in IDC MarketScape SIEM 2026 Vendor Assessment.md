@@ -1,4 +1,3 @@
----
 # Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment
 
 - **來源**: Google Cloud Blog

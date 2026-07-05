@@ -1,4 +1,3 @@
----
 # Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer
 
 - **來源**: NVIDIA Developer Blog

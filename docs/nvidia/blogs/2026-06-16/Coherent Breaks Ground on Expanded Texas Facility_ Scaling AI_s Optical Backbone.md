@@ -1,4 +1,3 @@
----
 # Coherent Breaks Ground on Expanded Texas Facility, Scaling AI's Optical Backbone
 
 - **來源**: NVIDIA Blog

@@ -1,4 +1,3 @@
----
 # Google DeepMind and A24 announce first-of-its-kind research partnership
 
 - **來源**: deepmind.google/blog

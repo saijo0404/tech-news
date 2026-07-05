@@ -1,4 +1,3 @@
----
 # Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction
 
 - **來源**: Google Research Blog

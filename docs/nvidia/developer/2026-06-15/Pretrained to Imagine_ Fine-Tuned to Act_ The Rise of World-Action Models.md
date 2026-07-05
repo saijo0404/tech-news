@@ -1,4 +1,3 @@
----
 # Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models
 
 - **來源**: NVIDIA Technical Blog

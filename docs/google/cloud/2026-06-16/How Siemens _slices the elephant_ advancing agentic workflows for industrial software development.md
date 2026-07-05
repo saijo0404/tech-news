@@ -1,4 +1,3 @@
----
 # How Siemens "slices the elephant" advancing agentic workflows for industrial software development
 
 - **來源**: Google Cloud Blog

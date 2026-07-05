@@ -1,4 +1,3 @@
----
 # Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support
 
 - **來源**: NVIDIA Technical Blog

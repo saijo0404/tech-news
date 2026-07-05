@@ -1,4 +1,3 @@
----
 # NVIDIA Powers Over 400 of the World's 500 Fastest Supercomputers
 
 - **來源**: NVIDIA Blogs

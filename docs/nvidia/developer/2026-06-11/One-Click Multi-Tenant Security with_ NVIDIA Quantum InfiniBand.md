@@ -1,4 +1,3 @@
----
 # One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand
 
 - **來源**: NVIDIA Developer Blog

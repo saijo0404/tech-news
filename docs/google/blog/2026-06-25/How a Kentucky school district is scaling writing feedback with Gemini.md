@@ -1,4 +1,3 @@
----
 # How a Kentucky school district is scaling writing feedback with Gemini
 
 - **來源**: Google Blog

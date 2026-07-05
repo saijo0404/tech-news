@@ -1,4 +1,3 @@
----
 # Europe Unveils a Record 35 New NVIDIA AI Supercomputers
 
 - **來源**: NVIDIA Newsroom

@@ -1,4 +1,3 @@
----
 # Get started with the Claude apps gateway for Google Cloud
 
 - **來源**: Google Cloud Blog

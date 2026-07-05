@@ -1,4 +1,3 @@
----
 # Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps
 
 - **來源**: NVIDIA Developer Blog

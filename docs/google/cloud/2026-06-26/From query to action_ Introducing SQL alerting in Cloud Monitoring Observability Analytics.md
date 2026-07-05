@@ -1,4 +1,3 @@
----
 # From query to action: Introducing SQL alerting in Cloud Monitoring Observability Analytics
 
 - **來源**: Google Cloud Blog

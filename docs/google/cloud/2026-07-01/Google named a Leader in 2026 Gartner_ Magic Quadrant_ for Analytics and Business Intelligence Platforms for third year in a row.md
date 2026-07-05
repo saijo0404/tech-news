@@ -1,4 +1,3 @@
----
 # Google named a Leader in 2026 Gartner Magic Quadrant for Analytics and Business Intelligence Platforms for third year in a row
 
 - **來源**: Google Cloud Blog

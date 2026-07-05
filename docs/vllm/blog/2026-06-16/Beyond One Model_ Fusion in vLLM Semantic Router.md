@@ -1,4 +1,3 @@
----
 # Beyond One Model: Fusion in vLLM Semantic Router
 
 - **來源**: vLLM Blog

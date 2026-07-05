@@ -1,4 +1,3 @@
----
 # Designing GPU-Accelerated Query Engines with NVIDIA GQE
 
 - **來源**: NVIDIA Technical Blog

@@ -1,4 +1,3 @@
----
 # NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’
 
 - **來源**: blogs  

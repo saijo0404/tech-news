@@ -1,4 +1,3 @@
----
 # Engineering TTS Inference in vLLM-Omni
 
 - **來源**: vLLM Blog

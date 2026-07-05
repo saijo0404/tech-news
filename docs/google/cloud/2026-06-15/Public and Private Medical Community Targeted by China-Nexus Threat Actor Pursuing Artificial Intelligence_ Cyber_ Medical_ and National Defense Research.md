@@ -1,4 +1,3 @@
----
 # Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research
 
 - **來源**: Google Cloud Threat Intelligence Blog

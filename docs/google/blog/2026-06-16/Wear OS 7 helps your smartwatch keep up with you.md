@@ -1,4 +1,3 @@
----
 # Wear OS 7 helps your smartwatch keep up with you
 
 - **來源**: Google Blog

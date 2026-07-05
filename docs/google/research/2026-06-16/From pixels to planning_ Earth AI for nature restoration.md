@@ -1,4 +1,3 @@
----
 # From pixels to planning: Earth AI for nature restoration
 
 - **來源**: Google Research Blog

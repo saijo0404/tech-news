@@ -1,4 +1,3 @@
----
 # Splash Canvas: Create abstract art (with an attitude)
 
 - **來源**: Google Blog

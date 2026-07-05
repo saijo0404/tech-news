@@ -1,4 +1,3 @@
----
 # Modernizing financial services with deployment freedom and transformational AI with AlloyDB Omni
 
 - **來源**: Google Cloud Blog

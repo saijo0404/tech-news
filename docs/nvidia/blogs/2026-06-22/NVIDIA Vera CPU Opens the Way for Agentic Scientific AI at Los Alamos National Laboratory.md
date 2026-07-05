@@ -1,4 +1,3 @@
----
 # NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory
 
 - **來源**: NVIDIA Blogs

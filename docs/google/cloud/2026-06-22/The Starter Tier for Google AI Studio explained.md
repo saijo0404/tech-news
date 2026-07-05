@@ -1,4 +1,3 @@
----
 # The Starter Tier for Google AI Studio explained
 
 - **來源**: Google Cloud Blog

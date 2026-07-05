@@ -1,4 +1,3 @@
----
 # Architecting a trusted agentic platform with graph technologies: A Yahoo case study
 
 - **來源**: Google Cloud Blog

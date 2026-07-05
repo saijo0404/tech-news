@@ -1,4 +1,3 @@
----
 # New York City educators and industry leaders gathered at Google's offices to shape the future of AI in classrooms
 
 - **來源**: Google Blog

@@ -1,4 +1,3 @@
----
 # How customer collaboration is shaping the future of GenAI security with Model Armor
 
 - **來源**: Google Cloud Blog

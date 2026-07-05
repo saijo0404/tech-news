@@ -1,4 +1,3 @@
----
 # Deep dive: How Lightning Engine delivers 4.9x faster Apache Spark performance
 
 - **來源**: Google Cloud Blog

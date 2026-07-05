@@ -1,4 +1,3 @@
----
 # Scaling LLM Inference: Multi-Node KV Cache Offloading with GKE & Managed Lustre
 
 - **來源**: Google Cloud Blog

@@ -1,4 +1,3 @@
----
 # Google Cloud confirmed to offer a safer choice for EU public sector organizations with Dutch DPIA approval
 
 - **來源**: Google Cloud Blog

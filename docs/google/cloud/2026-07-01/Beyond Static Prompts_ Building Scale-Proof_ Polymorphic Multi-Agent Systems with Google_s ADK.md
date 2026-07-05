@@ -1,4 +1,3 @@
----
 # Beyond Static Prompts: Building Scale-Proof, Polymorphic Multi-Agent Systems with Google's ADK
 
 - **來源**: Google Cloud Blog

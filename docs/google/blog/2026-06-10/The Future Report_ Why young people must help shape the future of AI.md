@@ -1,4 +1,3 @@
----
 # The Future Report: Why young people must help shape the future of AI
 
 - **來源**: Google Blog

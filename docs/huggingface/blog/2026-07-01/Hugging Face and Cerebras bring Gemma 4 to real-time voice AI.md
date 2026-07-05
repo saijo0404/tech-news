@@ -1,4 +1,3 @@
----
 # Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
 
 - **來源**: Hugging Face Blog

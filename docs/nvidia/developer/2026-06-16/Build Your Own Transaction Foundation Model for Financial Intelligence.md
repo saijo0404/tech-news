@@ -1,4 +1,3 @@
----
 # Build Your Own Transaction Foundation Model for Financial Intelligence
 
 - **來源**: NVIDIA Developer Blog

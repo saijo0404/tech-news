@@ -1,4 +1,3 @@
----
 # How Schrödinger sped up molecular discovery by 4x with AlphaEvolve
 
 - **來源**: Google Cloud Blog

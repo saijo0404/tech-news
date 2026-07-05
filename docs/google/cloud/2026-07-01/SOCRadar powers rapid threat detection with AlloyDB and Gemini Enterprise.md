@@ -1,4 +1,3 @@
----
 # SOCRadar powers rapid threat detection with AlloyDB and Gemini Enterprise
 
 - **來源**: Google Cloud Blog

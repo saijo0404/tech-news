@@ -1,4 +1,3 @@
----
 # Read our white paper on a pragmatic approach to AI governance in America
 
 - **來源**: Google Blog

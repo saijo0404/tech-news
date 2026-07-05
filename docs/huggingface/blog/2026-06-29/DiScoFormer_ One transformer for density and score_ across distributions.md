@@ -1,4 +1,3 @@
----
 # DiScoFormer: One transformer for density and score, across distributions
 
 - **來源**: Hugging Face Blog

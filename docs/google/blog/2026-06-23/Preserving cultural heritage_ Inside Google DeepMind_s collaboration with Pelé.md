@@ -1,4 +1,3 @@
----
 # Preserving cultural heritage: Inside Google DeepMind's collaboration with Pelé
 
 - **來源**: Google Blog

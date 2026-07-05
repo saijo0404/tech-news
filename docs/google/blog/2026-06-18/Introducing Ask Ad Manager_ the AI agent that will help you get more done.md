@@ -1,4 +1,3 @@
----
 # Introducing Ask Ad Manager: the AI agent that will help you get more done
 
 - **來源**: Google Blog

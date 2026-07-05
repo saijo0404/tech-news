@@ -1,4 +1,3 @@
----
 # Experimenting with the proposed Cross-Origin Storage API in Transformers.js
 
 - **來源**: Hugging Face Blog（Google Chrome 團隊客座文章）

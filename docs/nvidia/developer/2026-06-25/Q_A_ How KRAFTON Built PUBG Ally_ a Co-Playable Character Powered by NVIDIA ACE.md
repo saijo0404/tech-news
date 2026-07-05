@@ -1,4 +1,3 @@
----
 # Q&A: How KRAFTON Built PUBG Ally – a Co-Playable Character Powered by NVIDIA ACE
 
 - **來源**: NVIDIA Developer Blog

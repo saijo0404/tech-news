@@ -1,4 +1,3 @@
----
 # NVIDIA Blackwell 在金融 LLM 推理創下 STAC-AI 紀錄
 
 - **來源**: NVIDIA Developer Blog

@@ -1,4 +1,3 @@
----
 # Guiding the AI generation: Why safeguarding and digital literacy must go hand-in-hand
 
 - **來源**: Google Blog

@@ -1,4 +1,3 @@
----
 # Scaling the UK government's AI vision
 
 - **來源**: Google Blog

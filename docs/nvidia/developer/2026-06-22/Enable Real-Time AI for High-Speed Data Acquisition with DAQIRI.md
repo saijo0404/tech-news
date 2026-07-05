@@ -1,4 +1,3 @@
----
 # Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI
 
 - **來源**: NVIDIA Developer Blog

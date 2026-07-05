@@ -1,4 +1,3 @@
----
 # Choosing your surface: Antigravity 2.0, Antigravity CLI, Antigravity IDE, or Antigravity SDK
 
 - **來源**: Google Cloud Blog

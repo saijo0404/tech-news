@@ -1,4 +1,3 @@
----
 # NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations
 
 - **來源**: NVIDIA Blogs

@@ -1,4 +1,3 @@
----
 # Conversational Analytics in BigQuery now GA
 
 - **來源**: Google Cloud Blog

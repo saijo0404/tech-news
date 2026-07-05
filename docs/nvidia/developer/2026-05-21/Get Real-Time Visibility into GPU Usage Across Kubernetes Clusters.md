@@ -1,4 +1,3 @@
----
 # Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters
 
 - **來源**: NVIDIA Developer Blog

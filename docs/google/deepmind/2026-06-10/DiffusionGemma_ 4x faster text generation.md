@@ -1,4 +1,3 @@
----
 # DiffusionGemma: 4x faster text generation
 
 - **來源**: DeepMind Blog

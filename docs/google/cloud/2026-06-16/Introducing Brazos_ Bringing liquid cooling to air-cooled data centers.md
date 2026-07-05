@@ -1,4 +1,3 @@
----
 # Introducing Brazos: Bringing liquid cooling to air-cooled data centers
 
 - **來源**: Google Cloud Blog

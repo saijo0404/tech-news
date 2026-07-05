@@ -1,4 +1,3 @@
----
 # Introducing new Explores and Merge Queries in Looker
 
 - **來源**: Google Cloud Blog

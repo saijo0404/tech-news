@@ -1,4 +1,3 @@
----
 # Google Play updates let U.K. developers do more and pay less
 
 - **來源**: Google Blog

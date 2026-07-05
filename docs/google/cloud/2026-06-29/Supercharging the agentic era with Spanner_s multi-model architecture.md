@@ -1,4 +1,3 @@
----
 # Supercharging the agentic era with Spanner's multi-model architecture
 
 - **來源**: Google Cloud Blog

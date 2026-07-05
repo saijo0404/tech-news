@@ -1,4 +1,3 @@
----
 # The Gemini app is bringing personalized image creation to more users
 
 - **來源**: Google Blog

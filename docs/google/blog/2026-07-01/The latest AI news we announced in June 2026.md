@@ -1,4 +1,3 @@
----
 # The latest AI news we announced in June 2026
 
 - **來源**: Google Blog

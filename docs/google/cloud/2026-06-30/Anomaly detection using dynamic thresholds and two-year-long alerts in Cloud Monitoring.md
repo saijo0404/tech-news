@@ -1,4 +1,3 @@
----
 # Anomaly detection using dynamic thresholds and two-year-long alerts in Cloud Monitoring
 
 - **來源**: Google Cloud Blog

@@ -1,4 +1,3 @@
----
 # How Atlas scales hundreds of merchant databases with Cloud SQL Enterprise Plus edition
 
 - **來源**: Google Cloud Blog

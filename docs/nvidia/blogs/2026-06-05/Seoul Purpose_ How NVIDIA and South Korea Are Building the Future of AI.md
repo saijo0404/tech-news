@@ -1,4 +1,3 @@
----
 # Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI
 
 - **來源**: NVIDIA Blog

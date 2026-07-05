@@ -1,4 +1,3 @@
----
 # Boost BigQuery with Python: Managed Python UDFs now generally available
 
 - **來源**: Google Cloud Blog

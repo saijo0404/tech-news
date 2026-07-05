@@ -1,4 +1,3 @@
----
 # Choice, compliance, and collaboration: Europe's path to open digital sovereignty
 
 - **來源**: Google Cloud Blog

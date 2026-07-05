@@ -1,4 +1,3 @@
----
 # Gemini Spark updates: macOS launch, connected apps and more
 
 - **來源**: Google Blog

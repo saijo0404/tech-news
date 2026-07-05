@@ -1,4 +1,3 @@
----
 # 100 new ways to make your day easier with Gemini for Home voice assistant
 
 - **來源**: Google Blog

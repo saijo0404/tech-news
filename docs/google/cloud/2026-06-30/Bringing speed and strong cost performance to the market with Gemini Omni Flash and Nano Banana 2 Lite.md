@@ -1,4 +1,3 @@
----
 # Bringing speed and strong cost performance to the market with Gemini Omni Flash and Nano Banana 2 Lite
 
 - **來源**: Google Cloud Blog

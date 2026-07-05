@@ -1,4 +1,3 @@
----
 # From Materials Simulation to Experimental Astronomy: New NVIDIA AI Software Unlocks Scientific Discoveries
 
 - **來源**: NVIDIA Blogs

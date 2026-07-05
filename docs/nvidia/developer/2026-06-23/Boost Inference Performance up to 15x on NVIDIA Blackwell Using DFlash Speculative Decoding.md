@@ -1,4 +1,3 @@
----
 # Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding
 
 - **來源**: NVIDIA Developer Blog

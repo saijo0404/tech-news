@@ -1,4 +1,3 @@
----
 # Interactions API: our primary interface for Gemini models and agents
 
 - **來源**: Google Blog

@@ -1,4 +1,3 @@
----
 # Thinking to recall: How reasoning unlocks parametric knowledge in LLMs
 
 - **來源**: Google Research Blog

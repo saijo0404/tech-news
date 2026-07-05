@@ -1,4 +1,3 @@
----
 # Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins
 
 - **來源**: NVIDIA Blogs

@@ -1,4 +1,3 @@
----
 # Building Token‑Metered AI Services on Telco AI Factories
 
 - **來源**: developer  

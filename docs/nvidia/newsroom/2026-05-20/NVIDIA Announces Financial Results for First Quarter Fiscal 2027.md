@@ -1,4 +1,3 @@
----
 # NVIDIA 宣布 2027 財年第一季財報
 
 - **來源**: NVIDIA Investor Relations

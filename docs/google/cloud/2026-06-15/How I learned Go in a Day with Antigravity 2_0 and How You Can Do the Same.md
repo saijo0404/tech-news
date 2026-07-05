@@ -1,4 +1,3 @@
----
 # How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same
 
 - **來源**: Google Cloud Blog

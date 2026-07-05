@@ -1,4 +1,3 @@
----
 # Google for Brazil 2026: Helping people make the most of AI
 
 - **來源**: Google Blog

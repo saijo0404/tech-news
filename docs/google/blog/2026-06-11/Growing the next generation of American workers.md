@@ -1,4 +1,3 @@
----
 # Growing the next generation of American workers
 
 - **來源**: Google Blog

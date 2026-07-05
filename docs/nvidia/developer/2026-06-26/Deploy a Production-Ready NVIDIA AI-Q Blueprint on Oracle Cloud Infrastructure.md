@@ -1,4 +1,3 @@
----
 # Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure
 
 - **來源**: NVIDIA Developer Blog

@@ -1,4 +1,3 @@
----
 # Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings
 
 - **來源**: NVIDIA Blogs

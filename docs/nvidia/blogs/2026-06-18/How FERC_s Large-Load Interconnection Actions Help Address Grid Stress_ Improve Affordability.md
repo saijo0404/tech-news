@@ -1,4 +1,3 @@
----
 # How FERC's Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability
 
 - **來源**: NVIDIA Blog

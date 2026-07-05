@@ -1,4 +1,3 @@
----
 # New IDC study: The business value of Mandiant Consulting
 
 - **來源**: Google Cloud Blog

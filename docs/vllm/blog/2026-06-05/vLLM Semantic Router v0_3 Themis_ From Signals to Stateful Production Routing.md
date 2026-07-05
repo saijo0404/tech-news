@@ -1,4 +1,3 @@
----
 # vLLM Semantic Router v0.3 Themis: From Signals to Stateful Production Routing
 
 - **來源**: vLLM Blog

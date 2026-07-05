@@ -1,4 +1,3 @@
----
 # Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0
 
 - **來源**: NVIDIA Blog

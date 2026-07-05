@@ -1,4 +1,3 @@
----
 # Build agents even faster with Gemini Enterprise Agent Platform's fully-managed, remote MCP server
 
 - **來源**: Google Cloud Blog

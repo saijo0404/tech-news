@@ -1,4 +1,3 @@
----
 # Why Specialization Is Inevitable
 
 - **來源**: Hugging Face Blog (Dharma AI)

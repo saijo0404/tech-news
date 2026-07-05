@@ -1,4 +1,3 @@
----
 # How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
 
 - **來源**: Hugging Face Blog

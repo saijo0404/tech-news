@@ -1,4 +1,3 @@
----
 # Securing agentic AI with perimeter guardrails: What's new in VPC Service Controls
 
 - **來源**: Google Cloud Blog

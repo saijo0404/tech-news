@@ -1,4 +1,3 @@
----
 # Google Wallet makes TSA PreCheck Touchless ID available for more travelers
 
 - **來源**: Google Blog

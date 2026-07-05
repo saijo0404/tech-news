@@ -1,4 +1,3 @@
----
 # NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents
 
 - **來源**: developer  

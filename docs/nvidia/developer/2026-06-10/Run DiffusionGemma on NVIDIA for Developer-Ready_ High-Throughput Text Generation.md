@@ -1,4 +1,3 @@
----
 # Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation
 
 - **來源**: NVIDIA Developer Blog

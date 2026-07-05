@@ -1,4 +1,3 @@
----
 # France Advances Europe's AI Future With NVIDIA Technologies
 
 - **來源**: NVIDIA Blog

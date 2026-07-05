@@ -1,4 +1,3 @@
----
 # Sync and Stream: GeForce NOW Connects to Members' Game Libraries Across Devices
 
 - **來源**: NVIDIA Blog

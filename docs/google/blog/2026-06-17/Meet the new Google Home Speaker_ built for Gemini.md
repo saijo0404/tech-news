@@ -1,4 +1,3 @@
----
 # Meet the new Google Home Speaker, built for Gemini
 
 - **來源**: Google Blog

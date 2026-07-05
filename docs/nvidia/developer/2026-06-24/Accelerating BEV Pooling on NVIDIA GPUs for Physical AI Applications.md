@@ -1,4 +1,3 @@
----
 # Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications
 
 - **來源**: NVIDIA Technical Blog

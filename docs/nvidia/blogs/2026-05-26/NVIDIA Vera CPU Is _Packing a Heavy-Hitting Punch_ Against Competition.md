@@ -1,4 +1,3 @@
----
 # NVIDIA Vera CPU 在競爭中打出重拳
 
 - **來源**: NVIDIA Developer Blog

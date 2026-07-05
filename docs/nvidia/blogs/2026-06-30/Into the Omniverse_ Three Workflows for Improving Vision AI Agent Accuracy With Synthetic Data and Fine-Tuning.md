@@ -1,4 +1,3 @@
----
 # Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning
 
 - **來源**: NVIDIA Blog
