@@ -8,9 +8,9 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [We're investing $1 million in Africa's indie game developers.](docs/google/blog/2026-07-03/We_re investing _1 million in Africa_s indie game developers.md)
-- [Google DeepMind and A24 announce first-of-its-kind research partnership](docs/google/deepmind/2026-07-03/Google DeepMind and A24 announce first-of-its-kind research partnership.md)
-- [Google’s Continued Disruption of Malicious Residential Proxy Networks](docs/google/cloud/2026-07-02/Google_s Continued Disruption of Malicious Residential Proxy Networks.md)
+- [We're investing $1 million in Africa's indie game developers.](docs/google/blog/2026-07-03/We_re%20investing%20_1%20million%20in%20Africa_s%20indie%20game%20developers.md)
+- [Google DeepMind and A24 announce first-of-its-kind research partnership](docs/google/deepmind/2026-07-03/Google%20DeepMind%20and%20A24%20announce%20first-of-its-kind%20research%20partnership.md)
+- [Google’s Continued Disruption of Malicious Residential Proxy Networks](docs/google/cloud/2026-07-02/Google_s%20Continued%20Disruption%20of%20Malicious%20Residential%20Proxy%20Networks.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
