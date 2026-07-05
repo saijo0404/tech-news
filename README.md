@@ -8,7 +8,9 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-*(暫無最新摘要)*
+- [We're investing $1 million in Africa's indie game developers.](docs/google/blog/2026-07-03/We_re investing _1 million in Africa_s indie game developers.md)
+- [Google DeepMind and A24 announce first-of-its-kind research partnership](docs/google/deepmind/2026-07-03/Google DeepMind and A24 announce first-of-its-kind research partnership.md)
+- [Google’s Continued Disruption of Malicious Residential Proxy Networks](docs/google/cloud/2026-07-02/Google_s Continued Disruption of Malicious Residential Proxy Networks.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
