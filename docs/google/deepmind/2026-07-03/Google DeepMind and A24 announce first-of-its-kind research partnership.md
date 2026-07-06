@@ -1,17 +1,17 @@
 # Google DeepMind and A24 announce first-of-its-kind research partnership
 
-- **來源**: deepmind.google/blog
+- **來源**: Google DeepMind Blog
 - **發布日期**: 2026-07-03
 - **原文連結**: https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
 
 ## 核心主題
-Google DeepMind 與 A24 宣布首個研究合作夥伴關係，結合世界頂尖的研究實驗室與最具創意導向的電影工作室，共同開發新工作流程與技術，確保未來工具由使用者者塑造。
+Google DeepMind 和 A24 宣布首個研究合作夥伴關係，將世界領先的研究實驗室與最具電影導向的影業工作室結合，幫助藝術家開發新工作流程和技術。
 
 ## 關鍵重點
-- **合作模式**：這是首個將 Google DeepMind 的創新直接嵌入創作流程的合作，讓 A24 及其導演能塑造新技術，擴展其視覺敘事可能性。
-- **雙向學習**：A24 提供來自頂尖藝術家的寶貴反饋與指導，幫助 Google DeepMind 了解技術如何服務於創意需求。
-- **投資與長期合作**：Google 已投資 A24，此合作不僅是短期專案，而是跨多個專案的長期研發合作，目標是縮尖端技術與下一代娛樂之間的差距。
+- **首創合作模式**：這是 Google DeepMind 與 A24 之間的首個研究合作夥伴關係，將創新直接融入創作過程
+- **雙向學習**：A24 和 Google DeepMind 的研究人員並肩工作，測試、迭代和建立技術，同時提供寶貴的回饋和指導
+- **Google 投資 A24**：Google 已投資 A24，合作將隨著時間推移發展具體目標、技術輸出和創意里程碑
 
 ## 結論
-Google DeepMind 與 A24 的合作標誌著研究與創意產業的新範式，透過共同開發技術與分享好奇心，雙方將共同探索娛樂產業的未來可能性，讓技術發展更貼近創作者的實際需求。
+這項合作代表了一個合作旅程的開始，根植於研究和共同的好奇心，旨在擴展未來娛樂的可能性，並確保未來工具由使用者塑造。
 ---
