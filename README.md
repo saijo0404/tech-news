@@ -14,7 +14,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-*(暫無最新摘要)*
+- [Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism](docs/nvidia/developer/2026-07-06/Enhancing%20Goodput%20in%20Large-Scale%20LLM%20Training%20with%20Nonuniform%20Tensor%20Parallelism.md)
+- [How Open Models Are Driving AI Research](docs/nvidia/blogs/2026-07-06/How%20Open%20Models%20Are%20Driving%20AI%20Research.md)
+- [How Nations Are Deploying AI for Strategic Priorities](docs/nvidia/blogs/2026-07-06/How%20Nations%20Are%20Deploying%20AI%20for%20Strategic%20Priorities.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
