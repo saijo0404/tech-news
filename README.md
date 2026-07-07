@@ -48,7 +48,12 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-*(暫無最新摘要)*
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](docs/huggingface/blog/2026-07-07/LeRobot%20v0_6_0_%20Imagine_%20Evaluate_%20Improve.md)
+- [PRX Part 4: Our Data Strategy](docs/huggingface/blog/2026-07-06/PRX%20Part%204_%20Our%20Data%20Strategy.md)
+- [🤗 Kernels: Major Updates](docs/huggingface/blog/2026-07-06/Kernels_%20Major%20Updates.md)
+- [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](docs/huggingface/blog/2026-07-01/Hugging%20Face%20and%20Cerebras%20bring%20Gemma%204%20to%20real-time%20voice%20AI.md)
+- [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](docs/huggingface/blog/2026-06-30/ScarfBench_%20Benchmarking%20AI%20Agents%20for%20Enterprise%20Java%20Framework%20Migration.md)
+- [Why Specialization Is Inevitable](docs/huggingface/blog/2026-06-30/Why%20Specialization%20Is%20Inevitable.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
