@@ -1,20 +1,21 @@
-# Conversational Analytics in BigQuery now GA
+# Conversational analytics in BigQuery brings trusted agentic reasoning to everyone
 
 - **來源**: Google Cloud Blog
-- **發布日期**: 2025-06-30
+- **發布日期**: 2026-07-01
 - **原文連結**: https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/
 
 ## 核心主題
-BigQuery 語音分析（Conversational Analytics）正式通用化（GA），讓企業以自然語言直接在 BigQuery 中查詢資料、執行多步驟分析，並透過 Gemini 模型產生可信的視覺化報告。
+BigQuery 正式推出對話式分析功能，讓企業用戶能用自然語言查詢數據、執行多步驟分析並生成視覺化報告，無需手動撰寫 SQL。
 
 ## 關鍵重點
-- **自然語言分析，打破資料孤島**：無需設定即可在 BigQuery Studio 和 Data Canvas 中使用，支援專案、資料集、表格、圖表等深度代理設定；可跨雲端分析 Lakehouse 管理的 Apache Iceberg 表格，以及 Databricks、AWS Glue、SAP 和 Salesforce 等來源，打破資料孤島。
-- **可稽核的信任機制**：每項分析都基於 Knowledge Catalog（詞彙表、資料檔掃描）、BigQuery Graph 和經過驗證的查詢；提供可視化的思考步驟、原始來源引用、主動消除歧義，以及長期記憶能力，確保分析結果可追溯。
-- **企業級安全與治理**：繼承 BigQuery 的治理模型，支援 Access Transparency、CMEK、Private IP、VPC Service Controls 和資料駐留保證（EU/US 多區域）；提供成本控管、查詢大小上限和 BigQuery 標籤用量追蹤。
-- **從回答問題到主動調查**：Deep-dive 模式可自動規劃分析步驟、執行多步驟調查並產出完整報告；Agentic workflows 支援排程自主代理，每日/每週自動監控資料、偵測異常並推播洞察至聊天工具。
-- **結合 BigQuery AI 函數**：代理可直接呼叫 AI.KEY_DRIVERS（根因分析）、AI.FORECAST（趨勢預測）、AI.DETECT_ANOMALIES（異常偵測），以及查詢物件表格中的非結構化資料（PDF、圖片、影片等）。
+- **無需設置即可使用**：對話式分析功能內建於 BigQuery，可立即使用，無需額外配置。
+- **跨雲數據整合**：支援 BigQuery 原生表、Lakehouse 管理的 Apache Iceberg 表，以及跨雲數據庫（如 Databricks Unity、AWS Glue、SAP、Salesforce），打破數據孤島。
+- **企業級信任與可解釋性**：每個代理都基於業務上下文而非模型假設，提供可見的思考步驟、上下文引用和主動澄清功能。
+- **深度分析能力**：支援根因分析（AI.KEY_DRIVERS）、預測（AI.FORECAST）和異常檢測（AI.DETECT_ANOMALIES），無需建立或管理模型。
+- **企業級安全治理**：繼承 BigQuery 治理模型，支援 Access Transparency、客戶管理加密鍵、私有 IP 和 VPC 服務控制，並保證歐盟和美國多區域端點的數據駐留。
+- **自動化工作流**：可部署自主代理監控數據、執行多步驟工作流並定期交付洞察，例如每週業務報告或每日異常檢測。
 
 ## 結論
-BigQuery 語音分析 GA 標誌著企業正式告別靜態儀表板時代。透過將 Gemini 的深度推理能力嵌入資料倉儲，BigQuery 提供了真正的「行動系統」——不僅回答問題，更主動調查、產生洞察，同時內建企業級安全治理，讓每位員工都能以自然語言與資料對話。
+BigQuery 對話式分析的推出標誌著從靜態報表時代邁向主動式數據分析的新階段，透過嵌入 Gemini 的深度認知推理能力，將原始數據轉化為主動的企業知識，並提供企業級的安全治理與可信賴的代理式推理。
 
 ---

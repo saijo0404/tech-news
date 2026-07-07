@@ -1,18 +1,18 @@
-# New IDC study: The business value of Mandiant Consulting
+# New IDC study: How Mandiant transforms security into a competitive advantage
 
 - **來源**: Google Cloud Blog
-- **發布日期**: 2026-07-01
+- **發布日期**: 2026-07-02
 - **原文連結**: https://cloud.google.com/blog/products/identity-security/new-idc-study-how-mandiant-transforms-security-into-a-competitive-advantage/
 
 ## 核心主題
-IDC 委託 Mandiant 發布的商業價值白皮書顯示：與 Mandiant Consulting 合作的企業平均每年獲得 **430 萬美元**的綜合效益，三年 **ROI 達 268%**、回收期僅 **4.1 個月**——證明資安不再是成本中心，而是能直接影響營收與競爭優勢的戰略業務推動器。
+根據 IDC 研究，Mandiant Consulting 幫助組織將安全轉化為競爭優勢，平均每年帶來 430 萬美元效益，3 年回報率達 268%。
 
 ## 關鍵重點
-- **量化資安商業價值：430 萬美元年均效益**：IDC 基於標準 ROI 方法論，對大型、高度複雜環境的 Mandiant 客戶進行訪談（平均營收 $173 億、74,000 名員工），得出平均每年 **430 萬美元**的綜合效益。具體案例中，一家醫療機構透過 Mandiant 合作徹底改變了商業對話——將資安立場轉化為市場差異化優勢，使資安成為客戶選擇他們的**前三大原因之一**，並每年減少 **5 萬美元**保險成本。
-- **前線威脅情資：從 50 萬小時調查中提煉洞見**：Mandiant 去年執行超過 **50 萬小時的全球事件調查**，將發現轉化為前線威脅情資。一家零售組織利用 Mandiant 的產業知識針對 **Scattered Spider** 網路犯罪集團建立專屬偵測用例，成功監控、偵測並中和相關攻擊，避免事件發生。此外，Mandiant 還協助企業執行深度技術稽核（涵蓋 Active Directory、權限帳號管理、MFA），為領導層提供獨立第三方驗證。一家能源企業表示：「Mandiant 的外部保證讓我們的資安計畫從風險管理角度獲得全面驗證。」
-- **廣泛的營運改進**：IDC 量化了 Mandiant 客戶的三大營運優勢——**59%** 報告面對網路攻擊的準備度提升、**45%** 報告整體網路韌性改善、**36%** 報告安全分析師團隊效率提升，使內部人員能專注於更具戰略性、成長導向的專案。
+- Mandiant Consulting 客戶平均每年獲得 430 萬美元效益，3 年回報率達 268%，回本週期僅 4.1 個月
+- 醫療機構透過 Mandiant 將安全地位提升為市場差異化因素，並每年節省 5 萬美元保險費用
+- Mandiant 提供前線威脅情報，幫助資源有限的團隊專注於特定威脅，如針對 Scattered Spider 群組的防禦
+- 59% 客戶報告更準備好應對網路攻擊，45% 報告整體網路韌性提升
 
 ## 結論
-Mandiant 的商業價值研究揭示了一個核心轉變：資安從「被動防禦的成本中心」升級為「主動創造競爭優勢的戰略資產」。透過將 50 萬小時的全球事件調查轉化為產業專屬的威脅情資、專屬偵測用例與獨立第三方驗證，Mandiant 不僅帮助企业避免攻擊與降低保險成本，更讓資安成為銷售團隊的市場差異化利器——直接影響營收成長與企業韌性。
-
+安全已從風險管理轉變為業務增長的戰略驅動因素，Mandiant Consulting 協助企業量化安全價值並提升市場競爭力。
 ---
