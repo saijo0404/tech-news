@@ -58,8 +58,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
+- [vLLM × HPC-Ops: High-Performance Attention and MoE Backends from Tencent Hunyuan](docs/vllm/blog/2026-07-06/vLLM%20_%20HPC-Ops_%20High-Performance%20Attention%20and%20MoE%20Backends%20from%20Tencent%20Hunyuan.md)
 - [Experience and Lessons Learned from Serving Multi-Stage Qwen3-Omni in vLLM-Omni](docs/vllm/blog/2026-07-01/Experience%20and%20Lessons%20Learned%20from%20Serving%20Multi-Stage%20Qwen3-Omni%20in%20vLLM-Omni.md)
-- [Micro-Agent: Beat Frontier Models with Collaboration inside Model API](docs/vllm/blog/2026-06-29/Micro-Agent_%20Beat%20Frontier%20Models%20with%20Collaboration%20inside%20Model%20API.md)
 <!-- END:vllm -->
 
 ---
