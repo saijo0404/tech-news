@@ -33,12 +33,9 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [LeRobot v0.6.0: Imagine, Evaluate, Improve](docs/huggingface/blog/2026-07-07/LeRobot%20v0_6_0_%20Imagine_%20Evaluate_%20Improve.md)
-- [PRX Part 4: Our Data Strategy](docs/huggingface/blog/2026-07-06/PRX%20Part%204_%20Our%20Data%20Strategy.md)
-- [🤗 Kernels: Major Updates](docs/huggingface/blog/2026-07-06/Kernels_%20Major%20Updates.md)
-- [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](docs/huggingface/blog/2026-07-01/Hugging%20Face%20and%20Cerebras%20bring%20Gemma%204%20to%20real-time%20voice%20AI.md)
-- [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](docs/huggingface/blog/2026-06-30/ScarfBench_%20Benchmarking%20AI%20Agents%20for%20Enterprise%20Java%20Framework%20Migration.md)
-- [Why Specialization Is Inevitable](docs/huggingface/blog/2026-06-30/Why%20Specialization%20Is%20Inevitable.md)
+- [From Hugging Face to Amazon SageMaker Studio in one click](docs/huggingface/blog/2026-07-07/From%20Hugging%20Face%20to%20Amazon%20SageMaker%20Studio%20in%20one%20click.md)
+- [Hugging Face Models on Foundry Managed Compute](docs/huggingface/blog/2026-07-07/Hugging%20Face%20Models%20on%20Foundry%20Managed%20Compute.md)
+- [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](docs/huggingface/blog/2026-07-07/Run%20AI%20workloads%20on%20any%20cloud_%20store%20on%20Hugging%20Face_%20zero-egress%20storage%20with%20SkyPilot.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
