@@ -21,12 +21,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T](docs/nvidia/developer/2026-07-07/Develop%20Humanoid%20Robot%20Policies%20End-to-End%20with%20NVIDIA%20Isaac%20GR00T.md)
-- [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](docs/nvidia/developer/2026-07-07/Building%20an%20Analysis%20AI%20Agent%20for%20Industrial%20Alarm%20Management%20with%20NVIDIA%20Nemotron.md)
-- [Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial](docs/nvidia/developer/2026-07-07/Maximize%20Spectral%20Efficiency%20with%20AI-Native%20RAN%20and%20NVIDIA%20AI%20Aerial.md)
-- [NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads](docs/nvidia/developer/2026-07-07/NVIDIA%20Vera%20CPU%20Boosts%20AI%20Factory%20Throughput%20to%20Accelerate%20Agentic%20Workloads.md)
-- [AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters](docs/nvidia/blogs/2026-07-07/AI%20Innovators%20Adopt%20NVIDIA%20Vera%20_%20Why%20Max%20Single-Threaded%20CPU%20at%20Scale%20Matters.md)
-- [NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community](docs/nvidia/blogs/2026-07-07/NVIDIA%20and%20Hugging%20Face%20Bring%20New%20Models%20and%20Frameworks%20to%20LeRobot%20for%20the%20Open%20Robotics%20Community.md)
+- [Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72](docs/nvidia/developer/2026-07-08/Running%20Low-Latency%20Analytical%20Workloads%20with%20GPU-Accelerated%20Presto%20on%20NVIDIA%20GB200%20NVL72.md)
+- [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](docs/nvidia/blogs/2026-07-08/NVIDIA%20Nemotron%20Achieves%20Benchmark-Leading%20Performance%20With%20LangChain%20Deep%20Agents%20Harness.md)
+- [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](docs/nvidia/developer/2026-07-08/Create%20a%20LangChain%20Deep%20Agents%20Harness%20Profile%20for%20NVIDIA%20Nemotron%203%20Ultra%20to%20Improve%20Performance.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
