@@ -31,9 +31,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [From Hugging Face to Amazon SageMaker Studio in one click](docs/huggingface/blog/2026-07-07/From%20Hugging%20Face%20to%20Amazon%20SageMaker%20Studio%20in%20one%20click.md)
-- [Hugging Face Models on Foundry Managed Compute](docs/huggingface/blog/2026-07-07/Hugging%20Face%20Models%20on%20Foundry%20Managed%20Compute.md)
-- [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](docs/huggingface/blog/2026-07-07/Run%20AI%20workloads%20on%20any%20cloud_%20store%20on%20Hugging%20Face_%20zero-egress%20storage%20with%20SkyPilot.md)
+- [Data for Agents](docs/huggingface/blog/2026-07-08/Data%20for%20Agents.md)
+- [Native-speed vLLM transformers modeling backend](docs/huggingface/blog/2026-07-08/Native-speed%20vLLM%20transformers%20modeling%20backend.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
