@@ -1,19 +1,18 @@
 # NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness
 
-- **來源**: NVIDIA Blog
+- **來源**: blogs.nvidia.com/blog
 - **發布日期**: 2026-07-08
 - **原文連結**: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
 
 ## 核心主題
-NVIDIA Nemotron 3 Ultra 與 LangChain Deep Agents 合作，在開源模型中達到最佳性能，以更低成本實現企業級 AI 代理。
+這篇文章介紹 NVIDIA Nemotron 3 Ultra 與 LangChain Deep Agents Harness 的結合，在開源模型中實現最高準確度，並透過環境工程優化而非模型重新訓練來提升性能。
 
 ## 關鍵重點
-- Nemotron 3 Ultra 在 LangChain Deep Agents 測試中達到最高準確度，完成任務速度更快，推理成本比頂級封閉模型低 10 倍
-- 不需要重新訓練模型，而是通過優化環境（系統提示、工具描述、中間件）來提升性能
-- NVIDIA NemoClaw 提供開源藍圖，讓企業可以完全掌控 AI 系統
+- LangChain 針對 NVIDIA Nemotron 3 Ultra 優化 Deep Agents harness，在 LangChain Deep Agents 基準測試中達到開源模型最高準確度，完成任務通量更高且推理成本比領先閉源模型低 10 倍
+- 透過調整系統提示、工具描述和中間件等環境優化，無需重新訓練模型即可達到與最高評分閉源模型相當的業務任務表現
+- NVIDIA NemoClaw 提供開源藍圖，包含調優的 Deep Agents Code 和 NVIDIA OpenShell 安全執行環境，讓企業擁有完整堆疊的控制權和自定義能力
 
 ## 結論
-企業可以以更低成本獲得高性能開源 AI 代理，並擁有完整的開源堆疊，實現更快的實驗迭代和更廣泛的業務應用。
----
+透過環境工程優化而非模型重新訓練，企業可以從開源堆疊獲得與專有模型相當的性能，同時擁有完全的控制權和自定義能力，無需重新訓練即可實現業務任務的對等表現。
 
-檔案已成功儲存至指定路徑。
+---

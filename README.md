@@ -21,9 +21,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
+- [Synthetic Data Generation for Financial AI Research with NVIDIA NeMo](docs/nvidia/developer/2026-07-09/Synthetic%20Data%20Generation%20for%20Financial%20AI%20Research%20with%20NVIDIA%20NeMo.md)
+- [A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale](docs/nvidia/developer/2026-07-09/A%20Practical%20Guide%20to%20GPU-Initiated%20Communication%20for%20Molecular%20Dynamics%20at%20Scale.md)
+- [GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server](docs/nvidia/blogs/2026-07-09/GeForce%20NOW%20Turns%20Up%20the%20Heat%20With%20New%20GeForce%20RTX%205080-Powered%20Toronto%20Server.md)
+- [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](docs/nvidia/developer/2026-07-08/Create%20a%20LangChain%20Deep%20Agents%20Harness%20Profile%20for%20NVIDIA%20Nemotron%203%20Ultra%20to%20Improve%20Performance.md)
 - [Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72](docs/nvidia/developer/2026-07-08/Running%20Low-Latency%20Analytical%20Workloads%20with%20GPU-Accelerated%20Presto%20on%20NVIDIA%20GB200%20NVL72.md)
 - [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](docs/nvidia/blogs/2026-07-08/NVIDIA%20Nemotron%20Achieves%20Benchmark-Leading%20Performance%20With%20LangChain%20Deep%20Agents%20Harness.md)
-- [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](docs/nvidia/developer/2026-07-08/Create%20a%20LangChain%20Deep%20Agents%20Harness%20Profile%20for%20NVIDIA%20Nemotron%203%20Ultra%20to%20Improve%20Performance.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
