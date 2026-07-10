@@ -1,17 +1,18 @@
-# Drive proactive security, prioritize risks with Google Threat Intelligence and Wiz ASM
+# Drive proactive security_ prioritize risks with Google Threat Intelligence and Wiz ASM
 
-- **來源**: Google Cloud Blog
+- **來源**: cloud.google.com/blog
 - **發布日期**: 2026-07-08
 - **原文連結**: https://cloud.google.com/blog/products/identity-security/drive-proactive-security-prioritize-risks-with-google-threat-intelligence-and-wiz-asm/
 
 ## 核心主題
-Google 與 Wiz 整合 Google 威脅情報與攻擊面管理，幫助組織主動識別優先風險。
+Google Threat Intelligence 與 Wiz Attack Surface Management (ASM) 整合，讓組織能將威脅暴露數據與即時威脅活動連結，協助優先處理外部可被利用的風險和邏輯驅動漏洞。
 
 ## 關鍵重點
-- 整合 Google 威脅情報與 Wiz 攻擊面管理，將暴露風險與即時威脅活動直接關聯
-- 利用 AI 掃描快速識別複雜的邏輯驅動型漏洞
-- 優先處理攻擊者正在利用的風險，並提供基於攻擊者行為的指導
+- 整合 Google Threat Intelligence 與 Wiz ASM，將威脅暴露數據直接輸入 Google Threat Intelligence 引擎，協助識別當前被攻擊者利用的風險
+- Wiz Red Agent 使用 AI 掃描邏輯驅動漏洞，如身份驗證繞過、業務邏輯缺陷和多步驟攻擊鏈，發現傳統掃描器常遺漏的風險
+- 整合後可優先處理基於真實世界活動的風險，並提供攻擊者行為指導，協助防禦者追蹤網路內的活躍痕跡
 
 ## 結論
-這種主動防禦策略能減少噪音，讓安全團隊專注於真正的威脅。
+透過整合 Google Threat Intelligence 與 Wiz ASM，組織能從被動維護轉向主動安全策略，減少噪音並專注於真正威脅組織的風險，提升威脅偵測和優先處理效率。
+
 ---

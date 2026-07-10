@@ -1,20 +1,18 @@
 # A developer's guide to publishing agents in Gemini Enterprise and Google Cloud Marketplace
 
-- **來源**: Google Cloud Blog Developers & Practitioners
+- **來源**: cloud.google.com/blog
 - **發布日期**: 2026-07-08
 - **原文連結**: https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/
 
 ## 核心主題
-本文提供開發者指南，說明如何將 AI Agent 作為服務（AaaS）發布到 Google Cloud Marketplace 並在 Gemini Enterprise 應用中部署。
+這篇文章提供開發者指南，說明如何將 AI 代理發布到 Google Cloud Marketplace 和 Gemini Enterprise 應用，包括架構設計、認證要求、技術整合和交易管理流程。
 
 ## 關鍵重點
-- **代理架構設計**：需整合 Google Cloud Marketplace 計費、身份驗證提供者（IdP）安全性以及 Gemini Enterprise Agent Platform，包含客戶專案、合作夥伴專案與合作夥伴 Marketplace 專案三層架構。
-- **組織要求**：必須加入 Google Cloud Partner Network、簽署 Marketplace Vendor Agreement，並提供符合 A2A 協議規範的 A2A Agent Card（JSON 檔案），定義代理能力、認證方式與服務端點。
-- **技術要求**：代理必須遵循 A2A 協議規範，支援 A2UI 協議以提供互動式使用者介面，並實施 OAuth 2.0 身份驗證或公開訪問，透過 Dynamic Client Registration (DCR) 自動化 OAuth 客戶端註冊流程。
-- **發布流程**：在 Producer Portal 中選擇「AI Agent as a Service」解決方案類型，上傳 Agent Card JSON 檔案至 GCS Bucket，設定可用性與定價模型，並完成端到端測試後方可發布。
-- **交易管理**：實施採購流程（Google Cloud Marketplace 異步）與註冊流程（Gemini Enterprise 同步），透過 Billing Administrator、Discovery Engine Administrator 與 Discovery Engine User 三個角色確保企業治理合規性。
+- 開發者需遵循 A2A 協議標準，建立符合 A2UI 協議的互動介面，並提供 A2A Agent Card（JSON 檔案）宣告代理能力、認證方法和服務端點
+- 必須完成 Google Cloud Partner Network 加入、簽署 Marketplace Vendor Agreement，並透過 Dynamic Client Registration (DCR) 實現 OAuth 2.0 認證
+- 代理發布流程包括：在 Marketplace 設定定價和可用性、完成 Google Cloud 審查、透過 Procurement Flow 進行採購、透過 Registration Flow 完成註冊，最後由終端用戶在 Gemini Enterprise 中啟用
 
 ## 結論
-透過使用 Agent Development Kit (ADK) 等工具開始構建，開發者可以將代理擴展至每日工作流中的數百萬企業用戶，加速成長於代理企業時代。
+透過遵循 A2A 協議標準和完成完整的市場整合流程，開發者可以將高品質 AI 代理發布到 Google Cloud Marketplace，讓企業用戶在 Gemini Enterprise 中安全地發現、採購和使用這些代理，實現 AI 代理的商業化。
 
 ---

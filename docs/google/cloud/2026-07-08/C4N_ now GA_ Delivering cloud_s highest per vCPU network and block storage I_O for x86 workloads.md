@@ -1,18 +1,18 @@
-# C4N network and storage-optimized VMs
+# C4N_ now GA_ Delivering cloud's highest per vCPU network and block storage I/O for x86 workloads
 
-- **來源**: Google Cloud Blog
+- **來源**: cloud.google.com/blog
 - **發布日期**: 2026-07-09
 - **原文連結**: https://cloud.google.com/blog/products/compute/c4n-network-and-storage-optimized-vms/
 
 ## 核心主題
-Google Cloud 正式推出 C4N 虛擬機器，這是其首款針對網路和儲存優化的 Google Compute Engine 實例，專為消除高需求企業應用中的 I/O 瓶頸而設計。
+Google Cloud 推出 C4N 網路和儲存優化的 Google Compute Engine 虛擬機，專為消除高需求企業應用中的 I/O 瓶頸而設計，提供業界最高的每 vCPU 網路和區塊儲存效能。
 
 ## 關鍵重點
-- 最高達 400 Gbps 的 VM 間網路頻寬和 9500 萬包每秒 (MPPS) 的處理能力，比可比 Intel 解決方案高出 33% 的每 vCPU 網路頻寬
-- 搭配 Hyperdisk Extreme 提供 Compute Engine 最高儲存效能，達 25 GiB/s 儲存頻寬和 1M IOPS，比可比 Intel 解決方案高出 33% 的儲存頻寬和 39% 的 IOPS
-- 適用於虛擬設備（如下一代防火牆、虛擬路由器、DDoS 緩解）、大規模資料分析、電信應用（5G UPF）、分散式運算和 CPU 基礎 AI/ML 工作負載
-- 使用第 5 代 Intel Xeon 可擴展處理器 (Emerald Rapids) 和自訂 Titanium 卸載架構，將網路和儲存任務卸載到專用硬體
+- C4N 提供最高達 400 Gbps 的網路頻寬和 9500 萬個每秒包處理數 (MPPS)，比類似的 Intel 解決方案高出 33% 的網路頻寬每 vCPU 和 224% 的包處理性能
+- 搭配 Hyperdisk Extreme 儲存，提供高達 25 GiB/s 的儲存頻寬和 100 萬 IOPS，比類似的 Intel 解決方案高出 33% 的儲存頻寬和 39% 的 IOPS
+- 支援多種應用場景，包括網路密集型應用（虛擬防火牆、虛擬路由器）、大型數據分析、電信應用、分散式運算和 CPU 基礎 AI/ML 工作負載
 
 ## 結論
-C4N 透過硬體加速消除 I/O 瓶頸，使客戶能夠更精確地縮放網路、儲存和運算資源，顯著降低總擁有成本 (TCO)，無需過度配置資源即可滿足 I/O 需求。
+C4N 透過 Google 自訂設計的 Titanium 卸載架構，將網路和儲存任務卸載到專用硬體，讓客戶能更精確地縮放網路、儲存和運算資源，消除 I/O 需求，並提供可預測的高頻寬 I/O 性能，降低總擁有成本。
+
 ---
