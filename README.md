@@ -40,12 +40,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Synthetic Data Generation for Financial AI Research with NVIDIA NeMo](docs/nvidia/developer/2026-07-09/Synthetic%20Data%20Generation%20for%20Financial%20AI%20Research%20with%20NVIDIA%20NeMo.md)
-- [A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale](docs/nvidia/developer/2026-07-09/A%20Practical%20Guide%20to%20GPU-Initiated%20Communication%20for%20Molecular%20Dynamics%20at%20Scale.md)
-- [GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server](docs/nvidia/blogs/2026-07-09/GeForce%20NOW%20Turns%20Up%20the%20Heat%20With%20New%20GeForce%20RTX%205080-Powered%20Toronto%20Server.md)
-- [Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance](docs/nvidia/developer/2026-07-08/Create%20a%20LangChain%20Deep%20Agents%20Harness%20Profile%20for%20NVIDIA%20Nemotron%203%20Ultra%20to%20Improve%20Performance.md)
-- [Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72](docs/nvidia/developer/2026-07-08/Running%20Low-Latency%20Analytical%20Workloads%20with%20GPU-Accelerated%20Presto%20on%20NVIDIA%20GB200%20NVL72.md)
-- [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](docs/nvidia/blogs/2026-07-08/NVIDIA%20Nemotron%20Achieves%20Benchmark-Leading%20Performance%20With%20LangChain%20Deep%20Agents%20Harness.md)
+- [Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading](docs/nvidia/developer/2026-07-10/Reducing%20High-Bandwidth%20Memory%20Bottlenecks%20in%20JAX-Based%20LLM%20Training%20with%20Host%20Offloading.md)
+- [Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead](docs/nvidia/developer/2026-07-10/Kernel%20Fusion%20in%20NVIDIA%20CUDA_%20Optimizing%20Memory%20Traffic%20and%20Launch%20Overhead.md)
+- [AI Model Co-Design: Hardware-Friendly LLM Design](docs/nvidia/developer/2026-07-10/AI%20Model%20Co-Design_%20Hardware-Friendly%20LLM%20Design.md)
+- [Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit](docs/nvidia/developer/2026-07-10/Accelerating%20End-to-End%20Co-Folding%20Performance%20with%20NVIDIA%20BioNeMo%20Agent%20Toolkit.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
