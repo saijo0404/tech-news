@@ -17,10 +17,13 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading](docs/nvidia/developer/2026-07-10/Reducing%20High-Bandwidth%20Memory%20Bottlenecks%20in%20JAX-Based%20LLM%20Training%20with%20Host%20Offloading.md)
-- [Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead](docs/nvidia/developer/2026-07-10/Kernel%20Fusion%20in%20NVIDIA%20CUDA_%20Optimizing%20Memory%20Traffic%20and%20Launch%20Overhead.md)
-- [AI Model Co-Design: Hardware-Friendly LLM Design](docs/nvidia/developer/2026-07-10/AI%20Model%20Co-Design_%20Hardware-Friendly%20LLM%20Design.md)
-- [Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit](docs/nvidia/developer/2026-07-10/Accelerating%20End-to-End%20Co-Folding%20Performance%20with%20NVIDIA%20BioNeMo%20Agent%20Toolkit.md)
+- [Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning](docs/nvidia/developer/2026-07-14/Lessons%20From%20the%20Leaderboard_%20What%205_000_%20Kagglers%20Taught%20Us%20About%20Improving%20AI%20Reasoning.md)
+- [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](docs/nvidia/blogs/2026-07-14/Nemotron%20Labs_%20How%20Open%20Models%20Give%20Enterprises%20and%20Nations%20AI%20They%20Can%20Trust_%20Control%20and%20Customize.md)
+- [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](docs/nvidia/newsroom/2026-07-14/Nemotron%20Labs_%20How%20Open%20Models%20Give%20Enterprises%20and%20Nations%20AI%20They%20Can%20Trust_%20Control%20and%20Customize.md)
+- [How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo](docs/nvidia/developer/2026-07-14/How%20to%20Run%20an%20Autoresearch%20Workflow%20with%20RL%20Agent%20Skills%20and%20NVIDIA%20NeMo.md)
+- [Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills](docs/nvidia/developer/2026-07-14/Post-Train%20NVIDIA%20Cosmos%203%20in%20One%20Day%20Using%20Agent%20Skills.md)
+- [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](docs/nvidia/blogs/2026-07-14/Why%20Performance%20per%20Watt%20Is%20the%20Ultimate%20Metric%20for%20AI%20Infrastructure%20Efficiency.md)
+- [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](docs/nvidia/newsroom/2026-07-14/Why%20Performance%20per%20Watt%20Is%20the%20Ultimate%20Metric%20for%20AI%20Infrastructure%20Efficiency.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
