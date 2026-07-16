@@ -8,11 +8,26 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Contributing to U.K. financial sector resilience as a critical third party](docs/google/cloud/2026-07-10/Contributing%20to%20U_K_%20financial%20sector%20resilience%20as%20a%20critical%20third%20party.md)
-- [Bryson DeChambeau partners with Google Health.](docs/google/blog/2026-07-10/Bryson%20DeChambeau%20partners%20with%20Google%20Health.md)
-- [Here’s how to make study notebooks in the Gemini app.](docs/google/blog/2026-07-10/Here_s%20how%20to%20make%20study%20notebooks%20in%20the%20Gemini%20app.md)
-- [Frontier and Center: Who evaluates the evaluations?](docs/google/cloud/2026-07-10/Frontier%20and%20Center_%20Who%20evaluates%20the%20evaluations.md)
-- [What’s new with Google Cloud](docs/google/cloud/2026-07-10/What_s%20new%20with%20Google%20Cloud.md)
+- [Towards demystifying the creativity of diffusion models](docs/google/research/2026-07-15/Towards%20demystifying%20the%20creativity%20of%20diffusion%20models.md)
+- [IDC: Why the right networking approach is foundational to agentic AI](docs/google/cloud/2026-07-15/IDC_%20Why%20the%20right%20networking%20approach%20is%20foundational%20to%20agentic%20AI.md)
+- [How to Analyze and Govern Gemini Enterprise App Usage at Scale with BigQuery](docs/google/cloud/2026-07-15/How%20to%20Analyze%20and%20Govern%20Gemini%20Enterprise%20App%20Usage%20at%20Scale%20with%20BigQuery.md)
+- [How to solve PostgreSQL multilingual full-text search limitations with AlloyDB AI](docs/google/cloud/2026-07-15/How%20to%20solve%20PostgreSQL%20multilingual%20full-text%20search%20limitations%20with%20AlloyDB%20AI.md)
+- [The Risk of Exposed Cloud Functions and How to Harden](docs/google/cloud/2026-07-15/The%20Risk%20of%20Exposed%20Cloud%20Functions%20and%20How%20to%20Harden.md)
+- [It's not too late to get Pixel Care+ for your Pixel 9 or 10.](docs/google/blog/2026-07-14/It_s%20not%20too%20late%20to%20get%20Pixel%20Care_%20for%20your%20Pixel%209%20or%2010.md)
+- [Explore The Met in new ways with generative AI](docs/google/blog/2026-07-14/Explore%20The%20Met%20in%20new%20ways%20with%20generative%20AI.md)
+- [Google named a Leader in the 2026 IDC MarketScape for Worldwide Foundation Model Software](docs/google/cloud/2026-07-14/Google%20named%20a%20Leader%20in%20the%202026%20IDC%20MarketScape%20for%20Worldwide%20Foundation%20Model%20Software.md)
+- [Our largest solar and battery storage project ever](docs/google/blog/2026-07-14/Our%20largest%20solar%20and%20battery%20storage%20project%20ever.md)
+- [Celebrating 25 years of visual search innovation](docs/google/blog/2026-07-14/Celebrating%2025%20years%20of%20visual%20search%20innovation.md)
+- [Claude at scale on Google Cloud: Frontier AI, built for enterprise production](docs/google/cloud/2026-07-14/Claude%20at%20scale%20on%20Google%20Cloud_%20Frontier%20AI_%20built%20for%20enterprise%20production.md)
+- [Reconstructing Pelé’s “lost” goal](docs/google/blog/2026-07-14/Reconstructing%20Pel%C3%A9_s%20_lost_%20goal.md)
+- [We’re expanding Gemini in Chrome to users in the U.K.](docs/google/blog/2026-07-14/We_re%20expanding%20Gemini%20in%20Chrome%20to%20users%20in%20the%20U_K.md)
+- [How Gemini is speaking the language of Southeast Asia](docs/google/blog/2026-07-14/How%20Gemini%20is%20speaking%20the%20language%20of%20Southeast%20Asia.md)
+- [Optimize your reach and frequency across campaigns with video campaign groups.](docs/google/blog/2026-07-13/Optimize%20your%20reach%20and%20frequency%20across%20campaigns%20with%20video%20campaign%20groups.md)
+- [Building the AI-defined vehicle with Android, Google Cloud, and Nexus SDV](docs/google/cloud/2026-07-13/Building%20the%20AI-defined%20vehicle%20with%20Android_%20Google%20Cloud_%20and%20Nexus%20SDV.md)
+- [Securing the AI supply chain on GKE: Introducing k8s-aibom for automated AI BOMs](docs/google/cloud/2026-07-13/Securing%20the%20AI%20supply%20chain%20on%20GKE_%20Introducing%20k8s-aibom%20for%20automated%20AI%20BOMs.md)
+- [Key findings from the 2026 Public Sector M-Trends report and beyond](docs/google/cloud/2026-07-13/Key%20findings%20from%20the%202026%20Public%20Sector%20M-Trends%20report%20and%20beyond.md)
+- [Empowering India’s next generation of innovators with ATL Saathi](docs/google/deepmind/2026-07-13/Empowering%20India_s%20next%20generation%20of%20innovators%20with%20ATL%20Saathi.md)
+- [Waze rolls out new customization features and more Gemini updates](docs/google/blog/2026-07-13/Waze%20rolls%20out%20new%20customization%20features%20and%20more%20Gemini%20updates.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
