@@ -17,13 +17,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning](docs/nvidia/developer/2026-07-14/Lessons%20From%20the%20Leaderboard_%20What%205_000_%20Kagglers%20Taught%20Us%20About%20Improving%20AI%20Reasoning.md)
-- [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](docs/nvidia/blogs/2026-07-14/Nemotron%20Labs_%20How%20Open%20Models%20Give%20Enterprises%20and%20Nations%20AI%20They%20Can%20Trust_%20Control%20and%20Customize.md)
-- [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](docs/nvidia/newsroom/2026-07-14/Nemotron%20Labs_%20How%20Open%20Models%20Give%20Enterprises%20and%20Nations%20AI%20They%20Can%20Trust_%20Control%20and%20Customize.md)
-- [How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo](docs/nvidia/developer/2026-07-14/How%20to%20Run%20an%20Autoresearch%20Workflow%20with%20RL%20Agent%20Skills%20and%20NVIDIA%20NeMo.md)
-- [Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills](docs/nvidia/developer/2026-07-14/Post-Train%20NVIDIA%20Cosmos%203%20in%20One%20Day%20Using%20Agent%20Skills.md)
-- [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](docs/nvidia/blogs/2026-07-14/Why%20Performance%20per%20Watt%20Is%20the%20Ultimate%20Metric%20for%20AI%20Infrastructure%20Efficiency.md)
-- [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](docs/nvidia/newsroom/2026-07-14/Why%20Performance%20per%20Watt%20Is%20the%20Ultimate%20Metric%20for%20AI%20Infrastructure%20Efficiency.md)
+- [NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](docs/nvidia/blogs/2026-07-15/NVIDIA%20Introduces%20New%20Jetson%20Thor%20Computers%20to%20Advance%20Mainstream%20Robotics%20and%20Edge%20AI.md)
+- [Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills](docs/nvidia/developer/2026-07-15/Build%20a%20Multi-Camera%203D%20Tracking%20Application%20with%20NVIDIA%20DeepStream%209_1%20Skills.md)
+- [Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models](docs/nvidia/newsroom/2026-07-15/Japan_s%20Enterprises%20and%20Startups%20Build%20Industry-Specialized%20AI%20With%20NVIDIA%20Nemotron%20Open%20Models.md)
+- [Develop Lightweight USD Runtimes Faster with AI Agents](docs/nvidia/developer/2026-07-15/Develop%20Lightweight%20USD%20Runtimes%20Faster%20with%20AI%20Agents.md)
+- [Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3](docs/nvidia/developer/2026-07-15/Building%20Faster%20Cryptography%20with%20Carryless%20Multiplication%20in%20NVIDIA%20CUDA%2013_3.md)
+- [NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](docs/nvidia/blogs/2026-07-15/NVIDIA%20and%20Japan%20Bring%20Full-Stack%20AI%20and%20Robotics%20to%20Every%20Industry.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
