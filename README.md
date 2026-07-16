@@ -48,8 +48,10 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [vLLM × HPC-Ops: High-Performance Attention and MoE Backends from Tencent Hunyuan](docs/vllm/blog/2026-07-06/vLLM%20_%20HPC-Ops_%20High-Performance%20Attention%20and%20MoE%20Backends%20from%20Tencent%20Hunyuan.md)
-- [Experience and Lessons Learned from Serving Multi-Stage Qwen3-Omni in vLLM-Omni](docs/vllm/blog/2026-07-01/Experience%20and%20Lessons%20Learned%20from%20Serving%20Multi-Stage%20Qwen3-Omni%20in%20vLLM-Omni.md)
+- [TML Inkling on vLLM: Day-0 Support with Optimized Performance](docs/vllm/blog/2026-07-15/TML%20Inkling%20on%20vLLM_%20Day-0%20Support%20with%20Optimized%20Performance.md)
+- [vLLM x TileRT: Specialized Decode for Latency-Critical Serving](docs/vllm/blog/2026-07-14/vLLM%20x%20TileRT_%20Specialized%20Decode%20for%20Latency-Critical%20Serving.md)
+- [EAGLE-3 Speculative Decoding on AMD Instinct GPUs: Training and Serving with vLLM and AMD Quark](docs/vllm/blog/2026-07-13/EAGLE-3%20Speculative%20Decoding%20on%20AMD%20Instinct%20GPUs_%20Training%20and%20Serving%20with%20vLLM%20and%20AMD%20Quark.md)
+- [vime + ROCm: End-to-End RL Post-Training on AMD Instinct™ GPUs](docs/vllm/blog/2026-07-10/vime%20_%20ROCm_%20End-to-End%20RL%20Post-Training%20on%20AMD%20Instinct_%20GPUs.md)
 <!-- END:vllm -->
 
 ---
