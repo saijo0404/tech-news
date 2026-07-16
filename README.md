@@ -42,8 +42,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Data for Agents](docs/huggingface/blog/2026-07-08/Data%20for%20Agents.md)
-- [Native-speed vLLM transformers modeling backend](docs/huggingface/blog/2026-07-08/Native-speed%20vLLM%20transformers%20modeling%20backend.md)
+- [What building Shippy taught us about building agents](docs/huggingface/blog/2026-07-15/What%20building%20Shippy%20taught%20us%20about%20building%20agents.md)
+- [Model Routing Is Simple. Until It Isn’t.](docs/huggingface/blog/2026-07-15/Model%20Routing%20Is%20Simple_%20Until%20It%20Isn_t.md)
+- [Welcome Inkling by Thinking Machines](docs/huggingface/blog/2026-07-15/Welcome%20Inkling%20by%20Thinking%20Machines.md)
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](docs/huggingface/blog/2026-07-15/Introducing%20Real%20World%20VoiceEQ_%20Measuring%20the%20human%20quality%20of%20voice%20AI.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
