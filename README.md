@@ -32,12 +32,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](docs/nvidia/blogs/2026-07-15/NVIDIA%20Introduces%20New%20Jetson%20Thor%20Computers%20to%20Advance%20Mainstream%20Robotics%20and%20Edge%20AI.md)
-- [Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills](docs/nvidia/developer/2026-07-15/Build%20a%20Multi-Camera%203D%20Tracking%20Application%20with%20NVIDIA%20DeepStream%209_1%20Skills.md)
-- [Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models](docs/nvidia/newsroom/2026-07-15/Japan_s%20Enterprises%20and%20Startups%20Build%20Industry-Specialized%20AI%20With%20NVIDIA%20Nemotron%20Open%20Models.md)
-- [Develop Lightweight USD Runtimes Faster with AI Agents](docs/nvidia/developer/2026-07-15/Develop%20Lightweight%20USD%20Runtimes%20Faster%20with%20AI%20Agents.md)
-- [Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3](docs/nvidia/developer/2026-07-15/Building%20Faster%20Cryptography%20with%20Carryless%20Multiplication%20in%20NVIDIA%20CUDA%2013_3.md)
-- [NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](docs/nvidia/blogs/2026-07-15/NVIDIA%20and%20Japan%20Bring%20Full-Stack%20AI%20and%20Robotics%20to%20Every%20Industry.md)
+- [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](docs/nvidia/developer/2026-07-16/Q_A_%20How%20Capcom%20Brought%20Path%20Tracing%20to%20RE%20ENGINE%20Across%20PRAGMATA%20and%20Resident%20Evil%20Requiem.md)
+- [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](docs/nvidia/developer/2026-07-16/Integrating%20Context-Aware%20Video%20AI%20Agents%20Into%20Enterprise%20Workflows.md)
+- [Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW](docs/nvidia/blogs/2026-07-16/Sharpen%20the%20Sword_%20Skip%20the%20Downloads%20_%20_Onimusha_%20Way%20of%20the%20Sword_%20Is%20Coming%20to%20GeForce%20NOW.md)
+- [Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure](docs/nvidia/newsroom/2026-07-16/Japan%20Government_%20Industrial%20Leaders%20and%20NVIDIA%20Launch%20the%20World_s%20First%20National%20AI%20Infrastructure.md)
+- [Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier](docs/nvidia/newsroom/2026-07-16/Japan_s%20Robotics%20and%20Manufacturing%20Leaders%20Build%20on%20NVIDIA%20Cosmos%20to%20Advance%20Physical%20AI%20Frontier.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
