@@ -43,9 +43,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval](docs/huggingface/blog/2026-07-16/NVIDIA%20Nemotron%203%20Embed%20Ranks%20_1%20Overall%20on%20RTEB_%20Advancing%20Agentic%20Retrieval.md)
-- [Newer Models, Same Advantage](docs/huggingface/blog/2026-07-16/Newer%20Models_%20Same%20Advantage.md)
-- [Security incident disclosure — July 2026](docs/huggingface/blog/2026-07-16/Security%20incident%20disclosure%20_%20July%202026.md)
+- [Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers](docs/huggingface/blog/2026-07-17/Fine-tune%20video%20and%20image%20models%20at%20scale%20with%20NVIDIA%20NeMo%20Automodel%20and%20_%20Diffusers.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
