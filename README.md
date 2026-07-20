@@ -34,11 +34,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem](docs/nvidia/developer/2026-07-16/Q_A_%20How%20Capcom%20Brought%20Path%20Tracing%20to%20RE%20ENGINE%20Across%20PRAGMATA%20and%20Resident%20Evil%20Requiem.md)
-- [Integrating Context-Aware Video AI Agents Into Enterprise Workflows](docs/nvidia/developer/2026-07-16/Integrating%20Context-Aware%20Video%20AI%20Agents%20Into%20Enterprise%20Workflows.md)
-- [Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW](docs/nvidia/blogs/2026-07-16/Sharpen%20the%20Sword_%20Skip%20the%20Downloads%20_%20_Onimusha_%20Way%20of%20the%20Sword_%20Is%20Coming%20to%20GeForce%20NOW.md)
-- [Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure](docs/nvidia/newsroom/2026-07-16/Japan%20Government_%20Industrial%20Leaders%20and%20NVIDIA%20Launch%20the%20World_s%20First%20National%20AI%20Infrastructure.md)
-- [Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier](docs/nvidia/newsroom/2026-07-16/Japan_s%20Robotics%20and%20Manufacturing%20Leaders%20Build%20on%20NVIDIA%20Cosmos%20to%20Advance%20Physical%20AI%20Frontier.md)
+- [NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI](docs/nvidia/blogs/2026-07-17/NVIDIA%20Vera%20Rubin%20Maximizes%20Intelligence%20per%20Dollar%20for%20Post-Training%20Workloads%20_%20a%20Key%20Metric%20for%20Agentic%20AI.md)
+- [Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField](docs/nvidia/developer/2026-07-16/Scaling%20Agentic%20AI%20Factories%20Through%20Extreme%20Co-Design%20with%20NVIDIA%20BlueField.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
