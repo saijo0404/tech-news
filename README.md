@@ -34,8 +34,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI](docs/nvidia/blogs/2026-07-17/NVIDIA%20Vera%20Rubin%20Maximizes%20Intelligence%20per%20Dollar%20for%20Post-Training%20Workloads%20_%20a%20Key%20Metric%20for%20Agentic%20AI.md)
-- [Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField](docs/nvidia/developer/2026-07-16/Scaling%20Agentic%20AI%20Factories%20Through%20Extreme%20Co-Design%20with%20NVIDIA%20BlueField.md)
+- [NVIDIA NVLink: The Scale-Up Network for AI Factories](docs/nvidia/developer/2026-07-20/NVIDIA%20NVLink_%20The%20Scale-Up%20Network%20for%20AI%20Factories.md)
+- [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](docs/nvidia/blogs/2026-07-20/At%20SIGGRAPH_%20NVIDIA%20Advances%20Graphics%20and%20Simulation%20With%20Agentic%20and%20Physical%20AI.md)
+- [Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps](docs/nvidia/developer/2026-07-20/Integrate%20NVIDIA%20Omniverse%20RTX%20Sensor%20Simulation%20Into%20Existing%20Apps.md)
+- [NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds](docs/nvidia/newsroom/2026-07-20/NVIDIA%20Agent%20Toolkit%20Expands%20With%20New%20Omniverse%20Libraries_%20Putting%20AI%20Agents%20to%20Work%20Building%20Simulation-Ready%20Worlds.md)
+- [Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin](docs/nvidia/blogs/2026-07-20/Bristol%20Myers%20Squibb%20Building%20Life%20Science%20Industry_s%20Most%20Advanced%20AI%20Factory%20on%20NVIDIA%20Vera%20Rubin.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
