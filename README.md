@@ -24,7 +24,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers](docs/huggingface/blog/2026-07-17/Fine-tune%20video%20and%20image%20models%20at%20scale%20with%20NVIDIA%20NeMo%20Automodel%20and%20_%20Diffusers.md)
+- [Introducing Cosmos 3 Edge](docs/huggingface/blog/2026-07-20/Introducing%20Cosmos%203%20Edge.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
