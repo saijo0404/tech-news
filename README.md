@@ -20,11 +20,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA NVLink: The Scale-Up Network for AI Factories](docs/nvidia/developer/2026-07-20/NVIDIA%20NVLink_%20The%20Scale-Up%20Network%20for%20AI%20Factories.md)
-- [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](docs/nvidia/blogs/2026-07-20/At%20SIGGRAPH_%20NVIDIA%20Advances%20Graphics%20and%20Simulation%20With%20Agentic%20and%20Physical%20AI.md)
-- [Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps](docs/nvidia/developer/2026-07-20/Integrate%20NVIDIA%20Omniverse%20RTX%20Sensor%20Simulation%20Into%20Existing%20Apps.md)
-- [NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds](docs/nvidia/newsroom/2026-07-20/NVIDIA%20Agent%20Toolkit%20Expands%20With%20New%20Omniverse%20Libraries_%20Putting%20AI%20Agents%20to%20Work%20Building%20Simulation-Ready%20Worlds.md)
-- [Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin](docs/nvidia/blogs/2026-07-20/Bristol%20Myers%20Squibb%20Building%20Life%20Science%20Industry_s%20Most%20Advanced%20AI%20Factory%20on%20NVIDIA%20Vera%20Rubin.md)
+- [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](docs/nvidia/blogs/2026-07-21/Built%20in%20Fort%20Worth_%20Wistron%20Opens%20Advanced%20Manufacturing%20Plant%20to%20Produce%20NVIDIA%20AI%20Systems.md)
+- [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](docs/nvidia/blogs/2026-07-21/NVIDIA%20Vera%20Rubin%20Driving%20Performance%20Per%20Watt_%20Lowest%20Token%20Cost%20for%20Partners%20Worldwide.md)
+- [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](docs/nvidia/blogs/2026-07-21/Built%20for%20Vera%20Rubin_%20NVIDIA%20Spectrum-6%20Arrives%20in%20Gigascale%20AI%20Factories.md)
+- [Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI](docs/nvidia/developer/2026-07-21/Inside%20NVIDIA%20Rubin%20GPU%20Architecture_%20Powering%20the%20Era%20of%20Agentic%20AI.md)
+- [NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI](docs/nvidia/developer/2026-07-21/NVIDIA%20Vera%20CPU_%20Olympus%20Cores%20Built%20for%20Maximum%20Single-Thread%20Performance%20in%20Agentic%20AI.md)
+- [Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72](docs/nvidia/developer/2026-07-21/Setting%20a%20World%20Record%20for%20MoE%20Pre-Training%20on%20NVIDIA%20GB300%20NVL72.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
