@@ -8,9 +8,14 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [5 ways to build a side hustle with Gemini](docs/google/blog/2026-07-20/5%20ways%20to%20build%20a%20side%20hustle%20with%20Gemini.md)
-- [Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen](docs/google/cloud/2026-07-20/Accelerating%20automotive%20innovation%20with%20C4A-metal%20and%20Panasonic%20Automotive%20vSkipGen.md)
-- [Making highly available, multi-region Cloud Run services just got easier](docs/google/cloud/2026-07-20/Making%20highly%20available_%20multi-region%20Cloud%20Run%20services%20just%20got%20easier.md)
+- [Why AI apps fail in production (And how Google solved it)](docs/google/cloud/2026-07-21/Why%20AI%20apps%20fail%20in%20production%20_And%20how%20Google%20solved%20it.md)
+- [13 Google tips for a fun, productive summer off from college](docs/google/blog/2026-07-21/13%20Google%20tips%20for%20a%20fun_%20productive%20summer%20off%20from%20college.md)
+- [Supercharging pgvector: 4x faster HNSW vector search with AlloyDB](docs/google/cloud/2026-07-21/Supercharging%20pgvector_%204x%20faster%20HNSW%20vector%20search%20with%20AlloyDB.md)
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](docs/google/deepmind/2026-07-21/Introducing%20Gemini%203_6%20Flash_%203_5%20Flash-Lite_%20and%203_5%20Flash%20Cyber.md)
+- [Now in preview: Find and fix software vulnerabilities with CodeMender](docs/google/cloud/2026-07-21/Now%20in%20preview_%20Find%20and%20fix%20software%20vulnerabilities%20with%20CodeMender.md)
+- [We’re announcing the Alliance for America’s Skilled Trades.](docs/google/blog/2026-07-21/We_re%20announcing%20the%20Alliance%20for%20America_s%20Skilled%20Trades.md)
+- [Generosity Under Conditions: Hardening Google Cloud Access Management](docs/google/cloud/2026-07-21/Generosity%20Under%20Conditions_%20Hardening%20Google%20Cloud%20Access%20Management.md)
+- [Introducing Gemini 3.5 Flash Cyber](docs/google/deepmind/2026-07-17/Introducing%20Gemini%203_5%20Flash%20Cyber.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
