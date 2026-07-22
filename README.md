@@ -30,7 +30,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Introducing Cosmos 3 Edge](docs/huggingface/blog/2026-07-20/Introducing%20Cosmos%203%20Edge.md)
+- [The State of Simulation for Physical AI: An Overview](docs/huggingface/blog/2026-07-21/The%20State%20of%20Simulation%20for%20Physical%20AI_%20An%20Overview.md)
+- [Grabette: an open system to record robot-manipulation data](docs/huggingface/blog/2026-07-21/Grabette_%20an%20open%20system%20to%20record%20robot-manipulation%20data.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
