@@ -14,8 +14,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++](docs/nvidia/developer/2026-07-22/Make%20Long-Running%20NVIDIA%20TensorRT%20Engine%20Builds%20Observable%20and%20Cancelable%20in%20Python%20or%20C.md)
-- [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](docs/nvidia/blogs/2026-07-22/NVIDIA%20Open%20Sources%20First%20GPU-Accelerated%20Medical%20Physics%20Simulation%20Framework.md)
+- [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](docs/nvidia/blogs/2026-07-23/NVIDIA%20AI%20Supercomputer%20Comes%20Online%20at%20Naval%20Postgraduate%20School.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
