@@ -31,7 +31,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Keeping vLLM Production Quality: A Look Inside CI, Benchmarking, and the Release Process](docs/vllm/blog/2026-07-16/Keeping%20vLLM%20Production%20Quality_%20A%20Look%20Inside%20CI_%20Benchmarking_%20and%20the%20Release%20Process.md)
+- [A Preview of Production-Scale Kimi K3 Support on vLLM](docs/vllm/blog/2026-07-22/A%20Preview%20of%20Production-Scale%20Kimi%20K3%20Support%20on%20vLLM.md)
+- [Beyond a Single Model: Building Mixture-of-Models Systems with vLLM Semantic Router](docs/vllm/blog/2026-07-21/Beyond%20a%20Single%20Model_%20Building%20Mixture-of-Models%20Systems%20with%20vLLM%20Semantic%20Router.md)
 <!-- END:vllm -->
 
 ---
