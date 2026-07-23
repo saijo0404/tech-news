@@ -8,13 +8,8 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](docs/google/research/2026-07-22/SymptomAI_%20Towards%20a%20conversational%20AI%20agent%20for%20everyday%20symptom%20assessment.md)
-- [Here’s how to ask Gemini Live for help with anything you see.](docs/google/blog/2026-07-22/Here_s%20how%20to%20ask%20Gemini%20Live%20for%20help%20with%20anything%20you%20see.md)
-- [From maintenance to innovation: Checking in on Checkout.com’s Cloud Composer 3 migration](docs/google/cloud/2026-07-22/From%20maintenance%20to%20innovation_%20Checking%20in%20on%20Checkout_com_s%20Cloud%20Composer%203%20migration.md)
-- [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](docs/google/deepmind/2026-07-22/Accelerating%20the%20frontiers%20of%20scientific%20discovery_%20Google_s%20_40M%20commitment%20to%20the%20Genesis%20Mission.md)
-- [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](docs/google/cloud/2026-07-22/Accelerating%20the%20frontiers%20of%20scientific%20discovery_%20Google_s%20_40M%20commitment%20to%20the%20Genesis%20Mission.md)
-- [Switch to Android easily — and bring your data with you.](docs/google/blog/2026-07-22/Switch%20to%20Android%20easily%20_%20and%20bring%20your%20data%20with%20you.md)
-- [3 Google updates from Galaxy Unpacked 2026](docs/google/blog/2026-07-22/3%20Google%20updates%20from%20Galaxy%20Unpacked%202026.md)
+- [Q2 2026 earnings call: Remarks from our CEO](docs/google/blog/2026-07-22/Q2%202026%20earnings%20call_%20Remarks%20from%20our%20CEO.md)
+- [Drive with Halo on Waze](docs/google/blog/2026-07-22/Drive%20with%20Halo%20on%20Waze.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
