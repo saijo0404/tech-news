@@ -14,7 +14,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](docs/nvidia/blogs/2026-07-23/NVIDIA%20AI%20Supercomputer%20Comes%20Online%20at%20Naval%20Postgraduate%20School.md)
+- [NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea](docs/nvidia/newsroom/2026-07-23/NVIDIA%20and%20KAIST%20Launch%20Joint%20AI%20Research%20Lab%20to%20Accelerate%20AI%20Innovation%20in%20Korea.md)
+- [Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit](docs/nvidia/developer/2026-07-23/Debugging%20Ray%20Tracing%20Applications%20Using%20NVIDIA%20OptiX%20Toolkit.md)
+- [Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes](docs/nvidia/developer/2026-07-23/Start%20Customizing%20NVIDIA%20Nemotron%203%20Nano%20with%20Prime%20Intellect%20Lab%20in%20Minutes.md)
+- [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](docs/nvidia/blogs/2026-07-23/GeForce%20NOW%20Sets%20Sail%20With%20_Path%20of%20Exile_%20Curse%20of%20the%20Allflame_%20Joining%20the%20Cloud.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
