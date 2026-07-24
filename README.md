@@ -34,8 +34,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [A Preview of Production-Scale Kimi K3 Support on vLLM](docs/vllm/blog/2026-07-22/A%20Preview%20of%20Production-Scale%20Kimi%20K3%20Support%20on%20vLLM.md)
-- [Beyond a Single Model: Building Mixture-of-Models Systems with vLLM Semantic Router](docs/vllm/blog/2026-07-21/Beyond%20a%20Single%20Model_%20Building%20Mixture-of-Models%20Systems%20with%20vLLM%20Semantic%20Router.md)
+- [Announcing vLLM AFD Plugin: Disaggregating Attention and FFN for Flexible MoE Serving](docs/vllm/blog/2026-07-23/Announcing%20vLLM%20AFD%20Plugin_%20Disaggregating%20Attention%20and%20FFN%20for%20Flexible%20MoE%20Serving.md)
 <!-- END:vllm -->
 
 ---
