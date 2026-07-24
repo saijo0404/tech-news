@@ -28,8 +28,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [The State of Simulation for Physical AI: An Overview](docs/huggingface/blog/2026-07-21/The%20State%20of%20Simulation%20for%20Physical%20AI_%20An%20Overview.md)
-- [Grabette: an open system to record robot-manipulation data](docs/huggingface/blog/2026-07-21/Grabette_%20an%20open%20system%20to%20record%20robot-manipulation%20data.md)
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](docs/huggingface/blog/2026-07-23/Bringing%20Nunchaku%204-bit%20Diffusion%20Inference%20to%20Diffusers.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
