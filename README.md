@@ -20,10 +20,14 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea](docs/nvidia/newsroom/2026-07-23/NVIDIA%20and%20KAIST%20Launch%20Joint%20AI%20Research%20Lab%20to%20Accelerate%20AI%20Innovation%20in%20Korea.md)
-- [Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit](docs/nvidia/developer/2026-07-23/Debugging%20Ray%20Tracing%20Applications%20Using%20NVIDIA%20OptiX%20Toolkit.md)
-- [Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes](docs/nvidia/developer/2026-07-23/Start%20Customizing%20NVIDIA%20Nemotron%203%20Nano%20with%20Prime%20Intellect%20Lab%20in%20Minutes.md)
-- [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](docs/nvidia/blogs/2026-07-23/GeForce%20NOW%20Sets%20Sail%20With%20_Path%20of%20Exile_%20Curse%20of%20the%20Allflame_%20Joining%20the%20Cloud.md)
+- [NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs](docs/nvidia/blogs/2026-07-27/NVIDIA%20Harnesses%20Vera%20CPU%20to%20Speed%20Up%20Design%20of%20Next-Generation%20CPUs%20and%20GPUs.md)
+- [NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding](docs/nvidia/developer/2026-07-27/NVIDIA%20Nemotron%203%20Ultra%20Leads%20Open%20Models%20on%20Accuracy%20and%20Efficiency%20in%20Agentic%20RTL%20Coding.md)
+- [Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing](docs/nvidia/developer/2026-07-27/Advancing%20Semiconductor%20Innovation%20Across%20Materials%20Engineering%20and%20Manufacturing.md)
+- [NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds](docs/nvidia/newsroom/2026-07-27/NVIDIA%20Expands%20NVIDIA%20Agent%20Toolkit%20With%20NVIDIA%20PhysicsNeMo%20and%20CUDA-X%20Libraries%20to%20Transform%20How%20the%20World%20Engineers_%20Designs%20and%20Builds.md)
+- [NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout](docs/nvidia/newsroom/2026-07-25/NAVER_%20NVIDIA%20and%20Brookfield%20to%20Expand%20Korea_s%20National%20AI%20Factory%20Infrastructure%20Buildout.md)
+- [SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory](docs/nvidia/newsroom/2026-07-25/SK%20Group%20and%20NVIDIA%20Expand%20Strategic%20Partnership%20Across%20AI%20Factories%20and%20Next-Generation%20Memory.md)
+- [ModelExpress: Distributing Model Artifacts at the Speed of Light](docs/nvidia/developer/2026-07-24/ModelExpress_%20Distributing%20Model%20Artifacts%20at%20the%20Speed%20of%20Light.md)
+- [At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners](docs/nvidia/blogs/2026-07-24/At%20AI%20Summit_%20South%20Korea%20Outlines%20Its%20AI%20Future%20With%20NVIDIA%20and%20Partners.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
