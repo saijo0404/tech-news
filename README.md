@@ -8,14 +8,9 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Play Points members and comic book fans can score exclusive rewards with Google Play](docs/google/blog/2026-07-23/Play%20Points%20members%20and%20comic%20book%20fans%20can%20score%20exclusive%20rewards%20with%20Google%20Play.md)
-- [Minimize idle accelerators: Native RL job interleaving with co-operative time-slicing in llm-d](docs/google/cloud/2026-07-23/Minimize%20idle%20accelerators_%20Native%20RL%20job%20interleaving%20with%20co-operative%20time-slicing%20in%20llm-d.md)
-- [Your AI agents are ready. Is your data?](docs/google/cloud/2026-07-23/Your%20AI%20agents%20are%20ready_%20Is%20your%20data.md)
-- [The Blueprint: How Voicify makes AI-enabled ordering a delight for customers](docs/google/cloud/2026-07-23/The%20Blueprint_%20How%20Voicify%20makes%20AI-enabled%20ordering%20a%20delight%20for%20customers.md)
-- [Apply now for the Google for Startups Gemini Startup Forum.](docs/google/blog/2026-07-23/Apply%20now%20for%20the%20Google%20for%20Startups%20Gemini%20Startup%20Forum.md)
-- [Understanding the AI economy](docs/google/blog/2026-07-23/Understanding%20the%20AI%20economy.md)
-- [Introducing selfie for sign-in: a new, easy way to access your Google Account](docs/google/blog/2026-07-23/Introducing%20selfie%20for%20sign-in_%20a%20new_%20easy%20way%20to%20access%20your%20Google%20Account.md)
-- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](docs/google/blog/2026-07-21/Introducing%20Gemini%203_6%20Flash_%203_5%20Flash-Lite_%20and%203_5%20Flash%20Cyber.md)
+- [Open Knowledge format v0.2 tackles agentic trust](docs/google/cloud/2026-07-24/Open%20Knowledge%20format%20v0_2%20tackles%20agentic%20trust.md)
+- [Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.](docs/google/blog/2026-07-24/Google%20is%20signing%20the%20EU%20AI%20Act%20Code%20of%20Practice%20on%20Transparency%20of%20AI-Generated%20Content.md)
+- [Updated Cyber Threat Actor Naming System](docs/google/cloud/2026-07-24/Updated%20Cyber%20Threat%20Actor%20Naming%20System.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
