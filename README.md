@@ -8,9 +8,12 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Open Knowledge format v0.2 tackles agentic trust](docs/google/cloud/2026-07-24/Open%20Knowledge%20format%20v0_2%20tackles%20agentic%20trust.md)
-- [Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.](docs/google/blog/2026-07-24/Google%20is%20signing%20the%20EU%20AI%20Act%20Code%20of%20Practice%20on%20Transparency%20of%20AI-Generated%20Content.md)
-- [Updated Cyber Threat Actor Naming System](docs/google/cloud/2026-07-24/Updated%20Cyber%20Threat%20Actor%20Naming%20System.md)
+- [Google and KDDI are ready to back Japanese startups.](docs/google/blog/2026-07-28/Google%20and%20KDDI%20are%20ready%20to%20back%20Japanese%20startups.md)
+- [NOAA and Google Cloud collaborate to advance weather forecasting.](docs/google/blog/2026-07-27/NOAA%20and%20Google%20Cloud%20collaborate%20to%20advance%20weather%20forecasting.md)
+- [Announcing general availability of SAP Business Data Cloud Connect for BigQuery](docs/google/cloud/2026-07-27/Announcing%20general%20availability%20of%20SAP%20Business%20Data%20Cloud%20Connect%20for%20BigQuery.md)
+- [Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience](docs/google/cloud/2026-07-27/Cyber%20Snapshot%20Report_%20Go%20beyond%20the%20toolchain%20and%20build%20enterprise%20resilience.md)
+- [Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting](docs/google/cloud/2026-07-27/Modernizing%20the%20skies_%20NOAA%20and%20Google%20Cloud%20collaborate%20to%20advance%20weather%20forecasting.md)
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](docs/google/deepmind/2026-07-21/Introducing%20Gemini%203_6%20Flash_%203_5%20Flash-Lite_%20and%203_5%20Flash%20Cyber.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
