@@ -31,7 +31,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Announcing vLLM AFD Plugin: Disaggregating Attention and FFN for Flexible MoE Serving](docs/vllm/blog/2026-07-23/Announcing%20vLLM%20AFD%20Plugin_%20Disaggregating%20Attention%20and%20FFN%20for%20Flexible%20MoE%20Serving.md)
+- [Kimi K3 Is Here: Efficient Day-0 Support on vLLM](docs/vllm/blog/2026-07-27/Kimi%20K3%20Is%20Here_%20Efficient%20Day-0%20Support%20on%20vLLM.md)
+- [From Day 0 to Production SLAs: Serving GLM-5.2 on 24 NVIDIA B300 GPUs with vLLM](docs/vllm/blog/2026-07-23/From%20Day%200%20to%20Production%20SLAs_%20Serving%20GLM-5_2%20on%2024%20NVIDIA%20B300%20GPUs%20with%20vLLM.md)
 <!-- END:vllm -->
 
 ---
