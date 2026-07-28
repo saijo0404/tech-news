@@ -26,7 +26,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](docs/huggingface/blog/2026-07-23/Bringing%20Nunchaku%204-bit%20Diffusion%20Inference%20to%20Diffusers.md)
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](docs/huggingface/blog/2026-07-27/NVIDIA%20Cosmos-H-Dreams_%20Bringing%20Real-Time%20Generative%20Simulation%20to%20Surgical%20Robotics.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
