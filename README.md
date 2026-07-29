@@ -18,10 +18,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning](docs/nvidia/developer/2026-07-27/NVIDIA%20Ising%20Enables%20Fully%20Automated%20Quantum%20Computer%20Calibration%20with%20Enhanced%20In-Context%20Learning.md)
-- [Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership](docs/nvidia/newsroom/2026-07-27/Ilya%20Sutskever_s%20Safe%20Superintelligence%20Inc_%20and%20NVIDIA%20Announce%20Long-Term%20Strategic%20Partnership.md)
-- [Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](docs/nvidia/blogs/2026-07-27/Industry%20Leaders%20Unite%20in%20Open%20Secure%20AI%20Alliance%20for%20AI%20Safety%20and%20Security.md)
-- [Six Agent Harness Capabilities for Higher Model Performance](docs/nvidia/developer/2026-07-27/Six%20Agent%20Harness%20Capabilities%20for%20Higher%20Model%20Performance.md)
+- [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](docs/nvidia/developer/2026-07-28/Developing%20Healthcare%20Robotics%20with%20GPU-Native%20Medical%20Physics%20Simulation.md)
+- [Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](docs/nvidia/blogs/2026-07-28/Powerful%20Compute%20So%20Compact_%20It_s%20Clutch%20_%20Build%20AI%20Anywhere%20With%20NVIDIA%20Jetson.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
