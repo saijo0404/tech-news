@@ -8,12 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Google and KDDI are ready to back Japanese startups.](docs/google/blog/2026-07-28/Google%20and%20KDDI%20are%20ready%20to%20back%20Japanese%20startups.md)
-- [NOAA and Google Cloud collaborate to advance weather forecasting.](docs/google/blog/2026-07-27/NOAA%20and%20Google%20Cloud%20collaborate%20to%20advance%20weather%20forecasting.md)
-- [Announcing general availability of SAP Business Data Cloud Connect for BigQuery](docs/google/cloud/2026-07-27/Announcing%20general%20availability%20of%20SAP%20Business%20Data%20Cloud%20Connect%20for%20BigQuery.md)
-- [Cyber Snapshot Report: Go beyond the toolchain and build enterprise resilience](docs/google/cloud/2026-07-27/Cyber%20Snapshot%20Report_%20Go%20beyond%20the%20toolchain%20and%20build%20enterprise%20resilience.md)
-- [Modernizing the skies: NOAA and Google Cloud collaborate to advance weather forecasting](docs/google/cloud/2026-07-27/Modernizing%20the%20skies_%20NOAA%20and%20Google%20Cloud%20collaborate%20to%20advance%20weather%20forecasting.md)
-- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](docs/google/deepmind/2026-07-21/Introducing%20Gemini%203_6%20Flash_%203_5%20Flash-Lite_%20and%203_5%20Flash%20Cyber.md)
+- [Bringing Conversational Analytics to your entire data ecosystem](docs/google/cloud/2026-07-28/Bringing%20Conversational%20Analytics%20to%20your%20entire%20data%20ecosystem.md)
+- [Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS](docs/google/cloud/2026-07-28/Future-proofing%20data%20integrity_%20Quantum-safe%20digital%20signatures%20in%20Cloud%20KMS.md)
+- [How Gemini Flash agents are helping a Michigan dairy farmer](docs/google/blog/2026-07-28/How%20Gemini%20Flash%20agents%20are%20helping%20a%20Michigan%20dairy%20farmer.md)
+- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](docs/google/blog/2026-07-28/Gemini%20API%20Managed%20Agents_%203_6%20Flash_%20hooks_%20and%20more.md)
+- [3 new ways nonprofits can put AI to work](docs/google/blog/2026-07-28/3%20new%20ways%20nonprofits%20can%20put%20AI%20to%20work.md)
+- [Best Buy scales AI workloads and secures access with Workforce Identity Federation](docs/google/cloud/2026-07-28/Best%20Buy%20scales%20AI%20workloads%20and%20secures%20access%20with%20Workforce%20Identity%20Federation.md)
+- [Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend](docs/google/cloud/2026-07-28/Detect%20early%20and%20enforce%20firmly%20with%20Google%20Cloud_s%20enhanced%20cost%20controls%20for%20AI%20spend.md)
+- [5 ways AI Mode in Search helps you enjoy the real world](docs/google/blog/2026-07-28/5%20ways%20AI%20Mode%20in%20Search%20helps%20you%20enjoy%20the%20real%20world.md)
+- [These Google Trends show people really want to touch grass](docs/google/blog/2026-07-28/These%20Google%20Trends%20show%20people%20really%20want%20to%20touch%20grass.md)
+- [5 ways to host the ultimate dinner party with Google Search](docs/google/blog/2026-07-28/5%20ways%20to%20host%20the%20ultimate%20dinner%20party%20with%20Google%20Search.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
