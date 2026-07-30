@@ -8,16 +8,15 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Bringing Conversational Analytics to your entire data ecosystem](docs/google/cloud/2026-07-28/Bringing%20Conversational%20Analytics%20to%20your%20entire%20data%20ecosystem.md)
-- [Future-proofing data integrity: Quantum-safe digital signatures in Cloud KMS](docs/google/cloud/2026-07-28/Future-proofing%20data%20integrity_%20Quantum-safe%20digital%20signatures%20in%20Cloud%20KMS.md)
-- [How Gemini Flash agents are helping a Michigan dairy farmer](docs/google/blog/2026-07-28/How%20Gemini%20Flash%20agents%20are%20helping%20a%20Michigan%20dairy%20farmer.md)
-- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](docs/google/blog/2026-07-28/Gemini%20API%20Managed%20Agents_%203_6%20Flash_%20hooks_%20and%20more.md)
-- [3 new ways nonprofits can put AI to work](docs/google/blog/2026-07-28/3%20new%20ways%20nonprofits%20can%20put%20AI%20to%20work.md)
-- [Best Buy scales AI workloads and secures access with Workforce Identity Federation](docs/google/cloud/2026-07-28/Best%20Buy%20scales%20AI%20workloads%20and%20secures%20access%20with%20Workforce%20Identity%20Federation.md)
-- [Detect early and enforce firmly with Google Cloud's enhanced cost controls for AI spend](docs/google/cloud/2026-07-28/Detect%20early%20and%20enforce%20firmly%20with%20Google%20Cloud_s%20enhanced%20cost%20controls%20for%20AI%20spend.md)
-- [5 ways AI Mode in Search helps you enjoy the real world](docs/google/blog/2026-07-28/5%20ways%20AI%20Mode%20in%20Search%20helps%20you%20enjoy%20the%20real%20world.md)
-- [These Google Trends show people really want to touch grass](docs/google/blog/2026-07-28/These%20Google%20Trends%20show%20people%20really%20want%20to%20touch%20grass.md)
-- [5 ways to host the ultimate dinner party with Google Search](docs/google/blog/2026-07-28/5%20ways%20to%20host%20the%20ultimate%20dinner%20party%20with%20Google%20Search.md)
+- [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control](docs/google/deepmind/2026-07-29/We_re%20launching%20Lyria%203_5%20in%20Google%20Flow%20Music_%20with%20advances%20across%20musicality_%20lyrics_%20vocals_%20and%20creative%20control.md)
+- [How the Head of YouTube Health handles screen time with his kids](docs/google/blog/2026-07-29/How%20the%20Head%20of%20YouTube%20Health%20handles%20screen%20time%20with%20his%20kids.md)
+- [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.](docs/google/blog/2026-07-29/We_re%20launching%20Lyria%203_5%20in%20Google%20Flow%20Music_%20with%20advances%20across%20musicality_%20lyrics_%20vocals_%20and%20creative%20control.md)
+- [The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents](docs/google/cloud/2026-07-29/The%20borderless%20Lakehouse_%20Bring%20AWS_%20Databricks%20and%20Snowflake%20data%20to%20your%20AI%20agents.md)
+- [Automate data monitoring and root-cause analysis with Looker Agentic Workflows](docs/google/cloud/2026-07-29/Automate%20data%20monitoring%20and%20root-cause%20analysis%20with%20Looker%20Agentic%20Workflows.md)
+- [What’s new in Gemini Enterprise Agent Platform](docs/google/cloud/2026-07-29/What_s%20new%20in%20Gemini%20Enterprise%20Agent%20Platform.md)
+- [Automate your agent development lifecycle using any coding agent](docs/google/cloud/2026-07-29/Automate%20your%20agent%20development%20lifecycle%20using%20any%20coding%20agent.md)
+- [Prepare for the holiday season with July’s Demand Gen Drop.](docs/google/blog/2026-07-29/Prepare%20for%20the%20holiday%20season%20with%20July_s%20Demand%20Gen%20Drop.md)
+- [Gemini for macOS adds new natural language capabilities](docs/google/blog/2026-07-29/Gemini%20for%20macOS%20adds%20new%20natural%20language%20capabilities.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
