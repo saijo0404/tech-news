@@ -22,8 +22,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](docs/nvidia/developer/2026-07-28/Developing%20Healthcare%20Robotics%20with%20GPU-Native%20Medical%20Physics%20Simulation.md)
-- [Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson](docs/nvidia/blogs/2026-07-28/Powerful%20Compute%20So%20Compact_%20It_s%20Clutch%20_%20Build%20AI%20Anywhere%20With%20NVIDIA%20Jetson.md)
+- [NVIDIA Sets Conference Call for Second-Quarter Financial Results](docs/nvidia/newsroom/2026-07-29/NVIDIA%20Sets%20Conference%20Call%20for%20Second-Quarter%20Financial%20Results.md)
+- [How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails](docs/nvidia/developer/2026-07-29/How%20to%20Self-Host%20a%20Validated%20AI%20Coding%20Assistant%20with%20NVIDIA%20NeMo%20Guardrails.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
