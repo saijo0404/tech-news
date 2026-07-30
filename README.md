@@ -35,7 +35,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Parallel All the Way Down: Beyond Single-Token Generation with Speculative Decoding](docs/vllm/blog/2026-07-28/Parallel%20All%20the%20Way%20Down_%20Beyond%20Single-Token%20Generation%20with%20Speculative%20Decoding.md)
+- [Optimizing vLLM on Arm CPUs](docs/vllm/blog/2026-07-29/Optimizing%20vLLM%20on%20Arm%20CPUs.md)
 <!-- END:vllm -->
 
 ---
