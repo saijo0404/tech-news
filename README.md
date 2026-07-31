@@ -8,15 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control](docs/google/deepmind/2026-07-29/We_re%20launching%20Lyria%203_5%20in%20Google%20Flow%20Music_%20with%20advances%20across%20musicality_%20lyrics_%20vocals_%20and%20creative%20control.md)
-- [How the Head of YouTube Health handles screen time with his kids](docs/google/blog/2026-07-29/How%20the%20Head%20of%20YouTube%20Health%20handles%20screen%20time%20with%20his%20kids.md)
-- [We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.](docs/google/blog/2026-07-29/We_re%20launching%20Lyria%203_5%20in%20Google%20Flow%20Music_%20with%20advances%20across%20musicality_%20lyrics_%20vocals_%20and%20creative%20control.md)
-- [The borderless Lakehouse: Bring AWS, Databricks and Snowflake data to your AI agents](docs/google/cloud/2026-07-29/The%20borderless%20Lakehouse_%20Bring%20AWS_%20Databricks%20and%20Snowflake%20data%20to%20your%20AI%20agents.md)
-- [Automate data monitoring and root-cause analysis with Looker Agentic Workflows](docs/google/cloud/2026-07-29/Automate%20data%20monitoring%20and%20root-cause%20analysis%20with%20Looker%20Agentic%20Workflows.md)
-- [What’s new in Gemini Enterprise Agent Platform](docs/google/cloud/2026-07-29/What_s%20new%20in%20Gemini%20Enterprise%20Agent%20Platform.md)
-- [Automate your agent development lifecycle using any coding agent](docs/google/cloud/2026-07-29/Automate%20your%20agent%20development%20lifecycle%20using%20any%20coding%20agent.md)
-- [Prepare for the holiday season with July’s Demand Gen Drop.](docs/google/blog/2026-07-29/Prepare%20for%20the%20holiday%20season%20with%20July_s%20Demand%20Gen%20Drop.md)
-- [Gemini for macOS adds new natural language capabilities](docs/google/blog/2026-07-29/Gemini%20for%20macOS%20adds%20new%20natural%20language%20capabilities.md)
+- [Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](docs/google/research/2026-07-30/Science%20One%20Framework_%20A%20verifiable%20autonomous%20research%20framework%20via%20Chain-of-Evidence.md)
+- [Gemini Spark now integrates with Chrome](docs/google/blog/2026-07-30/Gemini%20Spark%20now%20integrates%20with%20Chrome.md)
+- [Do more with less: How GKE can reduce your cost per agent by 75%](docs/google/cloud/2026-07-30/Do%20more%20with%20less_%20How%20GKE%20can%20reduce%20your%20cost%20per%20agent%20by%2075.md)
+- [AlloyDB adds group authentication to secure enterprise scale and AI agents](docs/google/cloud/2026-07-30/AlloyDB%20adds%20group%20authentication%20to%20secure%20enterprise%20scale%20and%20AI%20agents.md)
+- [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](docs/google/deepmind/2026-07-30/Gemini%20Robotics%20ER%202_%20powering%20robotics%20with%20video%20understanding_%20task%20orchestration_%20and%20multi-robot%20collaboration.md)
+- [Introducing Gemini Robotics ER 2](docs/google/blog/2026-07-30/Introducing%20Gemini%20Robotics%20ER%202.md)
+- [Take a look at short films created by our latest group of artists in Google’s Flow Sessions program.](docs/google/blog/2026-07-30/Take%20a%20look%20at%20short%20films%20created%20by%20our%20latest%20group%20of%20artists%20in%20Google_s%20Flow%20Sessions%20program.md)
+- [Batten Down Your Packages: Mitigation Guidance for Supply Chain Compromise](docs/google/cloud/2026-07-30/Batten%20Down%20Your%20Packages_%20Mitigation%20Guidance%20for%20Supply%20Chain%20Compromise.md)
+- [Transform any place with Nano Banana in Google Earth](docs/google/blog/2026-07-30/Transform%20any%20place%20with%20Nano%20Banana%20in%20Google%20Earth.md)
+- [Gemini Robotics 2 brings whole body intelligence to robots](docs/google/deepmind/2026-07-28/Gemini%20Robotics%202%20brings%20whole%20body%20intelligence%20to%20robots.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
