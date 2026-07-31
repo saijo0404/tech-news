@@ -29,9 +29,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [The OlmoEarth Platform: Geospatial inference at planetary scale](docs/huggingface/blog/2026-07-28/The%20OlmoEarth%20Platform_%20Geospatial%20inference%20at%20planetary%20scale.md)
-- [LFM2.5-Encoders for Fast Long-Context Inference on CPU](docs/huggingface/blog/2026-07-28/LFM2_5-Encoders%20for%20Fast%20Long-Context%20Inference%20on%20CPU.md)
-- [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](docs/huggingface/blog/2026-07-27/Anatomy%20of%20a%20Frontier%20Lab%20Agent%20Intrusion_%20A%20Technical%20Timeline%20of%20the%20July%202026%20Incident.md)
+- [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](docs/huggingface/blog/2026-07-30/GPU%20Management_%20Why%20Idle%20GPUs%20Are%20the%20New%20Grounded%20Aircraft.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
