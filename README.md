@@ -21,8 +21,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Sets Conference Call for Second-Quarter Financial Results](docs/nvidia/newsroom/2026-07-29/NVIDIA%20Sets%20Conference%20Call%20for%20Second-Quarter%20Financial%20Results.md)
-- [How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails](docs/nvidia/developer/2026-07-29/How%20to%20Self-Host%20a%20Validated%20AI%20Coding%20Assistant%20with%20NVIDIA%20NeMo%20Guardrails.md)
+- [Run High-Performance Core Math at Scale with NVIDIA nvmath-python](docs/nvidia/developer/2026-07-30/Run%20High-Performance%20Core%20Math%20at%20Scale%20with%20NVIDIA%20nvmath-python.md)
+- [Four Ways to Deploy More Secure AI Agents](docs/nvidia/developer/2026-07-30/Four%20Ways%20to%20Deploy%20More%20Secure%20AI%20Agents.md)
+- [NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure](docs/nvidia/developer/2026-07-30/NVIDIA%20Exemplar%20Cloud_%20Lessons%20for%20Unlocking%20Full%20Performance%20on%20AI%20Infrastructure.md)
+- [Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW](docs/nvidia/blogs/2026-07-30/Best%20in%20Class_%20Stream%20PC%20Games%20and%20Study%20on%20the%20Same%20Laptop%20With%20GeForce%20NOW.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
