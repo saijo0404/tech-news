@@ -22,10 +22,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Run High-Performance Core Math at Scale with NVIDIA nvmath-python](docs/nvidia/developer/2026-07-30/Run%20High-Performance%20Core%20Math%20at%20Scale%20with%20NVIDIA%20nvmath-python.md)
-- [Four Ways to Deploy More Secure AI Agents](docs/nvidia/developer/2026-07-30/Four%20Ways%20to%20Deploy%20More%20Secure%20AI%20Agents.md)
-- [NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure](docs/nvidia/developer/2026-07-30/NVIDIA%20Exemplar%20Cloud_%20Lessons%20for%20Unlocking%20Full%20Performance%20on%20AI%20Infrastructure.md)
-- [Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW](docs/nvidia/blogs/2026-07-30/Best%20in%20Class_%20Stream%20PC%20Games%20and%20Study%20on%20the%20Same%20Laptop%20With%20GeForce%20NOW.md)
+- [Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference](docs/nvidia/developer/2026-07-31/Co-Designing%20AI%20Model%20Attention%20for%20Fast_%20Interactive%20Long-Context%20Inference.md)
+- [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](docs/nvidia/developer/2026-07-31/NVIDIA%20Video%20Codec%20SDK%2013_1_%20Zero-Copy%20Transcode_%20AV1%20B-Frames_%20and%20Frame-Accurate%20Seek.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
