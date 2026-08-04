@@ -8,11 +8,12 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Simplify your morning with this vibe-coded schedule app.](docs/google/blog/2026-07-31/Simplify%20your%20morning%20with%20this%20vibe-coded%20schedule%20app.md)
-- [Find out what’s new in the Gemini app in July's Gemini Drop.](docs/google/blog/2026-07-31/Find%20out%20what_s%20new%20in%20the%20Gemini%20app%20in%20July_s%20Gemini%20Drop.md)
-- [What’s new in AI infrastructure and orchestration this month](docs/google/cloud/2026-07-31/What_s%20new%20in%20AI%20infrastructure%20and%20orchestration%20this%20month.md)
-- [Cloud CISO Perspectives: Why AI Threat Defense is the new boardroom baseline](docs/google/cloud/2026-07-31/Cloud%20CISO%20Perspectives_%20Why%20AI%20Threat%20Defense%20is%20the%20new%20boardroom%20baseline.md)
-- [Experience the magic of Kosovo from anywhere with Street View](docs/google/blog/2026-07-31/Experience%20the%20magic%20of%20Kosovo%20from%20anywhere%20with%20Street%20View.md)
+- [Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud](docs/google/cloud/2026-08-03/Real-world%20mainframe%20modernization%20with%20AI_%20A%20safe_%20scalable%20path%20from%20mainframe%20to%20cloud.md)
+- [Welcome to Sail Tower, our newest Austin office](docs/google/blog/2026-08-03/Welcome%20to%20Sail%20Tower_%20our%20newest%20Austin%20office.md)
+- [Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations](docs/google/cloud/2026-08-03/Cortex%20Framework%20v7%20is%20GA_%20Build%20agentic%20workflows%20without%20disrupting%20SAP%20operations.md)
+- [Unifying public and private data: Scale knowledge graphs with Data Commons on Spanner](docs/google/cloud/2026-08-03/Unifying%20public%20and%20private%20data_%20Scale%20knowledge%20graphs%20with%20Data%20Commons%20on%20Spanner.md)
+- [Inside our 353,000-person vibe coding course](docs/google/blog/2026-08-03/Inside%20our%20353_000-person%20vibe%20coding%20course.md)
+- [Behind the scenes: How we build, test, and scale Google Agent Skills](docs/google/cloud/2026-08-03/Behind%20the%20scenes_%20How%20we%20build_%20test_%20and%20scale%20Google%20Agent%20Skills.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
