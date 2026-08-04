@@ -17,8 +17,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference](docs/nvidia/developer/2026-07-31/Co-Designing%20AI%20Model%20Attention%20for%20Fast_%20Interactive%20Long-Context%20Inference.md)
-- [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](docs/nvidia/developer/2026-07-31/NVIDIA%20Video%20Codec%20SDK%2013_1_%20Zero-Copy%20Transcode_%20AV1%20B-Frames_%20and%20Frame-Accurate%20Seek.md)
+- [How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure](docs/nvidia/developer/2026-08-03/How%20to%20Run%20Isolated%20Tenant%20Kubernetes%20Clusters%20on%20Shared%20GPU%20Infrastructure.md)
+- [NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage](docs/nvidia/developer/2026-08-03/NVIDIA%20Vera%20Storage%20Benchmarks_%20Faster%20Encryption_%20Compression_%20Integrity%20Checking_%20and%20Recovery%20for%20AI-Native%20Storage.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
