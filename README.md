@@ -28,7 +28,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](docs/huggingface/blog/2026-07-30/GPU%20Management_%20Why%20Idle%20GPUs%20Are%20the%20New%20Grounded%20Aircraft.md)
+- [Deploy local agents everywhere with LFM2.5-2.6B](docs/huggingface/blog/2026-08-04/Deploy%20local%20agents%20everywhere%20with%20LFM2_5-2_6B.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
