@@ -8,12 +8,12 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Real-world mainframe modernization with AI: A safe, scalable path from mainframe to cloud](docs/google/cloud/2026-08-03/Real-world%20mainframe%20modernization%20with%20AI_%20A%20safe_%20scalable%20path%20from%20mainframe%20to%20cloud.md)
-- [Welcome to Sail Tower, our newest Austin office](docs/google/blog/2026-08-03/Welcome%20to%20Sail%20Tower_%20our%20newest%20Austin%20office.md)
-- [Cortex Framework v7 is GA: Build agentic workflows without disrupting SAP operations](docs/google/cloud/2026-08-03/Cortex%20Framework%20v7%20is%20GA_%20Build%20agentic%20workflows%20without%20disrupting%20SAP%20operations.md)
-- [Unifying public and private data: Scale knowledge graphs with Data Commons on Spanner](docs/google/cloud/2026-08-03/Unifying%20public%20and%20private%20data_%20Scale%20knowledge%20graphs%20with%20Data%20Commons%20on%20Spanner.md)
-- [Inside our 353,000-person vibe coding course](docs/google/blog/2026-08-03/Inside%20our%20353_000-person%20vibe%20coding%20course.md)
-- [Behind the scenes: How we build, test, and scale Google Agent Skills](docs/google/cloud/2026-08-03/Behind%20the%20scenes_%20How%20we%20build_%20test_%20and%20scale%20Google%20Agent%20Skills.md)
+- [Introducing Database Operations Agents: The future of autonomous database management](docs/google/cloud/2026-08-04/Introducing%20Database%20Operations%20Agents_%20The%20future%20of%20autonomous%20database%20management.md)
+- [How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph](docs/google/cloud/2026-08-04/How%20Target%20is%20enhancing%20retail%20discovery%20and%20cutting%20database%20maintenance%20by%2050_%20with%20Spanner%20Graph.md)
+- [Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation](docs/google/cloud/2026-08-04/Multiple%20result%20sets_%20How%20Database%20Migration%20Service%20automates%20SQL%20server%20to%20PostgreSQL%20translation.md)
+- [How Deutsche Bank unlocked agility with an API-ready ecosystem](docs/google/cloud/2026-08-04/How%20Deutsche%20Bank%20unlocked%20agility%20with%20an%20API-ready%20ecosystem.md)
+- [The latest AI news we announced in July 2026](docs/google/blog/2026-08-04/The%20latest%20AI%20news%20we%20announced%20in%20July%202026.md)
+- [Future Mode Part 2: The foundation for securing agentic browsing](docs/google/cloud/2026-08-04/Future%20Mode%20Part%202_%20The%20foundation%20for%20securing%20agentic%20browsing.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
