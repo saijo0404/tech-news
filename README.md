@@ -18,12 +18,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](docs/nvidia/newsroom/2026-08-04/NVIDIA%20Joins%20NSF%20State%20and%20Regional%20AI%20Hubs%20Program%20to%20Expand%20AI%20Research%20and%20Education%20Across%20the%20US.md)
-- [NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US](docs/nvidia/blogs/2026-08-04/NVIDIA%20Joins%20NSF%20State%20and%20Regional%20AI%20Hubs%20Program%20to%20Expand%20AI%20Research%20and%20Education%20Across%20the%20US.md)
-- [NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use](docs/nvidia/blogs/2026-08-04/NVIDIA%20Alpamayo%202%20Super_%20the%20Frontier%20Open%20Model%20for%20Robotaxis%20and%20Autonomous%20Vehicles_%20Now%20Available%20for%20Commercial%20Use.md)
-- [As AI Increases Demands on Memory, Storage Steps Up](docs/nvidia/blogs/2026-08-04/As%20AI%20Increases%20Demands%20on%20Memory_%20Storage%20Steps%20Up.md)
-- [Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super](docs/nvidia/developer/2026-08-04/Generate%20Trajectories_%20Reasoning%20Traces_%20and%20Auto-Labels%20with%20NVIDIA%20Alpamayo%202%20Super.md)
-- [AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency](docs/nvidia/blogs/2026-08-04/AI%20Leaders%20Propose%20SAFE%20Guidelines%20for%20Cybersecurity%20Transparency.md)
+- [Beyond VLAs: How World Action Models Reshape Robot Manipulation](docs/nvidia/developer/2026-08-04/Beyond%20VLAs_%20How%20World%20Action%20Models%20Reshape%20Robot%20Manipulation.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
