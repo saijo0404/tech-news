@@ -8,12 +8,10 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Introducing Database Operations Agents: The future of autonomous database management](docs/google/cloud/2026-08-04/Introducing%20Database%20Operations%20Agents_%20The%20future%20of%20autonomous%20database%20management.md)
-- [How Target is enhancing retail discovery and cutting database maintenance by 50% with Spanner Graph](docs/google/cloud/2026-08-04/How%20Target%20is%20enhancing%20retail%20discovery%20and%20cutting%20database%20maintenance%20by%2050_%20with%20Spanner%20Graph.md)
-- [Multiple result sets: How Database Migration Service automates SQL server to PostgreSQL translation](docs/google/cloud/2026-08-04/Multiple%20result%20sets_%20How%20Database%20Migration%20Service%20automates%20SQL%20server%20to%20PostgreSQL%20translation.md)
-- [How Deutsche Bank unlocked agility with an API-ready ecosystem](docs/google/cloud/2026-08-04/How%20Deutsche%20Bank%20unlocked%20agility%20with%20an%20API-ready%20ecosystem.md)
-- [The latest AI news we announced in July 2026](docs/google/blog/2026-08-04/The%20latest%20AI%20news%20we%20announced%20in%20July%202026.md)
-- [Future Mode Part 2: The foundation for securing agentic browsing](docs/google/cloud/2026-08-04/Future%20Mode%20Part%202_%20The%20foundation%20for%20securing%20agentic%20browsing.md)
+- [The next chapter of our AI momentum](docs/google/blog/2026-08-05/The%20next%20chapter%20of%20our%20AI%20momentum.md)
+- [Scaling agentic AI: How UiPath built its high-performance GPU platform on AI Hypercomputer](docs/google/cloud/2026-08-05/Scaling%20agentic%20AI_%20How%20UiPath%20built%20its%20high-performance%20GPU%20platform%20on%20AI%20Hypercomputer.md)
+- [Solving the "Noisy Neighbor": How Sharded Architecture Protects Multi-Tenant Platforms](docs/google/cloud/2026-08-05/Solving%20the%20_Noisy%20Neighbor_%20How%20Sharded%20Architecture%20Protects%20Multi-Tenant%20Platforms.md)
+- [Unlocking the future of shared storage: Filestore on Colossus](docs/google/cloud/2026-08-05/Unlocking%20the%20future%20of%20shared%20storage_%20Filestore%20on%20Colossus.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
