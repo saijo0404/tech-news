@@ -16,7 +16,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Beyond VLAs: How World Action Models Reshape Robot Manipulation](docs/nvidia/developer/2026-08-04/Beyond%20VLAs_%20How%20World%20Action%20Models%20Reshape%20Robot%20Manipulation.md)
+- [GeForce NOW Shakes Up August With 26 New Games](docs/nvidia/blogs/2026-08-06/GeForce%20NOW%20Shakes%20Up%20August%20With%2026%20New%20Games.md)
+- [Into the Omniverse: How Open World Models Push the Frontier of Physical AI](docs/nvidia/blogs/2026-08-06/Into%20the%20Omniverse_%20How%20Open%20World%20Models%20Push%20the%20Frontier%20of%20Physical%20AI.md)
+- [NVIDIA and Partners Build in America, for America](docs/nvidia/blogs/2026-08-05/NVIDIA%20and%20Partners%20Build%20in%20America_%20for%20America.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
