@@ -32,7 +32,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Deploy local agents everywhere with LFM2.5-2.6B](docs/huggingface/blog/2026-08-04/Deploy%20local%20agents%20everywhere%20with%20LFM2_5-2_6B.md)
+- [Baseten on Hugging Face Inference Providers 🔥](docs/huggingface/blog/2026-08-06/Baseten%20on%20Hugging%20Face%20Inference%20Providers.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
