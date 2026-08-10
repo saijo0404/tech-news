@@ -22,7 +22,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Baseten on Hugging Face Inference Providers 🔥](docs/huggingface/blog/2026-08-06/Baseten%20on%20Hugging%20Face%20Inference%20Providers.md)
+- [TutorMoments: Do AI tutors know when to help and when to hold back?](docs/huggingface/blog/2026-08-07/TutorMoments_%20Do%20AI%20tutors%20know%20when%20to%20help%20and%20when%20to%20hold%20back.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
