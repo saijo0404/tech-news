@@ -25,9 +25,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [GeForce NOW Shakes Up August With 26 New Games](docs/nvidia/blogs/2026-08-06/GeForce%20NOW%20Shakes%20Up%20August%20With%2026%20New%20Games.md)
-- [Into the Omniverse: How Open World Models Push the Frontier of Physical AI](docs/nvidia/blogs/2026-08-06/Into%20the%20Omniverse_%20How%20Open%20World%20Models%20Push%20the%20Frontier%20of%20Physical%20AI.md)
-- [NVIDIA and Partners Build in America, for America](docs/nvidia/blogs/2026-08-05/NVIDIA%20and%20Partners%20Build%20in%20America_%20for%20America.md)
+- [Firebird Launches CIS Region’s Largest AI Factory in Armenia](docs/nvidia/blogs/2026-08-08/Firebird%20Launches%20CIS%20Region_s%20Largest%20AI%20Factory%20in%20Armenia.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
