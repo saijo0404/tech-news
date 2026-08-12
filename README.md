@@ -48,8 +48,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Efficient Decode Context Parallelism with vLLM for Long Context Workloads](docs/vllm/blog/2026-08-07/Efficient%20Decode%20Context%20Parallelism%20with%20vLLM%20for%20Long%20Context%20Workloads.md)
-- [vLLM Reaches 25K Total TPS/GPU on Qwen3.5](docs/vllm/blog/2026-08-06/vLLM%20Reaches%2025K%20Total%20TPS_GPU%20on%20Qwen3_5.md)
+- [Announcing Day-0 Support for NVIDIA Nemotron 3.5 Lightning on vLLM](docs/vllm/blog/2026-08-10/Announcing%20Day-0%20Support%20for%20NVIDIA%20Nemotron%203_5%20Lightning%20on%20vLLM.md)
 <!-- END:vllm -->
 
 ---
