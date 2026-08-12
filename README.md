@@ -8,11 +8,24 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Zero-code, low-cost data ingestion: New BigQuery DTS capabilities](docs/google/cloud/2026-08-07/Zero-code_%20low-cost%20data%20ingestion_%20New%20BigQuery%20DTS%20capabilities.md)
-- [Unifying Structured and Unstructured Data Insights with BQ Search Innovations](docs/google/cloud/2026-08-07/Unifying%20Structured%20and%20Unstructured%20Data%20Insights%20with%20BQ%20Search%20Innovations.md)
-- [How Google Cloud detects, contains, and protects against emerging threats](docs/google/cloud/2026-08-07/How%20Google%20Cloud%20detects_%20contains_%20and%20protects%20against%20emerging%20threats.md)
-- [GOL! How TelevisaUnivision streamed the FIFA World Cup to millions with Google Cloud](docs/google/cloud/2026-08-07/GOL_%20How%20TelevisaUnivision%20streamed%20the%20FIFA%20World%20Cup%20to%20millions%20with%20Google%20Cloud.md)
-- [See what 5 builders are making with Gemini Omni](docs/google/blog/2026-08-07/See%20what%205%20builders%20are%20making%20with%20Gemini%20Omni.md)
+- [Advancing AMIE towards expert-level audio-visual clinical consultations](docs/google/research/2026-08-11/Advancing%20AMIE%20towards%20expert-level%20audio-visual%20clinical%20consultations.md)
+- [AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.](docs/google/blog/2026-08-11/AMIE_%20our%20research%20medical%20AI%20system_%20demonstrates%20real-time%20clinical%20video%20consultation%20capabilities%20in%20a%20first-of-its-kind%20study.md)
+- [Stream free movies and shows on Google TV Freeplay](docs/google/blog/2026-08-11/Stream%20free%20movies%20and%20shows%20on%20Google%20TV%20Freeplay.md)
+- [More than 1 billion people are using the Gemini app every month.](docs/google/blog/2026-08-11/More%20than%201%20billion%20people%20are%20using%20the%20Gemini%20app%20every%20month.md)
+- [PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap](docs/google/cloud/2026-08-11/PQC%20in%20Plaintext_%20Google%20Cloud_s%20post-quantum%20cryptography%20roadmap.md)
+- [Looker’s semantic layer governs Gemini Enterprise data for user trust](docs/google/cloud/2026-08-11/Looker_s%20semantic%20layer%20governs%20Gemini%20Enterprise%20data%20for%20user%20trust.md)
+- [Accelerate PostgreSQL migrations using Gemini in Database Migration Service](docs/google/cloud/2026-08-11/Accelerate%20PostgreSQL%20migrations%20using%20Gemini%20in%20Database%20Migration%20Service.md)
+- [Google Health announces a strategic partnership with Abbott, a leader in health and wellness.](docs/google/blog/2026-08-11/Google%20Health%20announces%20a%20strategic%20partnership%20with%20Abbott_%20a%20leader%20in%20health%20and%20wellness.md)
+- [Expanding the Google AI Professional Certificate with vibe coding](docs/google/blog/2026-08-11/Expanding%20the%20Google%20AI%20Professional%20Certificate%20with%20vibe%20coding.md)
+- [Expanding connectivity in the Americas: Introducing Alisios, Canoa, and OlaLuz subsea cables](docs/google/cloud/2026-08-11/Expanding%20connectivity%20in%20the%20Americas_%20Introducing%20Alisios_%20Canoa_%20and%20OlaLuz%20subsea%20cables.md)
+- [Introducing the Developer Device Platform for agentic mobile app development](docs/google/cloud/2026-08-10/Introducing%20the%20Developer%20Device%20Platform%20for%20agentic%20mobile%20app%20development.md)
+- [Have more fun at the state fair with these Google tools](docs/google/blog/2026-08-10/Have%20more%20fun%20at%20the%20state%20fair%20with%20these%20Google%20tools.md)
+- [How Malachyte solves retail’s cold-start problem with managed real-time AI](docs/google/cloud/2026-08-10/How%20Malachyte%20solves%20retail_s%20cold-start%20problem%20with%20managed%20real-time%20AI.md)
+- [ClusterNetworkPolicy in GKE: Balancing control and autonomy for your microservices](docs/google/cloud/2026-08-10/ClusterNetworkPolicy%20in%20GKE_%20Balancing%20control%20and%20autonomy%20for%20your%20microservices.md)
+- [Google named a Leader in The Forrester Wave™: AI Platforms, Q3 2026](docs/google/cloud/2026-08-10/Google%20named%20a%20Leader%20in%20The%20Forrester%20Wave_%20AI%20Platforms_%20Q3%202026.md)
+- [How WPP operationalizes platform and data engineering for AI marketing](docs/google/cloud/2026-08-10/How%20WPP%20operationalizes%20platform%20and%20data%20engineering%20for%20AI%20marketing.md)
+- [Evolve your marketing with new AI tools](docs/google/blog/2026-08-10/Evolve%20your%20marketing%20with%20new%20AI%20tools.md)
+- [Venmo is giving you a new way to pay on Google Play.](docs/google/blog/2026-08-10/Venmo%20is%20giving%20you%20a%20new%20way%20to%20pay%20on%20Google%20Play.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
