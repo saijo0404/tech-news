@@ -43,7 +43,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [TutorMoments: Do AI tutors know when to help and when to hold back?](docs/huggingface/blog/2026-08-07/TutorMoments_%20Do%20AI%20tutors%20know%20when%20to%20help%20and%20when%20to%20hold%20back.md)
+- [Thinking of ACE? We Can Do It with Fewer Tokens](docs/huggingface/blog/2026-08-11/Thinking%20of%20ACE_%20We%20Can%20Do%20It%20with%20Fewer%20Tokens.md)
+- [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](docs/huggingface/blog/2026-08-10/Build%20Low-Latency%20Multilingual%20Voice%20Agents_%20Open%20Weights%20_%20Full%20Deployment%20Control%20with%20NVIDIA%20Magpie%20TTS.md)
+- [Making Knowledge Distillation Cheap Enough to Run at Scale](docs/huggingface/blog/2026-08-10/Making%20Knowledge%20Distillation%20Cheap%20Enough%20to%20Run%20at%20Scale.md)
+- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](docs/huggingface/blog/2026-08-10/Meta%20is%20back%20with%20Muse%20Glimmer_%20local_%20agentic_%20multimodal_%20and%20open%20source.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
