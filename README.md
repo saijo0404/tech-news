@@ -44,7 +44,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Announcing Day-0 Support for NVIDIA Nemotron 3.5 Lightning on vLLM](docs/vllm/blog/2026-08-10/Announcing%20Day-0%20Support%20for%20NVIDIA%20Nemotron%203_5%20Lightning%20on%20vLLM.md)
+- [Day 0 Support for Qwen3.8-2.4T-A95B on vLLM](docs/vllm/blog/2026-08-12/Day%200%20Support%20for%20Qwen3_8-2_4T-A95B%20on%20vLLM.md)
 <!-- END:vllm -->
 
 ---
