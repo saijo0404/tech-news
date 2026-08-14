@@ -29,9 +29,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72](docs/nvidia/developer/2026-08-12/Serve%20Qwen3_8-2_4T-A95B_%20a%202_4T-Parameter%20Model_%20with%20Configurable%20Reasoning%20on%20NVIDIA%20GB300%20NVL72.md)
-- [How to Choose Full-Stack Observability for NVIDIA AI Factories](docs/nvidia/developer/2026-08-12/How%20to%20Choose%20Full-Stack%20Observability%20for%20NVIDIA%20AI%20Factories.md)
-- [NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs](docs/nvidia/blogs/2026-08-12/NVIDIA%20CEO%20Tops%20Glassdoor_s%202026%20List%20of%20Best%20CEOs.md)
+- [Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More](docs/nvidia/blogs/2026-08-13/Class%20Is%20in%20Session_%20GeForce%20NOW%20Levels%20Up%20Linux_%20Chromebooks%20and%20More.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
