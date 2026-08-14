@@ -8,23 +8,13 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Putting sign language AI into users’ hands](docs/google/deepmind/2026-08-12/Putting%20sign%20language%20AI%20into%20users_%20hands.md)
-- [How we built the new GPS on Pixel Watch 5](docs/google/blog/2026-08-12/How%20we%20built%20the%20new%20GPS%20on%20Pixel%20Watch%205.md)
-- [Now you can connect even more of your favorite apps and services to Gemini.](docs/google/blog/2026-08-12/Now%20you%20can%20connect%20even%20more%20of%20your%20favorite%20apps%20and%20services%20to%20Gemini.md)
-- [Sharing between Pixel devices is now just a tap away.](docs/google/blog/2026-08-12/Sharing%20between%20Pixel%20devices%20is%20now%20just%20a%20tap%20away.md)
-- [7 can’t-miss updates from our Pixel 11 launch](docs/google/blog/2026-08-12/7%20can_t-miss%20updates%20from%20our%20Pixel%2011%20launch.md)
-- [The Pixel 11 series: Your most personal Pixel yet](docs/google/blog/2026-08-12/The%20Pixel%2011%20series_%20Your%20most%20personal%20Pixel%20yet.md)
-- [Here’s your first look at the newest Pixel devices.](docs/google/blog/2026-08-12/Here_s%20your%20first%20look%20at%20the%20newest%20Pixel%20devices.md)
-- [Here are 3 ways your Pixel just got even more helpful.](docs/google/blog/2026-08-12/Here%20are%203%20ways%20your%20Pixel%20just%20got%20even%20more%20helpful.md)
-- [New accessories for Pixel 11 phones are here.](docs/google/blog/2026-08-12/New%20accessories%20for%20Pixel%2011%20phones%20are%20here.md)
-- [Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.](docs/google/blog/2026-08-12/Here_s%20what_s%20new%20with%20Pixel%20Buds%20Pro%202%20and%20Pixel%20Buds%202a.md)
-- [Keep tabs on your valuables with Google Pixel Tag](docs/google/blog/2026-08-12/Keep%20tabs%20on%20your%20valuables%20with%20Google%20Pixel%20Tag.md)
-- [Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist](docs/google/blog/2026-08-12/Pixel%20Watch%205_%20Proactive%20assistance%20and%20advanced%20health%20tracking%20on%20your%20wrist.md)
-- [Made by Google 2026](docs/google/blog/2026-08-12/Made%20by%20Google%202026.md)
-- [Google’s most sophisticated foldable: Pixel 11 Pro Fold](docs/google/blog/2026-08-12/Google_s%20most%20sophisticated%20foldable_%20Pixel%2011%20Pro%20Fold.md)
-- [Track subtle changes in your body with Health Guardian features on Pixel and Fitbit](docs/google/blog/2026-08-12/Track%20subtle%20changes%20in%20your%20body%20with%20Health%20Guardian%20features%20on%20Pixel%20and%20Fitbit.md)
-- [How your Pixel Watch steps in if you stop breathing](docs/google/blog/2026-08-12/How%20your%20Pixel%20Watch%20steps%20in%20if%20you%20stop%20breathing.md)
-- [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](docs/google/research/2026-08-12/Empty%20shelves%20or%20lost%20keys_%20Recall%20is%20the%20bottleneck%20for%20parametric%20factuality.md)
+- [Introducing Gemini 3.7 Flash](docs/google/deepmind/2026-08-13/Introducing%20Gemini%203_7%20Flash.md)
+- [Introducing Gemini 3.7 Flash](docs/google/blog/2026-08-13/Introducing%20Gemini%203_7%20Flash.md)
+- [Using BigQuery Graphs with measures for trusted agentic workloads](docs/google/cloud/2026-08-13/Using%20BigQuery%20Graphs%20with%20measures%20for%20trusted%20agentic%20workloads.md)
+- [Bring your spreadsheet data to life with Sheets canvas](docs/google/blog/2026-08-13/Bring%20your%20spreadsheet%20data%20to%20life%20with%20Sheets%20canvas.md)
+- [Get updates while your Pixel 11 Pro is face down with HiLight.](docs/google/blog/2026-08-13/Get%20updates%20while%20your%20Pixel%2011%20Pro%20is%20face%20down%20with%20HiLight.md)
+- [Stay present while taking pictures with Magic Capture on Pixel 11.](docs/google/blog/2026-08-13/Stay%20present%20while%20taking%20pictures%20with%20Magic%20Capture%20on%20Pixel%2011.md)
+- [Omni experts share what excites them most about the model.](docs/google/blog/2026-08-13/Omni%20experts%20share%20what%20excites%20them%20most%20about%20the%20model.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
