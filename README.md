@@ -24,10 +24,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Thinking of ACE? We Can Do It with Fewer Tokens](docs/huggingface/blog/2026-08-11/Thinking%20of%20ACE_%20We%20Can%20Do%20It%20with%20Fewer%20Tokens.md)
-- [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](docs/huggingface/blog/2026-08-10/Build%20Low-Latency%20Multilingual%20Voice%20Agents_%20Open%20Weights%20_%20Full%20Deployment%20Control%20with%20NVIDIA%20Magpie%20TTS.md)
-- [Making Knowledge Distillation Cheap Enough to Run at Scale](docs/huggingface/blog/2026-08-10/Making%20Knowledge%20Distillation%20Cheap%20Enough%20to%20Run%20at%20Scale.md)
-- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](docs/huggingface/blog/2026-08-10/Meta%20is%20back%20with%20Muse%20Glimmer_%20local_%20agentic_%20multimodal_%20and%20open%20source.md)
+- [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](docs/huggingface/blog/2026-08-13/Record_%20train_%20and%20deploy%20from%20one%20place%20with%20Strands%20Agents_%20LeRobot_%20and%20Hugging%20Face%20Storage%20Buckets.md)
+- [What We Learned by Reproducing 2,200 papers from ICML](docs/huggingface/blog/2026-08-13/What%20We%20Learned%20by%20Reproducing%202_200%20papers%20from%20ICML.md)
+- [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](docs/huggingface/blog/2026-08-12/Introducing%20OlmoEarth%20embeddings_%20Custom%20embedding%20exports%20from%20OlmoEarth%20Studio%20for%20downstream%20analysis.md)
+- [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](docs/huggingface/blog/2026-08-12/LFM2_5-VL-3B%20for%20Better%20and%20Faster%20Vision%20Capabilities%20for%20the%20Edge.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
