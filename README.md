@@ -32,7 +32,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Day 0 Support for Qwen3.8-2.4T-A95B on vLLM](docs/vllm/blog/2026-08-12/Day%200%20Support%20for%20Qwen3_8-2_4T-A95B%20on%20vLLM.md)
+- [Adaptive Verification in vLLM: DSpark confidence-scheduled verification](docs/vllm/blog/2026-08-14/Adaptive%20Verification%20in%20vLLM_%20DSpark%20confidence-scheduled%20verification.md)
 <!-- END:vllm -->
 
 ---
