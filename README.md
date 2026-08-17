@@ -19,7 +19,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More](docs/nvidia/blogs/2026-08-13/Class%20Is%20in%20Session_%20GeForce%20NOW%20Levels%20Up%20Linux_%20Chromebooks%20and%20More.md)
+- [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](docs/nvidia/blogs/2026-08-14/Universitas%20Gadjah%20Mada_%20Indosat%20and%20NVIDIA%20Open%20Indonesia_s%20First%20University%20AI%20Center%20to%20Develop%20Local%20AI%20Talent.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
