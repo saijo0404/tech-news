@@ -26,7 +26,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Adaptive Verification in vLLM: DSpark confidence-scheduled verification](docs/vllm/blog/2026-08-14/Adaptive%20Verification%20in%20vLLM_%20DSpark%20confidence-scheduled%20verification.md)
+- [Distributed Layerwise Offload: Scaling Toward 200B+ DiT Models Efficiently in vLLM-Omni](docs/vllm/blog/2026-08-17/Distributed%20Layerwise%20Offload_%20Scaling%20Toward%20200B_%20DiT%20Models%20Efficiently%20in%20vLLM-Omni.md)
 <!-- END:vllm -->
 
 ---
