@@ -21,7 +21,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [State of Open Models: Summer 2026 Observations](docs/huggingface/blog/2026-08-14/State%20of%20Open%20Models_%20Summer%202026%20Observations.md)
+- [Same Cluster, 33 Points More Utilization: What Changed Was the Order](docs/huggingface/blog/2026-08-17/Same%20Cluster_%2033%20Points%20More%20Utilization_%20What%20Changed%20Was%20the%20Order.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
