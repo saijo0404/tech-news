@@ -19,7 +19,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent](docs/nvidia/blogs/2026-08-14/Universitas%20Gadjah%20Mada_%20Indosat%20and%20NVIDIA%20Open%20Indonesia_s%20First%20University%20AI%20Center%20to%20Develop%20Local%20AI%20Talent.md)
+- [Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer](docs/nvidia/developer/2026-08-17/Developing%20Nemotron%203_5%20Lightning%20NVFP4%20with%20QAD%20Using%20NVIDIA%20Model%20Optimizer.md)
+- [Securing the Infrastructure of Intelligence](docs/nvidia/blogs/2026-08-17/Securing%20the%20Infrastructure%20of%20Intelligence.md)
+- [NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute](docs/nvidia/newsroom/2026-08-17/NVIDIA%20Guarantees%20SB%20Energy_s%20PORTS-Pike%20Technology%20Campus%20in%20Ohio%20to%20Exclusively%20Host%20NVIDIA%20AI%20Compute.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
