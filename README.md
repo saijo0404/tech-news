@@ -8,8 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](docs/google/research/2026-08-17/Seeing%20beyond%20BMI_%20Estimating%20cardiometabolic%20risk%20with%20smartphone%20imagery.md)
-- [Get closer to the game with Gemini and Pixel](docs/google/blog/2026-08-17/Get%20closer%20to%20the%20game%20with%20Gemini%20and%20Pixel.md)
+- [Tap into the power of Gemini in Chrome on Android.](docs/google/blog/2026-08-18/Tap%20into%20the%20power%20of%20Gemini%20in%20Chrome%20on%20Android.md)
+- [Try 4 new interactive BTS experiences inside the Gemini app](docs/google/blog/2026-08-18/Try%204%20new%20interactive%20BTS%20experiences%20inside%20the%20Gemini%20app.md)
+- [Keep your SAT prep on track with practice tests in Gemini.](docs/google/blog/2026-08-18/Keep%20your%20SAT%20prep%20on%20track%20with%20practice%20tests%20in%20Gemini.md)
+- [Ask a Scientist: How can researchers use AI to predict a flood?](docs/google/blog/2026-08-18/Ask%20a%20Scientist_%20How%20can%20researchers%20use%20AI%20to%20predict%20a%20flood.md)
+- [Governance on autopilot, minus the turbulence](docs/google/cloud/2026-08-18/Governance%20on%20autopilot_%20minus%20the%20turbulence.md)
+- [Building cost-effective, high-throughput gen AI workflows in Google Dataflow](docs/google/cloud/2026-08-18/Building%20cost-effective_%20high-throughput%20gen%20AI%20workflows%20in%20Google%20Dataflow.md)
+- [How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2](docs/google/cloud/2026-08-18/How%20Box%20is%20unlocking%20multimodal%20enterprise%20agents%20with%20Gemini%20Embeddings%202.md)
+- [Staying Ahead of Adversarial AI Through Agentic Source Code Review](docs/google/cloud/2026-08-18/Staying%20Ahead%20of%20Adversarial%20AI%20Through%20Agentic%20Source%20Code%20Review.md)
+- [Building operational resilience with agentic AI in financial services](docs/google/cloud/2026-08-18/Building%20operational%20resilience%20with%20agentic%20AI%20in%20financial%20services.md)
+- [Operation Blue Skies: Reducing aviation climate impact with AI](docs/google/blog/2026-08-18/Operation%20Blue%20Skies_%20Reducing%20aviation%20climate%20impact%20with%20AI.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
