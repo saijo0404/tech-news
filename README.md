@@ -28,7 +28,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Same Cluster, 33 Points More Utilization: What Changed Was the Order](docs/huggingface/blog/2026-08-17/Same%20Cluster_%2033%20Points%20More%20Utilization_%20What%20Changed%20Was%20the%20Order.md)
+- [How Much Memory Does Your Agent Actually Need?](docs/huggingface/blog/2026-08-18/How%20Much%20Memory%20Does%20Your%20Agent%20Actually%20Need.md)
+- [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](docs/huggingface/blog/2026-08-18/Multi-Vector%20_Late%20Interaction_%20Embedding%20Models%20with%20Sentence%20Transformers.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
