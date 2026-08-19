@@ -14,9 +14,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer](docs/nvidia/developer/2026-08-17/Developing%20Nemotron%203_5%20Lightning%20NVFP4%20with%20QAD%20Using%20NVIDIA%20Model%20Optimizer.md)
-- [Securing the Infrastructure of Intelligence](docs/nvidia/blogs/2026-08-17/Securing%20the%20Infrastructure%20of%20Intelligence.md)
-- [NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute](docs/nvidia/newsroom/2026-08-17/NVIDIA%20Guarantees%20SB%20Energy_s%20PORTS-Pike%20Technology%20Campus%20in%20Ohio%20to%20Exclusively%20Host%20NVIDIA%20AI%20Compute.md)
+- [How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit](docs/nvidia/developer/2026-08-18/How%20AI%20Coding%20Agents%20Can%20Unlock%20Materials%20Simulation%20with%20NVIDIA%20ALCHEMI%20Toolkit.md)
+- [Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy](docs/nvidia/developer/2026-08-18/Run%20Massive-Scale%20UMAP%20in%20Minutes%20Using%20Multiple%20GPUs_Without%20Losing%20Accuracy.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
