@@ -8,16 +8,13 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Tap into the power of Gemini in Chrome on Android.](docs/google/blog/2026-08-18/Tap%20into%20the%20power%20of%20Gemini%20in%20Chrome%20on%20Android.md)
-- [Try 4 new interactive BTS experiences inside the Gemini app](docs/google/blog/2026-08-18/Try%204%20new%20interactive%20BTS%20experiences%20inside%20the%20Gemini%20app.md)
-- [Keep your SAT prep on track with practice tests in Gemini.](docs/google/blog/2026-08-18/Keep%20your%20SAT%20prep%20on%20track%20with%20practice%20tests%20in%20Gemini.md)
-- [Ask a Scientist: How can researchers use AI to predict a flood?](docs/google/blog/2026-08-18/Ask%20a%20Scientist_%20How%20can%20researchers%20use%20AI%20to%20predict%20a%20flood.md)
-- [Governance on autopilot, minus the turbulence](docs/google/cloud/2026-08-18/Governance%20on%20autopilot_%20minus%20the%20turbulence.md)
-- [Building cost-effective, high-throughput gen AI workflows in Google Dataflow](docs/google/cloud/2026-08-18/Building%20cost-effective_%20high-throughput%20gen%20AI%20workflows%20in%20Google%20Dataflow.md)
-- [How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2](docs/google/cloud/2026-08-18/How%20Box%20is%20unlocking%20multimodal%20enterprise%20agents%20with%20Gemini%20Embeddings%202.md)
-- [Staying Ahead of Adversarial AI Through Agentic Source Code Review](docs/google/cloud/2026-08-18/Staying%20Ahead%20of%20Adversarial%20AI%20Through%20Agentic%20Source%20Code%20Review.md)
-- [Building operational resilience with agentic AI in financial services](docs/google/cloud/2026-08-18/Building%20operational%20resilience%20with%20agentic%20AI%20in%20financial%20services.md)
-- [Operation Blue Skies: Reducing aviation climate impact with AI](docs/google/blog/2026-08-18/Operation%20Blue%20Skies_%20Reducing%20aviation%20climate%20impact%20with%20AI.md)
+- [5 new ways to level up your learning with Search](docs/google/blog/2026-08-19/5%20new%20ways%20to%20level%20up%20your%20learning%20with%20Search.md)
+- [Start the semester with one year of Gemini, on us](docs/google/blog/2026-08-19/Start%20the%20semester%20with%20one%20year%20of%20Gemini_%20on%20us.md)
+- [Back to School 2026](docs/google/blog/2026-08-19/Back%20to%20School%202026.md)
+- [Waymo is bringing Gemini into its custom Ojai vehicles.](docs/google/blog/2026-08-19/Waymo%20is%20bringing%20Gemini%20into%20its%20custom%20Ojai%20vehicles.md)
+- [Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting](docs/google/cloud/2026-08-19/Serverless%20Apache%20Spark%20on%20Google%20Cloud_%20Architecture%20Choices%20_%20AI%20Troubleshooting.md)
+- [How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog](docs/google/cloud/2026-08-19/How%20to%20modernize%20Apache%20Hive%20using%20Google%20Cloud_s%20Lakehouse%20runtime%20catalog.md)
+- [What 3 creatives built with unlimited access to Google Flow](docs/google/blog/2026-08-19/What%203%20creatives%20built%20with%20unlimited%20access%20to%20Google%20Flow.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
