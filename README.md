@@ -22,8 +22,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit](docs/nvidia/developer/2026-08-18/How%20AI%20Coding%20Agents%20Can%20Unlock%20Materials%20Simulation%20with%20NVIDIA%20ALCHEMI%20Toolkit.md)
-- [Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy](docs/nvidia/developer/2026-08-18/Run%20Massive-Scale%20UMAP%20in%20Minutes%20Using%20Multiple%20GPUs_Without%20Losing%20Accuracy.md)
+- [Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents](docs/nvidia/developer/2026-08-19/Developing%20NVIDIA%20Holoscan%20Applications%20with%20CLI_%20Skills_%20and%20AI%20Coding%20Agents.md)
+- [Building Federated Multimodal AI Workflows with NVIDIA FLARE](docs/nvidia/developer/2026-08-19/Building%20Federated%20Multimodal%20AI%20Workflows%20with%20NVIDIA%20FLARE.md)
+- [Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control](docs/nvidia/developer/2026-08-19/Post-Train%20NVIDIA%20Cosmos%203%20Edge%20for%20On-Device%20Robot%20Control.md)
+- [Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator](docs/nvidia/developer/2026-08-19/Evaluating%20AI%20Agent%20Skill%20Performance%20with%20NVIDIA%20SkillEvaluator.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
