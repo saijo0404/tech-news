@@ -27,8 +27,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [How Much Memory Does Your Agent Actually Need?](docs/huggingface/blog/2026-08-18/How%20Much%20Memory%20Does%20Your%20Agent%20Actually%20Need.md)
-- [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](docs/huggingface/blog/2026-08-18/Multi-Vector%20_Late%20Interaction_%20Embedding%20Models%20with%20Sentence%20Transformers.md)
+- [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](docs/huggingface/blog/2026-08-19/LFM2_5%20Q4_0%20Checkpoints%20from%20Quantization-Aware%20Distillation.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
