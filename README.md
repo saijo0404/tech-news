@@ -8,13 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [5 new ways to level up your learning with Search](docs/google/blog/2026-08-19/5%20new%20ways%20to%20level%20up%20your%20learning%20with%20Search.md)
-- [Start the semester with one year of Gemini, on us](docs/google/blog/2026-08-19/Start%20the%20semester%20with%20one%20year%20of%20Gemini_%20on%20us.md)
-- [Back to School 2026](docs/google/blog/2026-08-19/Back%20to%20School%202026.md)
-- [Waymo is bringing Gemini into its custom Ojai vehicles.](docs/google/blog/2026-08-19/Waymo%20is%20bringing%20Gemini%20into%20its%20custom%20Ojai%20vehicles.md)
-- [Serverless Apache Spark on Google Cloud: Architecture Choices & AI Troubleshooting](docs/google/cloud/2026-08-19/Serverless%20Apache%20Spark%20on%20Google%20Cloud_%20Architecture%20Choices%20_%20AI%20Troubleshooting.md)
-- [How to modernize Apache Hive using Google Cloud’s Lakehouse runtime catalog](docs/google/cloud/2026-08-19/How%20to%20modernize%20Apache%20Hive%20using%20Google%20Cloud_s%20Lakehouse%20runtime%20catalog.md)
-- [What 3 creatives built with unlimited access to Google Flow](docs/google/blog/2026-08-19/What%203%20creatives%20built%20with%20unlimited%20access%20to%20Google%20Flow.md)
+- [Expanding Google Antigravity for enterprise customers](docs/google/cloud/2026-08-20/Expanding%20Google%20Antigravity%20for%20enterprise%20customers.md)
+- [Take an interactive journey through America’s national parks](docs/google/blog/2026-08-20/Take%20an%20interactive%20journey%20through%20America_s%20national%20parks.md)
+- [Personalize the content you see on Search, Discover, and News](docs/google/blog/2026-08-20/Personalize%20the%20content%20you%20see%20on%20Search_%20Discover_%20and%20News.md)
+- [10 questions every startup should answer before moving to production with their AI prototype](docs/google/cloud/2026-08-20/10%20questions%20every%20startup%20should%20answer%20before%20moving%20to%20production%20with%20their%20AI%20prototype.md)
+- [Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms](docs/google/cloud/2026-08-20/Google%20is%20a%20Leader%20in%20the%202026%20Gartner_%20Magic%20Quadrant_%20for%20Cloud-Native%20Application%20Platforms.md)
+- [How AlloyDB ScaNN scales vector search to 10 billion vectors](docs/google/cloud/2026-08-20/How%20AlloyDB%20ScaNN%20scales%20vector%20search%20to%2010%20billion%20vectors.md)
+- [Announcing quantum-safe key import in Cloud KMS](docs/google/cloud/2026-08-20/Announcing%20quantum-safe%20key%20import%20in%20Cloud%20KMS.md)
+- [Inside the Gemmaverse: Celebrating one billion Gemma downloads](docs/google/blog/2026-08-20/Inside%20the%20Gemmaverse_%20Celebrating%20one%20billion%20Gemma%20downloads.md)
+- [Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia](docs/google/cloud/2026-08-20/Going%20with%20the%20Flow_s_%20Distinct%20Clusters%20Target%20Individuals%20of%20Interest%20to%20Russia.md)
+- [Make AI Max work for your business with new testing and planning tools.](docs/google/blog/2026-08-20/Make%20AI%20Max%20work%20for%20your%20business%20with%20new%20testing%20and%20planning%20tools.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
