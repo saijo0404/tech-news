@@ -28,7 +28,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](docs/huggingface/blog/2026-08-19/LFM2_5%20Q4_0%20Checkpoints%20from%20Quantization-Aware%20Distillation.md)
+- [Up to 3.2x Faster Inference with LFM2.5-DSpark](docs/huggingface/blog/2026-08-20/Up%20to%203_2x%20Faster%20Inference%20with%20LFM2_5-DSpark.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
