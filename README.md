@@ -19,10 +19,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents](docs/nvidia/developer/2026-08-19/Developing%20NVIDIA%20Holoscan%20Applications%20with%20CLI_%20Skills_%20and%20AI%20Coding%20Agents.md)
-- [Building Federated Multimodal AI Workflows with NVIDIA FLARE](docs/nvidia/developer/2026-08-19/Building%20Federated%20Multimodal%20AI%20Workflows%20with%20NVIDIA%20FLARE.md)
-- [Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control](docs/nvidia/developer/2026-08-19/Post-Train%20NVIDIA%20Cosmos%203%20Edge%20for%20On-Device%20Robot%20Control.md)
-- [Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator](docs/nvidia/developer/2026-08-19/Evaluating%20AI%20Agent%20Skill%20Performance%20with%20NVIDIA%20SkillEvaluator.md)
+- [How Generative Recommenders Are Redefining RecSys at Scale](docs/nvidia/developer/2026-08-20/How%20Generative%20Recommenders%20Are%20Redefining%20RecSys%20at%20Scale.md)
+- [Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support](docs/nvidia/blogs/2026-08-20/Bring%20the%20Fire_%20Play%20Games%20on%20GeForce%20NOW%20With%20New%20Firefox%20Browser%20Support.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
