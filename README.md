@@ -27,7 +27,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Up to 3.2x Faster Inference with LFM2.5-DSpark](docs/huggingface/blog/2026-08-20/Up%20to%203_2x%20Faster%20Inference%20with%20LFM2_5-DSpark.md)
+- [Measuring benchmark optimization in speech recognition](docs/huggingface/blog/2026-08-21/Measuring%20benchmark%20optimization%20in%20speech%20recognition.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
