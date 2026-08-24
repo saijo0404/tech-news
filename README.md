@@ -32,7 +32,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Distributed Layerwise Offload: Scaling Toward 200B+ DiT Models Efficiently in vLLM-Omni](docs/vllm/blog/2026-08-17/Distributed%20Layerwise%20Offload_%20Scaling%20Toward%20200B_%20DiT%20Models%20Efficiently%20in%20vLLM-Omni.md)
+- [Exploring Speculative Decoding in vLLM on AMD GPUs](docs/vllm/blog/2026-08-23/Exploring%20Speculative%20Decoding%20in%20vLLM%20on%20AMD%20GPUs.md)
 <!-- END:vllm -->
 
 ---
