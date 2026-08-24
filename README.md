@@ -21,8 +21,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How Generative Recommenders Are Redefining RecSys at Scale](docs/nvidia/developer/2026-08-20/How%20Generative%20Recommenders%20Are%20Redefining%20RecSys%20at%20Scale.md)
-- [Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support](docs/nvidia/blogs/2026-08-20/Bring%20the%20Fire_%20Play%20Games%20on%20GeForce%20NOW%20With%20New%20Firefox%20Browser%20Support.md)
+- [GPU-Accelerated Clustering for Financial Instruments at Scale](docs/nvidia/developer/2026-08-21/GPU-Accelerated%20Clustering%20for%20Financial%20Instruments%20at%20Scale.md)
+- [Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS](docs/nvidia/developer/2026-08-21/Maximizing%20AI%20Factory%20Performance%20per%20Watt%20with%20NVIDIA%20DSX%20MaxLPS.md)
+- [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](docs/nvidia/developer/2026-08-21/NVIDIA%20AVO%20Reaches%20100_%20on%20ARC-AGI-3_%20Demonstrating%20a%20Frontier-Level%20General-Purpose%20Architecture%20for%20Long-Horizon%20Autonomous%20Agents.md)
+- [Where Security Fits in an AI Agent Stack](docs/nvidia/developer/2026-08-21/Where%20Security%20Fits%20in%20an%20AI%20Agent%20Stack.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
