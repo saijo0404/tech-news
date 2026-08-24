@@ -8,16 +8,15 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Expanding Google Antigravity for enterprise customers](docs/google/cloud/2026-08-20/Expanding%20Google%20Antigravity%20for%20enterprise%20customers.md)
-- [Take an interactive journey through America’s national parks](docs/google/blog/2026-08-20/Take%20an%20interactive%20journey%20through%20America_s%20national%20parks.md)
-- [Personalize the content you see on Search, Discover, and News](docs/google/blog/2026-08-20/Personalize%20the%20content%20you%20see%20on%20Search_%20Discover_%20and%20News.md)
-- [10 questions every startup should answer before moving to production with their AI prototype](docs/google/cloud/2026-08-20/10%20questions%20every%20startup%20should%20answer%20before%20moving%20to%20production%20with%20their%20AI%20prototype.md)
-- [Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms](docs/google/cloud/2026-08-20/Google%20is%20a%20Leader%20in%20the%202026%20Gartner_%20Magic%20Quadrant_%20for%20Cloud-Native%20Application%20Platforms.md)
-- [How AlloyDB ScaNN scales vector search to 10 billion vectors](docs/google/cloud/2026-08-20/How%20AlloyDB%20ScaNN%20scales%20vector%20search%20to%2010%20billion%20vectors.md)
-- [Announcing quantum-safe key import in Cloud KMS](docs/google/cloud/2026-08-20/Announcing%20quantum-safe%20key%20import%20in%20Cloud%20KMS.md)
-- [Inside the Gemmaverse: Celebrating one billion Gemma downloads](docs/google/blog/2026-08-20/Inside%20the%20Gemmaverse_%20Celebrating%20one%20billion%20Gemma%20downloads.md)
-- [Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia](docs/google/cloud/2026-08-20/Going%20with%20the%20Flow_s_%20Distinct%20Clusters%20Target%20Individuals%20of%20Interest%20to%20Russia.md)
-- [Make AI Max work for your business with new testing and planning tools.](docs/google/blog/2026-08-20/Make%20AI%20Max%20work%20for%20your%20business%20with%20new%20testing%20and%20planning%20tools.md)
+- [An AI tool for prioritizing candidate biomarkers from wearable sensor data](docs/google/research/2026-08-21/An%20AI%20tool%20for%20prioritizing%20candidate%20biomarkers%20from%20wearable%20sensor%20data.md)
+- [Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.](docs/google/blog/2026-08-21/Enter%20Google%20Play_s%20sweepstakes%20to%20win%20legendary%20experiences%20and%20collectibles%20with%20your%20Play%20Points.md)
+- [What does “full-stack” AI actually mean?](docs/google/blog/2026-08-21/What%20does%20_full-stack_%20AI%20actually%20mean.md)
+- [Cloud CISO Perspectives: Sticking to security fundamentals in the AI era](docs/google/cloud/2026-08-21/Cloud%20CISO%20Perspectives_%20Sticking%20to%20security%20fundamentals%20in%20the%20AI%20era.md)
+- [How agents can delegate better](docs/google/cloud/2026-08-21/How%20agents%20can%20delegate%20better.md)
+- [Here's how to use sign-to-text translation on Pixel 11.](docs/google/blog/2026-08-21/Here_s%20how%20to%20use%20sign-to-text%20translation%20on%20Pixel%2011.md)
+- [Tap to pay with Google Pay is coming to Walmart.](docs/google/blog/2026-08-21/Tap%20to%20pay%20with%20Google%20Pay%20is%20coming%20to%20Walmart.md)
+- [From Atari to EVE Online: Building on 15 Years of AI Research in Games](docs/google/deepmind/2026-08-21/From%20Atari%20to%20EVE%20Online_%20Building%20on%2015%20Years%20of%20AI%20Research%20in%20Games.md)
+- [How mobility gives language models a deeper understanding of place](docs/google/research/2026-08-21/How%20mobility%20gives%20language%20models%20a%20deeper%20understanding%20of%20place.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
