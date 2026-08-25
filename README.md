@@ -8,15 +8,10 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [An AI tool for prioritizing candidate biomarkers from wearable sensor data](docs/google/research/2026-08-21/An%20AI%20tool%20for%20prioritizing%20candidate%20biomarkers%20from%20wearable%20sensor%20data.md)
-- [Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.](docs/google/blog/2026-08-21/Enter%20Google%20Play_s%20sweepstakes%20to%20win%20legendary%20experiences%20and%20collectibles%20with%20your%20Play%20Points.md)
-- [What does “full-stack” AI actually mean?](docs/google/blog/2026-08-21/What%20does%20_full-stack_%20AI%20actually%20mean.md)
-- [Cloud CISO Perspectives: Sticking to security fundamentals in the AI era](docs/google/cloud/2026-08-21/Cloud%20CISO%20Perspectives_%20Sticking%20to%20security%20fundamentals%20in%20the%20AI%20era.md)
-- [How agents can delegate better](docs/google/cloud/2026-08-21/How%20agents%20can%20delegate%20better.md)
-- [Here's how to use sign-to-text translation on Pixel 11.](docs/google/blog/2026-08-21/Here_s%20how%20to%20use%20sign-to-text%20translation%20on%20Pixel%2011.md)
-- [Tap to pay with Google Pay is coming to Walmart.](docs/google/blog/2026-08-21/Tap%20to%20pay%20with%20Google%20Pay%20is%20coming%20to%20Walmart.md)
-- [From Atari to EVE Online: Building on 15 Years of AI Research in Games](docs/google/deepmind/2026-08-21/From%20Atari%20to%20EVE%20Online_%20Building%20on%2015%20Years%20of%20AI%20Research%20in%20Games.md)
-- [How mobility gives language models a deeper understanding of place](docs/google/research/2026-08-21/How%20mobility%20gives%20language%20models%20a%20deeper%20understanding%20of%20place.md)
+- [Celebrate 110 years of national parks with Maps, Search, and Gemini](docs/google/blog/2026-08-24/Celebrate%20110%20years%20of%20national%20parks%20with%20Maps_%20Search_%20and%20Gemini.md)
+- [How developers build AI for good with Gemma 4](docs/google/blog/2026-08-24/How%20developers%20build%20AI%20for%20good%20with%20Gemma%204.md)
+- [New AI-powered quick assessments in Migration Center turbocharge modernization](docs/google/cloud/2026-08-24/New%20AI-powered%20quick%20assessments%20in%20Migration%20Center%20turbocharge%20modernization.md)
+- [Empowering autonomous agents with advanced security governance](docs/google/cloud/2026-08-24/Empowering%20autonomous%20agents%20with%20advanced%20security%20governance.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
