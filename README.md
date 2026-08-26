@@ -27,7 +27,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Measuring benchmark optimization in speech recognition](docs/huggingface/blog/2026-08-21/Measuring%20benchmark%20optimization%20in%20speech%20recognition.md)
+- [Granite 4.2 LLMs: How They're Built](docs/huggingface/blog/2026-08-25/Granite%204_2%20LLMs_%20How%20They_re%20Built.md)
+- [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](docs/huggingface/blog/2026-08-25/Quantization-Aware%20Healing_%20a%20compressed_%204-bit%20model%20that%20outperforms%20its%20full-precision%20original.md)
+- [Wire It, Run It, Deploy It: AI Workflows in Gradio](docs/huggingface/blog/2026-08-25/Wire%20It_%20Run%20It_%20Deploy%20It_%20AI%20Workflows%20in%20Gradio.md)
+- [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](docs/huggingface/blog/2026-08-21/How%20Hugging%20Face%20Inference%20Endpoints_%20Jobs_%20and%20Buckets%20Power%20Search%20on%20Papers%20with%20Code.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
