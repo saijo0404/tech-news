@@ -32,8 +32,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [IsoExec: Unified Execution to Eliminate Trainer-Inference Mismatch in SkyRL](docs/vllm/blog/2026-08-21/IsoExec_%20Unified%20Execution%20to%20Eliminate%20Trainer-Inference%20Mismatch%20in%20SkyRL.md)
-- [VeRL-Omni v0.2.0: Faster Diffusion RL and Stable Omni Training](docs/vllm/blog/2026-08-20/VeRL-Omni%20v0_2_0_%20Faster%20Diffusion%20RL%20and%20Stable%20Omni%20Training.md)
+- [Large-Scale Sharded Weight Transfer with Ray Direct Transport (RDT) in vLLM](docs/vllm/blog/2026-08-22/Large-Scale%20Sharded%20Weight%20Transfer%20with%20Ray%20Direct%20Transport%20_RDT_%20in%20vLLM.md)
 <!-- END:vllm -->
 
 ---
