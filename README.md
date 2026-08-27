@@ -8,15 +8,19 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [You can officially buy the Pixel 11 phones and Pixel Watch 5.](docs/google/blog/2026-08-25/You%20can%20officially%20buy%20the%20Pixel%2011%20phones%20and%20Pixel%20Watch%205.md)
-- [AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](docs/google/research/2026-08-25/AgentHands_%20Generating%20interactive%20hand%20gestures%20for%20spatially%20grounded%20agent%20conversations%20in%20XR.md)
-- [5 ways to upgrade your home decor with Google Search](docs/google/blog/2026-08-25/5%20ways%20to%20upgrade%20your%20home%20decor%20with%20Google%20Search.md)
-- [Here’s how to use intelligent dictation in Gemini for macOS.](docs/google/blog/2026-08-25/Here_s%20how%20to%20use%20intelligent%20dictation%20in%20Gemini%20for%20macOS.md)
-- [Bringing gVisor sandboxes to distributed Ray clusters](docs/google/cloud/2026-08-25/Bringing%20gVisor%20sandboxes%20to%20distributed%20Ray%20clusters.md)
-- [Ready to play? Experience Google Play’s biggest Gamescom showcase yet.](docs/google/blog/2026-08-25/Ready%20to%20play_%20Experience%20Google%20Play_s%20biggest%20Gamescom%20showcase%20yet.md)
-- [We’re partnering with the State of Delaware to provide free AI and career training.](docs/google/blog/2026-08-25/We_re%20partnering%20with%20the%20State%20of%20Delaware%20to%20provide%20free%20AI%20and%20career%20training.md)
-- [Now introducing Gemini Enterprise for Legal](docs/google/cloud/2026-08-25/Now%20introducing%20Gemini%20Enterprise%20for%20Legal.md)
-- [Now introducing Gemini Enterprise for Financial Services](docs/google/cloud/2026-08-25/Now%20introducing%20Gemini%20Enterprise%20for%20Financial%20Services.md)
+- [7 ways to kick-start back to school using Gemini in Workspace](docs/google/blog/2026-08-26/7%20ways%20to%20kick-start%20back%20to%20school%20using%20Gemini%20in%20Workspace.md)
+- [GlucoFM: Foundation model for continuous glucose monitoring](docs/google/research/2026-08-26/GlucoFM_%20Foundation%20model%20for%20continuous%20glucose%20monitoring.md)
+- [Intelligent transcription with Gemini 3.5 Transcribe](docs/google/deepmind/2026-08-26/Intelligent%20transcription%20with%20Gemini%203_5%20Transcribe.md)
+- [Turn your voice into action with new productivity features in Gemini Live](docs/google/blog/2026-08-26/Turn%20your%20voice%20into%20action%20with%20new%20productivity%20features%20in%20Gemini%20Live.md)
+- [Intelligent transcription with Gemini 3.5 Transcribe](docs/google/blog/2026-08-26/Intelligent%20transcription%20with%20Gemini%203_5%20Transcribe.md)
+- [28 startups using AI to transform the energy sector](docs/google/blog/2026-08-26/28%20startups%20using%20AI%20to%20transform%20the%20energy%20sector.md)
+- [Using OKF with Knowledge Catalog to serve context for agents](docs/google/cloud/2026-08-26/Using%20OKF%20with%20Knowledge%20Catalog%20to%20serve%20context%20for%20agents.md)
+- [How Uber improves network reliability while unblocking cloud migration](docs/google/cloud/2026-08-26/How%20Uber%20improves%20network%20reliability%20while%20unblocking%20cloud%20migration.md)
+- [Simplify your resilience testing strategy with Fault Injection Testing](docs/google/cloud/2026-08-26/Simplify%20your%20resilience%20testing%20strategy%20with%20Fault%20Injection%20Testing.md)
+- [Dynamic capacity management for AI infrastructure](docs/google/cloud/2026-08-26/Dynamic%20capacity%20management%20for%20AI%20infrastructure.md)
+- [FinOps for the AI era: New flexible billing and cost controls for agents](docs/google/cloud/2026-08-26/FinOps%20for%20the%20AI%20era_%20New%20flexible%20billing%20and%20cost%20controls%20for%20agents.md)
+- [Your chance to start building AI agents from the absolute basics](docs/google/cloud/2026-08-26/Your%20chance%20to%20start%20building%20AI%20agents%20from%20the%20absolute%20basics.md)
+- [Google at the Global Forum on Intellectual Property](docs/google/blog/2026-08-26/Google%20at%20the%20Global%20Forum%20on%20Intellectual%20Property.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
