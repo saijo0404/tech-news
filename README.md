@@ -21,8 +21,14 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark](docs/nvidia/blogs/2026-08-25/Leading%20Publishers%20Bring%20Blockbuster%20PC%20Games%20and%20Technology%20to%20NVIDIA%20RTX%20Spark.md)
-- [NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI](docs/nvidia/newsroom/2026-08-25/NVIDIA%20Announces%20Jetson%20Orin%20Nano%202%20Robotics%20Computer%20to%20Redefine%20Entry-Level%20Edge%20AI.md)
+- [NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure](docs/nvidia/developer/2026-08-26/NVIDIA%20NVLink%20Fusion%20Brings%20NVHBM%20to%20Next-Generation%20AI%20Infrastructure.md)
+- [NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory](docs/nvidia/blogs/2026-08-26/NVIDIA%20NVLink%20Fusion%20Expands%20With%20NVHBM%20Custom%20High-Bandwidth%20Memory.md)
+- [AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI](docs/nvidia/newsroom/2026-08-26/AWS%20and%20NVIDIA%20to%20Deliver%202%20Million%20Additional%20GPUs%20and%20Next-Generation%20Infrastructure%20for%20Agentic%20and%20Physical%20AI.md)
+- [NVIDIA Announces Financial Results for Second Quarter Fiscal 2027](docs/nvidia/newsroom/2026-08-26/NVIDIA%20Announces%20Financial%20Results%20for%20Second%20Quarter%20Fiscal%202027.md)
+- [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](docs/nvidia/developer/2026-08-26/How%20to%20Train%20a%20Cross-Embodiment%20Robot%20Navigation%20Policy%20with%20AI%20Agents.md)
+- [Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding](docs/nvidia/developer/2026-08-26/Experiment%20with%20Qwen3_8-Flash-Next%20176B%20Model%20on%20NVIDIA%20GB300%20NVL72%20for%20Agentic%20Coding.md)
+- [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](docs/nvidia/developer/2026-08-25/Restore%20LLM%20Inference%20Capacity%20in%20Seconds%20with%20Shadow%20Engine%20Recovery%20in%20NVIDIA%20Dynamo.md)
+- [CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access](docs/nvidia/developer/2026-08-25/CUDA%20Python%201_0_%20Stable%20APIs_%20One%20Foundation_%20Full%20Platform%20Access.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
