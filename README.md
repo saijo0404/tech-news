@@ -35,7 +35,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](docs/huggingface/blog/2026-08-26/Training%20and%20Finetuning%20Multi-Vector%20Embedding%20Models%20with%20Sentence%20Transformers.md)
+- [The Open ASR Leaderboard Adds Its First Global South Language](docs/huggingface/blog/2026-08-28/The%20Open%20ASR%20Leaderboard%20Adds%20Its%20First%20Global%20South%20Language.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
