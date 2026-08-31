@@ -25,14 +25,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure](docs/nvidia/developer/2026-08-26/NVIDIA%20NVLink%20Fusion%20Brings%20NVHBM%20to%20Next-Generation%20AI%20Infrastructure.md)
-- [NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory](docs/nvidia/blogs/2026-08-26/NVIDIA%20NVLink%20Fusion%20Expands%20With%20NVHBM%20Custom%20High-Bandwidth%20Memory.md)
-- [AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI](docs/nvidia/newsroom/2026-08-26/AWS%20and%20NVIDIA%20to%20Deliver%202%20Million%20Additional%20GPUs%20and%20Next-Generation%20Infrastructure%20for%20Agentic%20and%20Physical%20AI.md)
-- [NVIDIA Announces Financial Results for Second Quarter Fiscal 2027](docs/nvidia/newsroom/2026-08-26/NVIDIA%20Announces%20Financial%20Results%20for%20Second%20Quarter%20Fiscal%202027.md)
-- [How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents](docs/nvidia/developer/2026-08-26/How%20to%20Train%20a%20Cross-Embodiment%20Robot%20Navigation%20Policy%20with%20AI%20Agents.md)
-- [Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding](docs/nvidia/developer/2026-08-26/Experiment%20with%20Qwen3_8-Flash-Next%20176B%20Model%20on%20NVIDIA%20GB300%20NVL72%20for%20Agentic%20Coding.md)
-- [Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo](docs/nvidia/developer/2026-08-25/Restore%20LLM%20Inference%20Capacity%20in%20Seconds%20with%20Shadow%20Engine%20Recovery%20in%20NVIDIA%20Dynamo.md)
-- [CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access](docs/nvidia/developer/2026-08-25/CUDA%20Python%201_0_%20Stable%20APIs_%20One%20Foundation_%20Full%20Platform%20Access.md)
+- [Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect](docs/nvidia/developer/2026-08-28/Deploy%20an%20Open%20Model%20from%20Checkpoint%20to%20Inference%20in%20Two%20Commands%20with%20NVIDIA%20TensorRT%20Model%20Connect.md)
+- [NVIDIA Announces Upcoming Event for Financial Community](docs/nvidia/newsroom/2026-08-27/NVIDIA%20Announces%20Upcoming%20Event%20for%20Financial%20Community.md)
+- [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](docs/nvidia/blogs/2026-08-27/GeForce%20NOW%20Gives%20Gamers%20More%20Ways%20to%20Play%20at%20Gamescom%202026.md)
+- [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](docs/nvidia/blogs/2026-08-27/Delivering%20Vera_%20NVIDIA_s%20First%20CPU%20Built%20for%20Agents%20Is%20Shipping%20Now.md)
+- [Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding](docs/nvidia/developer/2026-08-26/Experiment%20with%20Qwen3_8-Flash-Next%20on%20NVIDIA%20GB300%20NVL72%20for%20Agentic%20Coding.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
