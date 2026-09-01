@@ -17,11 +17,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect](docs/nvidia/developer/2026-08-28/Deploy%20an%20Open%20Model%20from%20Checkpoint%20to%20Inference%20in%20Two%20Commands%20with%20NVIDIA%20TensorRT%20Model%20Connect.md)
-- [NVIDIA Announces Upcoming Event for Financial Community](docs/nvidia/newsroom/2026-08-27/NVIDIA%20Announces%20Upcoming%20Event%20for%20Financial%20Community.md)
-- [GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026](docs/nvidia/blogs/2026-08-27/GeForce%20NOW%20Gives%20Gamers%20More%20Ways%20to%20Play%20at%20Gamescom%202026.md)
-- [Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now](docs/nvidia/blogs/2026-08-27/Delivering%20Vera_%20NVIDIA_s%20First%20CPU%20Built%20for%20Agents%20Is%20Shipping%20Now.md)
-- [Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding](docs/nvidia/developer/2026-08-26/Experiment%20with%20Qwen3_8-Flash-Next%20on%20NVIDIA%20GB300%20NVL72%20for%20Agentic%20Coding.md)
+- [Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science](docs/nvidia/developer/2026-08-31/Run%20NVIDIA%20BioNeMo%20NIM%20Microservices%20for%20Protein%20Structure%20Prediction%20in%20Claude%20Science.md)
+- [Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec](docs/nvidia/developer/2026-08-31/Scale%20AV%20Perception%20Across%20Vehicle%20Platforms%20with%20NVIDIA%20Omniverse%20NuRec.md)
+- [NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms](docs/nvidia/newsroom/2026-08-31/NVIDIA%20and%20MediaTek%20Deepen%20Long-Standing%20Partnership%20to%20Build%20AI%20Edge%20to%20Cloud%20Computing%20Platforms.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
