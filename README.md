@@ -8,20 +8,11 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps](docs/google/blog/2026-08-29/How%20the%20GNIS%20Lake%20Ontario_Lake%20America%20name%20change%20in%20the%20U_S_%20will%20appear%20in%20Maps.md)
-- [We’re introducing flexible usage limits for Gemini Notebook.](docs/google/blog/2026-08-28/We_re%20introducing%20flexible%20usage%20limits%20for%20Gemini%20Notebook.md)
-- [Expert Intelligence: a new way for you to engage with trusted content](docs/google/blog/2026-08-27/Expert%20Intelligence_%20a%20new%20way%20for%20you%20to%20engage%20with%20trusted%20content.md)
-- [Planetary prediction engine: Automating global models via Earth AI](docs/google/research/2026-08-27/Planetary%20prediction%20engine_%20Automating%20global%20models%20via%20Earth%20AI.md)
-- [Gemini Omni 1.1 Flash lets you build with more control](docs/google/deepmind/2026-08-27/Gemini%20Omni%201_1%20Flash%20lets%20you%20build%20with%20more%20control.md)
-- [3 new ways to plan and book travel in Search](docs/google/blog/2026-08-27/3%20new%20ways%20to%20plan%20and%20book%20travel%20in%20Search.md)
-- [Gemini Omni 1.1 Flash lets you build with more control](docs/google/blog/2026-08-27/Gemini%20Omni%201_1%20Flash%20lets%20you%20build%20with%20more%20control.md)
-- [Partnering with Khan Academy on building AI tools for classrooms](docs/google/blog/2026-08-27/Partnering%20with%20Khan%20Academy%20on%20building%20AI%20tools%20for%20classrooms.md)
-- [Google Flow brings new creative control features to enhance video editing.](docs/google/blog/2026-08-27/Google%20Flow%20brings%20new%20creative%20control%20features%20to%20enhance%20video%20editing.md)
-- [Reach your audience in new ways with August’s Demand Gen Drop.](docs/google/blog/2026-08-27/Reach%20your%20audience%20in%20new%20ways%20with%20August_s%20Demand%20Gen%20Drop.md)
-- [Reimagining work: How Pythian’s internal AI playbook delivers customer ROI](docs/google/cloud/2026-08-27/Reimagining%20work_%20How%20Pythian_s%20internal%20AI%20playbook%20delivers%20customer%20ROI.md)
-- [Deploy personal AI agents with Cloud Run instances](docs/google/cloud/2026-08-27/Deploy%20personal%20AI%20agents%20with%20Cloud%20Run%20instances.md)
-- [Our Fitbit Air Special Edition Pokémon Sleep is here](docs/google/blog/2026-08-27/Our%20Fitbit%20Air%20Special%20Edition%20Pok%C3%A9mon%20Sleep%20is%20here.md)
-- [Piloting the world's first double-blind AI evaluations](docs/google/deepmind/2026-08-27/Piloting%20the%20world_s%20first%20double-blind%20AI%20evaluations.md)
+- [BigQuery Graph is now GA: the knowledge foundation for the agentic era](docs/google/cloud/2026-08-31/BigQuery%20Graph%20is%20now%20GA_%20the%20knowledge%20foundation%20for%20the%20agentic%20era.md)
+- [Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.](docs/google/blog/2026-08-31/Pairing%20Google%20Antigravity%20with%20Gemini%203_7%20Flash%20solves%20notable%20multi-agent%20math%20and%20engineering%20problems.md)
+- [TimesFM-3: A zero-shot foundation model for multivariate forecasting](docs/google/research/2026-08-31/TimesFM-3_%20A%20zero-shot%20foundation%20model%20for%20multivariate%20forecasting.md)
+- [Cloud CISO Perspectives: Tips on securing the water sector in the AI era](docs/google/cloud/2026-08-31/Cloud%20CISO%20Perspectives_%20Tips%20on%20securing%20the%20water%20sector%20in%20the%20AI%20era.md)
+- [From weeks to minutes: The new agentic era of data pipelines](docs/google/cloud/2026-08-31/From%20weeks%20to%20minutes_%20The%20new%20agentic%20era%20of%20data%20pipelines.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
