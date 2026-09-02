@@ -30,7 +30,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [The Open ASR Leaderboard Adds Its First Global South Language](docs/huggingface/blog/2026-08-28/The%20Open%20ASR%20Leaderboard%20Adds%20Its%20First%20Global%20South%20Language.md)
+- [BenchMIRT: What are LLM benchmarks actually measuring?](docs/huggingface/blog/2026-09-01/BenchMIRT_%20What%20are%20LLM%20benchmarks%20actually%20measuring.md)
+- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](docs/huggingface/blog/2026-09-01/Introducing%20_huggingface_kernels_%20200_%20WebGPU%20Kernels%20for%20Local%20AI.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
