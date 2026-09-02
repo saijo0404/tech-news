@@ -8,11 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [BigQuery Graph is now GA: the knowledge foundation for the agentic era](docs/google/cloud/2026-08-31/BigQuery%20Graph%20is%20now%20GA_%20the%20knowledge%20foundation%20for%20the%20agentic%20era.md)
-- [Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.](docs/google/blog/2026-08-31/Pairing%20Google%20Antigravity%20with%20Gemini%203_7%20Flash%20solves%20notable%20multi-agent%20math%20and%20engineering%20problems.md)
-- [TimesFM-3: A zero-shot foundation model for multivariate forecasting](docs/google/research/2026-08-31/TimesFM-3_%20A%20zero-shot%20foundation%20model%20for%20multivariate%20forecasting.md)
-- [Cloud CISO Perspectives: Tips on securing the water sector in the AI era](docs/google/cloud/2026-08-31/Cloud%20CISO%20Perspectives_%20Tips%20on%20securing%20the%20water%20sector%20in%20the%20AI%20era.md)
-- [From weeks to minutes: The new agentic era of data pipelines](docs/google/cloud/2026-08-31/From%20weeks%20to%20minutes_%20The%20new%20agentic%20era%20of%20data%20pipelines.md)
+- [The latest AI news we announced in August 2026](docs/google/blog/2026-09-01/The%20latest%20AI%20news%20we%20announced%20in%20August%202026.md)
+- [Mapping global methane emissions from space with deep learning](docs/google/research/2026-09-01/Mapping%20global%20methane%20emissions%20from%20space%20with%20deep%20learning.md)
+- [September Android Drop: Remember where you put things, ease motion sickness, and more](docs/google/blog/2026-09-01/September%20Android%20Drop_%20Remember%20where%20you%20put%20things_%20ease%20motion%20sickness_%20and%20more.md)
+- [Introducing agentic video understanding with Gemini](docs/google/deepmind/2026-09-01/Introducing%20agentic%20video%20understanding%20with%20Gemini.md)
+- [Introducing agentic video understanding with Gemini](docs/google/blog/2026-09-01/Introducing%20agentic%20video%20understanding%20with%20Gemini.md)
+- [Ask a Scientist: How do researchers use AI to predict a cyclone?](docs/google/blog/2026-09-01/Ask%20a%20Scientist_%20How%20do%20researchers%20use%20AI%20to%20predict%20a%20cyclone.md)
+- [Try Google Pics: Easy image creation and editing in Google Workspace](docs/google/blog/2026-09-01/Try%20Google%20Pics_%20Easy%20image%20creation%20and%20editing%20in%20Google%20Workspace.md)
+- [What Google Cloud announced in AI this month](docs/google/cloud/2026-09-01/What%20Google%20Cloud%20announced%20in%20AI%20this%20month.md)
+- [How Blackline simplifies perimeter policy intelligence with VPC Service Controls](docs/google/cloud/2026-09-01/How%20Blackline%20simplifies%20perimeter%20policy%20intelligence%20with%20VPC%20Service%20Controls.md)
+- [Introducing TabFM in BigQuery: Predictive analytics reimagined](docs/google/cloud/2026-09-01/Introducing%20TabFM%20in%20BigQuery_%20Predictive%20analytics%20reimagined.md)
+- [Financially Motivated Threat Actor BREEZE COMET Targets Brazil](docs/google/cloud/2026-09-01/Financially%20Motivated%20Threat%20Actor%20BREEZE%20COMET%20Targets%20Brazil.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
