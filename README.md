@@ -35,7 +35,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Large-Scale Sharded Weight Transfer with Ray Direct Transport (RDT) in vLLM](docs/vllm/blog/2026-08-22/Large-Scale%20Sharded%20Weight%20Transfer%20with%20Ray%20Direct%20Transport%20_RDT_%20in%20vLLM.md)
+- [MiniMax H3 on vLLM-Omni: From System-Wide Optimization to Real-Time Serving with FastVideo’s FastH3](docs/vllm/blog/2026-09-01/MiniMax%20H3%20on%20vLLM-Omni_%20From%20System-Wide%20Optimization%20to%20Real-Time%20Serving%20with%20FastVideo_s%20FastH3.md)
 <!-- END:vllm -->
 
 ---
