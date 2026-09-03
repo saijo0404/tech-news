@@ -23,9 +23,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier](docs/nvidia/blogs/2026-09-01/NVIDIA%20and%20CrowdStrike%20Strengthen%20Agentic%20Cybersecurity%20Frontier.md)
-- [Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron](docs/nvidia/developer/2026-09-01/Building%20an%20Adaptive%20Agentic%20Cybersecurity%20System%20with%20NVIDIA%20Nemotron.md)
-- [How to Size GPUs for AI Inference and TCO Without Overspending](docs/nvidia/developer/2026-09-01/How%20to%20Size%20GPUs%20for%20AI%20Inference%20and%20TCO%20Without%20Overspending.md)
+- [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough](docs/nvidia/developer/2026-09-02/The%20Modern%20CUDA%20Toolbox%20in%20Practice_%20A%20Step-by-Step%20Optimization%20Walkthrough.md)
+- [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](docs/nvidia/developer/2026-09-02/Co-Designing%20AI%20Models%20Using%20Speculative%20Decoding%20for%20Faster%20LLM%20Inference.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
