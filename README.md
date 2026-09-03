@@ -8,17 +8,18 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [The latest AI news we announced in August 2026](docs/google/blog/2026-09-01/The%20latest%20AI%20news%20we%20announced%20in%20August%202026.md)
-- [Mapping global methane emissions from space with deep learning](docs/google/research/2026-09-01/Mapping%20global%20methane%20emissions%20from%20space%20with%20deep%20learning.md)
-- [September Android Drop: Remember where you put things, ease motion sickness, and more](docs/google/blog/2026-09-01/September%20Android%20Drop_%20Remember%20where%20you%20put%20things_%20ease%20motion%20sickness_%20and%20more.md)
-- [Introducing agentic video understanding with Gemini](docs/google/deepmind/2026-09-01/Introducing%20agentic%20video%20understanding%20with%20Gemini.md)
-- [Introducing agentic video understanding with Gemini](docs/google/blog/2026-09-01/Introducing%20agentic%20video%20understanding%20with%20Gemini.md)
-- [Ask a Scientist: How do researchers use AI to predict a cyclone?](docs/google/blog/2026-09-01/Ask%20a%20Scientist_%20How%20do%20researchers%20use%20AI%20to%20predict%20a%20cyclone.md)
-- [Try Google Pics: Easy image creation and editing in Google Workspace](docs/google/blog/2026-09-01/Try%20Google%20Pics_%20Easy%20image%20creation%20and%20editing%20in%20Google%20Workspace.md)
-- [What Google Cloud announced in AI this month](docs/google/cloud/2026-09-01/What%20Google%20Cloud%20announced%20in%20AI%20this%20month.md)
-- [How Blackline simplifies perimeter policy intelligence with VPC Service Controls](docs/google/cloud/2026-09-01/How%20Blackline%20simplifies%20perimeter%20policy%20intelligence%20with%20VPC%20Service%20Controls.md)
-- [Introducing TabFM in BigQuery: Predictive analytics reimagined](docs/google/cloud/2026-09-01/Introducing%20TabFM%20in%20BigQuery_%20Predictive%20analytics%20reimagined.md)
-- [Financially Motivated Threat Actor BREEZE COMET Targets Brazil](docs/google/cloud/2026-09-01/Financially%20Motivated%20Threat%20Actor%20BREEZE%20COMET%20Targets%20Brazil.md)
+- [Build a measurement stack you can rely on to steer your campaigns.](docs/google/blog/2026-09-02/Build%20a%20measurement%20stack%20you%20can%20rely%20on%20to%20steer%20your%20campaigns.md)
+- [Proactive cyber defense for governments and enterprises](docs/google/deepmind/2026-09-02/Proactive%20cyber%20defense%20for%20governments%20and%20enterprises.md)
+- [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](docs/google/deepmind/2026-09-02/Introducing%20Gemini%203_8%20Flash%20and%203_8%20Flash%20Cyber.md)
+- [Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.](docs/google/blog/2026-09-02/Book%20insights%20in%20Google%20Play%20Books%20is%20now%20available%20in%20more%20than%20a%20million%20ebooks%20and%20in%20the%20iOS%20app.md)
+- [Our latest Linux Foundation Europe donation will build a more private digital world.](docs/google/blog/2026-09-02/Our%20latest%20Linux%20Foundation%20Europe%20donation%20will%20build%20a%20more%20private%20digital%20world.md)
+- [Getting started with Mantis, our open-source bug finding-and-fixing harness](docs/google/cloud/2026-09-02/Getting%20started%20with%20Mantis_%20our%20open-source%20bug%20finding-and-fixing%20harness.md)
+- [Simplify pipelines with new BigQuery identity columns](docs/google/cloud/2026-09-02/Simplify%20pipelines%20with%20new%20BigQuery%20identity%20columns.md)
+- [Proactive cyber defense for governments and enterprises](docs/google/blog/2026-09-02/Proactive%20cyber%20defense%20for%20governments%20and%20enterprises.md)
+- [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](docs/google/blog/2026-09-02/Introducing%20Gemini%203_8%20Flash%20and%203_8%20Flash%20Cyber.md)
+- [MrBeast partners with Gemini to turn impossibly big ideas into reality](docs/google/blog/2026-09-02/MrBeast%20partners%20with%20Gemini%20to%20turn%20impossibly%20big%20ideas%20into%20reality.md)
+- [Our new partnership brings long-duration energy storage to West Virginia.](docs/google/blog/2026-09-02/Our%20new%20partnership%20brings%20long-duration%20energy%20storage%20to%20West%20Virginia.md)
+- [What’s new in AI infrastructure and orchestration in August](docs/google/cloud/2026-08-31/What_s%20new%20in%20AI%20infrastructure%20and%20orchestration%20in%20August.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
