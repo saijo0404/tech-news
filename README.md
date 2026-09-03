@@ -30,8 +30,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [BenchMIRT: What are LLM benchmarks actually measuring?](docs/huggingface/blog/2026-09-01/BenchMIRT_%20What%20are%20LLM%20benchmarks%20actually%20measuring.md)
-- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](docs/huggingface/blog/2026-09-01/Introducing%20_huggingface_kernels_%20200_%20WebGPU%20Kernels%20for%20Local%20AI.md)
+- [Real-Time Intelligence with IBM Time Series Models on Confluent](docs/huggingface/blog/2026-09-02/Real-Time%20Intelligence%20with%20IBM%20Time%20Series%20Models%20on%20Confluent.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
