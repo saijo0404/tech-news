@@ -8,18 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Build a measurement stack you can rely on to steer your campaigns.](docs/google/blog/2026-09-02/Build%20a%20measurement%20stack%20you%20can%20rely%20on%20to%20steer%20your%20campaigns.md)
-- [Proactive cyber defense for governments and enterprises](docs/google/deepmind/2026-09-02/Proactive%20cyber%20defense%20for%20governments%20and%20enterprises.md)
-- [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](docs/google/deepmind/2026-09-02/Introducing%20Gemini%203_8%20Flash%20and%203_8%20Flash%20Cyber.md)
-- [Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.](docs/google/blog/2026-09-02/Book%20insights%20in%20Google%20Play%20Books%20is%20now%20available%20in%20more%20than%20a%20million%20ebooks%20and%20in%20the%20iOS%20app.md)
-- [Our latest Linux Foundation Europe donation will build a more private digital world.](docs/google/blog/2026-09-02/Our%20latest%20Linux%20Foundation%20Europe%20donation%20will%20build%20a%20more%20private%20digital%20world.md)
-- [Getting started with Mantis, our open-source bug finding-and-fixing harness](docs/google/cloud/2026-09-02/Getting%20started%20with%20Mantis_%20our%20open-source%20bug%20finding-and-fixing%20harness.md)
-- [Simplify pipelines with new BigQuery identity columns](docs/google/cloud/2026-09-02/Simplify%20pipelines%20with%20new%20BigQuery%20identity%20columns.md)
-- [Proactive cyber defense for governments and enterprises](docs/google/blog/2026-09-02/Proactive%20cyber%20defense%20for%20governments%20and%20enterprises.md)
-- [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](docs/google/blog/2026-09-02/Introducing%20Gemini%203_8%20Flash%20and%203_8%20Flash%20Cyber.md)
-- [MrBeast partners with Gemini to turn impossibly big ideas into reality](docs/google/blog/2026-09-02/MrBeast%20partners%20with%20Gemini%20to%20turn%20impossibly%20big%20ideas%20into%20reality.md)
-- [Our new partnership brings long-duration energy storage to West Virginia.](docs/google/blog/2026-09-02/Our%20new%20partnership%20brings%20long-duration%20energy%20storage%20to%20West%20Virginia.md)
-- [What’s new in AI infrastructure and orchestration in August](docs/google/cloud/2026-08-31/What_s%20new%20in%20AI%20infrastructure%20and%20orchestration%20in%20August.md)
+- [Transfer learning for genomic prediction in underrepresented populations](docs/google/research/2026-09-03/Transfer%20learning%20for%20genomic%20prediction%20in%20underrepresented%20populations.md)
+- [Start the year AI-ready with the Google AI Educator Series](docs/google/blog/2026-09-03/Start%20the%20year%20AI-ready%20with%20the%20Google%20AI%20Educator%20Series.md)
+- [A connectomics milestone: Mapping the complete male fruit fly brain](docs/google/research/2026-09-03/A%20connectomics%20milestone_%20Mapping%20the%20complete%20male%20fruit%20fly%20brain.md)
+- [Use your voice to get more done in Gmail, Docs, and Keep](docs/google/blog/2026-09-03/Use%20your%20voice%20to%20get%20more%20done%20in%20Gmail_%20Docs_%20and%20Keep.md)
+- [What’s new with Google Data Cloud](docs/google/cloud/2026-09-03/What_s%20new%20with%20Google%20Data%20Cloud.md)
+- [5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience](docs/google/blog/2026-09-03/5%20amazing%20visuals%20show%20how%20the%20male%20fruit%20fly_s%20brain%20map%20is%20advancing%20neuroscience.md)
+- [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](docs/google/deepmind/2026-09-03/Introducing%20WeatherNext%203_%20our%20most%20advanced%20and%20accurate%20global%20weather%20AI%20model.md)
+- [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](docs/google/blog/2026-09-03/Introducing%20WeatherNext%203_%20our%20most%20advanced%20and%20accurate%20global%20weather%20AI%20model.md)
+- [Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini](docs/google/cloud/2026-09-03/Announcing%20the%20Google%20Gen%20AI%20SDK%20for%20Kotlin%201_0_%20Idiomatic%20multiplatform%20access%20to%20Gemini.md)
+- [Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services](docs/google/cloud/2026-09-03/Google%20named%20a%20Leader%20in%202026%20Gartner_%20Magic%20Quadrant_%20for%20Strategic%20Cloud%20Platform%20Services.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
