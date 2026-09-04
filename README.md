@@ -31,7 +31,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Real-Time Intelligence with IBM Time Series Models on Confluent](docs/huggingface/blog/2026-09-02/Real-Time%20Intelligence%20with%20IBM%20Time%20Series%20Models%20on%20Confluent.md)
+- [NeoMME: an efficient Multimodal-native and Multilingual Encoder](docs/huggingface/blog/2026-09-03/NeoMME_%20an%20efficient%20Multimodal-native%20and%20Multilingual%20Encoder.md)
+- [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](docs/huggingface/blog/2026-09-03/Fine-tuning%20a%20350M%20Model%20for%20Better%20Structured%20Outputs%20in%20100%20GRPO%20Steps.md)
+- [Give Your Coding Agents a Memory You Own](docs/huggingface/blog/2026-09-03/Give%20Your%20Coding%20Agents%20a%20Memory%20You%20Own.md)
+- [Training a coding model to paint watercolours with TRL and OpenEnv](docs/huggingface/blog/2026-09-03/Training%20a%20coding%20model%20to%20paint%20watercolours%20with%20TRL%20and%20OpenEnv.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
