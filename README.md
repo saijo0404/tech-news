@@ -24,8 +24,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough](docs/nvidia/developer/2026-09-02/The%20Modern%20CUDA%20Toolbox%20in%20Practice_%20A%20Step-by-Step%20Optimization%20Walkthrough.md)
-- [Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference](docs/nvidia/developer/2026-09-02/Co-Designing%20AI%20Models%20Using%20Speculative%20Decoding%20for%20Faster%20LLM%20Inference.md)
+- [How to Carry User Identity Across Federated Kubernetes and AI Platforms](docs/nvidia/developer/2026-09-03/How%20to%20Carry%20User%20Identity%20Across%20Federated%20Kubernetes%20and%20AI%20Platforms.md)
+- [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](docs/nvidia/blogs/2026-09-03/Sparks%20Fly_%20NVIDIA%20Accelerates%20Local%20AI%20at%20IFA%202026.md)
+- [NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network](docs/nvidia/developer/2026-09-03/NVIDIA%20PAIR%20Virtual%20Inference%20Router%20Expands%20Available%20Compute%20on%20Your%20Local%20Network.md)
+- [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](docs/nvidia/blogs/2026-09-03/NBA%202K27_%20With%20NVIDIA%20DLSS%205%20Leads%2028%20New%20Games%20Coming%20to%20GeForce%20NOW.md)
+- [NVIDIA to Acquire Hugging Face](docs/nvidia/newsroom/2026-09-03/NVIDIA%20to%20Acquire%20Hugging%20Face.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
