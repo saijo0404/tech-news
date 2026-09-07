@@ -8,16 +8,12 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Transfer learning for genomic prediction in underrepresented populations](docs/google/research/2026-09-03/Transfer%20learning%20for%20genomic%20prediction%20in%20underrepresented%20populations.md)
-- [Start the year AI-ready with the Google AI Educator Series](docs/google/blog/2026-09-03/Start%20the%20year%20AI-ready%20with%20the%20Google%20AI%20Educator%20Series.md)
-- [A connectomics milestone: Mapping the complete male fruit fly brain](docs/google/research/2026-09-03/A%20connectomics%20milestone_%20Mapping%20the%20complete%20male%20fruit%20fly%20brain.md)
-- [Use your voice to get more done in Gmail, Docs, and Keep](docs/google/blog/2026-09-03/Use%20your%20voice%20to%20get%20more%20done%20in%20Gmail_%20Docs_%20and%20Keep.md)
-- [What’s new with Google Data Cloud](docs/google/cloud/2026-09-03/What_s%20new%20with%20Google%20Data%20Cloud.md)
-- [5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience](docs/google/blog/2026-09-03/5%20amazing%20visuals%20show%20how%20the%20male%20fruit%20fly_s%20brain%20map%20is%20advancing%20neuroscience.md)
-- [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](docs/google/deepmind/2026-09-03/Introducing%20WeatherNext%203_%20our%20most%20advanced%20and%20accurate%20global%20weather%20AI%20model.md)
-- [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](docs/google/blog/2026-09-03/Introducing%20WeatherNext%203_%20our%20most%20advanced%20and%20accurate%20global%20weather%20AI%20model.md)
-- [Announcing the Google Gen AI SDK for Kotlin 1.0: Idiomatic multiplatform access to Gemini](docs/google/cloud/2026-09-03/Announcing%20the%20Google%20Gen%20AI%20SDK%20for%20Kotlin%201_0_%20Idiomatic%20multiplatform%20access%20to%20Gemini.md)
-- [Google named a Leader in 2026 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services](docs/google/cloud/2026-09-03/Google%20named%20a%20Leader%20in%202026%20Gartner_%20Magic%20Quadrant_%20for%20Strategic%20Cloud%20Platform%20Services.md)
+- [Backing 16 green AI projects in Asia-Pacific](docs/google/blog/2026-09-07/Backing%2016%20green%20AI%20projects%20in%20Asia-Pacific.md)
+- [Create your best tracks yet with Lyria 3.5 in Gemini.](docs/google/blog/2026-09-04/Create%20your%20best%20tracks%20yet%20with%20Lyria%203_5%20in%20Gemini.md)
+- [Google Translate rolls out new upgrades for iOS and Android.](docs/google/blog/2026-09-04/Google%20Translate%20rolls%20out%20new%20upgrades%20for%20iOS%20and%20Android.md)
+- [How Yahoo optimizes resources with flexible VMs in Managed Service for Apache Spark](docs/google/cloud/2026-09-04/How%20Yahoo%20optimizes%20resources%20with%20flexible%20VMs%20in%20Managed%20Service%20for%20Apache%20Spark.md)
+- [Spanner migrations: Automating dual-write with Antigravity CLI for minimal disruption](docs/google/cloud/2026-09-04/Spanner%20migrations_%20Automating%20dual-write%20with%20Antigravity%20CLI%20for%20minimal%20disruption.md)
+- [Not All LLM Workloads Are Equal: Benchmarking TPU Performance on Classification vs. Generation](docs/google/cloud/2026-09-04/Not%20All%20LLM%20Workloads%20Are%20Equal_%20Benchmarking%20TPU%20Performance%20on%20Classification%20vs_%20Generation.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
