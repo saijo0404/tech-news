@@ -22,11 +22,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How to Carry User Identity Across Federated Kubernetes and AI Platforms](docs/nvidia/developer/2026-09-03/How%20to%20Carry%20User%20Identity%20Across%20Federated%20Kubernetes%20and%20AI%20Platforms.md)
-- [Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026](docs/nvidia/blogs/2026-09-03/Sparks%20Fly_%20NVIDIA%20Accelerates%20Local%20AI%20at%20IFA%202026.md)
-- [NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network](docs/nvidia/developer/2026-09-03/NVIDIA%20PAIR%20Virtual%20Inference%20Router%20Expands%20Available%20Compute%20on%20Your%20Local%20Network.md)
-- [‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW](docs/nvidia/blogs/2026-09-03/NBA%202K27_%20With%20NVIDIA%20DLSS%205%20Leads%2028%20New%20Games%20Coming%20to%20GeForce%20NOW.md)
-- [NVIDIA to Acquire Hugging Face](docs/nvidia/newsroom/2026-09-03/NVIDIA%20to%20Acquire%20Hugging%20Face.md)
+- [Building a Memory-Driven Agent with NVIDIA NemoClaw](docs/nvidia/developer/2026-09-04/Building%20a%20Memory-Driven%20Agent%20with%20NVIDIA%20NemoClaw.md)
+- [Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson](docs/nvidia/developer/2026-09-04/Frontier%20Reasoning%20Reaches%20the%20Edge_%20How%20to%20Deploy%20and%20Optimize%20Models%20on%20NVIDIA%20Jetson.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
