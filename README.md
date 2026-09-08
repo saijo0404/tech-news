@@ -28,7 +28,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [MiniMax H3 on vLLM-Omni: From System-Wide Optimization to Real-Time Serving with FastVideo’s FastH3](docs/vllm/blog/2026-09-01/MiniMax%20H3%20on%20vLLM-Omni_%20From%20System-Wide%20Optimization%20to%20Real-Time%20Serving%20with%20FastVideo_s%20FastH3.md)
+- [Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin](docs/vllm/blog/2026-09-07/Serving%20LLMs%20on%20Tenstorrent%20Hardware_%20Inside%20the%20vLLM%20TT%20Plugin.md)
 <!-- END:vllm -->
 
 ---
