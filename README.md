@@ -14,8 +14,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Building a Memory-Driven Agent with NVIDIA NemoClaw](docs/nvidia/developer/2026-09-04/Building%20a%20Memory-Driven%20Agent%20with%20NVIDIA%20NemoClaw.md)
-- [Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson](docs/nvidia/developer/2026-09-04/Frontier%20Reasoning%20Reaches%20the%20Edge_%20How%20to%20Deploy%20and%20Optimize%20Models%20on%20NVIDIA%20Jetson.md)
+- [NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem](docs/nvidia/newsroom/2026-09-10/NVIDIA%20Expands%20AI%20Infrastructure%20Capacity%20in%20Partnership%20With%20Australia_s%20Data%20Center%20Ecosystem.md)
+- [When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving](docs/nvidia/developer/2026-09-09/When%20to%20Use%20Encode-Prefill-Decode%20Disaggregation%20to%20Accelerate%20Multimodal%20Model%20Serving.md)
+- [CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs](docs/nvidia/developer/2026-09-09/CUDA%20Toolkit%2013_4%20Adds%20Windows%20on%20Arm%20Support%20and%20Greater%20Control%20over%20Shared%20GPUs.md)
+- [NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC](docs/nvidia/blogs/2026-09-09/NVIDIA%20Brings%20Real-Time%20AI%20to%20Broadcast_%20Sports%20and%20Global%20Streaming%20at%20IBC.md)
+- [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](docs/nvidia/developer/2026-09-08/Introducing%20CUDA%20Rust_%20Two%20Tracks%20for%20Writing%20GPU%20Kernels.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
