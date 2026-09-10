@@ -51,7 +51,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin](docs/vllm/blog/2026-09-07/Serving%20LLMs%20on%20Tenstorrent%20Hardware_%20Inside%20the%20vLLM%20TT%20Plugin.md)
+- [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](docs/vllm/blog/2026-09-08/GLM%205_3%20Optimizations_%20Part%201_%20Hybrid%20HiSparse%20Offloading%20in%20vLLM.md)
+- [vLLM x AgentX: Optimizing for Real-World Agentic Serving](docs/vllm/blog/2026-09-08/vLLM%20x%20AgentX_%20Optimizing%20for%20Real-World%20Agentic%20Serving.md)
 <!-- END:vllm -->
 
 ---
