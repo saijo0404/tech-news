@@ -32,8 +32,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](docs/huggingface/blog/2026-09-09/IBM%20releases%20SOTA%20Granite%20Time%20Series%20PatchTST-FM-r2%20model%20with%20commercial-friendly%20license.md)
-- [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](docs/huggingface/blog/2026-09-08/Safety%20for%20Whom_%20Refusing%20the%20Right%20Subset%20of%20a%20Topic_%20Not%20the%20Whole%20Topic.md)
+- [Rebuilding AUTOMATIC1111 with Gradio Workflow](docs/huggingface/blog/2026-09-10/Rebuilding%20AUTOMATIC1111%20with%20Gradio%20Workflow.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
