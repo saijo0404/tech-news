@@ -8,28 +8,14 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available](docs/google/cloud/2026-09-09/Enterprise-grade%20PostgreSQL%20with%20AlloyDB%20Omni%20RPM%20Orchestrator%20is%20generally%20available.md)
-- [A new deep learning model maps global methane emissions from space.](docs/google/blog/2026-09-09/A%20new%20deep%20learning%20model%20maps%20global%20methane%20emissions%20from%20space.md)
-- [Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants](docs/google/cloud/2026-09-09/Google%20is%20a%20Leader%20in%20the%202026%20Gartner_%20Magic%20Quadrant_%20for%20Enterprise%20AI%20Assistants.md)
-- [Tackle your to-do list with new features in our Google AI plans.](docs/google/blog/2026-09-09/Tackle%20your%20to-do%20list%20with%20new%20features%20in%20our%20Google%20AI%20plans.md)
-- [Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL](docs/google/cloud/2026-09-09/Beyond%20DMS_%20Accelerating%20Migrations%20SQL%20Server%20Logins%20and%20Users%20to%20Cloud%20SQL.md)
-- [Get ready for the game with new football features in Search](docs/google/blog/2026-09-09/Get%20ready%20for%20the%20game%20with%20new%20football%20features%20in%20Search.md)
-- [4 ways Gemini makes administrative chores quick and easy](docs/google/blog/2026-09-09/4%20ways%20Gemini%20makes%20administrative%20chores%20quick%20and%20easy.md)
-- [Recreating a 70-year love story frame by frame](docs/google/blog/2026-09-09/Recreating%20a%2070-year%20love%20story%20frame%20by%20frame.md)
-- [Google Accelerators have spent the last decade helping global startups succeed.](docs/google/blog/2026-09-09/Google%20Accelerators%20have%20spent%20the%20last%20decade%20helping%20global%20startups%20succeed.md)
-- [Spanner: Removing cumulative mutation limits for DML transactions](docs/google/cloud/2026-09-09/Spanner_%20Removing%20cumulative%20mutation%20limits%20for%20DML%20transactions.md)
-- [How Airtel delivered its flawless Indian Premiere League 2026 cricket broadcasts](docs/google/cloud/2026-09-09/How%20Airtel%20delivered%20its%20flawless%20Indian%20Premiere%20League%202026%20cricket%20broadcasts.md)
-- [Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure](docs/google/blog/2026-09-09/Google%20deepens%20its%20commitment%20to%20Finland%20with%20a%20_13%20billion%20investment%20in%20AI%20infrastructure.md)
-- [Our blueprint for responsible clean energy growth in Finland](docs/google/blog/2026-09-09/Our%20blueprint%20for%20responsible%20clean%20energy%20growth%20in%20Finland.md)
-- [Power agent hubs or custom harnesses with the Antigravity SDK in one toolkit](docs/google/cloud/2026-09-08/Power%20agent%20hubs%20or%20custom%20harnesses%20with%20the%20Antigravity%20SDK%20in%20one%20toolkit.md)
-- [Agentic analytics with the Data Agent Kit](docs/google/cloud/2026-09-08/Agentic%20analytics%20with%20the%20Data%20Agent%20Kit.md)
-- [How KDDI built Buffmee, a faster, reliable consumer RAG app](docs/google/cloud/2026-09-08/How%20KDDI%20built%20Buffmee_%20a%20faster_%20reliable%20consumer%20RAG%20app.md)
-- [Missouri and Google partner on AI and career training](docs/google/blog/2026-09-08/Missouri%20and%20Google%20partner%20on%20AI%20and%20career%20training.md)
-- [We’re helping put 25 new electric semi trucks on the road in Texas.](docs/google/blog/2026-09-08/We_re%20helping%20put%2025%20new%20electric%20semi%20trucks%20on%20the%20road%20in%20Texas.md)
-- [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](docs/google/deepmind/2026-09-08/AlphaGenome%20Atlas_%20A%20predictive%20map%20of%20every%20possible%20DNA%20letter%20change%20in%20the%20human%20genome.md)
-- [AlphaGenome Atlas: a high-resolution map of human DNA](docs/google/blog/2026-09-08/AlphaGenome%20Atlas_%20a%20high-resolution%20map%20of%20human%20DNA.md)
-- [GTIG AI Threat Tracker: From Prompting to Autonomy – The Evolution of Adversarial AI](docs/google/cloud/2026-09-08/GTIG%20AI%20Threat%20Tracker_%20From%20Prompting%20to%20Autonomy%20_%20The%20Evolution%20of%20Adversarial%20AI.md)
-- [Helping small businesses win with AI](docs/google/blog/2026-09-08/Helping%20small%20businesses%20win%20with%20AI.md)
+- [ToolGrad: Efficient tool-use dataset generation with textual "gradients"](docs/google/research/2026-09-10/ToolGrad_%20Efficient%20tool-use%20dataset%20generation%20with%20textual%20_gradients.md)
+- [Introducing the Google Cloud Developer Plugin for AI Coding Agents](docs/google/cloud/2026-09-10/Introducing%20the%20Google%20Cloud%20Developer%20Plugin%20for%20AI%20Coding%20Agents.md)
+- [Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.](docs/google/blog/2026-09-10/Dreambeans_%20Daily%20stories_%20brewed%20just%20for%20you_%20now%20available%20to%20all%20accounts%20in%20the%20U_S.md)
+- [3 ways to prep for your next big race with Search](docs/google/blog/2026-09-10/3%20ways%20to%20prep%20for%20your%20next%20big%20race%20with%20Search.md)
+- [The Gemini app is now available for Windows](docs/google/blog/2026-09-10/The%20Gemini%20app%20is%20now%20available%20for%20Windows.md)
+- [Switching password managers is easy and safe on Android](docs/google/blog/2026-09-10/Switching%20password%20managers%20is%20easy%20and%20safe%20on%20Android.md)
+- [Drive profitable growth with new data and measurement tools](docs/google/blog/2026-09-10/Drive%20profitable%20growth%20with%20new%20data%20and%20measurement%20tools.md)
+- [Exploring Creative Intelligence with London’s Southbank Centre](docs/google/blog/2026-09-10/Exploring%20Creative%20Intelligence%20with%20London_s%20Southbank%20Centre.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
