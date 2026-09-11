@@ -38,8 +38,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM](docs/vllm/blog/2026-09-08/GLM%205_3%20Optimizations_%20Part%201_%20Hybrid%20HiSparse%20Offloading%20in%20vLLM.md)
-- [vLLM x AgentX: Optimizing for Real-World Agentic Serving](docs/vllm/blog/2026-09-08/vLLM%20x%20AgentX_%20Optimizing%20for%20Real-World%20Agentic%20Serving.md)
+- [Following the Bottleneck: Optimizing MiniMax M3 on AMD Instinct MI355X](docs/vllm/blog/2026-09-10/Following%20the%20Bottleneck_%20Optimizing%20MiniMax%20M3%20on%20AMD%20Instinct%20MI355X.md)
+- [Tiered KV Cache Offloading in vLLM](docs/vllm/blog/2026-09-10/Tiered%20KV%20Cache%20Offloading%20in%20vLLM.md)
 <!-- END:vllm -->
 
 ---
