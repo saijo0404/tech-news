@@ -8,14 +8,8 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [ToolGrad: Efficient tool-use dataset generation with textual "gradients"](docs/google/research/2026-09-10/ToolGrad_%20Efficient%20tool-use%20dataset%20generation%20with%20textual%20_gradients.md)
-- [Introducing the Google Cloud Developer Plugin for AI Coding Agents](docs/google/cloud/2026-09-10/Introducing%20the%20Google%20Cloud%20Developer%20Plugin%20for%20AI%20Coding%20Agents.md)
-- [Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.](docs/google/blog/2026-09-10/Dreambeans_%20Daily%20stories_%20brewed%20just%20for%20you_%20now%20available%20to%20all%20accounts%20in%20the%20U_S.md)
-- [3 ways to prep for your next big race with Search](docs/google/blog/2026-09-10/3%20ways%20to%20prep%20for%20your%20next%20big%20race%20with%20Search.md)
-- [The Gemini app is now available for Windows](docs/google/blog/2026-09-10/The%20Gemini%20app%20is%20now%20available%20for%20Windows.md)
-- [Switching password managers is easy and safe on Android](docs/google/blog/2026-09-10/Switching%20password%20managers%20is%20easy%20and%20safe%20on%20Android.md)
-- [Drive profitable growth with new data and measurement tools](docs/google/blog/2026-09-10/Drive%20profitable%20growth%20with%20new%20data%20and%20measurement%20tools.md)
-- [Exploring Creative Intelligence with London’s Southbank Centre](docs/google/blog/2026-09-10/Exploring%20Creative%20Intelligence%20with%20London_s%20Southbank%20Centre.md)
+- [Three Google supported projects premiere during the 83rd Venice International Film Festival.](docs/google/blog/2026-09-11/Three%20Google%20supported%20projects%20premiere%20during%20the%2083rd%20Venice%20International%20Film%20Festival.md)
+- [3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference](docs/google/cloud/2026-09-11/3%20Highlights%20from%20Thomas%20Kurian_s%20Keynote%20at%20the%20Goldman%20Sachs%20Communicopia%20_%20Technology%20Conference.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
