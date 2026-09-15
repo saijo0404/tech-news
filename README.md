@@ -14,14 +14,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra](docs/nvidia/developer/2026-09-10/How%20Full-Stack%20NIM%20Optimizations%20Deliver%202_5x%20More%20Users%20on%20Nemotron%203%20Ultra.md)
-- [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](docs/nvidia/blogs/2026-09-10/Skild%20AI%20Taps%20NVIDIA%20Physical%20AI%20to%20Teach%20Robots%20New%20Tasks%20From%20a%20Single%20Video.md)
-- [Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies](docs/nvidia/blogs/2026-09-10/Physical%20AI%20Takes%20the%20Wheel_%20How%20the%20World_s%20Robotaxi%20Leaders%20Are%20Building%20With%20NVIDIA%20Technologies.md)
-- [High-Throughput Structure Prediction with BioNeMo Inference Runtime](docs/nvidia/developer/2026-09-10/High-Throughput%20Structure%20Prediction%20with%20BioNeMo%20Inference%20Runtime.md)
-- [d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment](docs/nvidia/blogs/2026-09-10/d-Matrix%20Adopts%20NVIDIA%20NVLink%20Fusion%20for%20Rack-Scale%20XPU%20Deployment.md)
-- [Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch](docs/nvidia/blogs/2026-09-10/Boots%20on%20the%20Ground_%20_WARDOGS_%20Goes%20All%20Out%20on%20GeForce%20NOW%20at%20Early-Access%20Launch.md)
-- [From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry](docs/nvidia/developer/2026-09-10/From%20Wafer-Out%20to%20First%20Token_%20Codifying%20Supply%20Chain%20Expertise%20with%20Nemotron%20and%20Palantir%20Foundry.md)
-- [NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains](docs/nvidia/newsroom/2026-09-10/NVIDIA%20and%20Palantir%20Bring%20Sovereign%20Intelligence%20to%20Critical%20Supply%20Chains.md)
+- [Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine](docs/nvidia/developer/2026-09-14/Accelerating%20Dropless%20MoE%20Training%20in%20JAX%20with%20NVIDIA%20Transformer%20Engine.md)
+- [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](docs/nvidia/blogs/2026-09-14/Perplexity%20Portable%20Computer%20Is%20Now%20Available%20on%20Windows_%20Powered%20by%20NVIDIA%20RTX.md)
+- [NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing](docs/nvidia/newsroom/2026-09-14/NVIDIA%20Expands%20Open%20Source%20CUDA-Q%20Platform%20for%20Fault-Tolerant%20Quantum%20Computing.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
