@@ -25,7 +25,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Rebuilding AUTOMATIC1111 with Gradio Workflow](docs/huggingface/blog/2026-09-10/Rebuilding%20AUTOMATIC1111%20with%20Gradio%20Workflow.md)
+- [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](docs/huggingface/blog/2026-09-10/Async%20GRPO%20with%20LoRA%20across%20HF%20Jobs_%20a%20bucket_%20a%20proxy_%20and%20no%20NCCL.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
