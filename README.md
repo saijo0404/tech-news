@@ -8,8 +8,12 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Three Google supported projects premiere during the 83rd Venice International Film Festival.](docs/google/blog/2026-09-11/Three%20Google%20supported%20projects%20premiere%20during%20the%2083rd%20Venice%20International%20Film%20Festival.md)
-- [3 Highlights from Thomas Kurian’s Keynote at the Goldman Sachs Communicopia & Technology Conference](docs/google/cloud/2026-09-11/3%20Highlights%20from%20Thomas%20Kurian_s%20Keynote%20at%20the%20Goldman%20Sachs%20Communicopia%20_%20Technology%20Conference.md)
+- [Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.](docs/google/blog/2026-09-14/Watch%20astronaut%20Christina%20Koch%20and%20Google_s%20James%20Manyika%20discuss%20space_%20technology_%20and%20discovery.md)
+- [DevFest is back](docs/google/blog/2026-09-14/DevFest%20is%20back.md)
+- [Agent-ready analytics: Unlocking insights with BigQuery augmented analytics](docs/google/cloud/2026-09-14/Agent-ready%20analytics_%20Unlocking%20insights%20with%20BigQuery%20augmented%20analytics.md)
+- [Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow](docs/google/cloud/2026-09-14/Announcing%20Pause_Resume%20and%20NVIDIA%20RTX%20PRO%206000%20Blackwell%20GPU%20support%20in%20Dataflow.md)
+- [Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026](docs/google/cloud/2026-09-14/Google%20is%20a%20leader%20in%20The%20Forrester%20Wave_%20Public%20Cloud%20Platforms_%20Q3%202026.md)
+- [We’re exploring a potential data center in Lea County, New Mexico.](docs/google/blog/2026-09-14/We_re%20exploring%20a%20potential%20data%20center%20in%20Lea%20County_%20New%20Mexico.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
