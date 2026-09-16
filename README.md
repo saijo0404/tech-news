@@ -38,7 +38,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](docs/huggingface/blog/2026-09-10/Async%20GRPO%20with%20LoRA%20across%20HF%20Jobs_%20a%20bucket_%20a%20proxy_%20and%20no%20NCCL.md)
+- [Your Agent Aced the Task. Will It Do It Again?](docs/huggingface/blog/2026-09-15/Your%20Agent%20Aced%20the%20Task_%20Will%20It%20Do%20It%20Again.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
