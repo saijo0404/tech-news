@@ -43,8 +43,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Following the Bottleneck: Optimizing MiniMax M3 on AMD Instinct MI355X](docs/vllm/blog/2026-09-10/Following%20the%20Bottleneck_%20Optimizing%20MiniMax%20M3%20on%20AMD%20Instinct%20MI355X.md)
-- [Tiered KV Cache Offloading in vLLM](docs/vllm/blog/2026-09-10/Tiered%20KV%20Cache%20Offloading%20in%20vLLM.md)
+- [How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72](docs/vllm/blog/2026-09-15/How%20we%20trained%20the%20fastest%20DSpark%20for%20Kimi-K3%20using%20GB300%20NVL72.md)
+- [Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput](docs/vllm/blog/2026-09-13/Kimi%20K3%20Performance%20Optimizations%20in%20vLLM_%20The%20Road%20to%202_8_%20Throughput.md)
 <!-- END:vllm -->
 
 ---
