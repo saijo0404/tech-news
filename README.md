@@ -31,9 +31,14 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine](docs/nvidia/developer/2026-09-14/Accelerating%20Dropless%20MoE%20Training%20in%20JAX%20with%20NVIDIA%20Transformer%20Engine.md)
-- [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](docs/nvidia/blogs/2026-09-14/Perplexity%20Portable%20Computer%20Is%20Now%20Available%20on%20Windows_%20Powered%20by%20NVIDIA%20RTX.md)
-- [NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing](docs/nvidia/newsroom/2026-09-14/NVIDIA%20Expands%20Open%20Source%20CUDA-Q%20Platform%20for%20Fault-Tolerant%20Quantum%20Computing.md)
+- [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](docs/nvidia/blogs/2026-09-15/Now%20We%20Can%20Know%20Everything%20and%20Do%20Anything_%20Jensen%20Huang%20Says%20at%20Dreamforce.md)
+- [Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each](docs/nvidia/developer/2026-09-15/Dense%20vs_%20MoE%20Models_%20Active%20Parameters_%20Throughput_%20and%20When%20to%20Choose%20Each.md)
+- [From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production](docs/nvidia/blogs/2026-09-15/From%20Megawatts%20to%20Tokens_%20How%20NVIDIA%20Maximizes%20AI%20Factory%20Production.md)
+- [AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories](docs/nvidia/blogs/2026-09-15/AI%20Infra%20Summit_%20NVIDIA%20Vera%20Rubin%20and%20DSX%20Platform%20Advancements%20Showcase%20Energy%20Efficiencies%20of%20Optimizing%20Tokens%20Per%20Watt%20for%20AI%20Factories.md)
+- [How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin](docs/nvidia/developer/2026-09-15/How%20NVIDIA%20Groq%203%20LPX%20Deterministic%20Execution%20Drives%20Power-Efficient%20High-Interactivity%20Inference%20on%20NVIDIA%20Vera%20Rubin.md)
+- [How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories](docs/nvidia/developer/2026-09-15/How%20NVIDIA%20NVLink%206%20Delivers%20Multi-Layer%20Resiliency%20for%20AI%20Factories.md)
+- [Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE](docs/nvidia/developer/2026-09-15/Scaling%20Federated%20Learning%20Across%20Docker_%20Kubernetes_%20and%20Slurm%20with%20NVIDIA%20FLARE.md)
+- [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](docs/nvidia/blogs/2026-09-15/Heart%20of%20the%20Matter_%20How%20a%20Major%20Children_s%20Hospital%20Uses%20Open%20Source%20NVIDIA%20AI%20for%20Cardiac%20Care.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
