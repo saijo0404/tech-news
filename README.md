@@ -8,12 +8,25 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.](docs/google/blog/2026-09-14/Watch%20astronaut%20Christina%20Koch%20and%20Google_s%20James%20Manyika%20discuss%20space_%20technology_%20and%20discovery.md)
-- [DevFest is back](docs/google/blog/2026-09-14/DevFest%20is%20back.md)
-- [Agent-ready analytics: Unlocking insights with BigQuery augmented analytics](docs/google/cloud/2026-09-14/Agent-ready%20analytics_%20Unlocking%20insights%20with%20BigQuery%20augmented%20analytics.md)
-- [Announcing Pause/Resume and NVIDIA RTX PRO 6000 Blackwell GPU support in Dataflow](docs/google/cloud/2026-09-14/Announcing%20Pause_Resume%20and%20NVIDIA%20RTX%20PRO%206000%20Blackwell%20GPU%20support%20in%20Dataflow.md)
-- [Google is a leader in The Forrester Wave™: Public Cloud Platforms, Q3 2026](docs/google/cloud/2026-09-14/Google%20is%20a%20leader%20in%20The%20Forrester%20Wave_%20Public%20Cloud%20Platforms_%20Q3%202026.md)
-- [We’re exploring a potential data center in Lea County, New Mexico.](docs/google/blog/2026-09-14/We_re%20exploring%20a%20potential%20data%20center%20in%20Lea%20County_%20New%20Mexico.md)
+- [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](docs/google/research/2026-09-15/Bypassing%20inference%20bottlenecks_%20Accelerating%20complex%20AI%20search%20with%20Retrieve-for-Train.md)
+- [September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more](docs/google/blog/2026-09-15/September%20Pixel%20Drop_%20New%20Pixel%20VIP%20updates_%20Pixel%20Watch%20features_%20and%20more.md)
+- [Introducing new session management tools with native, granular controls](docs/google/cloud/2026-09-15/Introducing%20new%20session%20management%20tools%20with%20native_%20granular%20controls.md)
+- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](docs/google/deepmind/2026-09-15/Introducing%20Gemini%203_8%20Live%20and%203_8%20Live%20Extended%20Thinking.md)
+- [Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](docs/google/blog/2026-09-15/Build%20real-time%20voice%20applications%20with%20Gemini%203_8%20Live%20and%203_5%20Transcribe.md)
+- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](docs/google/blog/2026-09-15/Introducing%20Gemini%203_8%20Live%20and%203_8%20Live%20Extended%20Thinking.md)
+- [15 organizations transforming public service with AI](docs/google/blog/2026-09-15/15%20organizations%20transforming%20public%20service%20with%20AI.md)
+- [AI for Societal Impact](docs/google/blog/2026-09-15/AI%20for%20Societal%20Impact.md)
+- [Building AI to accelerate science and improve lives](docs/google/blog/2026-09-15/Building%20AI%20to%20accelerate%20science%20and%20improve%20lives.md)
+- [AI for everyone in every language](docs/google/blog/2026-09-15/AI%20for%20everyone%20in%20every%20language.md)
+- [Ask a Scientist: How can researchers use AI to spot a wildfire?](docs/google/blog/2026-09-15/Ask%20a%20Scientist_%20How%20can%20researchers%20use%20AI%20to%20spot%20a%20wildfire.md)
+- [We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.](docs/google/blog/2026-09-15/We_re%20committing%20_10%20million%20toward%20Nevada_s%20cleaner_%20more%20affordable%20energy%20future.md)
+- [Sharpen your study routine with new Gemini Notebook tools](docs/google/blog/2026-09-15/Sharpen%20your%20study%20routine%20with%20new%20Gemini%20Notebook%20tools.md)
+- [4 ways to tackle household chores with Gemini](docs/google/blog/2026-09-15/4%20ways%20to%20tackle%20household%20chores%20with%20Gemini.md)
+- [Best practices for handling cloud reliability incidents](docs/google/cloud/2026-09-15/Best%20practices%20for%20handling%20cloud%20reliability%20incidents.md)
+- [Agent Substrate brings high-density, scalable, trusted infrastructure to GKE](docs/google/cloud/2026-09-15/Agent%20Substrate%20brings%20high-density_%20scalable_%20trusted%20infrastructure%20to%20GKE.md)
+- [Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow](docs/google/cloud/2026-09-15/Scaling%20Telco%20Autonomy_%20Leveraging%20GNNs%20with%20Distributed%20GraphFlow.md)
+- [Introducing Filestore agent volumes: fully managed storage for agent workspaces](docs/google/cloud/2026-09-15/Introducing%20Filestore%20agent%20volumes_%20fully%20managed%20storage%20for%20agent%20workspaces.md)
+- [New insights from Google’s AI & Economy ATLAS](docs/google/blog/2026-09-15/New%20insights%20from%20Google_s%20AI%20_%20Economy%20ATLAS.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
