@@ -31,14 +31,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](docs/nvidia/blogs/2026-09-15/Now%20We%20Can%20Know%20Everything%20and%20Do%20Anything_%20Jensen%20Huang%20Says%20at%20Dreamforce.md)
-- [Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each](docs/nvidia/developer/2026-09-15/Dense%20vs_%20MoE%20Models_%20Active%20Parameters_%20Throughput_%20and%20When%20to%20Choose%20Each.md)
-- [From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production](docs/nvidia/blogs/2026-09-15/From%20Megawatts%20to%20Tokens_%20How%20NVIDIA%20Maximizes%20AI%20Factory%20Production.md)
-- [AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories](docs/nvidia/blogs/2026-09-15/AI%20Infra%20Summit_%20NVIDIA%20Vera%20Rubin%20and%20DSX%20Platform%20Advancements%20Showcase%20Energy%20Efficiencies%20of%20Optimizing%20Tokens%20Per%20Watt%20for%20AI%20Factories.md)
-- [How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin](docs/nvidia/developer/2026-09-15/How%20NVIDIA%20Groq%203%20LPX%20Deterministic%20Execution%20Drives%20Power-Efficient%20High-Interactivity%20Inference%20on%20NVIDIA%20Vera%20Rubin.md)
-- [How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories](docs/nvidia/developer/2026-09-15/How%20NVIDIA%20NVLink%206%20Delivers%20Multi-Layer%20Resiliency%20for%20AI%20Factories.md)
-- [Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE](docs/nvidia/developer/2026-09-15/Scaling%20Federated%20Learning%20Across%20Docker_%20Kubernetes_%20and%20Slurm%20with%20NVIDIA%20FLARE.md)
-- [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](docs/nvidia/blogs/2026-09-15/Heart%20of%20the%20Matter_%20How%20a%20Major%20Children_s%20Hospital%20Uses%20Open%20Source%20NVIDIA%20AI%20for%20Cardiac%20Care.md)
+- [How to Use AI Agents to Prepare 3D Scenes for Simulation](docs/nvidia/developer/2026-09-16/How%20to%20Use%20AI%20Agents%20to%20Prepare%203D%20Scenes%20for%20Simulation.md)
+- [TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor](docs/nvidia/developer/2026-09-16/TensorRT%20Edge-LLM%20Completes%20the%20MLPerf%20Edge%20Agentic%20Benchmark%206_4x%20Faster%20on%20Jetson%20AGX%20Thor.md)
+- [Translating CUDA Tile Operations from Python to Rust Using Agentic AI](docs/nvidia/developer/2026-09-16/Translating%20CUDA%20Tile%20Operations%20from%20Python%20to%20Rust%20Using%20Agentic%20AI.md)
+- [NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut](docs/nvidia/blogs/2026-09-16/NVIDIA%20Vera%20Rubin%20NVL72%20Delivers%20Leading%20Performance%20in%20MLPerf%20Inference%20v6_1%20Debut.md)
+- [Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers](docs/nvidia/blogs/2026-09-16/Emerald%20AI_%20Google%20and%20NVIDIA%20Launch%20Alliance%20to%20Advance%20Flexible%20AI%20Data%20Centers.md)
+- [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](docs/nvidia/blogs/2026-09-16/University%20of%20Manchester%20Uses%20NVIDIA%20Earth-2%20to%20Forecast%20Air%20Pollution%20Across%20the%20UK.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
