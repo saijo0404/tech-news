@@ -8,25 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](docs/google/research/2026-09-15/Bypassing%20inference%20bottlenecks_%20Accelerating%20complex%20AI%20search%20with%20Retrieve-for-Train.md)
-- [September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more](docs/google/blog/2026-09-15/September%20Pixel%20Drop_%20New%20Pixel%20VIP%20updates_%20Pixel%20Watch%20features_%20and%20more.md)
-- [Introducing new session management tools with native, granular controls](docs/google/cloud/2026-09-15/Introducing%20new%20session%20management%20tools%20with%20native_%20granular%20controls.md)
-- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](docs/google/deepmind/2026-09-15/Introducing%20Gemini%203_8%20Live%20and%203_8%20Live%20Extended%20Thinking.md)
-- [Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](docs/google/blog/2026-09-15/Build%20real-time%20voice%20applications%20with%20Gemini%203_8%20Live%20and%203_5%20Transcribe.md)
-- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](docs/google/blog/2026-09-15/Introducing%20Gemini%203_8%20Live%20and%203_8%20Live%20Extended%20Thinking.md)
-- [15 organizations transforming public service with AI](docs/google/blog/2026-09-15/15%20organizations%20transforming%20public%20service%20with%20AI.md)
-- [AI for Societal Impact](docs/google/blog/2026-09-15/AI%20for%20Societal%20Impact.md)
-- [Building AI to accelerate science and improve lives](docs/google/blog/2026-09-15/Building%20AI%20to%20accelerate%20science%20and%20improve%20lives.md)
-- [AI for everyone in every language](docs/google/blog/2026-09-15/AI%20for%20everyone%20in%20every%20language.md)
-- [Ask a Scientist: How can researchers use AI to spot a wildfire?](docs/google/blog/2026-09-15/Ask%20a%20Scientist_%20How%20can%20researchers%20use%20AI%20to%20spot%20a%20wildfire.md)
-- [We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.](docs/google/blog/2026-09-15/We_re%20committing%20_10%20million%20toward%20Nevada_s%20cleaner_%20more%20affordable%20energy%20future.md)
-- [Sharpen your study routine with new Gemini Notebook tools](docs/google/blog/2026-09-15/Sharpen%20your%20study%20routine%20with%20new%20Gemini%20Notebook%20tools.md)
-- [4 ways to tackle household chores with Gemini](docs/google/blog/2026-09-15/4%20ways%20to%20tackle%20household%20chores%20with%20Gemini.md)
-- [Best practices for handling cloud reliability incidents](docs/google/cloud/2026-09-15/Best%20practices%20for%20handling%20cloud%20reliability%20incidents.md)
-- [Agent Substrate brings high-density, scalable, trusted infrastructure to GKE](docs/google/cloud/2026-09-15/Agent%20Substrate%20brings%20high-density_%20scalable_%20trusted%20infrastructure%20to%20GKE.md)
-- [Scaling Telco Autonomy: Leveraging GNNs with Distributed GraphFlow](docs/google/cloud/2026-09-15/Scaling%20Telco%20Autonomy_%20Leveraging%20GNNs%20with%20Distributed%20GraphFlow.md)
-- [Introducing Filestore agent volumes: fully managed storage for agent workspaces](docs/google/cloud/2026-09-15/Introducing%20Filestore%20agent%20volumes_%20fully%20managed%20storage%20for%20agent%20workspaces.md)
-- [New insights from Google’s AI & Economy ATLAS](docs/google/blog/2026-09-15/New%20insights%20from%20Google_s%20AI%20_%20Economy%20ATLAS.md)
+- [3 new ways we're improving Search profiles for publishers](docs/google/blog/2026-09-16/3%20new%20ways%20we_re%20improving%20Search%20profiles%20for%20publishers.md)
+- [Rethink your strategy to drive sales this holiday season.](docs/google/blog/2026-09-16/Rethink%20your%20strategy%20to%20drive%20sales%20this%20holiday%20season.md)
+- [For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%](docs/google/cloud/2026-09-16/For%20SeaVerse_%20GKE%20Agent%20Sandbox%20reduces%20infrastructure%20costs%20by%2060.md)
+- [Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses](docs/google/cloud/2026-09-16/Cloud%20CISO%20Perspectives_%20How%20Google%20monitors%20AI%20threats%20and%20advances%20AI%20defenses.md)
+- [M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads](docs/google/cloud/2026-09-16/M4N%20VM%20family_%20now%20GA_%20Highest%20per-core%20IOPS%20and%20throughput%20for%20I_O%20and%20memory-bound%20workloads.md)
+- [How Orange built FinOps accountability, and why agents are next](docs/google/cloud/2026-09-16/How%20Orange%20built%20FinOps%20accountability_%20and%20why%20agents%20are%20next.md)
+- [5 things to know about teens' views on AI today](docs/google/blog/2026-09-16/5%20things%20to%20know%20about%20teens_%20views%20on%20AI%20today.md)
+- [Boost your holiday sales with these agentic commerce updates](docs/google/blog/2026-09-16/Boost%20your%20holiday%20sales%20with%20these%20agentic%20commerce%20updates.md)
+- [Rethink 2026](docs/google/blog/2026-09-16/Rethink%202026.md)
+- [We’re catalyzing megaton-scale climate impact in Brazil](docs/google/blog/2026-09-16/We_re%20catalyzing%20megaton-scale%20climate%20impact%20in%20Brazil.md)
+- [Reimagining Chicago’s Thompson Center for the next generation](docs/google/blog/2026-09-16/Reimagining%20Chicago_s%20Thompson%20Center%20for%20the%20next%20generation.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
