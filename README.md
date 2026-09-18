@@ -8,17 +8,14 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [3 new ways we're improving Search profiles for publishers](docs/google/blog/2026-09-16/3%20new%20ways%20we_re%20improving%20Search%20profiles%20for%20publishers.md)
-- [Rethink your strategy to drive sales this holiday season.](docs/google/blog/2026-09-16/Rethink%20your%20strategy%20to%20drive%20sales%20this%20holiday%20season.md)
-- [For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%](docs/google/cloud/2026-09-16/For%20SeaVerse_%20GKE%20Agent%20Sandbox%20reduces%20infrastructure%20costs%20by%2060.md)
-- [Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses](docs/google/cloud/2026-09-16/Cloud%20CISO%20Perspectives_%20How%20Google%20monitors%20AI%20threats%20and%20advances%20AI%20defenses.md)
-- [M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads](docs/google/cloud/2026-09-16/M4N%20VM%20family_%20now%20GA_%20Highest%20per-core%20IOPS%20and%20throughput%20for%20I_O%20and%20memory-bound%20workloads.md)
-- [How Orange built FinOps accountability, and why agents are next](docs/google/cloud/2026-09-16/How%20Orange%20built%20FinOps%20accountability_%20and%20why%20agents%20are%20next.md)
-- [5 things to know about teens' views on AI today](docs/google/blog/2026-09-16/5%20things%20to%20know%20about%20teens_%20views%20on%20AI%20today.md)
-- [Boost your holiday sales with these agentic commerce updates](docs/google/blog/2026-09-16/Boost%20your%20holiday%20sales%20with%20these%20agentic%20commerce%20updates.md)
-- [Rethink 2026](docs/google/blog/2026-09-16/Rethink%202026.md)
-- [We’re catalyzing megaton-scale climate impact in Brazil](docs/google/blog/2026-09-16/We_re%20catalyzing%20megaton-scale%20climate%20impact%20in%20Brazil.md)
-- [Reimagining Chicago’s Thompson Center for the next generation](docs/google/blog/2026-09-16/Reimagining%20Chicago_s%20Thompson%20Center%20for%20the%20next%20generation.md)
+- [The future of practice: Enabling teachers to create learning interactives with generative UI](docs/google/research/2026-09-17/The%20future%20of%20practice_%20Enabling%20teachers%20to%20create%20learning%20interactives%20with%20generative%20UI.md)
+- [Making global data easier to explore](docs/google/blog/2026-09-17/Making%20global%20data%20easier%20to%20explore.md)
+- [The new CC, an AI agent built for families](docs/google/blog/2026-09-17/The%20new%20CC_%20an%20AI%20agent%20built%20for%20families.md)
+- [Google named a Leader in the External Threat Intelligence Service Forrester Wave™](docs/google/cloud/2026-09-17/Google%20named%20a%20Leader%20in%20the%20External%20Threat%20Intelligence%20Service%20Forrester%20Wave.md)
+- [The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud](docs/google/cloud/2026-09-17/The%20future%20of%20orchestration_%20Pine59_s%20journey%20to%20Airflow%203%20on%20Google%20Cloud.md)
+- [How a solo founder runs a five-continent tender platform on AlloyDB and MCP](docs/google/cloud/2026-09-17/How%20a%20solo%20founder%20runs%20a%20five-continent%20tender%20platform%20on%20AlloyDB%20and%20MCP.md)
+- [Drive with “Forgotten Island” on Waze.](docs/google/blog/2026-09-17/Drive%20with%20_Forgotten%20Island_%20on%20Waze.md)
+- [Helping bring the world’s first large-scale, near-zero emissions steel plant online](docs/google/blog/2026-09-17/Helping%20bring%20the%20world_s%20first%20large-scale_%20near-zero%20emissions%20steel%20plant%20online.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
