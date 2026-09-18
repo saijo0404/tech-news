@@ -23,12 +23,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How to Use AI Agents to Prepare 3D Scenes for Simulation](docs/nvidia/developer/2026-09-16/How%20to%20Use%20AI%20Agents%20to%20Prepare%203D%20Scenes%20for%20Simulation.md)
-- [TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor](docs/nvidia/developer/2026-09-16/TensorRT%20Edge-LLM%20Completes%20the%20MLPerf%20Edge%20Agentic%20Benchmark%206_4x%20Faster%20on%20Jetson%20AGX%20Thor.md)
-- [Translating CUDA Tile Operations from Python to Rust Using Agentic AI](docs/nvidia/developer/2026-09-16/Translating%20CUDA%20Tile%20Operations%20from%20Python%20to%20Rust%20Using%20Agentic%20AI.md)
-- [NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut](docs/nvidia/blogs/2026-09-16/NVIDIA%20Vera%20Rubin%20NVL72%20Delivers%20Leading%20Performance%20in%20MLPerf%20Inference%20v6_1%20Debut.md)
-- [Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers](docs/nvidia/blogs/2026-09-16/Emerald%20AI_%20Google%20and%20NVIDIA%20Launch%20Alliance%20to%20Advance%20Flexible%20AI%20Data%20Centers.md)
-- [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](docs/nvidia/blogs/2026-09-16/University%20of%20Manchester%20Uses%20NVIDIA%20Earth-2%20to%20Forecast%20Air%20Pollution%20Across%20the%20UK.md)
+- [Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW](docs/nvidia/blogs/2026-09-17/Cute%20Critters%20Come%20to%20the%20Cloud_%20_Aniimo_%20Launches%20on%20GeForce%20NOW.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
