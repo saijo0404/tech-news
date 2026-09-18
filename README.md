@@ -30,7 +30,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [vLLM x Novita AI: Chord, Faster INT4 MoE for Kimi K2.x. Up to 1.3x on H200, 2.15x on Untuned B300](docs/vllm/blog/2026-09-15/vLLM%20x%20Novita%20AI_%20Chord_%20Faster%20INT4%20MoE%20for%20Kimi%20K2_x_%20Up%20to%201_3x%20on%20H200_%202_15x%20on%20Untuned%20B300.md)
+- [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](docs/vllm/blog/2026-09-18/Scaling%20Multi-GPU%20Video%20Captioning%20with%20PyNvVideoCodec%20and%20vLLM.md)
 <!-- END:vllm -->
 
 ---
