@@ -20,7 +20,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW](docs/nvidia/blogs/2026-09-17/Cute%20Critters%20Come%20to%20the%20Cloud_%20_Aniimo_%20Launches%20on%20GeForce%20NOW.md)
+- [Benchmarking LLM Inference at Scale with AIPerf](docs/nvidia/developer/2026-09-18/Benchmarking%20LLM%20Inference%20at%20Scale%20with%20AIPerf.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
