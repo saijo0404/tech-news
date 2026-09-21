@@ -8,14 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [The future of practice: Enabling teachers to create learning interactives with generative UI](docs/google/research/2026-09-17/The%20future%20of%20practice_%20Enabling%20teachers%20to%20create%20learning%20interactives%20with%20generative%20UI.md)
-- [Making global data easier to explore](docs/google/blog/2026-09-17/Making%20global%20data%20easier%20to%20explore.md)
-- [The new CC, an AI agent built for families](docs/google/blog/2026-09-17/The%20new%20CC_%20an%20AI%20agent%20built%20for%20families.md)
-- [Google named a Leader in the External Threat Intelligence Service Forrester Wave™](docs/google/cloud/2026-09-17/Google%20named%20a%20Leader%20in%20the%20External%20Threat%20Intelligence%20Service%20Forrester%20Wave.md)
-- [The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud](docs/google/cloud/2026-09-17/The%20future%20of%20orchestration_%20Pine59_s%20journey%20to%20Airflow%203%20on%20Google%20Cloud.md)
-- [How a solo founder runs a five-continent tender platform on AlloyDB and MCP](docs/google/cloud/2026-09-17/How%20a%20solo%20founder%20runs%20a%20five-continent%20tender%20platform%20on%20AlloyDB%20and%20MCP.md)
-- [Drive with “Forgotten Island” on Waze.](docs/google/blog/2026-09-17/Drive%20with%20_Forgotten%20Island_%20on%20Waze.md)
-- [Helping bring the world’s first large-scale, near-zero emissions steel plant online](docs/google/blog/2026-09-17/Helping%20bring%20the%20world_s%20first%20large-scale_%20near-zero%20emissions%20steel%20plant%20online.md)
+- [MilleMiglia: A realistic instance generator for middle-mile logistics](docs/google/research/2026-09-18/MilleMiglia_%20A%20realistic%20instance%20generator%20for%20middle-mile%20logistics.md)
+- [Announcing Native BM25 Ranking in AlloyDB and Cloud SQL](docs/google/cloud/2026-09-18/Announcing%20Native%20BM25%20Ranking%20in%20AlloyDB%20and%20Cloud%20SQL.md)
+- [Earn continuing education and college credits for AI educator training.](docs/google/blog/2026-09-18/Earn%20continuing%20education%20and%20college%20credits%20for%20AI%20educator%20training.md)
+- [Reimagining service delivery in the agentic era with Google Public Sector](docs/google/cloud/2026-09-18/Reimagining%20service%20delivery%20in%20the%20agentic%20era%20with%20Google%20Public%20Sector.md)
+- [The DevFest Community Workshop Experience: Building Real Agents Together](docs/google/cloud/2026-09-18/The%20DevFest%20Community%20Workshop%20Experience_%20Building%20Real%20Agents%20Together.md)
+- [How to upskill enterprise AI builders by using daily micro habits](docs/google/cloud/2026-09-18/How%20to%20upskill%20enterprise%20AI%20builders%20by%20using%20daily%20micro%20habits.md)
+- [Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching](docs/google/cloud/2026-09-18/Accelerating%20the%20borderless%20Lakehouse_%20Announcing%20preview%20of%20cross-cloud%20caching.md)
+- [Changing the game: Using agentic AI to secure infrastructure code](docs/google/cloud/2026-09-18/Changing%20the%20game_%20Using%20agentic%20AI%20to%20secure%20infrastructure%20code.md)
+- [New experts join Google’s AI & Economy team](docs/google/blog/2026-09-18/New%20experts%20join%20Google_s%20AI%20_%20Economy%20team.md)
+- [Co-creating the future of fashion with Google](docs/google/blog/2026-09-18/Co-creating%20the%20future%20of%20fashion%20with%20Google.md)
+- [Build campaigns that drive high-converting, sales-ready leads.](docs/google/blog/2026-09-18/Build%20campaigns%20that%20drive%20high-converting_%20sales-ready%20leads.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
