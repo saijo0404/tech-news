@@ -8,17 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [MilleMiglia: A realistic instance generator for middle-mile logistics](docs/google/research/2026-09-18/MilleMiglia_%20A%20realistic%20instance%20generator%20for%20middle-mile%20logistics.md)
-- [Announcing Native BM25 Ranking in AlloyDB and Cloud SQL](docs/google/cloud/2026-09-18/Announcing%20Native%20BM25%20Ranking%20in%20AlloyDB%20and%20Cloud%20SQL.md)
-- [Earn continuing education and college credits for AI educator training.](docs/google/blog/2026-09-18/Earn%20continuing%20education%20and%20college%20credits%20for%20AI%20educator%20training.md)
-- [Reimagining service delivery in the agentic era with Google Public Sector](docs/google/cloud/2026-09-18/Reimagining%20service%20delivery%20in%20the%20agentic%20era%20with%20Google%20Public%20Sector.md)
-- [The DevFest Community Workshop Experience: Building Real Agents Together](docs/google/cloud/2026-09-18/The%20DevFest%20Community%20Workshop%20Experience_%20Building%20Real%20Agents%20Together.md)
-- [How to upskill enterprise AI builders by using daily micro habits](docs/google/cloud/2026-09-18/How%20to%20upskill%20enterprise%20AI%20builders%20by%20using%20daily%20micro%20habits.md)
-- [Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching](docs/google/cloud/2026-09-18/Accelerating%20the%20borderless%20Lakehouse_%20Announcing%20preview%20of%20cross-cloud%20caching.md)
-- [Changing the game: Using agentic AI to secure infrastructure code](docs/google/cloud/2026-09-18/Changing%20the%20game_%20Using%20agentic%20AI%20to%20secure%20infrastructure%20code.md)
-- [New experts join Google’s AI & Economy team](docs/google/blog/2026-09-18/New%20experts%20join%20Google_s%20AI%20_%20Economy%20team.md)
-- [Co-creating the future of fashion with Google](docs/google/blog/2026-09-18/Co-creating%20the%20future%20of%20fashion%20with%20Google.md)
-- [Build campaigns that drive high-converting, sales-ready leads.](docs/google/blog/2026-09-18/Build%20campaigns%20that%20drive%20high-converting_%20sales-ready%20leads.md)
+- [Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.](docs/google/blog/2026-09-22/Google%20and%20the%20Gates%20Foundation%20to%20bring%20AI%20resources%20to%20200%20million%20farmers%20across%20the%20Global%20South.md)
+- [Investing in global talent and AI literacy](docs/google/blog/2026-09-22/Investing%20in%20global%20talent%20and%20AI%20literacy.md)
+- [Using AI to help local governments connect with constituents](docs/google/blog/2026-09-22/Using%20AI%20to%20help%20local%20governments%20connect%20with%20constituents.md)
+- [Expanding free AI training for educators](docs/google/blog/2026-09-21/Expanding%20free%20AI%20training%20for%20educators.md)
+- [Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway](docs/google/cloud/2026-09-21/Global%20AI%20routing%20with%20_1_%20overhead%20on%20multi-cluster%20GKE%20Inference%20Gateway.md)
+- [Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices](docs/google/cloud/2026-09-21/Maximizing%20Apache%20Spark%20availability_%20Mitigating%20compute%20stockouts%20with%20flexible%20VMs%20and%20other%20best%20practices.md)
+- [Scale your AI workloads faster and more efficiently with GKE Pod snapshots](docs/google/cloud/2026-09-21/Scale%20your%20AI%20workloads%20faster%20and%20more%20efficiently%20with%20GKE%20Pod%20snapshots.md)
+- [Strengthen your CI/CD pipeline with new Secure Source Manager capabilities](docs/google/cloud/2026-09-21/Strengthen%20your%20CI_CD%20pipeline%20with%20new%20Secure%20Source%20Manager%20capabilities.md)
+- [Googlebook’s built-in intelligence reinvents the way you use your laptop](docs/google/blog/2026-09-21/Googlebook_s%20built-in%20intelligence%20reinvents%20the%20way%20you%20use%20your%20laptop.md)
+- [Premium materials and striking design set Googlebook apart](docs/google/blog/2026-09-21/Premium%20materials%20and%20striking%20design%20set%20Googlebook%20apart.md)
+- [Googlebook: The laptop your Android phone has been waiting for](docs/google/blog/2026-09-21/Googlebook_%20The%20laptop%20your%20Android%20phone%20has%20been%20waiting%20for.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
