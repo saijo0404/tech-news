@@ -40,7 +40,11 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Your Agent Aced the Task. Will It Do It Again?](docs/huggingface/blog/2026-09-15/Your%20Agent%20Aced%20the%20Task_%20Will%20It%20Do%20It%20Again.md)
+- [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](docs/huggingface/blog/2026-09-22/How%20UK%20AISI%20and%20EvalEval%20Are%20Making%20Benchmark%20Results%20Reproducible.md)
+- [Transformers now runs llama.cpp quants](docs/huggingface/blog/2026-09-22/Transformers%20now%20runs%20llama_cpp%20quants.md)
+- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](docs/huggingface/blog/2026-09-22/Jun%20Kim_%20oMLX%20creator%20and%20maintainer_%20joins%20Hugging%20Face%20to%20support%20the%20MLX%20community.md)
+- [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](docs/huggingface/blog/2026-09-21/Pruning%20LLMs%20Like%20a%20Physicist_%20Block%20Removal%20as%20an%20Ising%20Optimization%20Problem.md)
+- [tokenizers v1: encode, decode and scaling, measured](docs/huggingface/blog/2026-09-21/tokenizers%20v1_%20encode_%20decode%20and%20scaling_%20measured.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
