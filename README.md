@@ -45,7 +45,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM](docs/vllm/blog/2026-09-18/Scaling%20Multi-GPU%20Video%20Captioning%20with%20PyNvVideoCodec%20and%20vLLM.md)
+- [PD Serving of Qwen3.8-2.4T](docs/vllm/blog/2026-09-21/PD%20Serving%20of%20Qwen3_8-2_4T.md)
 <!-- END:vllm -->
 
 ---
