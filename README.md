@@ -47,7 +47,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [PD Serving of Qwen3.8-2.4T](docs/vllm/blog/2026-09-21/PD%20Serving%20of%20Qwen3_8-2_4T.md)
+- [Announcing vllm-metal: Concurrent Serving on Apple Silicon](docs/vllm/blog/2026-09-22/Announcing%20vllm-metal_%20Concurrent%20Serving%20on%20Apple%20Silicon.md)
 <!-- END:vllm -->
 
 ---
