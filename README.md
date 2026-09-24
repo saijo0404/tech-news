@@ -8,17 +8,22 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.](docs/google/blog/2026-09-22/Google%20and%20the%20Gates%20Foundation%20to%20bring%20AI%20resources%20to%20200%20million%20farmers%20across%20the%20Global%20South.md)
-- [Investing in global talent and AI literacy](docs/google/blog/2026-09-22/Investing%20in%20global%20talent%20and%20AI%20literacy.md)
-- [Using AI to help local governments connect with constituents](docs/google/blog/2026-09-22/Using%20AI%20to%20help%20local%20governments%20connect%20with%20constituents.md)
-- [Expanding free AI training for educators](docs/google/blog/2026-09-21/Expanding%20free%20AI%20training%20for%20educators.md)
-- [Global AI routing with <1% overhead on multi-cluster GKE Inference Gateway](docs/google/cloud/2026-09-21/Global%20AI%20routing%20with%20_1_%20overhead%20on%20multi-cluster%20GKE%20Inference%20Gateway.md)
-- [Maximizing Apache Spark availability: Mitigating compute stockouts with flexible VMs and other best practices](docs/google/cloud/2026-09-21/Maximizing%20Apache%20Spark%20availability_%20Mitigating%20compute%20stockouts%20with%20flexible%20VMs%20and%20other%20best%20practices.md)
-- [Scale your AI workloads faster and more efficiently with GKE Pod snapshots](docs/google/cloud/2026-09-21/Scale%20your%20AI%20workloads%20faster%20and%20more%20efficiently%20with%20GKE%20Pod%20snapshots.md)
-- [Strengthen your CI/CD pipeline with new Secure Source Manager capabilities](docs/google/cloud/2026-09-21/Strengthen%20your%20CI_CD%20pipeline%20with%20new%20Secure%20Source%20Manager%20capabilities.md)
-- [Googlebook’s built-in intelligence reinvents the way you use your laptop](docs/google/blog/2026-09-21/Googlebook_s%20built-in%20intelligence%20reinvents%20the%20way%20you%20use%20your%20laptop.md)
-- [Premium materials and striking design set Googlebook apart](docs/google/blog/2026-09-21/Premium%20materials%20and%20striking%20design%20set%20Googlebook%20apart.md)
-- [Googlebook: The laptop your Android phone has been waiting for](docs/google/blog/2026-09-21/Googlebook_%20The%20laptop%20your%20Android%20phone%20has%20been%20waiting%20for.md)
+- [Anyone can make stunning HD videos with Gemini Omni in Google Vids](docs/google/blog/2026-09-23/Anyone%20can%20make%20stunning%20HD%20videos%20with%20Gemini%20Omni%20in%20Google%20Vids.md)
+- [Google Beam expands with new regions, partners, and customers](docs/google/blog/2026-09-23/Google%20Beam%20expands%20with%20new%20regions_%20partners_%20and%20customers.md)
+- [6 ways Android Enterprise is evolving for the modern workforce](docs/google/blog/2026-09-23/6%20ways%20Android%20Enterprise%20is%20evolving%20for%20the%20modern%20workforce.md)
+- [Advancing Private AI Compute with secure, server-side memory](docs/google/deepmind/2026-09-23/Advancing%20Private%20AI%20Compute%20with%20secure_%20server-side%20memory.md)
+- [6 new Google Flow Tools built by industry creatives](docs/google/blog/2026-09-23/6%20new%20Google%20Flow%20Tools%20built%20by%20industry%20creatives.md)
+- [A new wave of Connected Apps is rolling out to Gemini.](docs/google/blog/2026-09-23/A%20new%20wave%20of%20Connected%20Apps%20is%20rolling%20out%20to%20Gemini.md)
+- [MedGemma is helping global healthcare providers deliver better care](docs/google/blog/2026-09-23/MedGemma%20is%20helping%20global%20healthcare%20providers%20deliver%20better%20care.md)
+- [A guide to speeding up your video processing with AlphaEvolve](docs/google/cloud/2026-09-23/A%20guide%20to%20speeding%20up%20your%20video%20processing%20with%20AlphaEvolve.md)
+- [GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive](docs/google/cloud/2026-09-23/GKE%20becomes%20more%20elastic_%20Scale%20to%20zero_%20save%20costs_%20and%20keep%20workloads%20responsive.md)
+- [Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE](docs/google/cloud/2026-09-23/Scale%20your%20own%20way_%20using%20HPA%20with%20built-in%20support%20for%20PromQL%20metrics%20queries%20in%20GKE.md)
+- [Gemini 3.8 text-to-speech says hello](docs/google/deepmind/2026-09-23/Gemini%203_8%20text-to-speech%20says%20hello.md)
+- [Gemini 3.8 text-to-speech says hello](docs/google/blog/2026-09-23/Gemini%203_8%20text-to-speech%20says%20hello.md)
+- [We’re honoring Latino culture this Hispanic Heritage Month.](docs/google/blog/2026-09-23/We_re%20honoring%20Latino%20culture%20this%20Hispanic%20Heritage%20Month.md)
+- [Here’s what was announced at Made On YouTube 2026.](docs/google/blog/2026-09-23/Here_s%20what%20was%20announced%20at%20Made%20On%20YouTube%202026.md)
+- [Secure, intelligent experiences across every endpoint](docs/google/cloud/2026-09-23/Secure_%20intelligent%20experiences%20across%20every%20endpoint.md)
+- [We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.](docs/google/blog/2026-09-23/We_re%20bringing%20AI%20Brief%20to%20more%20languages%20and%20adding%20a%20new%20AI%20Max%20reporting%20feature.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
