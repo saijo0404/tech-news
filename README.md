@@ -23,19 +23,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing](docs/nvidia/developer/2026-09-22/Enabling%20Private%20High-Performance%20Production%20AI%20Inference%20with%20NVIDIA%20Confidential%20Computing.md)
-- [Topology-Aware Workload Scheduling with NVIDIA Topograph](docs/nvidia/developer/2026-09-22/Topology-Aware%20Workload%20Scheduling%20with%20NVIDIA%20Topograph.md)
-- [What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities](docs/nvidia/developer/2026-09-22/What_s%20New%20for%20Game%20Developers_%20DLSS%205%20with%203D-Guided%20Neural%20Rendering_%20NVIDIA%20ACE%20Updates_%20and%20New%20RTX%20Kit%20Capabilities.md)
-- [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](docs/nvidia/blogs/2026-09-22/NVIDIA%20Isaac%20ROS%205_0%20Advances%20Agentic_%20Open%20Source%20Robotics%20Development.md)
-- [Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS](docs/nvidia/developer/2026-09-22/Accelerating%20a%20ROS%202%20Node%20with%20an%20AI%20Agent%20and%20NVIDIA%20Isaac%20ROS.md)
-- [Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton](docs/nvidia/developer/2026-09-21/Simplifying%20Model%20Serving%20Across%20Multiple%20GPUs%20with%20NVIDIA%20TensorRT%20Multi-Device%20Integration%20in%20NVIDIA%20Dynamo-Triton.md)
-- [How to Evaluate AI Agents From Tool Calls to Task Completion](docs/nvidia/developer/2026-09-21/How%20to%20Evaluate%20AI%20Agents%20From%20Tool%20Calls%20to%20Task%20Completion.md)
-- [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](docs/nvidia/blogs/2026-09-21/NVIDIA%20Launches%20DSX%20Ready%20to%20Qualify%20Power%20and%20Cooling%20Products%20for%20AI%20Factories.md)
-- [Why Deploying Physical AI at Scale Demands Safety at Every Layer](docs/nvidia/blogs/2026-09-21/Why%20Deploying%20Physical%20AI%20at%20Scale%20Demands%20Safety%20at%20Every%20Layer.md)
-- [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](docs/nvidia/blogs/2026-09-21/From%20Enablement%20to%20Execution_%20Egypt_s%20AI%20Ecosystem%20Reaches%20Production%20Scale.md)
-- [Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2](docs/nvidia/developer/2026-09-21/Turn%20Your%20Latest%20Observations%20Into%20Timely%20Weather%20Decisions%20With%20NVIDIA%20Earth-2.md)
-- [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](docs/nvidia/blogs/2026-09-21/AI%20Security%20Is%20an%20Engineering%20Problem%20_%20How%20to%20Solve%20It%20at%20Every%20Layer%20of%20the%20Agent%20Stack.md)
-- [5 Companies Using NVIDIA AI for Clean Energy](docs/nvidia/blogs/2026-09-21/5%20Companies%20Using%20NVIDIA%20AI%20for%20Clean%20Energy.md)
+- [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](docs/nvidia/developer/2026-09-23/Introducing%20NV-Reason-CT%20Open%203D%20CT%20VLM%20for%20Radiologist%20Chain-of-Thought%20Reasoning.md)
+- [Validate GPU Cluster Readiness Before AI Workloads Land](docs/nvidia/developer/2026-09-23/Validate%20GPU%20Cluster%20Readiness%20Before%20AI%20Workloads%20Land.md)
+- [Manage Kubernetes Node Fleets with NodeWright](docs/nvidia/developer/2026-09-23/Manage%20Kubernetes%20Node%20Fleets%20with%20NodeWright.md)
+- [How SWE-Serve Exposes the Gap Between Local Tests and Live Serving](docs/nvidia/developer/2026-09-23/How%20SWE-Serve%20Exposes%20the%20Gap%20Between%20Local%20Tests%20and%20Live%20Serving.md)
+- [Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale](docs/nvidia/blogs/2026-09-23/Sakeena%20Fiza%20Helps%20NVIDIA%20Hardware%20Succeed%20at%20Scale.md)
+- [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](docs/nvidia/blogs/2026-09-23/At%20AI%20Day%20Singapore_%20NVIDIA%20and%20Partners%20Showcase%20AI%20Advancements%20Across%20Southeast%20Asia.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
