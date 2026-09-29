@@ -57,7 +57,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](docs/huggingface/blog/2026-09-23/How%20to%20Use%20NVIDIA%20Warp%20and%20MjWarp%20to%20Accelerate%20Robotics%20Simulation%20and%20Learning%20Workflows.md)
+- [Holo4: powering generalist computer-use agents](docs/huggingface/blog/2026-09-28/Holo4_%20powering%20generalist%20computer-use%20agents.md)
+- [Accelerating vision-language models with LFM2.5-VL-DSpark](docs/huggingface/blog/2026-09-24/Accelerating%20vision-language%20models%20with%20LFM2_5-VL-DSpark.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
