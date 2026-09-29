@@ -28,12 +28,14 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning](docs/nvidia/developer/2026-09-23/Introducing%20NV-Reason-CT%20Open%203D%20CT%20VLM%20for%20Radiologist%20Chain-of-Thought%20Reasoning.md)
-- [Validate GPU Cluster Readiness Before AI Workloads Land](docs/nvidia/developer/2026-09-23/Validate%20GPU%20Cluster%20Readiness%20Before%20AI%20Workloads%20Land.md)
-- [Manage Kubernetes Node Fleets with NodeWright](docs/nvidia/developer/2026-09-23/Manage%20Kubernetes%20Node%20Fleets%20with%20NodeWright.md)
-- [How SWE-Serve Exposes the Gap Between Local Tests and Live Serving](docs/nvidia/developer/2026-09-23/How%20SWE-Serve%20Exposes%20the%20Gap%20Between%20Local%20Tests%20and%20Live%20Serving.md)
-- [Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale](docs/nvidia/blogs/2026-09-23/Sakeena%20Fiza%20Helps%20NVIDIA%20Hardware%20Succeed%20at%20Scale.md)
-- [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](docs/nvidia/blogs/2026-09-23/At%20AI%20Day%20Singapore_%20NVIDIA%20and%20Partners%20Showcase%20AI%20Advancements%20Across%20Southeast%20Asia.md)
+- [NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase](docs/nvidia/newsroom/2026-09-28/NVIDIA%20Announces%20a%20_150%20Billion%20Share%20Repurchase%20Authorization%20Increase.md)
+- [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment](docs/nvidia/newsroom/2026-09-28/NVIDIA%20Launches%20Open%20Agent%20Safety%20Platform%20to%20Secure%20Agents%20From%20Testing%20to%20Deployment.md)
+- [NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring](docs/nvidia/developer/2026-09-28/NVIDIA%20Open%20Agent%20Safety%20Platform_%20A%20Reference%20for%20Continuous%20In-Silicon%20Agent%20Monitoring.md)
+- [Add Runtime Controls to AI Agents with NVIDIA OpenShell](docs/nvidia/developer/2026-09-28/Add%20Runtime%20Controls%20to%20AI%20Agents%20with%20NVIDIA%20OpenShell.md)
+- [How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency](docs/nvidia/developer/2026-09-28/How%20NVIDIA%20DSX%20MaxLPS%20Maximizes%20AI%20Factory%20Throughput%20and%20Efficiency.md)
+- [Efficient MoE Training for Biological Foundation Models](docs/nvidia/developer/2026-09-24/Efficient%20MoE%20Training%20for%20Biological%20Foundation%20Models.md)
+- [How Open Science Can Help Researchers Prepare for the Next Pandemic](docs/nvidia/blogs/2026-09-24/How%20Open%20Science%20Can%20Help%20Researchers%20Prepare%20for%20the%20Next%20Pandemic.md)
+- [Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW](docs/nvidia/blogs/2026-09-24/Contain%20the%20Chaos_%20_CONTROL%20Resonant_%20Launches%20on%20GeForce%20NOW.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
