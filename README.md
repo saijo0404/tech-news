@@ -45,7 +45,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Announcing vllm-metal: Concurrent Serving on Apple Silicon](docs/vllm/blog/2026-09-22/Announcing%20vllm-metal_%20Concurrent%20Serving%20on%20Apple%20Silicon.md)
+- [Watermarking in vLLM](docs/vllm/blog/2026-09-24/Watermarking%20in%20vLLM.md)
 <!-- END:vllm -->
 
 ---
