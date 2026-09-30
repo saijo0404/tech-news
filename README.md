@@ -27,8 +27,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Holo4: powering generalist computer-use agents](docs/huggingface/blog/2026-09-28/Holo4_%20powering%20generalist%20computer-use%20agents.md)
-- [Accelerating vision-language models with LFM2.5-VL-DSpark](docs/huggingface/blog/2026-09-24/Accelerating%20vision-language%20models%20with%20LFM2_5-VL-DSpark.md)
+- [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](docs/huggingface/blog/2026-09-29/NVIDIA%20Kumo%20Tabular%20Sets%20a%20New%20Accuracy-Efficiency%20Frontier%20for%20Tabular%20Prediction.md)
+- [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](docs/huggingface/blog/2026-09-29/Getting%20the%20Source%20Right_%20Not%20Just%20the%20Fact_%20Source-Aware%20Verification%20for%20MCP%20Agents.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
