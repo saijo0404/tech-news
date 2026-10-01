@@ -37,8 +37,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](docs/huggingface/blog/2026-09-29/NVIDIA%20Kumo%20Tabular%20Sets%20a%20New%20Accuracy-Efficiency%20Frontier%20for%20Tabular%20Prediction.md)
-- [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](docs/huggingface/blog/2026-09-29/Getting%20the%20Source%20Right_%20Not%20Just%20the%20Fact_%20Source-Aware%20Verification%20for%20MCP%20Agents.md)
+- [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](docs/huggingface/blog/2026-09-30/Open%20TTS%20Leaderboard_%20Scalable%20Evaluation%20for%20Multilingual%20Text-to-Speech%20and%20Voice%20Cloning.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
