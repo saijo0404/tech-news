@@ -8,15 +8,22 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [How Diffusion Controller unifies and simplifies AI image generation](docs/google/research/2026-09-29/How%20Diffusion%20Controller%20unifies%20and%20simplifies%20AI%20image%20generation.md)
-- [Game on: Henry Cavill is putting Googlebook to the test](docs/google/blog/2026-09-29/Game%20on_%20Henry%20Cavill%20is%20putting%20Googlebook%20to%20the%20test.md)
-- [Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox](docs/google/cloud/2026-09-29/Accelerating%20agentic%20RL%20and%20evaluation%20research%20velocity%20with%2045x%20faster%20GKE%20Agent%20Sandbox.md)
-- [Experience two artists’ perspectives on philosophy, science, and AI](docs/google/blog/2026-09-29/Experience%20two%20artists_%20perspectives%20on%20philosophy_%20science_%20and%20AI.md)
-- [Graph Workflows in ADK: Everything You Need to Know](docs/google/cloud/2026-09-29/Graph%20Workflows%20in%20ADK_%20Everything%20You%20Need%20to%20Know.md)
-- [Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise](docs/google/cloud/2026-09-29/Google%20Cloud%20partners%20deliver%20new%20security%20agents%20and%20AI%20defenses%20with%20Gemini%20Enterprise.md)
-- [Google is a technology partner for the launch of America.gov.](docs/google/blog/2026-09-29/Google%20is%20a%20technology%20partner%20for%20the%20launch%20of%20America_gov.md)
-- [Defending at machine speed: Securing the public sector in the agentic era](docs/google/cloud/2026-09-29/Defending%20at%20machine%20speed_%20Securing%20the%20public%20sector%20in%20the%20agentic%20era.md)
-- [Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances](docs/google/cloud/2026-09-29/Defending%20Against%20Active%20Exploitation%20of%20Citrix%20NetScaler%20ADC%20and%20Gateway%20Appliances.md)
+- [Google's AI ranks #1 for predicting flu hospitalizations.](docs/google/blog/2026-09-30/Google_s%20AI%20ranks%20_1%20for%20predicting%20flu%20hospitalizations.md)
+- [Gemini 4 Argon: our next era of frontier intelligence](docs/google/deepmind/2026-09-30/Gemini%204%20Argon_%20our%20next%20era%20of%20frontier%20intelligence.md)
+- [Gemini 4 Argon: our next era of frontier intelligence](docs/google/blog/2026-09-30/Gemini%204%20Argon_%20our%20next%20era%20of%20frontier%20intelligence.md)
+- [Google is supporting water resilience in Chile.](docs/google/blog/2026-09-30/Google%20is%20supporting%20water%20resilience%20in%20Chile.md)
+- [More partners are joining the Alliance for America’s Skilled Trades.](docs/google/blog/2026-09-30/More%20partners%20are%20joining%20the%20Alliance%20for%20America_s%20Skilled%20Trades.md)
+- [Supporting AI readiness in higher education](docs/google/blog/2026-09-30/Supporting%20AI%20readiness%20in%20higher%20education.md)
+- [Let skills in Gemini tackle your most repetitive tasks](docs/google/blog/2026-09-30/Let%20skills%20in%20Gemini%20tackle%20your%20most%20repetitive%20tasks.md)
+- [Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate](docs/google/blog/2026-09-30/Celebrating%20International%20Translation%20Day_%20Meet%203%20linguistic%20experts%20behind%20Google%20Translate.md)
+- [Waze rolls out new features to support Breast Cancer Awareness Month.](docs/google/blog/2026-09-30/Waze%20rolls%20out%20new%20features%20to%20support%20Breast%20Cancer%20Awareness%20Month.md)
+- [Cloud CISO Perspectives: How cybersecurity startups can win CISOs](docs/google/cloud/2026-09-30/Cloud%20CISO%20Perspectives_%20How%20cybersecurity%20startups%20can%20win%20CISOs.md)
+- [Empower your agents with the Google Cloud CLI remote MCP server](docs/google/cloud/2026-09-30/Empower%20your%20agents%20with%20the%20Google%20Cloud%20CLI%20remote%20MCP%20server.md)
+- [Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere](docs/google/cloud/2026-09-30/Spanner%20Omni_%20now%20GA_%20A%20distributed_%20multi-model%20database%20that%20you%20can%20deploy%20anywhere.md)
+- [Introducing SynthID Bio](docs/google/deepmind/2026-09-30/Introducing%20SynthID%20Bio.md)
+- [We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.](docs/google/blog/2026-09-30/We_re%20introducing%20SynthID%20Bio_%20bringing%20our%20watermarking%20technology%20to%20synthetic%20biology.md)
+- [Vulnerability Discovery and Exploitation Trends in the AI Era](docs/google/cloud/2026-09-30/Vulnerability%20Discovery%20and%20Exploitation%20Trends%20in%20the%20AI%20Era.md)
+- [Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent](docs/google/cloud/2026-09-30/Data%20Agent%20Kit%20is%20now%20GA_%20Bring%20Google%20Data%20Cloud%20to%20any%20coding%20agent.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
