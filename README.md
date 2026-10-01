@@ -43,7 +43,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Watermarking in vLLM](docs/vllm/blog/2026-09-24/Watermarking%20in%20vLLM.md)
+- [Taking vLLM Apart: A Practical Guide to Disaggregated Serving](docs/vllm/blog/2026-09-29/Taking%20vLLM%20Apart_%20A%20Practical%20Guide%20to%20Disaggregated%20Serving.md)
 <!-- END:vllm -->
 
 ---
