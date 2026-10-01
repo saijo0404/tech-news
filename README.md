@@ -21,8 +21,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect](docs/nvidia/developer/2026-09-29/AI%20Native%20by%20Design_%20Lessons%20Learned%20from%20Building%20NVIDIA%20TensorRT%20Model%20Connect.md)
-- [Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3](docs/nvidia/developer/2026-09-29/Lower%20the%20Cost%20of%20Building%20and%20Running%20Visual%20AI%20Agents%20with%20NVIDIA%20VSS%20Blueprint%203_3.md)
+- [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](docs/nvidia/developer/2026-09-30/Deploying%20an%20HSTU%20Generative%20Recommender%20with%20NVIDIA%20Dynamo-Triton.md)
+- [Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK](docs/nvidia/developer/2026-09-30/Expanding%20AI%20Storage%20Access%20with%20NVIDIA%20cuObject%20and%20the%20NVIDIA%20SCADA%20Server%20SDK.md)
+- [NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000](docs/nvidia/blogs/2026-09-30/NVIDIA%20Opens%20Applications%20for%202027_2028%20Graduate%20Fellowships%20With%20Awards%20Up%20to%20_60_000.md)
+- [Tracing Agent Harness Behavior with NVIDIA NeMo Relay](docs/nvidia/developer/2026-09-30/Tracing%20Agent%20Harness%20Behavior%20with%20NVIDIA%20NeMo%20Relay.md)
+- [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](docs/nvidia/blogs/2026-09-30/From%20Training%20to%20Production_%20NVIDIA%20and%20CoreWeave%20Close%20the%20Loop%20on%20Agentic%20AI.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
