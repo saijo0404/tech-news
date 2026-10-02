@@ -32,7 +32,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](docs/huggingface/blog/2026-09-30/Open%20TTS%20Leaderboard_%20Scalable%20Evaluation%20for%20Multilingual%20Text-to-Speech%20and%20Voice%20Cloning.md)
+- [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](docs/huggingface/blog/2026-10-01/Introducing%20Olmo-core%203_%20Open_%20scalable%20training%20infrastructure%20for%20large%20MoEs.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
