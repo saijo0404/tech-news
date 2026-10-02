@@ -8,22 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Google's AI ranks #1 for predicting flu hospitalizations.](docs/google/blog/2026-09-30/Google_s%20AI%20ranks%20_1%20for%20predicting%20flu%20hospitalizations.md)
-- [Gemini 4 Argon: our next era of frontier intelligence](docs/google/deepmind/2026-09-30/Gemini%204%20Argon_%20our%20next%20era%20of%20frontier%20intelligence.md)
-- [Gemini 4 Argon: our next era of frontier intelligence](docs/google/blog/2026-09-30/Gemini%204%20Argon_%20our%20next%20era%20of%20frontier%20intelligence.md)
-- [Google is supporting water resilience in Chile.](docs/google/blog/2026-09-30/Google%20is%20supporting%20water%20resilience%20in%20Chile.md)
-- [More partners are joining the Alliance for America’s Skilled Trades.](docs/google/blog/2026-09-30/More%20partners%20are%20joining%20the%20Alliance%20for%20America_s%20Skilled%20Trades.md)
-- [Supporting AI readiness in higher education](docs/google/blog/2026-09-30/Supporting%20AI%20readiness%20in%20higher%20education.md)
-- [Let skills in Gemini tackle your most repetitive tasks](docs/google/blog/2026-09-30/Let%20skills%20in%20Gemini%20tackle%20your%20most%20repetitive%20tasks.md)
-- [Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate](docs/google/blog/2026-09-30/Celebrating%20International%20Translation%20Day_%20Meet%203%20linguistic%20experts%20behind%20Google%20Translate.md)
-- [Waze rolls out new features to support Breast Cancer Awareness Month.](docs/google/blog/2026-09-30/Waze%20rolls%20out%20new%20features%20to%20support%20Breast%20Cancer%20Awareness%20Month.md)
-- [Cloud CISO Perspectives: How cybersecurity startups can win CISOs](docs/google/cloud/2026-09-30/Cloud%20CISO%20Perspectives_%20How%20cybersecurity%20startups%20can%20win%20CISOs.md)
-- [Empower your agents with the Google Cloud CLI remote MCP server](docs/google/cloud/2026-09-30/Empower%20your%20agents%20with%20the%20Google%20Cloud%20CLI%20remote%20MCP%20server.md)
-- [Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere](docs/google/cloud/2026-09-30/Spanner%20Omni_%20now%20GA_%20A%20distributed_%20multi-model%20database%20that%20you%20can%20deploy%20anywhere.md)
-- [Introducing SynthID Bio](docs/google/deepmind/2026-09-30/Introducing%20SynthID%20Bio.md)
-- [We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.](docs/google/blog/2026-09-30/We_re%20introducing%20SynthID%20Bio_%20bringing%20our%20watermarking%20technology%20to%20synthetic%20biology.md)
-- [Vulnerability Discovery and Exploitation Trends in the AI Era](docs/google/cloud/2026-09-30/Vulnerability%20Discovery%20and%20Exploitation%20Trends%20in%20the%20AI%20Era.md)
-- [Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent](docs/google/cloud/2026-09-30/Data%20Agent%20Kit%20is%20now%20GA_%20Bring%20Google%20Data%20Cloud%20to%20any%20coding%20agent.md)
+- [Our Project Suncatcher prototype satellite is in orbit.](docs/google/blog/2026-10-01/Our%20Project%20Suncatcher%20prototype%20satellite%20is%20in%20orbit.md)
+- [Turn your existing social assets into high-impact YouTube ads.](docs/google/blog/2026-10-01/Turn%20your%20existing%20social%20assets%20into%20high-impact%20YouTube%20ads.md)
+- [Guided Vision in Gemini Live: built for accessibility](docs/google/blog/2026-10-01/Guided%20Vision%20in%20Gemini%20Live_%20built%20for%20accessibility.md)
+- [1,400 educators joined our Badge-a-thon: Day of AI Learning.](docs/google/blog/2026-10-01/1_400%20educators%20joined%20our%20Badge-a-thon_%20Day%20of%20AI%20Learning.md)
+- [Enabling Cloud Storage end-to-end checksums for improved data integrity and durability](docs/google/cloud/2026-10-01/Enabling%20Cloud%20Storage%20end-to-end%20checksums%20for%20improved%20data%20integrity%20and%20durability.md)
+- [Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark](docs/google/cloud/2026-10-01/Accelerating%20analytics_%20PayPal_s%20journey%20with%20Managed%20Service%20for%20Apache%20Spark.md)
+- [5 ways Search can help you perfect your at-home coffee routine](docs/google/blog/2026-10-01/5%20ways%20Search%20can%20help%20you%20perfect%20your%20at-home%20coffee%20routine.md)
+- [Democratizing Managed Lustre with lower cost and frictionless development](docs/google/cloud/2026-10-01/Democratizing%20Managed%20Lustre%20with%20lower%20cost%20and%20frictionless%20development.md)
+- [The future of browser-based security: Leveraging browser data for proactive defense](docs/google/cloud/2026-10-01/The%20future%20of%20browser-based%20security_%20Leveraging%20browser%20data%20for%20proactive%20defense.md)
+- [Introducing the Server Side Cloud Swift SDK](docs/google/cloud/2026-10-01/Introducing%20the%20Server%20Side%20Cloud%20Swift%20SDK.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
