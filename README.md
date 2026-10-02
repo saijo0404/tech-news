@@ -28,11 +28,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton](docs/nvidia/developer/2026-09-30/Deploying%20an%20HSTU%20Generative%20Recommender%20with%20NVIDIA%20Dynamo-Triton.md)
-- [Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK](docs/nvidia/developer/2026-09-30/Expanding%20AI%20Storage%20Access%20with%20NVIDIA%20cuObject%20and%20the%20NVIDIA%20SCADA%20Server%20SDK.md)
-- [NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000](docs/nvidia/blogs/2026-09-30/NVIDIA%20Opens%20Applications%20for%202027_2028%20Graduate%20Fellowships%20With%20Awards%20Up%20to%20_60_000.md)
-- [Tracing Agent Harness Behavior with NVIDIA NeMo Relay](docs/nvidia/developer/2026-09-30/Tracing%20Agent%20Harness%20Behavior%20with%20NVIDIA%20NeMo%20Relay.md)
-- [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](docs/nvidia/blogs/2026-09-30/From%20Training%20to%20Production_%20NVIDIA%20and%20CoreWeave%20Close%20the%20Loop%20on%20Agentic%20AI.md)
+- [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](docs/nvidia/blogs/2026-10-01/How%20NVIDIA%20GPUs%20Help%20Accelerate%20OpenAI_s%20GPT-6%20Astra%20Ultrafast.md)
+- [Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills](docs/nvidia/developer/2026-10-01/Build%20Applications%20on%20NVIDIA%20BlueField%20Faster%20with%20NVIDIA%20DOCA%20Agent%20Skills.md)
+- [Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples](docs/nvidia/developer/2026-10-01/Build%20Local%20AI%20Apps%20with%20C_%20and%20NVIDIA%20TensorRT%20RTX%20Samples.md)
+- [Fall Into 25 New Games on GeForce NOW This October](docs/nvidia/blogs/2026-10-01/Fall%20Into%2025%20New%20Games%20on%20GeForce%20NOW%20This%20October.md)
+- [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](docs/nvidia/blogs/2026-10-01/Productive_%20Durable_%20Fungible_%20How%20NVIDIA%20AI%20Factories%20Maximize%20Return%20on%20Investment.md)
+- [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](docs/nvidia/developer/2026-10-01/Fine-Tuning%20NVIDIA%20Nemotron%20for%20Saudi%20Arabic%20Dialects_%20with%20a%20Path%20to%20Other%20Languages.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
