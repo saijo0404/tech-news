@@ -8,16 +8,13 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Our Project Suncatcher prototype satellite is in orbit.](docs/google/blog/2026-10-01/Our%20Project%20Suncatcher%20prototype%20satellite%20is%20in%20orbit.md)
-- [Turn your existing social assets into high-impact YouTube ads.](docs/google/blog/2026-10-01/Turn%20your%20existing%20social%20assets%20into%20high-impact%20YouTube%20ads.md)
-- [Guided Vision in Gemini Live: built for accessibility](docs/google/blog/2026-10-01/Guided%20Vision%20in%20Gemini%20Live_%20built%20for%20accessibility.md)
-- [1,400 educators joined our Badge-a-thon: Day of AI Learning.](docs/google/blog/2026-10-01/1_400%20educators%20joined%20our%20Badge-a-thon_%20Day%20of%20AI%20Learning.md)
-- [Enabling Cloud Storage end-to-end checksums for improved data integrity and durability](docs/google/cloud/2026-10-01/Enabling%20Cloud%20Storage%20end-to-end%20checksums%20for%20improved%20data%20integrity%20and%20durability.md)
-- [Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark](docs/google/cloud/2026-10-01/Accelerating%20analytics_%20PayPal_s%20journey%20with%20Managed%20Service%20for%20Apache%20Spark.md)
-- [5 ways Search can help you perfect your at-home coffee routine](docs/google/blog/2026-10-01/5%20ways%20Search%20can%20help%20you%20perfect%20your%20at-home%20coffee%20routine.md)
-- [Democratizing Managed Lustre with lower cost and frictionless development](docs/google/cloud/2026-10-01/Democratizing%20Managed%20Lustre%20with%20lower%20cost%20and%20frictionless%20development.md)
-- [The future of browser-based security: Leveraging browser data for proactive defense](docs/google/cloud/2026-10-01/The%20future%20of%20browser-based%20security_%20Leveraging%20browser%20data%20for%20proactive%20defense.md)
-- [Introducing the Server Side Cloud Swift SDK](docs/google/cloud/2026-10-01/Introducing%20the%20Server%20Side%20Cloud%20Swift%20SDK.md)
+- [AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer](docs/google/cloud/2026-10-02/AI21%20achieves%20an%2083_%20reduction%20in%20time-to-start%20for%20AI%20workloads%20with%20AI%20Hypercomputer.md)
+- [Announcing Spanner queues: Transactional messaging for agentic workloads and beyond](docs/google/cloud/2026-10-02/Announcing%20Spanner%20queues_%20Transactional%20messaging%20for%20agentic%20workloads%20and%20beyond.md)
+- [GKE CPU startup boost: Accelerate app starts without over-provisioning](docs/google/cloud/2026-10-02/GKE%20CPU%20startup%20boost_%20Accelerate%20app%20starts%20without%20over-provisioning.md)
+- [The latest AI news we announced in September 2026](docs/google/blog/2026-10-02/The%20latest%20AI%20news%20we%20announced%20in%20September%202026.md)
+- [Toward provably private learning from federated data](docs/google/research/2026-10-02/Toward%20provably%20private%20learning%20from%20federated%20data.md)
+- [How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey](docs/google/cloud/2026-10-02/How%20to%20implement%20long-term%20AI%20agent%20memory%20in%20AlloyDB%20and%20Memorystore%20for%20Valkey.md)
+- [What’s new in AI infrastructure and orchestration in September](docs/google/cloud/2026-09-30/What_s%20new%20in%20AI%20infrastructure%20and%20orchestration%20in%20September.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
