@@ -24,7 +24,9 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](docs/huggingface/blog/2026-10-01/Introducing%20Olmo-core%203_%20Open_%20scalable%20training%20infrastructure%20for%20large%20MoEs.md)
+- [The Agent Said It Was Done. The Database Disagreed.](docs/huggingface/blog/2026-10-03/The%20Agent%20Said%20It%20Was%20Done_%20The%20Database%20Disagreed.md)
+- [Open-sourcing AstaBrief, the fast report-generation model in Asta](docs/huggingface/blog/2026-10-02/Open-sourcing%20AstaBrief_%20the%20fast%20report-generation%20model%20in%20Asta.md)
+- [AutoSynthData: Generating Training Data for Enterprise Agents](docs/huggingface/blog/2026-10-02/AutoSynthData_%20Generating%20Training%20Data%20for%20Enterprise%20Agents.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
