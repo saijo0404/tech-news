@@ -22,12 +22,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](docs/nvidia/blogs/2026-10-01/How%20NVIDIA%20GPUs%20Help%20Accelerate%20OpenAI_s%20GPT-6%20Astra%20Ultrafast.md)
-- [Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills](docs/nvidia/developer/2026-10-01/Build%20Applications%20on%20NVIDIA%20BlueField%20Faster%20with%20NVIDIA%20DOCA%20Agent%20Skills.md)
-- [Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples](docs/nvidia/developer/2026-10-01/Build%20Local%20AI%20Apps%20with%20C_%20and%20NVIDIA%20TensorRT%20RTX%20Samples.md)
-- [Fall Into 25 New Games on GeForce NOW This October](docs/nvidia/blogs/2026-10-01/Fall%20Into%2025%20New%20Games%20on%20GeForce%20NOW%20This%20October.md)
-- [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](docs/nvidia/blogs/2026-10-01/Productive_%20Durable_%20Fungible_%20How%20NVIDIA%20AI%20Factories%20Maximize%20Return%20on%20Investment.md)
-- [Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages](docs/nvidia/developer/2026-10-01/Fine-Tuning%20NVIDIA%20Nemotron%20for%20Saudi%20Arabic%20Dialects_%20with%20a%20Path%20to%20Other%20Languages.md)
+- [NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI](docs/nvidia/blogs/2026-10-02/NVIDIA%20DGX%20Spark%2064GB%20Gives%20Developers%20More%20Ways%20to%20Build%20and%20Scale%20Local%20AI.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
