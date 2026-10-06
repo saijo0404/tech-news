@@ -19,7 +19,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI](docs/nvidia/blogs/2026-10-02/NVIDIA%20DGX%20Spark%2064GB%20Gives%20Developers%20More%20Ways%20to%20Build%20and%20Scale%20Local%20AI.md)
+- [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](docs/nvidia/blogs/2026-10-05/From%20Scan%20to%20Treatment%20Plan_%20AI%20Helps%20Close%20Breast%20Cancer_s%20Deadliest%20Gaps.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
