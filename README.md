@@ -34,9 +34,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [The Agent Said It Was Done. The Database Disagreed.](docs/huggingface/blog/2026-10-03/The%20Agent%20Said%20It%20Was%20Done_%20The%20Database%20Disagreed.md)
-- [Open-sourcing AstaBrief, the fast report-generation model in Asta](docs/huggingface/blog/2026-10-02/Open-sourcing%20AstaBrief_%20the%20fast%20report-generation%20model%20in%20Asta.md)
-- [AutoSynthData: Generating Training Data for Enterprise Agents](docs/huggingface/blog/2026-10-02/AutoSynthData_%20Generating%20Training%20Data%20for%20Enterprise%20Agents.md)
+- [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](docs/huggingface/blog/2026-10-06/Falcon-Emirati_%20When%20an%20LLM%20Learns%20the%20Dialect_%20the%20Culture_%20and%20the%20Nuance.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
