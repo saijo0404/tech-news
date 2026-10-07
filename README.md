@@ -8,21 +8,20 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle](docs/google/research/2026-10-05/Open%20and%20Emergent%20Problems%20in%20Agentic%20Privacy%20and%20Security_%20A%20Contextual%20Angle.md)
-- [I use technology to give students a voice and become critical digital citizens.](docs/google/blog/2026-10-05/I%20use%20technology%20to%20give%20students%20a%20voice%20and%20become%20critical%20digital%20citizens.md)
-- [Technology helps my students balance big creative ideas with tight deadlines.](docs/google/blog/2026-10-05/Technology%20helps%20my%20students%20balance%20big%20creative%20ideas%20with%20tight%20deadlines.md)
-- [Here’s how I use technology to bring science to life in my classroom.](docs/google/blog/2026-10-05/Here_s%20how%20I%20use%20technology%20to%20bring%20science%20to%20life%20in%20my%20classroom.md)
-- [World Teachers’ Day 2026](docs/google/blog/2026-10-05/World%20Teachers_%20Day%202026.md)
-- [I teach my students that in the AI era, critical thinking comes first.](docs/google/blog/2026-10-05/I%20teach%20my%20students%20that%20in%20the%20AI%20era_%20critical%20thinking%20comes%20first.md)
-- [My eighth-grade students built our school newscast from scratch with Gemini.](docs/google/blog/2026-10-05/My%20eighth-grade%20students%20built%20our%20school%20newscast%20from%20scratch%20with%20Gemini.md)
-- [My students use Gemini to brainstorm creative ideas.](docs/google/blog/2026-10-05/My%20students%20use%20Gemini%20to%20brainstorm%20creative%20ideas.md)
-- [Technology is helping my fellow math teachers trade weekend prep for personalized learning.](docs/google/blog/2026-10-05/Technology%20is%20helping%20my%20fellow%20math%20teachers%20trade%20weekend%20prep%20for%20personalized%20learning.md)
-- [Gemini helps me bring hands-on learning into the classroom.](docs/google/blog/2026-10-05/Gemini%20helps%20me%20bring%20hands-on%20learning%20into%20the%20classroom.md)
-- [I replaced traditional coding tests with real conversations about how my students solve problems using AI.](docs/google/blog/2026-10-05/I%20replaced%20traditional%20coding%20tests%20with%20real%20conversations%20about%20how%20my%20students%20solve%20problems%20using%20AI.md)
-- [Gemini helps me give a voice to students who cannot write.](docs/google/blog/2026-10-05/Gemini%20helps%20me%20give%20a%20voice%20to%20students%20who%20cannot%20write.md)
-- [Introducing Google Cloud Modernize, transforming for (and with) AI](docs/google/cloud/2026-10-05/Introducing%20Google%20Cloud%20Modernize_%20transforming%20for%20_and%20with_%20AI.md)
-- [Wheels up: Trends and tips for 2026 holiday travel](docs/google/blog/2026-10-05/Wheels%20up_%20Trends%20and%20tips%20for%202026%20holiday%20travel.md)
-- [Making AI training available to UK and Ireland educators](docs/google/blog/2026-10-05/Making%20AI%20training%20available%20to%20UK%20and%20Ireland%20educators.md)
+- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](docs/google/deepmind/2026-10-06/EmbeddingGemma%202_%20an%20open_%20lightweight%20multimodal%20embedding%20model.md)
+- [Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise](docs/google/cloud/2026-10-06/Announcing%20MCP%20Toolbox%20Java%20SDK%20v1_0_%20Agentic%20data%20access%20for%20the%20enterprise.md)
+- [Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?](docs/google/blog/2026-10-06/Ask%20a%20Scientist_%20How%20are%20researchers%20using%20AI%20to%20help%20pregnant%20women%20access%20ultrasounds.md)
+- [Producers can now vibe code their own music production tools using Google Flow Music.](docs/google/blog/2026-10-06/Producers%20can%20now%20vibe%20code%20their%20own%20music%20production%20tools%20using%20Google%20Flow%20Music.md)
+- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](docs/google/blog/2026-10-06/EmbeddingGemma%202_%20an%20open_%20lightweight%20multimodal%20embedding%20model.md)
+- [Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog](docs/google/cloud/2026-10-06/Managed%20Apache%20Iceberg%20at%20scale_%20How%20Spanner%20powers%20Lakehouse%20runtime%20catalog.md)
+- [Unlocking Earth AI’s planetary geospatial foundation models for global public health](docs/google/research/2026-10-06/Unlocking%20Earth%20AI_s%20planetary%20geospatial%20foundation%20models%20for%20global%20public%20health.md)
+- [Making global public health more proactive with Google Earth AI](docs/google/blog/2026-10-06/Making%20global%20public%20health%20more%20proactive%20with%20Google%20Earth%20AI.md)
+- [More than 100 startups joining our Google for Startups Gemini Startup Forum](docs/google/blog/2026-10-06/More%20than%20100%20startups%20joining%20our%20Google%20for%20Startups%20Gemini%20Startup%20Forum.md)
+- [Meet the artist who built a giant spider for a virtual world](docs/google/blog/2026-10-06/Meet%20the%20artist%20who%20built%20a%20giant%20spider%20for%20a%20virtual%20world.md)
+- [Networking for AI inference model serving - GKE only and for all other backends](docs/google/cloud/2026-10-06/Networking%20for%20AI%20inference%20model%20serving%20-%20GKE%20only%20and%20for%20all%20other%20backends.md)
+- [Why we're backing America's existing nuclear plants](docs/google/blog/2026-10-06/Why%20we_re%20backing%20America_s%20existing%20nuclear%20plants.md)
+- [Where mission meets moonshot: Join us at the Google Public Sector Summit 2026](docs/google/cloud/2026-10-06/Where%20mission%20meets%20moonshot_%20Join%20us%20at%20the%20Google%20Public%20Sector%20Summit%202026.md)
+- [AlloyDB: A unified database engine for hybrid search](docs/google/cloud/2026-10-06/AlloyDB_%20A%20unified%20database%20engine%20for%20hybrid%20search.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
