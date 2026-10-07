@@ -27,7 +27,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](docs/nvidia/blogs/2026-10-05/From%20Scan%20to%20Treatment%20Plan_%20AI%20Helps%20Close%20Breast%20Cancer_s%20Deadliest%20Gaps.md)
+- [How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack](docs/nvidia/developer/2026-10-06/How%20DOCA%20GPUNetIO%20Unifies%20GPU-Initiated%20Networking%20Across%20the%20NVIDIA%20Software%20Stack.md)
+- [AICR v1.0: Open, stable, and verifiable GPU cluster configuration](docs/nvidia/developer/2026-10-06/AICR%20v1_0_%20Open_%20stable_%20and%20verifiable%20GPU%20cluster%20configuration.md)
+- [Control How Your GPU Shares Work with Green Contexts](docs/nvidia/developer/2026-10-06/Control%20How%20Your%20GPU%20Shares%20Work%20with%20Green%20Contexts.md)
+- [Why Telecom Operators Are Building Their AI Strategy on Open Models](docs/nvidia/blogs/2026-10-06/Why%20Telecom%20Operators%20Are%20Building%20Their%20AI%20Strategy%20on%20Open%20Models.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
