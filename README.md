@@ -8,20 +8,11 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](docs/google/deepmind/2026-10-06/EmbeddingGemma%202_%20an%20open_%20lightweight%20multimodal%20embedding%20model.md)
-- [Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise](docs/google/cloud/2026-10-06/Announcing%20MCP%20Toolbox%20Java%20SDK%20v1_0_%20Agentic%20data%20access%20for%20the%20enterprise.md)
-- [Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?](docs/google/blog/2026-10-06/Ask%20a%20Scientist_%20How%20are%20researchers%20using%20AI%20to%20help%20pregnant%20women%20access%20ultrasounds.md)
-- [Producers can now vibe code their own music production tools using Google Flow Music.](docs/google/blog/2026-10-06/Producers%20can%20now%20vibe%20code%20their%20own%20music%20production%20tools%20using%20Google%20Flow%20Music.md)
-- [EmbeddingGemma 2: an open, lightweight multimodal embedding model](docs/google/blog/2026-10-06/EmbeddingGemma%202_%20an%20open_%20lightweight%20multimodal%20embedding%20model.md)
-- [Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog](docs/google/cloud/2026-10-06/Managed%20Apache%20Iceberg%20at%20scale_%20How%20Spanner%20powers%20Lakehouse%20runtime%20catalog.md)
-- [Unlocking Earth AI’s planetary geospatial foundation models for global public health](docs/google/research/2026-10-06/Unlocking%20Earth%20AI_s%20planetary%20geospatial%20foundation%20models%20for%20global%20public%20health.md)
-- [Making global public health more proactive with Google Earth AI](docs/google/blog/2026-10-06/Making%20global%20public%20health%20more%20proactive%20with%20Google%20Earth%20AI.md)
-- [More than 100 startups joining our Google for Startups Gemini Startup Forum](docs/google/blog/2026-10-06/More%20than%20100%20startups%20joining%20our%20Google%20for%20Startups%20Gemini%20Startup%20Forum.md)
-- [Meet the artist who built a giant spider for a virtual world](docs/google/blog/2026-10-06/Meet%20the%20artist%20who%20built%20a%20giant%20spider%20for%20a%20virtual%20world.md)
-- [Networking for AI inference model serving - GKE only and for all other backends](docs/google/cloud/2026-10-06/Networking%20for%20AI%20inference%20model%20serving%20-%20GKE%20only%20and%20for%20all%20other%20backends.md)
-- [Why we're backing America's existing nuclear plants](docs/google/blog/2026-10-06/Why%20we_re%20backing%20America_s%20existing%20nuclear%20plants.md)
-- [Where mission meets moonshot: Join us at the Google Public Sector Summit 2026](docs/google/cloud/2026-10-06/Where%20mission%20meets%20moonshot_%20Join%20us%20at%20the%20Google%20Public%20Sector%20Summit%202026.md)
-- [AlloyDB: A unified database engine for hybrid search](docs/google/cloud/2026-10-06/AlloyDB_%20A%20unified%20database%20engine%20for%20hybrid%20search.md)
+- [This winter, use Google Maps and Waze to find the best fuel prices in the UK.](docs/google/blog/2026-10-08/This%20winter_%20use%20Google%20Maps%20and%20Waze%20to%20find%20the%20best%20fuel%20prices%20in%20the%20UK.md)
+- [Does better work always mean better workers?](docs/google/research/2026-10-07/Does%20better%20work%20always%20mean%20better%20workers.md)
+- [Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading](docs/google/cloud/2026-10-07/Introducing%20Google%20Cloud_s%20U4%20compute_%20Enabling%20ultra-low%20latency%20trading.md)
+- [We're making it easier to identify AI-generated content globally.](docs/google/blog/2026-10-07/We_re%20making%20it%20easier%20to%20identify%20AI-generated%20content%20globally.md)
+- [Introducing Playground: Create and play custom games](docs/google/blog/2026-10-07/Introducing%20Playground_%20Create%20and%20play%20custom%20games.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
