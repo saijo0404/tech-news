@@ -26,7 +26,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](docs/huggingface/blog/2026-10-06/Falcon-Emirati_%20When%20an%20LLM%20Learns%20the%20Dialect_%20the%20Culture_%20and%20the%20Nuance.md)
+- [Multimodal open d1 decision models for the edge](docs/huggingface/blog/2026-10-07/Multimodal%20open%20d1%20decision%20models%20for%20the%20edge.md)
+- [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](docs/huggingface/blog/2026-10-07/One%20Model%20Family_%20Two%20Gold-Level%20Results_%20Fine-Tuning%20Nemotron%20for%20IOI%20and%20IMO.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
