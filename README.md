@@ -26,10 +26,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack](docs/nvidia/developer/2026-10-06/How%20DOCA%20GPUNetIO%20Unifies%20GPU-Initiated%20Networking%20Across%20the%20NVIDIA%20Software%20Stack.md)
-- [AICR v1.0: Open, stable, and verifiable GPU cluster configuration](docs/nvidia/developer/2026-10-06/AICR%20v1_0_%20Open_%20stable_%20and%20verifiable%20GPU%20cluster%20configuration.md)
-- [Control How Your GPU Shares Work with Green Contexts](docs/nvidia/developer/2026-10-06/Control%20How%20Your%20GPU%20Shares%20Work%20with%20Green%20Contexts.md)
-- [Why Telecom Operators Are Building Their AI Strategy on Open Models](docs/nvidia/blogs/2026-10-06/Why%20Telecom%20Operators%20Are%20Building%20Their%20AI%20Strategy%20on%20Open%20Models.md)
+- [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](docs/nvidia/blogs/2026-10-07/NVIDIA_%20Microsoft%20Kick%20Off%20a%20New%20Beginning%20for%20Windows%20PCs%20With%20RTX%20Spark%20and%20AI%20Agents.md)
+- [The Machines that Make the Machines](docs/nvidia/developer/2026-10-07/The%20Machines%20that%20Make%20the%20Machines.md)
+- [Validate AI Factory Changes with Digital Twins and AI Agents](docs/nvidia/developer/2026-10-07/Validate%20AI%20Factory%20Changes%20with%20Digital%20Twins%20and%20AI%20Agents.md)
+- [Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt](docs/nvidia/developer/2026-10-07/Scaling%20Decision%20Optimization%20to%20100%20Million%20Variables%20and%20Beyond%20with%20mPDLP%20in%20NVIDIA%20cuOpt.md)
+- [Faster Scientific Image Analysis with NVIDIA cuPhoton](docs/nvidia/developer/2026-10-07/Faster%20Scientific%20Image%20Analysis%20with%20NVIDIA%20cuPhoton.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
