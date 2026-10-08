@@ -31,7 +31,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Taking vLLM Apart: A Practical Guide to Disaggregated Serving](docs/vllm/blog/2026-09-29/Taking%20vLLM%20Apart_%20A%20Practical%20Guide%20to%20Disaggregated%20Serving.md)
+- [DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0](docs/vllm/blog/2026-10-07/DeepSeek-V4_1-Flash%20on%20vLLM_%205x%20Agentic%20Throughput%20Since%20Day%200.md)
 <!-- END:vllm -->
 
 ---
