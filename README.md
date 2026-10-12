@@ -41,7 +41,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0](docs/vllm/blog/2026-10-07/DeepSeek-V4_1-Flash%20on%20vLLM_%205x%20Agentic%20Throughput%20Since%20Day%200.md)
+- [vLLM Support for NVIDIA Vera Rubin NVL72: 7.8x Throughput over GB200 NVL72](docs/vllm/blog/2026-10-09/vLLM%20Support%20for%20NVIDIA%20Vera%20Rubin%20NVL72_%207_8x%20Throughput%20over%20GB200%20NVL72.md)
 <!-- END:vllm -->
 
 ---
