@@ -17,11 +17,13 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](docs/nvidia/blogs/2026-10-07/NVIDIA_%20Microsoft%20Kick%20Off%20a%20New%20Beginning%20for%20Windows%20PCs%20With%20RTX%20Spark%20and%20AI%20Agents.md)
-- [The Machines that Make the Machines](docs/nvidia/developer/2026-10-07/The%20Machines%20that%20Make%20the%20Machines.md)
-- [Validate AI Factory Changes with Digital Twins and AI Agents](docs/nvidia/developer/2026-10-07/Validate%20AI%20Factory%20Changes%20with%20Digital%20Twins%20and%20AI%20Agents.md)
-- [Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt](docs/nvidia/developer/2026-10-07/Scaling%20Decision%20Optimization%20to%20100%20Million%20Variables%20and%20Beyond%20with%20mPDLP%20in%20NVIDIA%20cuOpt.md)
-- [Faster Scientific Image Analysis with NVIDIA cuPhoton](docs/nvidia/developer/2026-10-07/Faster%20Scientific%20Image%20Analysis%20with%20NVIDIA%20cuPhoton.md)
+- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](docs/nvidia/blogs/2026-10-08/Into%20the%20Omniverse_%20How%20Developers%20Turn%20Ideas%20Into%20Simulations%20With%20Frontier%20AI%20Agents.md)
+- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](docs/nvidia/newsroom/2026-10-08/Into%20the%20Omniverse_%20How%20Developers%20Turn%20Ideas%20Into%20Simulations%20With%20Frontier%20AI%20Agents.md)
+- [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](docs/nvidia/developer/2026-10-08/5%20Steps%20to%20Create%20SimReady%20Assets%20for%20Robotics%20with%20Frontier%20AI%20Models.md)
+- [Building Reliable Data Analytics Agents: Lessons from the KDD Cup](docs/nvidia/developer/2026-10-08/Building%20Reliable%20Data%20Analytics%20Agents_%20Lessons%20from%20the%20KDD%20Cup.md)
+- [NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years](docs/nvidia/newsroom/2026-10-08/NVIDIA%20Commits%20_1%20Billion%20to%20Advance%20US%20Science%20Over%20the%20Next%20Five%20Years.md)
+- [Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW](docs/nvidia/blogs/2026-10-08/Rally%20Up_%20_Gears%20of%20War_%20E-Day_%20Launches%20on%20GeForce%20NOW.md)
+- [Scale Bitwise-Deterministic Pretraining with NVIDIA Megatron Core](docs/nvidia/developer/2026-10-06/Scale%20Bitwise-Deterministic%20Pretraining%20with%20NVIDIA%20Megatron%20Core.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
