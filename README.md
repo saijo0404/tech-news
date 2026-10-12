@@ -35,8 +35,9 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Multimodal open d1 decision models for the edge](docs/huggingface/blog/2026-10-07/Multimodal%20open%20d1%20decision%20models%20for%20the%20edge.md)
-- [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](docs/huggingface/blog/2026-10-07/One%20Model%20Family_%20Two%20Gold-Level%20Results_%20Fine-Tuning%20Nemotron%20for%20IOI%20and%20IMO.md)
+- [Impactful scheduling for GPU clusters](docs/huggingface/blog/2026-10-09/Impactful%20scheduling%20for%20GPU%20clusters.md)
+- [The model that didn't exist, so you made it yourself](docs/huggingface/blog/2026-10-08/The%20model%20that%20didn_t%20exist_%20so%20you%20made%20it%20yourself.md)
+- [Introducing Falcon ASR](docs/huggingface/blog/2026-10-07/Introducing%20Falcon%20ASR.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
