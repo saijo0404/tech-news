@@ -36,7 +36,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [vLLM Support for NVIDIA Vera Rubin NVL72: 7.8x Throughput over GB200 NVL72](docs/vllm/blog/2026-10-09/vLLM%20Support%20for%20NVIDIA%20Vera%20Rubin%20NVL72_%207_8x%20Throughput%20over%20GB200%20NVL72.md)
+- [Improve TTFT for Multi-Turn Agentic Workloads with Bi-Directional KV Transfer in vLLM](docs/vllm/blog/2026-10-12/Improve%20TTFT%20for%20Multi-Turn%20Agentic%20Workloads%20with%20Bi-Directional%20KV%20Transfer%20in%20vLLM.md)
 <!-- END:vllm -->
 
 ---
