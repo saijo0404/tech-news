@@ -8,18 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery](docs/google/cloud/2026-10-09/Modernizing%20Unstructured%20Data%20Workflows_%20Alteryx%20Live%20Query%20meets%20Google%20Cloud%20BigQuery.md)
-- [What’s new with Google Data Cloud](docs/google/cloud/2026-10-09/What_s%20new%20with%20Google%20Data%20Cloud.md)
-- [Study in The Lancet suggests AI could improve patient-physician relationships.](docs/google/blog/2026-10-08/Study%20in%20The%20Lancet%20suggests%20AI%20could%20improve%20patient-physician%20relationships.md)
-- [Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13](docs/google/blog/2026-10-08/Win%20big%20at%20Play%20Fest_%20Epic%20prizes_%20gaming%20leagues_%20and%20daily%20deals%20start%20October%2013.md)
-- [Sign in quickly and securely with passkeys.](docs/google/blog/2026-10-08/Sign%20in%20quickly%20and%20securely%20with%20passkeys.md)
-- [Google Cloud introduces the Gemini agent.](docs/google/blog/2026-10-08/Google%20Cloud%20introduces%20the%20Gemini%20agent.md)
-- [3 ways Google Maps can help you navigate your next culinary adventure.](docs/google/blog/2026-10-08/3%20ways%20Google%20Maps%20can%20help%20you%20navigate%20your%20next%20culinary%20adventure.md)
-- [Google Maps reveals the top food trends and popular restaurants across 10 cities](docs/google/blog/2026-10-08/Google%20Maps%20reveals%20the%20top%20food%20trends%20and%20popular%20restaurants%20across%2010%20cities.md)
-- [Welcome to Gemini at Work 2026: Introducing the Gemini agent](docs/google/cloud/2026-10-08/Welcome%20to%20Gemini%20at%20Work%202026_%20Introducing%20the%20Gemini%20agent.md)
-- [Empowering SMBs to do more with Gemini](docs/google/cloud/2026-10-08/Empowering%20SMBs%20to%20do%20more%20with%20Gemini.md)
-- [Innovation in Ireland: How Irish brands scale with Gemini Enterprise](docs/google/cloud/2026-10-08/Innovation%20in%20Ireland_%20How%20Irish%20brands%20scale%20with%20Gemini%20Enterprise.md)
-- [Google Public Sector and SUNY launch AI-enabled platform to accelerate university research](docs/google/cloud/2026-10-08/Google%20Public%20Sector%20and%20SUNY%20launch%20AI-enabled%20platform%20to%20accelerate%20university%20research.md)
+- [Applying technology to understand and treat disease](docs/google/blog/2026-10-12/Applying%20technology%20to%20understand%20and%20treat%20disease.md)
+- [Agentic data science with the Data Agent Kit](docs/google/cloud/2026-10-12/Agentic%20data%20science%20with%20the%20Data%20Agent%20Kit.md)
+- [10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”](docs/google/cloud/2026-10-12/10%20Years%20of%20the%20SRE%20book_%20Announcing%20the%20second%20edition%20of%20_Site%20Reliability%20Engineering.md)
+- [Trusted Data Apps for the Agentic Data Cloud, powered by Looker](docs/google/cloud/2026-10-12/Trusted%20Data%20Apps%20for%20the%20Agentic%20Data%20Cloud_%20powered%20by%20Looker.md)
+- [Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery](docs/google/cloud/2026-10-12/Introducing%20TimesFM%203_0%20with%20multivariate%20time-series%20forecasting%20in%20BigQuery.md)
+- [Google Health: Evolving so you can focus on living better](docs/google/blog/2026-10-12/Google%20Health_%20Evolving%20so%20you%20can%20focus%20on%20living%20better.md)
+- [From game days to daily life: The familiar faces teaming up with Google Health](docs/google/blog/2026-10-12/From%20game%20days%20to%20daily%20life_%20The%20familiar%20faces%20teaming%20up%20with%20Google%20Health.md)
+- [We’re partnering with Flo Health to elevate women’s health](docs/google/blog/2026-10-12/We_re%20partnering%20with%20Flo%20Health%20to%20elevate%20women_s%20health.md)
+- [How we’re making Google Health and Fitbit Air smarter than ever](docs/google/blog/2026-10-12/How%20we_re%20making%20Google%20Health%20and%20Fitbit%20Air%20smarter%20than%20ever.md)
+- [Google Fitbit Edge: Our all-new smartest fitness tracker ever](docs/google/blog/2026-10-12/Google%20Fitbit%20Edge_%20Our%20all-new%20smartest%20fitness%20tracker%20ever.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
