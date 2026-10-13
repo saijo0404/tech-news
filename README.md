@@ -24,13 +24,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](docs/nvidia/blogs/2026-10-08/Into%20the%20Omniverse_%20How%20Developers%20Turn%20Ideas%20Into%20Simulations%20With%20Frontier%20AI%20Agents.md)
-- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](docs/nvidia/newsroom/2026-10-08/Into%20the%20Omniverse_%20How%20Developers%20Turn%20Ideas%20Into%20Simulations%20With%20Frontier%20AI%20Agents.md)
-- [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](docs/nvidia/developer/2026-10-08/5%20Steps%20to%20Create%20SimReady%20Assets%20for%20Robotics%20with%20Frontier%20AI%20Models.md)
-- [Building Reliable Data Analytics Agents: Lessons from the KDD Cup](docs/nvidia/developer/2026-10-08/Building%20Reliable%20Data%20Analytics%20Agents_%20Lessons%20from%20the%20KDD%20Cup.md)
-- [NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years](docs/nvidia/newsroom/2026-10-08/NVIDIA%20Commits%20_1%20Billion%20to%20Advance%20US%20Science%20Over%20the%20Next%20Five%20Years.md)
-- [Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW](docs/nvidia/blogs/2026-10-08/Rally%20Up_%20_Gears%20of%20War_%20E-Day_%20Launches%20on%20GeForce%20NOW.md)
-- [Scale Bitwise-Deterministic Pretraining with NVIDIA Megatron Core](docs/nvidia/developer/2026-10-06/Scale%20Bitwise-Deterministic%20Pretraining%20with%20NVIDIA%20Megatron%20Core.md)
+- [ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding](docs/nvidia/developer/2026-10-12/ReplaySSM_%20Rethinking%20State%20Storage%20for%20Faster%20Hybrid-Model%20Decoding.md)
+- [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](docs/nvidia/blogs/2026-10-12/OCP%20Global%20Summit_%20Amid%20Ecosystem%20Adoption_%20NVIDIA%20Opens%20Vera%20Rubin%20Architecture%20to%20Help%20Scale%20AI%20Factories%20Worldwide.md)
+- [NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories](docs/nvidia/newsroom/2026-10-12/NVIDIA%20and%20Cisco%20Introduce%20New%20Pluggable%20Optics%20Form%20Factor%20to%20Scale%20AI%20Factories.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
