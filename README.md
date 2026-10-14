@@ -8,16 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Applying technology to understand and treat disease](docs/google/blog/2026-10-12/Applying%20technology%20to%20understand%20and%20treat%20disease.md)
-- [Agentic data science with the Data Agent Kit](docs/google/cloud/2026-10-12/Agentic%20data%20science%20with%20the%20Data%20Agent%20Kit.md)
-- [10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”](docs/google/cloud/2026-10-12/10%20Years%20of%20the%20SRE%20book_%20Announcing%20the%20second%20edition%20of%20_Site%20Reliability%20Engineering.md)
-- [Trusted Data Apps for the Agentic Data Cloud, powered by Looker](docs/google/cloud/2026-10-12/Trusted%20Data%20Apps%20for%20the%20Agentic%20Data%20Cloud_%20powered%20by%20Looker.md)
-- [Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery](docs/google/cloud/2026-10-12/Introducing%20TimesFM%203_0%20with%20multivariate%20time-series%20forecasting%20in%20BigQuery.md)
-- [Google Health: Evolving so you can focus on living better](docs/google/blog/2026-10-12/Google%20Health_%20Evolving%20so%20you%20can%20focus%20on%20living%20better.md)
-- [From game days to daily life: The familiar faces teaming up with Google Health](docs/google/blog/2026-10-12/From%20game%20days%20to%20daily%20life_%20The%20familiar%20faces%20teaming%20up%20with%20Google%20Health.md)
-- [We’re partnering with Flo Health to elevate women’s health](docs/google/blog/2026-10-12/We_re%20partnering%20with%20Flo%20Health%20to%20elevate%20women_s%20health.md)
-- [How we’re making Google Health and Fitbit Air smarter than ever](docs/google/blog/2026-10-12/How%20we_re%20making%20Google%20Health%20and%20Fitbit%20Air%20smarter%20than%20ever.md)
-- [Google Fitbit Edge: Our all-new smartest fitness tracker ever](docs/google/blog/2026-10-12/Google%20Fitbit%20Edge_%20Our%20all-new%20smartest%20fitness%20tracker%20ever.md)
+- [Developing Gemini 4 Argon responsibly and safely](docs/google/blog/2026-10-13/Developing%20Gemini%204%20Argon%20responsibly%20and%20safely.md)
+- [New on Google Play: More ways to create, discover, and play](docs/google/blog/2026-10-13/New%20on%20Google%20Play_%20More%20ways%20to%20create_%20discover_%20and%20play.md)
+- [A new app experience is coming to cars with Google built-in](docs/google/blog/2026-10-13/A%20new%20app%20experience%20is%20coming%20to%20cars%20with%20Google%20built-in.md)
+- [Gemini 4 Argon comes to the Gemini app.](docs/google/blog/2026-10-13/Gemini%204%20Argon%20comes%20to%20the%20Gemini%20app.md)
+- [Gemini 4 Argon is now available for developers.](docs/google/blog/2026-10-13/Gemini%204%20Argon%20is%20now%20available%20for%20developers.md)
+- [Build your data strength with October’s Demand Gen drop.](docs/google/blog/2026-10-13/Build%20your%20data%20strength%20with%20October_s%20Demand%20Gen%20drop.md)
+- [We're helping Indiana communities save with clean energy investments.](docs/google/blog/2026-10-13/We_re%20helping%20Indiana%20communities%20save%20with%20clean%20energy%20investments.md)
+- [Gemini 4 Argon: Built to solve your hardest problems](docs/google/blog/2026-10-13/Gemini%204%20Argon_%20Built%20to%20solve%20your%20hardest%20problems.md)
+- [Cross-cloud conversational analytics made simple with open standards](docs/google/cloud/2026-10-13/Cross-cloud%20conversational%20analytics%20made%20simple%20with%20open%20standards.md)
+- [Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems](docs/google/cloud/2026-10-13/Gemini%204%20Argon%20available%20on%20Google%20Cloud_%20built%20to%20help%20solve%20your%20business_%20hardest%20problems.md)
+- [One Agent Development Kit, five languages](docs/google/cloud/2026-10-13/One%20Agent%20Development%20Kit_%20five%20languages.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
