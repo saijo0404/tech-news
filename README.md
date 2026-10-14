@@ -22,9 +22,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding](docs/nvidia/developer/2026-10-12/ReplaySSM_%20Rethinking%20State%20Storage%20for%20Faster%20Hybrid-Model%20Decoding.md)
-- [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](docs/nvidia/blogs/2026-10-12/OCP%20Global%20Summit_%20Amid%20Ecosystem%20Adoption_%20NVIDIA%20Opens%20Vera%20Rubin%20Architecture%20to%20Help%20Scale%20AI%20Factories%20Worldwide.md)
-- [NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories](docs/nvidia/newsroom/2026-10-12/NVIDIA%20and%20Cisco%20Introduce%20New%20Pluggable%20Optics%20Form%20Factor%20to%20Scale%20AI%20Factories.md)
+- [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](docs/nvidia/developer/2026-10-13/How%20to%20Rewrite%20Apache%20Spark%20UDFs%20for%20GPU%20Acceleration%20with%20AI%20Agents.md)
+- [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](docs/nvidia/developer/2026-10-13/NVIDIA%20Run_ai%20Is%20Now%20Open%20Source%20as%20Part%20of%20NVIDIA%20DSX%20AI%20Factory%20Platform.md)
+- [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](docs/nvidia/blogs/2026-10-13/All%20Systems%20Go_%20Global%20PC%20App%20Ecosystem%20Ready%20for%20NVIDIA%20RTX%20Spark.md)
+- [NVIDIA Lands in Europe for GTC Berlin](docs/nvidia/newsroom/2026-10-13/NVIDIA%20Lands%20in%20Europe%20for%20GTC%20Berlin.md)
+- [NVIDIA Announces New Investments in France’s Startups](docs/nvidia/blogs/2026-10-13/NVIDIA%20Announces%20New%20Investments%20in%20France_s%20Startups.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
