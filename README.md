@@ -32,9 +32,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Impactful scheduling for GPU clusters](docs/huggingface/blog/2026-10-09/Impactful%20scheduling%20for%20GPU%20clusters.md)
-- [The model that didn't exist, so you made it yourself](docs/huggingface/blog/2026-10-08/The%20model%20that%20didn_t%20exist_%20so%20you%20made%20it%20yourself.md)
-- [Introducing Falcon ASR](docs/huggingface/blog/2026-10-07/Introducing%20Falcon%20ASR.md)
+- [Run fast, private agents on-device with LFM2.5-24B-A2B](docs/huggingface/blog/2026-10-13/Run%20fast_%20private%20agents%20on-device%20with%20LFM2_5-24B-A2B.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
