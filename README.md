@@ -38,7 +38,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Improve TTFT for Multi-Turn Agentic Workloads with Bi-Directional KV Transfer in vLLM](docs/vllm/blog/2026-10-12/Improve%20TTFT%20for%20Multi-Turn%20Agentic%20Workloads%20with%20Bi-Directional%20KV%20Transfer%20in%20vLLM.md)
+- [Adaptive Verification Without a Confidence Head](docs/vllm/blog/2026-10-14/Adaptive%20Verification%20Without%20a%20Confidence%20Head.md)
+- [Push-Based KV Transfer to Improve TTFT and TPOT for Disaggregated Inference in vLLM](docs/vllm/blog/2026-10-14/Push-Based%20KV%20Transfer%20to%20Improve%20TTFT%20and%20TPOT%20for%20Disaggregated%20Inference%20in%20vLLM.md)
 <!-- END:vllm -->
 
 ---
