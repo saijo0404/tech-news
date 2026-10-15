@@ -23,11 +23,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents](docs/nvidia/developer/2026-10-13/How%20to%20Rewrite%20Apache%20Spark%20UDFs%20for%20GPU%20Acceleration%20with%20AI%20Agents.md)
-- [NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](docs/nvidia/developer/2026-10-13/NVIDIA%20Run_ai%20Is%20Now%20Open%20Source%20as%20Part%20of%20NVIDIA%20DSX%20AI%20Factory%20Platform.md)
-- [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](docs/nvidia/blogs/2026-10-13/All%20Systems%20Go_%20Global%20PC%20App%20Ecosystem%20Ready%20for%20NVIDIA%20RTX%20Spark.md)
-- [NVIDIA Lands in Europe for GTC Berlin](docs/nvidia/newsroom/2026-10-13/NVIDIA%20Lands%20in%20Europe%20for%20GTC%20Berlin.md)
-- [NVIDIA Announces New Investments in France’s Startups](docs/nvidia/blogs/2026-10-13/NVIDIA%20Announces%20New%20Investments%20in%20France_s%20Startups.md)
+- [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](docs/nvidia/developer/2026-10-14/Optimizing%20Agent%20Reliability%20and%20Tool%20Calling%20Efficiency%20for%20Chip%20Design%20Using%20NVIDIA%20NeMo%20Gym.md)
+- [NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs](docs/nvidia/newsroom/2026-10-14/NVIDIA%20and%20Semiconductor%20Leaders%20Advance%20AI%20Across%20Chip%20Design%20and%20Manufacturing%20for%20AI-Defined%20Fabs.md)
+- [NVIDIA Announces New Investments in the UK Startup Ecosystem](docs/nvidia/blogs/2026-10-14/NVIDIA%20Announces%20New%20Investments%20in%20the%20UK%20Startup%20Ecosystem.md)
+- [NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years](docs/nvidia/newsroom/2026-10-14/NVIDIA%20Commits%20_250%20Million%20to%20Advance%20UK%20Agentic%20Safety%20and%20Security%20Research%20Over%20the%20Next%20Five%20Years.md)
+- [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](docs/nvidia/blogs/2026-10-14/European%20Cities%20Deploy%20NVIDIA-Powered%20AI%20Agents%20to%20Run%20Smarter%20Urban%20Operations.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
