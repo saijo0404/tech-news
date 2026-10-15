@@ -8,17 +8,18 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Developing Gemini 4 Argon responsibly and safely](docs/google/blog/2026-10-13/Developing%20Gemini%204%20Argon%20responsibly%20and%20safely.md)
-- [New on Google Play: More ways to create, discover, and play](docs/google/blog/2026-10-13/New%20on%20Google%20Play_%20More%20ways%20to%20create_%20discover_%20and%20play.md)
-- [A new app experience is coming to cars with Google built-in](docs/google/blog/2026-10-13/A%20new%20app%20experience%20is%20coming%20to%20cars%20with%20Google%20built-in.md)
-- [Gemini 4 Argon comes to the Gemini app.](docs/google/blog/2026-10-13/Gemini%204%20Argon%20comes%20to%20the%20Gemini%20app.md)
-- [Gemini 4 Argon is now available for developers.](docs/google/blog/2026-10-13/Gemini%204%20Argon%20is%20now%20available%20for%20developers.md)
-- [Build your data strength with October’s Demand Gen drop.](docs/google/blog/2026-10-13/Build%20your%20data%20strength%20with%20October_s%20Demand%20Gen%20drop.md)
-- [We're helping Indiana communities save with clean energy investments.](docs/google/blog/2026-10-13/We_re%20helping%20Indiana%20communities%20save%20with%20clean%20energy%20investments.md)
-- [Gemini 4 Argon: Built to solve your hardest problems](docs/google/blog/2026-10-13/Gemini%204%20Argon_%20Built%20to%20solve%20your%20hardest%20problems.md)
-- [Cross-cloud conversational analytics made simple with open standards](docs/google/cloud/2026-10-13/Cross-cloud%20conversational%20analytics%20made%20simple%20with%20open%20standards.md)
-- [Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems](docs/google/cloud/2026-10-13/Gemini%204%20Argon%20available%20on%20Google%20Cloud_%20built%20to%20help%20solve%20your%20business_%20hardest%20problems.md)
-- [One Agent Development Kit, five languages](docs/google/cloud/2026-10-13/One%20Agent%20Development%20Kit_%20five%20languages.md)
+- [Research@ 2026: Novel capabilities and intelligence](docs/google/blog/2026-10-14/Research_%202026_%20Novel%20capabilities%20and%20intelligence.md)
+- [Research@ 2026: 10 ways we're amplifying human ingenuity](docs/google/research/2026-10-14/Research_%202026_%2010%20ways%20we_re%20amplifying%20human%20ingenuity.md)
+- [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](docs/google/research/2026-10-14/Putting%20Earth%20AI%20to%20work_%20Geospatial%20agents%20for%20our%20planet_s%20biggest%20challenges.md)
+- [Analyzing technical documents with Deep Review](docs/google/research/2026-10-14/Analyzing%20technical%20documents%20with%20Deep%20Review.md)
+- [Predictable AI spend in BigQuery: Introducing cost management for generative AI functions](docs/google/cloud/2026-10-14/Predictable%20AI%20spend%20in%20BigQuery_%20Introducing%20cost%20management%20for%20generative%20AI%20functions.md)
+- [Cloud CISO Perspectives: New Gemini Notebook can help CISOs and policymakers prepare for PQC](docs/google/cloud/2026-10-14/Cloud%20CISO%20Perspectives_%20New%20Gemini%20Notebook%20can%20help%20CISOs%20and%20policymakers%20prepare%20for%20PQC.md)
+- [Guide your campaign spending with new priority and allocation features](docs/google/blog/2026-10-14/Guide%20your%20campaign%20spending%20with%20new%20priority%20and%20allocation%20features.md)
+- [Check out this year’s buzziest Halloween trends.](docs/google/blog/2026-10-14/Check%20out%20this%20year_s%20buzziest%20Halloween%20trends.md)
+- [6 ways to trick-or-treat yourself to the ultimate Halloween with Search](docs/google/blog/2026-10-14/6%20ways%20to%20trick-or-treat%20yourself%20to%20the%20ultimate%20Halloween%20with%20Search.md)
+- [17 organizations using AI to accelerate scientific breakthroughs](docs/google/blog/2026-10-14/17%20organizations%20using%20AI%20to%20accelerate%20scientific%20breakthroughs.md)
+- [We’re powering European scientific discovery with advanced AI compute and frontier models.](docs/google/blog/2026-10-14/We_re%20powering%20European%20scientific%20discovery%20with%20advanced%20AI%20compute%20and%20frontier%20models.md)
+- [Enabling an AI-first European economy](docs/google/blog/2026-10-14/Enabling%20an%20AI-first%20European%20economy.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
