@@ -33,7 +33,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Run fast, private agents on-device with LFM2.5-24B-A2B](docs/huggingface/blog/2026-10-13/Run%20fast_%20private%20agents%20on-device%20with%20LFM2_5-24B-A2B.md)
+- [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](docs/huggingface/blog/2026-10-14/HiRO-ACEv2_%20Simulating%20extreme%20weather%20at%203%20km%20resolution%20for%20a%20fraction%20of%20the%20cost.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
