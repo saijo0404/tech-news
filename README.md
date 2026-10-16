@@ -51,8 +51,9 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Adaptive Verification Without a Confidence Head](docs/vllm/blog/2026-10-14/Adaptive%20Verification%20Without%20a%20Confidence%20Head.md)
-- [Push-Based KV Transfer to Improve TTFT and TPOT for Disaggregated Inference in vLLM](docs/vllm/blog/2026-10-14/Push-Based%20KV%20Transfer%20to%20Improve%20TTFT%20and%20TPOT%20for%20Disaggregated%20Inference%20in%20vLLM.md)
+- [Day 0 support for Muse Spark Open on vLLM](docs/vllm/blog/2026-10-15/Day%200%20support%20for%20Muse%20Spark%20Open%20on%20vLLM.md)
+- [Announcing Day 0 Support for NVIDIA Nemotron 3.5 Super VL on vLLM](docs/vllm/blog/2026-10-15/Announcing%20Day%200%20Support%20for%20NVIDIA%20Nemotron%203_5%20Super%20VL%20on%20vLLM.md)
+- [Finish RL Training Faster: Bitwise-Consistent, High-Performance, Agent-Driven](docs/vllm/blog/2026-10-14/Finish%20RL%20Training%20Faster_%20Bitwise-Consistent_%20High-Performance_%20Agent-Driven.md)
 <!-- END:vllm -->
 
 ---
