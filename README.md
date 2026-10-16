@@ -24,11 +24,15 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym](docs/nvidia/developer/2026-10-14/Optimizing%20Agent%20Reliability%20and%20Tool%20Calling%20Efficiency%20for%20Chip%20Design%20Using%20NVIDIA%20NeMo%20Gym.md)
-- [NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs](docs/nvidia/newsroom/2026-10-14/NVIDIA%20and%20Semiconductor%20Leaders%20Advance%20AI%20Across%20Chip%20Design%20and%20Manufacturing%20for%20AI-Defined%20Fabs.md)
-- [NVIDIA Announces New Investments in the UK Startup Ecosystem](docs/nvidia/blogs/2026-10-14/NVIDIA%20Announces%20New%20Investments%20in%20the%20UK%20Startup%20Ecosystem.md)
-- [NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years](docs/nvidia/newsroom/2026-10-14/NVIDIA%20Commits%20_250%20Million%20to%20Advance%20UK%20Agentic%20Safety%20and%20Security%20Research%20Over%20the%20Next%20Five%20Years.md)
-- [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](docs/nvidia/blogs/2026-10-14/European%20Cities%20Deploy%20NVIDIA-Powered%20AI%20Agents%20to%20Run%20Smarter%20Urban%20Operations.md)
+- [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](docs/nvidia/developer/2026-10-15/NVIDIA%20Nemotron%203_5%20Super%20VL%20Powers%20Specialized%20Agents%20with%20Multimodal%20Reasoning.md)
+- [Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72](docs/nvidia/developer/2026-10-15/Scale%20Agentic%20Coding%20Workflows%20with%20Meta_s%20Muse%20Spark%20Open%20on%20NVIDIA%20GB300%20NVL72.md)
+- [Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving](docs/nvidia/newsroom/2026-10-15/Volvo%20Cars%20and%20NVIDIA%20Expand%20Partnership%20to%20Advance%20Safe%20Automated%20Driving.md)
+- [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](docs/nvidia/blogs/2026-10-15/Be%20There%20for%20the%20Beginning_%20Celebrate%20the%20Launch%20of%20NVIDIA%20RTX%20Spark.md)
+- [Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation](docs/nvidia/newsroom/2026-10-15/Adobe%20and%20NVIDIA%20Expand%20Collaboration%20to%20Speed%20Agentic%20Creation.md)
+- [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](docs/nvidia/blogs/2026-10-15/Open%20From%20Data%20Center%20to%20Desktop_%20NVIDIA%20Expands%20Nemotron%20Family%20With%20Highest%20Efficiency%20Super%20VL%20and%20Bolt%20Models.md)
+- [Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW](docs/nvidia/blogs/2026-10-15/Dial%20Up%20the%20Cloud_%20NVIDIA%20DLSS%204_5%20Controls%20Arrive%20on%20GeForce%20NOW.md)
+- [NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute](docs/nvidia/blogs/2026-10-15/NVIDIA%20Expands%20Advanced%20Technology%20Access%20for%20Europe_s%20Scientific%20Community%20Through%20Open%20Learning%20Resources_%20Collaborations%20and%20Compute.md)
+- [The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing](docs/nvidia/blogs/2026-10-15/The%20Nordics%20and%20NVIDIA%20Show%20What_s%20Possible%20When%20a%20Region%20Commits%20to%20Advanced%20Computing.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
