@@ -8,27 +8,15 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Bringing the magic: Google breaks open a bottleneck in quantum computing](docs/google/blog/2026-10-15/Bringing%20the%20magic_%20Google%20breaks%20open%20a%20bottleneck%20in%20quantum%20computing.md)
-- [Check if a text message is a scam using Circle to Search.](docs/google/blog/2026-10-15/Check%20if%20a%20text%20message%20is%20a%20scam%20using%20Circle%20to%20Search.md)
-- [Accelerating the search for antimicrobial peptides with Google Antigravity](docs/google/deepmind/2026-10-15/Accelerating%20the%20search%20for%20antimicrobial%20peptides%20with%20Google%20Antigravity.md)
-- [How we're helping the world prepare for natural disasters](docs/google/blog/2026-10-15/How%20we_re%20helping%20the%20world%20prepare%20for%20natural%20disasters.md)
-- [Android earthquake alerts now available in more than 200 regions](docs/google/blog/2026-10-15/Android%20earthquake%20alerts%20now%20available%20in%20more%20than%20200%20regions.md)
-- [400 publications are now partnering with us on our News AI pilot program.](docs/google/blog/2026-10-15/400%20publications%20are%20now%20partnering%20with%20us%20on%20our%20News%20AI%20pilot%20program.md)
-- [More ways to connect with the web from Search](docs/google/blog/2026-10-15/More%20ways%20to%20connect%20with%20the%20web%20from%20Search.md)
-- [Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand](docs/google/cloud/2026-10-15/Temporal%20Serverless%20Workers%20on%20Cloud%20Run_%20Scale%20workers%20ahead%20of%20demand.md)
-- [What the Gemini agent means for startups](docs/google/cloud/2026-10-15/What%20the%20Gemini%20agent%20means%20for%20startups.md)
-- [Bringing the borderless Lakehouse into the agentic era with innovations for Gemini](docs/google/cloud/2026-10-15/Bringing%20the%20borderless%20Lakehouse%20into%20the%20agentic%20era%20with%20innovations%20for%20Gemini.md)
-- [Modernizing perimeter security: Scalable perimeters with VPC Service Controls](docs/google/cloud/2026-10-15/Modernizing%20perimeter%20security_%20Scalable%20perimeters%20with%20VPC%20Service%20Controls.md)
-- [How Visko streams real-time world models on Google Cloud TPUs](docs/google/cloud/2026-10-15/How%20Visko%20streams%20real-time%20world%20models%20on%20Google%20Cloud%20TPUs.md)
-- [Making your Pixel devices last longer through design, repair, and reuse](docs/google/blog/2026-10-15/Making%20your%20Pixel%20devices%20last%20longer%20through%20design_%20repair_%20and%20reuse.md)
-- [ARMORY CASTLE Exploits BeyondTrust](docs/google/cloud/2026-10-15/ARMORY%20CASTLE%20Exploits%20BeyondTrust.md)
-- [An intelligent new shopping cart](docs/google/blog/2026-10-15/An%20intelligent%20new%20shopping%20cart.md)
-- [TIME has named Google SynthID one of the Best Inventions of 2026.](docs/google/blog/2026-10-15/TIME%20has%20named%20Google%20SynthID%20one%20of%20the%20Best%20Inventions%20of%202026.md)
-- [Data-backed secrets to smarter holiday shopping](docs/google/blog/2026-10-15/Data-backed%20secrets%20to%20smarter%20holiday%20shopping.md)
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](docs/google/deepmind/2026-10-14/Google%20DeepMind%20and%20Singapore%20Government%20collaborate%20to%20build%20fine-tuned%20AI%20model%20for%20scam%20detection.md)
-- [Developing Gemini 4 Argon responsibly and safely](docs/google/deepmind/2026-10-13/Developing%20Gemini%204%20Argon%20responsibly%20and%20safely.md)
-- [Gemini 4 Argon for Robotics](docs/google/deepmind/2026-10-13/Gemini%204%20Argon%20for%20Robotics.md)
-- [Gemini 4 Argon: Built to solve your hardest problems](docs/google/deepmind/2026-10-13/Gemini%204%20Argon_%20Built%20to%20solve%20your%20hardest%20problems.md)
+- [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](docs/google/research/2026-10-16/Grounding%20AI%20agents%20in%20biological%20reality_%20Building%20blocks%20for%20autonomous%20wet%20labs.md)
+- [Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo](docs/google/cloud/2026-10-16/Day%200%20support%20for%20Reflection_s%20Beam%20on%20Google%20Cloud_%205x%20faster%20perf%20with%20llm-d%20and%20NVIDIA%20Dynamo.md)
+- [We’re sharing 3 tips to study smarter with Gemini Notebook.](docs/google/blog/2026-10-16/We_re%20sharing%203%20tips%20to%20study%20smarter%20with%20Gemini%20Notebook.md)
+- [Architecting autonomy: A design pattern for high-compute, governed agents in biotech](docs/google/cloud/2026-10-16/Architecting%20autonomy_%20A%20design%20pattern%20for%20high-compute_%20governed%20agents%20in%20biotech.md)
+- [Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes](docs/google/cloud/2026-10-16/Announcing%20Wiz%20Runtime%20Sensor%20add-on%20for%20GKE_%20Turnkey%20threat%20detection%20for%20Kubernetes.md)
+- [Four evaluation engineering lessons learned from building agent plugins](docs/google/cloud/2026-10-16/Four%20evaluation%20engineering%20lessons%20learned%20from%20building%20agent%20plugins.md)
+- [The SAVE method: Learn the fundamentals to engineer trustworthy generative media](docs/google/cloud/2026-10-16/The%20SAVE%20method_%20Learn%20the%20fundamentals%20to%20engineer%20trustworthy%20generative%20media.md)
+- [What’s new with Google Cloud](docs/google/cloud/2026-10-16/What_s%20new%20with%20Google%20Cloud.md)
+- [Investigating Ephemeral Supply Chain Tampering](docs/google/cloud/2026-10-15/Investigating%20Ephemeral%20Supply%20Chain%20Tampering.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
