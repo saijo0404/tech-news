@@ -33,15 +33,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning](docs/nvidia/developer/2026-10-15/NVIDIA%20Nemotron%203_5%20Super%20VL%20Powers%20Specialized%20Agents%20with%20Multimodal%20Reasoning.md)
-- [Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72](docs/nvidia/developer/2026-10-15/Scale%20Agentic%20Coding%20Workflows%20with%20Meta_s%20Muse%20Spark%20Open%20on%20NVIDIA%20GB300%20NVL72.md)
-- [Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving](docs/nvidia/newsroom/2026-10-15/Volvo%20Cars%20and%20NVIDIA%20Expand%20Partnership%20to%20Advance%20Safe%20Automated%20Driving.md)
-- [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](docs/nvidia/blogs/2026-10-15/Be%20There%20for%20the%20Beginning_%20Celebrate%20the%20Launch%20of%20NVIDIA%20RTX%20Spark.md)
-- [Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation](docs/nvidia/newsroom/2026-10-15/Adobe%20and%20NVIDIA%20Expand%20Collaboration%20to%20Speed%20Agentic%20Creation.md)
-- [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](docs/nvidia/blogs/2026-10-15/Open%20From%20Data%20Center%20to%20Desktop_%20NVIDIA%20Expands%20Nemotron%20Family%20With%20Highest%20Efficiency%20Super%20VL%20and%20Bolt%20Models.md)
-- [Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW](docs/nvidia/blogs/2026-10-15/Dial%20Up%20the%20Cloud_%20NVIDIA%20DLSS%204_5%20Controls%20Arrive%20on%20GeForce%20NOW.md)
-- [NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute](docs/nvidia/blogs/2026-10-15/NVIDIA%20Expands%20Advanced%20Technology%20Access%20for%20Europe_s%20Scientific%20Community%20Through%20Open%20Learning%20Resources_%20Collaborations%20and%20Compute.md)
-- [The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing](docs/nvidia/blogs/2026-10-15/The%20Nordics%20and%20NVIDIA%20Show%20What_s%20Possible%20When%20a%20Region%20Commits%20to%20Advanced%20Computing.md)
+- [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](docs/nvidia/blogs/2026-10-17/RTX%20Spark%20Ignites%20Global%20Celebration%20as%20New%20Windows%20PCs%20Arrive.md)
+- [Code, Test, and Deploy on One Machine with NVIDIA RTX Spark](docs/nvidia/developer/2026-10-16/Code_%20Test_%20and%20Deploy%20on%20One%20Machine%20with%20NVIDIA%20RTX%20Spark.md)
+- [NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs](docs/nvidia/newsroom/2026-10-16/NVIDIA%20RTX%20Spark%20PCs%20Available%20Today%20_%20A%20New%20Beginning%20for%20Windows%20PCs.md)
+- [Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade](docs/nvidia/newsroom/2026-10-16/Mercedes-Benz%20and%20NVIDIA%20Expand%20Strategic%20Partnership%20to%20Advance%20Safe%20Highly%20Automated%20Driving%20in%20the%20Next%20Decade.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
