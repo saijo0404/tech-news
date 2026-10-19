@@ -29,9 +29,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](docs/huggingface/blog/2026-10-15/Granite%20Switch%204_1_%20Chat_%20Decisions_%20and%20Speech%20from%20One%20Endpoint.md)
-- [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](docs/huggingface/blog/2026-10-15/Welcome%20Muse%20Spark%20Open_%20open-weight%20frontier%20multimodal%20mixture-of-experts%20model%20from%20Meta.md)
-- [Welcome FLUX.3 Image Klein in Diffusers](docs/huggingface/blog/2026-10-15/Welcome%20FLUX_3%20Image%20Klein%20in%20Diffusers.md)
+- [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](docs/huggingface/blog/2026-10-16/Scaling%20Indic%20Pretraining_%202_8%20Trillion%20Tokens%20and%20an%20Open%20Data%20Generation%20Pipeline.md)
+- [Welcome Beam: a 501B open model you can own, customize, and scale](docs/huggingface/blog/2026-10-16/Welcome%20Beam_%20a%20501B%20open%20model%20you%20can%20own_%20customize_%20and%20scale.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
