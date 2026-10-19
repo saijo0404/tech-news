@@ -36,9 +36,9 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Day 0 support for Muse Spark Open on vLLM](docs/vllm/blog/2026-10-15/Day%200%20support%20for%20Muse%20Spark%20Open%20on%20vLLM.md)
-- [Announcing Day 0 Support for NVIDIA Nemotron 3.5 Super VL on vLLM](docs/vllm/blog/2026-10-15/Announcing%20Day%200%20Support%20for%20NVIDIA%20Nemotron%203_5%20Super%20VL%20on%20vLLM.md)
-- [Finish RL Training Faster: Bitwise-Consistent, High-Performance, Agent-Driven](docs/vllm/blog/2026-10-14/Finish%20RL%20Training%20Faster_%20Bitwise-Consistent_%20High-Performance_%20Agent-Driven.md)
+- [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](docs/vllm/blog/2026-10-16/Hyper%20Optimizing%20Kimi%20K3%20in%20vLLM_%20Moving%20Fast%20and%20Responsibly.md)
+- [Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX](docs/vllm/blog/2026-10-16/Scaling%20Kimi%20K3%20on%20AMD%20Instinct%20MI355X_%20Matching%20NVIDIA%20HGX%20B300%20Throughput%20per%20GPU%20on%20AgentX.md)
+- [Serving Reflection Beam on vLLM from Day 0](docs/vllm/blog/2026-10-16/Serving%20Reflection%20Beam%20on%20vLLM%20from%20Day%200.md)
 <!-- END:vllm -->
 
 ---
