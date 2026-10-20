@@ -21,10 +21,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](docs/nvidia/blogs/2026-10-17/RTX%20Spark%20Ignites%20Global%20Celebration%20as%20New%20Windows%20PCs%20Arrive.md)
-- [Code, Test, and Deploy on One Machine with NVIDIA RTX Spark](docs/nvidia/developer/2026-10-16/Code_%20Test_%20and%20Deploy%20on%20One%20Machine%20with%20NVIDIA%20RTX%20Spark.md)
-- [NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs](docs/nvidia/newsroom/2026-10-16/NVIDIA%20RTX%20Spark%20PCs%20Available%20Today%20_%20A%20New%20Beginning%20for%20Windows%20PCs.md)
-- [Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade](docs/nvidia/newsroom/2026-10-16/Mercedes-Benz%20and%20NVIDIA%20Expand%20Strategic%20Partnership%20to%20Advance%20Safe%20Highly%20Automated%20Driving%20in%20the%20Next%20Decade.md)
+- [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](docs/nvidia/blogs/2026-10-19/Germany%20Wants%20to%20Lead%20the%20World%20in%20Industrial%20AI_%20How%20NVIDIA%20Will%20Help.md)
+- [NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre](docs/nvidia/newsroom/2026-10-19/NVIDIA%20Runs%20Record%20Simulation%20of%20Fault-Tolerant%20Quantum%20Computing%20at%20J%C3%BClich%20Supercomputing%20Centre.md)
+- [Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile](docs/nvidia/developer/2026-10-19/Accelerating%20Mamba-2%20with%20High-Performance%20Forward%20Pass%20Kernels%20in%20NVIDIA%20CUDA%20Tile.md)
+- [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](docs/nvidia/blogs/2026-10-19/NVIDIA%20Advances%20Agentic%20Security%20for%20Media_%20From%20European%20Public%20Service%20Broadcasting%20to%20Global%20Content%20Production.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
