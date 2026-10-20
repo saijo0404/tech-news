@@ -36,9 +36,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly](docs/vllm/blog/2026-10-16/Hyper%20Optimizing%20Kimi%20K3%20in%20vLLM_%20Moving%20Fast%20and%20Responsibly.md)
-- [Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX](docs/vllm/blog/2026-10-16/Scaling%20Kimi%20K3%20on%20AMD%20Instinct%20MI355X_%20Matching%20NVIDIA%20HGX%20B300%20Throughput%20per%20GPU%20on%20AgentX.md)
-- [Serving Reflection Beam on vLLM from Day 0](docs/vllm/blog/2026-10-16/Serving%20Reflection%20Beam%20on%20vLLM%20from%20Day%200.md)
+- [Achieving near-zero-downtime scaling in Elastic Expert Parallelism](docs/vllm/blog/2026-10-19/Achieving%20near-zero-downtime%20scaling%20in%20Elastic%20Expert%20Parallelism.md)
 <!-- END:vllm -->
 
 ---
