@@ -30,8 +30,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](docs/huggingface/blog/2026-10-16/Scaling%20Indic%20Pretraining_%202_8%20Trillion%20Tokens%20and%20an%20Open%20Data%20Generation%20Pipeline.md)
-- [Welcome Beam: a 501B open model you can own, customize, and scale](docs/huggingface/blog/2026-10-16/Welcome%20Beam_%20a%20501B%20open%20model%20you%20can%20own_%20customize_%20and%20scale.md)
+- [TorchNeuron: running HF models on AWS Trainium is easier than ever](docs/huggingface/blog/2026-10-19/TorchNeuron_%20running%20HF%20models%20on%20AWS%20Trainium%20is%20easier%20than%20ever.md)
+- [Apertus 1.5 Release Notes](docs/huggingface/blog/2026-10-15/Apertus%201_5%20Release%20Notes.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
