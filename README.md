@@ -8,15 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](docs/google/research/2026-10-16/Grounding%20AI%20agents%20in%20biological%20reality_%20Building%20blocks%20for%20autonomous%20wet%20labs.md)
-- [Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo](docs/google/cloud/2026-10-16/Day%200%20support%20for%20Reflection_s%20Beam%20on%20Google%20Cloud_%205x%20faster%20perf%20with%20llm-d%20and%20NVIDIA%20Dynamo.md)
-- [We’re sharing 3 tips to study smarter with Gemini Notebook.](docs/google/blog/2026-10-16/We_re%20sharing%203%20tips%20to%20study%20smarter%20with%20Gemini%20Notebook.md)
-- [Architecting autonomy: A design pattern for high-compute, governed agents in biotech](docs/google/cloud/2026-10-16/Architecting%20autonomy_%20A%20design%20pattern%20for%20high-compute_%20governed%20agents%20in%20biotech.md)
-- [Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes](docs/google/cloud/2026-10-16/Announcing%20Wiz%20Runtime%20Sensor%20add-on%20for%20GKE_%20Turnkey%20threat%20detection%20for%20Kubernetes.md)
-- [Four evaluation engineering lessons learned from building agent plugins](docs/google/cloud/2026-10-16/Four%20evaluation%20engineering%20lessons%20learned%20from%20building%20agent%20plugins.md)
-- [The SAVE method: Learn the fundamentals to engineer trustworthy generative media](docs/google/cloud/2026-10-16/The%20SAVE%20method_%20Learn%20the%20fundamentals%20to%20engineer%20trustworthy%20generative%20media.md)
-- [What’s new with Google Cloud](docs/google/cloud/2026-10-16/What_s%20new%20with%20Google%20Cloud.md)
-- [Investigating Ephemeral Supply Chain Tampering](docs/google/cloud/2026-10-15/Investigating%20Ephemeral%20Supply%20Chain%20Tampering.md)
+- [Partnering to strengthen the grid and support local communities in Arkansas](docs/google/blog/2026-10-19/Partnering%20to%20strengthen%20the%20grid%20and%20support%20local%20communities%20in%20Arkansas.md)
+- [How to shape your slides and videos with Gemini Notebook](docs/google/blog/2026-10-19/How%20to%20shape%20your%20slides%20and%20videos%20with%20Gemini%20Notebook.md)
+- [4 tips for styling outfits with Gemini](docs/google/blog/2026-10-19/4%20tips%20for%20styling%20outfits%20with%20Gemini.md)
+- [See the top style searches from people in big fashion capitals.](docs/google/blog/2026-10-19/See%20the%20top%20style%20searches%20from%20people%20in%20big%20fashion%20capitals.md)
+- [Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU](docs/google/cloud/2026-10-19/Building%20full%20virtual%20vehicles%20on%20Google%20Cloud_%20From%20AAOS%20to%20the%20smallest%20MCU.md)
+- [How to Use Python UDF Logging for Pipeline Observability](docs/google/cloud/2026-10-19/How%20to%20Use%20Python%20UDF%20Logging%20for%20Pipeline%20Observability.md)
+- [Developer’s guide to implementing MCP apps in Gemini](docs/google/cloud/2026-10-19/Developer_s%20guide%20to%20implementing%20MCP%20apps%20in%20Gemini.md)
+- [Who judges the judge? Three helpful ways to audit your LLM evaluators](docs/google/cloud/2026-10-19/Who%20judges%20the%20judge_%20Three%20helpful%20ways%20to%20audit%20your%20LLM%20evaluators.md)
+- [We’re supporting nature restoration through sustainable farming in Brazil.](docs/google/blog/2026-10-19/We_re%20supporting%20nature%20restoration%20through%20sustainable%20farming%20in%20Brazil.md)
+- [Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms](docs/google/cloud/2026-10-19/Google%20named%20a%20Leader%20in%20the%202026%20IDC%20MarketScape%20for%20Agentic%20AI%20Platforms.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
