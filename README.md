@@ -34,7 +34,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Achieving near-zero-downtime scaling in Elastic Expert Parallelism](docs/vllm/blog/2026-10-19/Achieving%20near-zero-downtime%20scaling%20in%20Elastic%20Expert%20Parallelism.md)
+- [Introducing vLLM TorchTPU](docs/vllm/blog/2026-10-20/Introducing%20vLLM%20TorchTPU.md)
 <!-- END:vllm -->
 
 ---
