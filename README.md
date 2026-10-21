@@ -8,16 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Partnering to strengthen the grid and support local communities in Arkansas](docs/google/blog/2026-10-19/Partnering%20to%20strengthen%20the%20grid%20and%20support%20local%20communities%20in%20Arkansas.md)
-- [How to shape your slides and videos with Gemini Notebook](docs/google/blog/2026-10-19/How%20to%20shape%20your%20slides%20and%20videos%20with%20Gemini%20Notebook.md)
-- [4 tips for styling outfits with Gemini](docs/google/blog/2026-10-19/4%20tips%20for%20styling%20outfits%20with%20Gemini.md)
-- [See the top style searches from people in big fashion capitals.](docs/google/blog/2026-10-19/See%20the%20top%20style%20searches%20from%20people%20in%20big%20fashion%20capitals.md)
-- [Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU](docs/google/cloud/2026-10-19/Building%20full%20virtual%20vehicles%20on%20Google%20Cloud_%20From%20AAOS%20to%20the%20smallest%20MCU.md)
-- [How to Use Python UDF Logging for Pipeline Observability](docs/google/cloud/2026-10-19/How%20to%20Use%20Python%20UDF%20Logging%20for%20Pipeline%20Observability.md)
-- [Developer’s guide to implementing MCP apps in Gemini](docs/google/cloud/2026-10-19/Developer_s%20guide%20to%20implementing%20MCP%20apps%20in%20Gemini.md)
-- [Who judges the judge? Three helpful ways to audit your LLM evaluators](docs/google/cloud/2026-10-19/Who%20judges%20the%20judge_%20Three%20helpful%20ways%20to%20audit%20your%20LLM%20evaluators.md)
-- [We’re supporting nature restoration through sustainable farming in Brazil.](docs/google/blog/2026-10-19/We_re%20supporting%20nature%20restoration%20through%20sustainable%20farming%20in%20Brazil.md)
-- [Google named a Leader in the 2026 IDC MarketScape for Agentic AI Platforms](docs/google/cloud/2026-10-19/Google%20named%20a%20Leader%20in%20the%202026%20IDC%20MarketScape%20for%20Agentic%20AI%20Platforms.md)
+- [Get hands-free personalized help on the road with Gemini](docs/google/blog/2026-10-20/Get%20hands-free%20personalized%20help%20on%20the%20road%20with%20Gemini.md)
+- [Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search](docs/google/cloud/2026-10-20/Managed%20RAG%20search%20inside%20the%20sovereign%20perimeter_%20Gemini%20on%20GDC%20enterprise%20search.md)
+- [Ask a Scientist: How can AI help doctors spend more time on collaborative care?](docs/google/blog/2026-10-20/Ask%20a%20Scientist_%20How%20can%20AI%20help%20doctors%20spend%20more%20time%20on%20collaborative%20care.md)
+- [New Gemini tools for small business owners](docs/google/blog/2026-10-20/New%20Gemini%20tools%20for%20small%20business%20owners.md)
+- [Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity](docs/google/cloud/2026-10-20/Claude%20Opus%205_5%20and%20Claude%20Sonnet%205_5%20are%20now%20available%20in%20Google%20Antigravity.md)
+- [Expanding our defenses against financial scam ads](docs/google/blog/2026-10-20/Expanding%20our%20defenses%20against%20financial%20scam%20ads.md)
+- [TorchTPU is now open source: Run native PyTorch on TPUs](docs/google/cloud/2026-10-20/TorchTPU%20is%20now%20open%20source_%20Run%20native%20PyTorch%20on%20TPUs.md)
+- [Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs](docs/google/cloud/2026-10-20/Announcing%20llm-d%201_0_%20Open%20distributed%20inference%20for%20agents%20on%20Google%20Cloud%20TPUs%20and%20GPUs.md)
+- [Introducing Gemini for government services](docs/google/cloud/2026-10-20/Introducing%20Gemini%20for%20government%20services.md)
+- [Announcements and highlights from Google Public Sector Summit 2026](docs/google/cloud/2026-10-20/Announcements%20and%20highlights%20from%20Google%20Public%20Sector%20Summit%202026.md)
+- [Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations](docs/google/cloud/2026-10-20/Enabling%20the%20next%20era%20of%20sovereign%20AI_%20The%20latest%20Google%20Distributed%20Cloud%20innovations.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
