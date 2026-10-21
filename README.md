@@ -28,8 +28,12 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [TorchNeuron: running HF models on AWS Trainium is easier than ever](docs/huggingface/blog/2026-10-19/TorchNeuron_%20running%20HF%20models%20on%20AWS%20Trainium%20is%20easier%20than%20ever.md)
-- [Apertus 1.5 Release Notes](docs/huggingface/blog/2026-10-15/Apertus%201_5%20Release%20Notes.md)
+- [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](docs/huggingface/blog/2026-10-20/NVIDIA%20Cosmos3-H-Dreams_%20Bringing%20Clinical%20Surgery%20to%20Life%20Through%20Generative%20Simulation.md)
+- [FairStress: A deeper evaluation of fairness in LLM decision-making](docs/huggingface/blog/2026-10-20/FairStress_%20A%20deeper%20evaluation%20of%20fairness%20in%20LLM%20decision-making.md)
+- [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](docs/huggingface/blog/2026-10-20/ALTK-Evolve_%20How%20learned%20memory%20tops%20the%20%CF%84%C2%B2-bench%20leaderboard%20on%20customer%20service%20tasks%20without%20a%20frontier%20model.md)
+- [Hugging Face ❤️ TorchTPU: TPUs, Natively](docs/huggingface/blog/2026-10-20/Hugging%20Face%20_%20TorchTPU_%20TPUs_%20Natively.md)
+- [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](docs/huggingface/blog/2026-10-20/AnyLanguageModel%201_0_%20One%20Year%20of%20Local%20Models%20on%20Apple%20Platforms.md)
+- [MPS in PyTorch 2.15](docs/huggingface/blog/2026-10-20/MPS%20in%20PyTorch%202_15.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
