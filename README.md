@@ -23,7 +23,29 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](docs/nvidia/blogs/2026-10-20/Spain-Based%20Startups%20Advance%20Regional%20Innovation%20With%20Barcelona%20Supercomputing%20Center.md)
+- [Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search](docs/nvidia/developer/2026-10-21/Design%20Proteins%20with%20RFD4-Proteina%20Using%20Reward-Guided%20Inference-Time%20Search.md)
+- [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](docs/nvidia/blogs/2026-10-21/Bringing%20the%20Spark%20to%20Europe_%20Local%20Intelligence%20Powers%20Next%20Wave%20of%20Agents.md)
+- [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](docs/nvidia/blogs/2026-10-21/Google%20Cloud%20and%20NVIDIA%20Announce%20General%20Availability%20of%20NVIDIA%20Vera%20Rubin%20Infrastructure.md)
+- [NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout](docs/nvidia/newsroom/2026-10-21/NVIDIA%20and%20Supply%20Chain%20Partners%20Expand%20Capacity%20to%20Accelerate%20AI%20Infrastructure%20Buildout.md)
+- [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](docs/nvidia/blogs/2026-10-21/NVIDIA%20Cloud%20Partners%20Scale%20Across%20Europe%20_%20Sovereign_%20Open%20and%20Built%20for%20Safe%20AI%20Agents.md)
+- [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](docs/nvidia/blogs/2026-10-21/Europe_s%20Industrial%20Leaders%20Reinvent%20Engineering%20and%20Manufacturing%20With%20NVIDIA.md)
+- [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](docs/nvidia/blogs/2026-10-21/NVIDIA%20cuDSS%20Now%20Generally%20Available%20to%20Accelerate%20Engineering%20and%20Scientific%20Simulations.md)
+- [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](docs/nvidia/blogs/2026-10-21/NVIDIA%20Confidential%20Computing%20Expands_%20Enabling%20Frontier%20Model%20Builders%20to%20Securely%20Scale%20Across%20Global%20Infrastructure.md)
+- [NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data](docs/nvidia/newsroom/2026-10-21/NVIDIA%20Advances%20Isaac%20Platform%20for%20General-Purpose%20Robotics%20With%20New%20Reference%20Humanoid_%20Frameworks_%20Simulation%20Pipelines%20and%20Data.md)
+- [European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion](docs/nvidia/newsroom/2026-10-21/European%20Mobility%20Leaders%20Build%20Safe%20Vehicles%20and%20Robotaxi%20Fleets%20on%20NVIDIA%20Hyperion.md)
+- [Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care](docs/nvidia/newsroom/2026-10-21/Healthcare%20and%20Life%20Sciences%20Leaders%20Build%20on%20NVIDIA%20to%20Advance%20Drug%20Discovery%20and%20Expand%20Patient%20Care.md)
+- [NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms](docs/nvidia/newsroom/2026-10-21/NVIDIA_%20Nokia%20and%20Leading%20Telecom%20Operators%20Turn%20Networks%20Into%20Distributed%20Intelligence%20Platforms.md)
+- [NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data](docs/nvidia/blogs/2026-10-21/NVIDIA%20Agent%20Toolkit%20Expands_%20Grounding%20Enterprise%20Agents%20in%20Company%20Data.md)
+- [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](docs/nvidia/blogs/2026-10-21/NVIDIA%20Open%20Models%20Advance%20Europe_s%20Sovereign%20Intelligence%20Across%20Industries.md)
+- [Inside NVIDIA Sentry: Secure AI Agents at Runtime](docs/nvidia/developer/2026-10-21/Inside%20NVIDIA%20Sentry_%20Secure%20AI%20Agents%20at%20Runtime.md)
+- [How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale](docs/nvidia/developer/2026-10-21/How%20NVIDIA%20OpenShell%20Reference%20Architecture%20Secures%20and%20Governs%20AI%20Agent%20Workloads%20at%20Scale.md)
+- [NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents](docs/nvidia/newsroom/2026-10-21/NVIDIA%20Launches%20OpenShell%20Reference%20Architecture%20for%20Safe%20AI%20Agents.md)
+- [Developing an AI Factory Digital Twin with an Agent-Assisted Workflow](docs/nvidia/developer/2026-10-21/Developing%20an%20AI%20Factory%20Digital%20Twin%20with%20an%20Agent-Assisted%20Workflow.md)
+- [Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD](docs/nvidia/developer/2026-10-21/Achieve%20Productive%20AI%20Capacity%20Faster%20and%20More%20Predictably%20with%20NVIDIA%20DSX%20POD.md)
+- [European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX](docs/nvidia/newsroom/2026-10-21/European%20Ecosystem%20Builds%20World_s%20Most%20Efficient%20AI%20Factories%20With%20NVIDIA%20DSX.md)
+- [NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment](docs/nvidia/newsroom/2026-10-21/NVIDIA%20Introduces%20DSX%20POD%20AI%20Factories%20to%20Accelerate%20Europe_s%20Infrastructure%20Deployment.md)
+- [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote](docs/nvidia/blogs/2026-10-21/GTC%20Berlin%202026_%20Live%20Updates%20From%20NVIDIA%20CEO%20Jensen%20Huang_s%20Keynote.md)
+- [European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure](docs/nvidia/blogs/2026-10-20/European%20Leaders%20Turn%20to%20NVIDIA%20Vera%20CPUs%20to%20Build%20Local%20Infrastructure.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
