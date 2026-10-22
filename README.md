@@ -51,12 +51,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](docs/huggingface/blog/2026-10-20/NVIDIA%20Cosmos3-H-Dreams_%20Bringing%20Clinical%20Surgery%20to%20Life%20Through%20Generative%20Simulation.md)
-- [FairStress: A deeper evaluation of fairness in LLM decision-making](docs/huggingface/blog/2026-10-20/FairStress_%20A%20deeper%20evaluation%20of%20fairness%20in%20LLM%20decision-making.md)
-- [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](docs/huggingface/blog/2026-10-20/ALTK-Evolve_%20How%20learned%20memory%20tops%20the%20%CF%84%C2%B2-bench%20leaderboard%20on%20customer%20service%20tasks%20without%20a%20frontier%20model.md)
-- [Hugging Face ❤️ TorchTPU: TPUs, Natively](docs/huggingface/blog/2026-10-20/Hugging%20Face%20_%20TorchTPU_%20TPUs_%20Natively.md)
-- [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](docs/huggingface/blog/2026-10-20/AnyLanguageModel%201_0_%20One%20Year%20of%20Local%20Models%20on%20Apple%20Platforms.md)
-- [MPS in PyTorch 2.15](docs/huggingface/blog/2026-10-20/MPS%20in%20PyTorch%202_15.md)
+- [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](docs/huggingface/blog/2026-10-21/NVIDIA%20Kumo%20Relational%20Outperforms%20Supervised%20Machine%20Learning%20on%20Relational%20Data_%20No%20Training%20Required.md)
+- [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](docs/huggingface/blog/2026-10-21/How%20Specializing%20the%20Vocabulary%20of%20SLMs%20Can%20Cut%20Inference%20Cost%20by%2077_%20in%20Real%20Applications.md)
+- [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](docs/huggingface/blog/2026-10-21/Profiling%20TorchNeuron%20_Part%201_%20System-level%20profiling%20on%20AWS%20Trainium.md)
+- [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](docs/huggingface/blog/2026-10-21/Granite%20Speech%205_0_%20Transcribe_%20Translate_%20and%20Attribute%20more%20Accurately%20and%20Faster.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
