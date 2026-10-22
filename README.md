@@ -61,7 +61,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Introducing vLLM TorchTPU](docs/vllm/blog/2026-10-20/Introducing%20vLLM%20TorchTPU.md)
+- [Day-0 Support for Flint on vLLM](docs/vllm/blog/2026-10-21/Day-0%20Support%20for%20Flint%20on%20vLLM.md)
+- [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](docs/vllm/blog/2026-10-21/Announcing%20Humming_%20Fast_%20Flexible%20Kernels%20for%20Quantized%20Inference.md)
 <!-- END:vllm -->
 
 ---
