@@ -8,17 +8,18 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Get hands-free personalized help on the road with Gemini](docs/google/blog/2026-10-20/Get%20hands-free%20personalized%20help%20on%20the%20road%20with%20Gemini.md)
-- [Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search](docs/google/cloud/2026-10-20/Managed%20RAG%20search%20inside%20the%20sovereign%20perimeter_%20Gemini%20on%20GDC%20enterprise%20search.md)
-- [Ask a Scientist: How can AI help doctors spend more time on collaborative care?](docs/google/blog/2026-10-20/Ask%20a%20Scientist_%20How%20can%20AI%20help%20doctors%20spend%20more%20time%20on%20collaborative%20care.md)
-- [New Gemini tools for small business owners](docs/google/blog/2026-10-20/New%20Gemini%20tools%20for%20small%20business%20owners.md)
-- [Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity](docs/google/cloud/2026-10-20/Claude%20Opus%205_5%20and%20Claude%20Sonnet%205_5%20are%20now%20available%20in%20Google%20Antigravity.md)
-- [Expanding our defenses against financial scam ads](docs/google/blog/2026-10-20/Expanding%20our%20defenses%20against%20financial%20scam%20ads.md)
-- [TorchTPU is now open source: Run native PyTorch on TPUs](docs/google/cloud/2026-10-20/TorchTPU%20is%20now%20open%20source_%20Run%20native%20PyTorch%20on%20TPUs.md)
-- [Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs](docs/google/cloud/2026-10-20/Announcing%20llm-d%201_0_%20Open%20distributed%20inference%20for%20agents%20on%20Google%20Cloud%20TPUs%20and%20GPUs.md)
-- [Introducing Gemini for government services](docs/google/cloud/2026-10-20/Introducing%20Gemini%20for%20government%20services.md)
-- [Announcements and highlights from Google Public Sector Summit 2026](docs/google/cloud/2026-10-20/Announcements%20and%20highlights%20from%20Google%20Public%20Sector%20Summit%202026.md)
-- [Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations](docs/google/cloud/2026-10-20/Enabling%20the%20next%20era%20of%20sovereign%20AI_%20The%20latest%20Google%20Distributed%20Cloud%20innovations.md)
+- [Empowering frontline maternal care with AI-assisted ultrasound](docs/google/research/2026-10-21/Empowering%20frontline%20maternal%20care%20with%20AI-assisted%20ultrasound.md)
+- [BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL](docs/google/cloud/2026-10-21/BigQuery%20ObjectRef%20now%20GA_%20Build%20multimodal%20data%20platforms%20for%20conversational%20analytics%20entirely%20in%20SQL.md)
+- [ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d](docs/google/cloud/2026-10-21/ZenteiQ%20scales%20batch%20inference%204x%20with%20GKE%20Inference%20Gateway%20powered%20by%20llm-d.md)
+- [Recreating the lost studios of women sculptors with Prune Nourry](docs/google/blog/2026-10-21/Recreating%20the%20lost%20studios%20of%20women%20sculptors%20with%20Prune%20Nourry.md)
+- [Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619](docs/google/cloud/2026-10-21/Responding%20to%20core%20PHP%20vulnerabilities%20CVE-2026-109618%20and%20CVE-2026-109619.md)
+- [New bidding and budgeting tools can transform your upcoming holiday ad strategy.](docs/google/blog/2026-10-21/New%20bidding%20and%20budgeting%20tools%20can%20transform%20your%20upcoming%20holiday%20ad%20strategy.md)
+- [Google Public Sector increases partner investments for frontline adoption](docs/google/cloud/2026-10-21/Google%20Public%20Sector%20increases%20partner%20investments%20for%20frontline%20adoption.md)
+- [Google Cloud expands model choice and flexibility, bringing OpenAI models to customers](docs/google/cloud/2026-10-21/Google%20Cloud%20expands%20model%20choice%20and%20flexibility_%20bringing%20OpenAI%20models%20to%20customers.md)
+- [Drive with “The Cat in the Hat” on Waze.](docs/google/blog/2026-10-21/Drive%20with%20_The%20Cat%20in%20the%20Hat_%20on%20Waze.md)
+- [Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA](docs/google/cloud/2026-10-21/Hardware-backed%20security%20at%20global%20scale_%20Confidential%20G4%20with%20NVIDIA%20Blackwell%20is%20GA.md)
+- [Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era](docs/google/cloud/2026-10-21/Google%20Cloud%20and%20NVIDIA%20expand%20co-engineering%20collaboration%20to%20scale%20infrastructure%20for%20the%20agentic%20era.md)
+- [Southeast Asia’s digital economy to hit $368 billion](docs/google/blog/2026-10-21/Southeast%20Asia_s%20digital%20economy%20to%20hit%20_368%20billion.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
