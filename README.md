@@ -56,8 +56,9 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Day-0 Support for Flint on vLLM](docs/vllm/blog/2026-10-21/Day-0%20Support%20for%20Flint%20on%20vLLM.md)
-- [Announcing Humming: Fast, Flexible Kernels for Quantized Inference](docs/vllm/blog/2026-10-21/Announcing%20Humming_%20Fast_%20Flexible%20Kernels%20for%20Quantized%20Inference.md)
+- [Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72](docs/vllm/blog/2026-10-23/Serving%20DeepSeek-V4_1-Flash%20at%20Scale_%20vLLM%20Matches%20DeepInfer%20and%20Scales%20to%20GB300%20NVL72.md)
+- [GLM-5.3 Optimizations, Part 2: PCP, DCP, and Hybrid HiSparse on 16 H200s](docs/vllm/blog/2026-10-23/GLM-5_3%20Optimizations_%20Part%202_%20PCP_%20DCP_%20and%20Hybrid%20HiSparse%20on%2016%20H200s.md)
+- [vLLM Delivers Day-0 Support for MiniMax-M3.1-Flash](docs/vllm/blog/2026-10-23/vLLM%20Delivers%20Day-0%20Support%20for%20MiniMax-M3_1-Flash.md)
 <!-- END:vllm -->
 
 ---
