@@ -48,10 +48,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](docs/huggingface/blog/2026-10-21/NVIDIA%20Kumo%20Relational%20Outperforms%20Supervised%20Machine%20Learning%20on%20Relational%20Data_%20No%20Training%20Required.md)
-- [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](docs/huggingface/blog/2026-10-21/How%20Specializing%20the%20Vocabulary%20of%20SLMs%20Can%20Cut%20Inference%20Cost%20by%2077_%20in%20Real%20Applications.md)
-- [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](docs/huggingface/blog/2026-10-21/Profiling%20TorchNeuron%20_Part%201_%20System-level%20profiling%20on%20AWS%20Trainium.md)
-- [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](docs/huggingface/blog/2026-10-21/Granite%20Speech%205_0_%20Transcribe_%20Translate_%20and%20Attribute%20more%20Accurately%20and%20Faster.md)
+- [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](docs/huggingface/blog/2026-10-23/LitPivot_%20Developing%20research%20ideas%20through%20dynamic%20contextualization%20within%20the%20literature%20landscape.md)
+- [Does Your Model Run on AWS Trainium? Look It Up](docs/huggingface/blog/2026-10-23/Does%20Your%20Model%20Run%20on%20AWS%20Trainium_%20Look%20It%20Up.md)
+- [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](docs/huggingface/blog/2026-10-22/Turning%20Database%20Grading%20into%20RL%20Rewards_%20Post-Training%20Agents%20with%20ThinkingBox.md)
+- [Ensemble forecasting with IBM Granite time-series models](docs/huggingface/blog/2026-10-22/Ensemble%20forecasting%20with%20IBM%20Granite%20time-series%20models.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
