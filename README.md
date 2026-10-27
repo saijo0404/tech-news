@@ -8,18 +8,22 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Empowering frontline maternal care with AI-assisted ultrasound](docs/google/research/2026-10-21/Empowering%20frontline%20maternal%20care%20with%20AI-assisted%20ultrasound.md)
-- [BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL](docs/google/cloud/2026-10-21/BigQuery%20ObjectRef%20now%20GA_%20Build%20multimodal%20data%20platforms%20for%20conversational%20analytics%20entirely%20in%20SQL.md)
-- [ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d](docs/google/cloud/2026-10-21/ZenteiQ%20scales%20batch%20inference%204x%20with%20GKE%20Inference%20Gateway%20powered%20by%20llm-d.md)
-- [Recreating the lost studios of women sculptors with Prune Nourry](docs/google/blog/2026-10-21/Recreating%20the%20lost%20studios%20of%20women%20sculptors%20with%20Prune%20Nourry.md)
-- [Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619](docs/google/cloud/2026-10-21/Responding%20to%20core%20PHP%20vulnerabilities%20CVE-2026-109618%20and%20CVE-2026-109619.md)
-- [New bidding and budgeting tools can transform your upcoming holiday ad strategy.](docs/google/blog/2026-10-21/New%20bidding%20and%20budgeting%20tools%20can%20transform%20your%20upcoming%20holiday%20ad%20strategy.md)
-- [Google Public Sector increases partner investments for frontline adoption](docs/google/cloud/2026-10-21/Google%20Public%20Sector%20increases%20partner%20investments%20for%20frontline%20adoption.md)
-- [Google Cloud expands model choice and flexibility, bringing OpenAI models to customers](docs/google/cloud/2026-10-21/Google%20Cloud%20expands%20model%20choice%20and%20flexibility_%20bringing%20OpenAI%20models%20to%20customers.md)
-- [Drive with “The Cat in the Hat” on Waze.](docs/google/blog/2026-10-21/Drive%20with%20_The%20Cat%20in%20the%20Hat_%20on%20Waze.md)
-- [Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA](docs/google/cloud/2026-10-21/Hardware-backed%20security%20at%20global%20scale_%20Confidential%20G4%20with%20NVIDIA%20Blackwell%20is%20GA.md)
-- [Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era](docs/google/cloud/2026-10-21/Google%20Cloud%20and%20NVIDIA%20expand%20co-engineering%20collaboration%20to%20scale%20infrastructure%20for%20the%20agentic%20era.md)
-- [Southeast Asia’s digital economy to hit $368 billion](docs/google/blog/2026-10-21/Southeast%20Asia_s%20digital%20economy%20to%20hit%20_368%20billion.md)
+- [Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger](docs/google/cloud/2026-10-26/Easy%20to%20integrate_%20compliant%20by%20design_%20Bringing%20the%20Swiss%20Franc%20to%20Google%20Cloud%20Universal%20Ledger.md)
+- [Our newest AI Quest: Mapping the human brain](docs/google/blog/2026-10-26/Our%20newest%20AI%20Quest_%20Mapping%20the%20human%20brain.md)
+- [15 college students share their favorite Gemini features](docs/google/blog/2026-10-26/15%20college%20students%20share%20their%20favorite%20Gemini%20features.md)
+- [Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA](docs/google/cloud/2026-10-26/Unifying%20enterprise%20context%20and%20semantics_%20LookML%20in%20Knowledge%20Catalog%20is%20now%20GA.md)
+- [Scale agents securely with IAM Helper Agent Skills and MCP Tools](docs/google/cloud/2026-10-26/Scale%20agents%20securely%20with%20IAM%20Helper%20Agent%20Skills%20and%20MCP%20Tools.md)
+- [Powering sub-Saharan Africa beyond the grid](docs/google/blog/2026-10-26/Powering%20sub-Saharan%20Africa%20beyond%20the%20grid.md)
+- [We’re helping farmers around the world connect to essential services online.](docs/google/blog/2026-10-26/We_re%20helping%20farmers%20around%20the%20world%20connect%20to%20essential%20services%20online.md)
+- [How Google Beam connects military families globally](docs/google/blog/2026-10-26/How%20Google%20Beam%20connects%20military%20families%20globally.md)
+- [Bringing foundational models to the front lines of TB screening](docs/google/research/2026-10-23/Bringing%20foundational%20models%20to%20the%20front%20lines%20of%20TB%20screening.md)
+- [See what 5 builders are making with Gemini 4 Argon](docs/google/blog/2026-10-23/See%20what%205%20builders%20are%20making%20with%20Gemini%204%20Argon.md)
+- [Expanding Claude availability and deployment choice on Google Cloud](docs/google/cloud/2026-10-22/Expanding%20Claude%20availability%20and%20deployment%20choice%20on%20Google%20Cloud.md)
+- [Introducing new self-learning context enrichment in Knowledge Catalog](docs/google/cloud/2026-10-22/Introducing%20new%20self-learning%20context%20enrichment%20in%20Knowledge%20Catalog.md)
+- [Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.](docs/google/blog/2026-10-22/Explore%20new%20ways%20to%20drive%20your%20best%20ROI%20with%20the%20first%20Google%20Marketing%20Platform%20Drop.md)
+- [Inside Agent Compute Engine: Building the compute foundation for the agentic era](docs/google/cloud/2026-10-22/Inside%20Agent%20Compute%20Engine_%20Building%20the%20compute%20foundation%20for%20the%20agentic%20era.md)
+- [We are working with Voltus to build a 1-gigawatt virtual power plant.](docs/google/blog/2026-10-22/We%20are%20working%20with%20Voltus%20to%20build%20a%201-gigawatt%20virtual%20power%20plant.md)
+- [Introducing Agent Compute Engine and expanded agent governance](docs/google/cloud/2026-10-22/Introducing%20Agent%20Compute%20Engine%20and%20expanded%20agent%20governance.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
