@@ -8,22 +8,18 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Easy to integrate, compliant by design: Bringing the Swiss Franc to Google Cloud Universal Ledger](docs/google/cloud/2026-10-26/Easy%20to%20integrate_%20compliant%20by%20design_%20Bringing%20the%20Swiss%20Franc%20to%20Google%20Cloud%20Universal%20Ledger.md)
-- [Our newest AI Quest: Mapping the human brain](docs/google/blog/2026-10-26/Our%20newest%20AI%20Quest_%20Mapping%20the%20human%20brain.md)
-- [15 college students share their favorite Gemini features](docs/google/blog/2026-10-26/15%20college%20students%20share%20their%20favorite%20Gemini%20features.md)
-- [Unifying enterprise context and semantics: LookML in Knowledge Catalog is now GA](docs/google/cloud/2026-10-26/Unifying%20enterprise%20context%20and%20semantics_%20LookML%20in%20Knowledge%20Catalog%20is%20now%20GA.md)
-- [Scale agents securely with IAM Helper Agent Skills and MCP Tools](docs/google/cloud/2026-10-26/Scale%20agents%20securely%20with%20IAM%20Helper%20Agent%20Skills%20and%20MCP%20Tools.md)
-- [Powering sub-Saharan Africa beyond the grid](docs/google/blog/2026-10-26/Powering%20sub-Saharan%20Africa%20beyond%20the%20grid.md)
-- [We’re helping farmers around the world connect to essential services online.](docs/google/blog/2026-10-26/We_re%20helping%20farmers%20around%20the%20world%20connect%20to%20essential%20services%20online.md)
-- [How Google Beam connects military families globally](docs/google/blog/2026-10-26/How%20Google%20Beam%20connects%20military%20families%20globally.md)
-- [Bringing foundational models to the front lines of TB screening](docs/google/research/2026-10-23/Bringing%20foundational%20models%20to%20the%20front%20lines%20of%20TB%20screening.md)
-- [See what 5 builders are making with Gemini 4 Argon](docs/google/blog/2026-10-23/See%20what%205%20builders%20are%20making%20with%20Gemini%204%20Argon.md)
-- [Expanding Claude availability and deployment choice on Google Cloud](docs/google/cloud/2026-10-22/Expanding%20Claude%20availability%20and%20deployment%20choice%20on%20Google%20Cloud.md)
-- [Introducing new self-learning context enrichment in Knowledge Catalog](docs/google/cloud/2026-10-22/Introducing%20new%20self-learning%20context%20enrichment%20in%20Knowledge%20Catalog.md)
-- [Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.](docs/google/blog/2026-10-22/Explore%20new%20ways%20to%20drive%20your%20best%20ROI%20with%20the%20first%20Google%20Marketing%20Platform%20Drop.md)
-- [Inside Agent Compute Engine: Building the compute foundation for the agentic era](docs/google/cloud/2026-10-22/Inside%20Agent%20Compute%20Engine_%20Building%20the%20compute%20foundation%20for%20the%20agentic%20era.md)
-- [We are working with Voltus to build a 1-gigawatt virtual power plant.](docs/google/blog/2026-10-22/We%20are%20working%20with%20Voltus%20to%20build%20a%201-gigawatt%20virtual%20power%20plant.md)
-- [Introducing Agent Compute Engine and expanded agent governance](docs/google/cloud/2026-10-22/Introducing%20Agent%20Compute%20Engine%20and%20expanded%20agent%20governance.md)
+- [Introducing VMware solution on Google Cloud](docs/google/cloud/2026-10-27/Introducing%20VMware%20solution%20on%20Google%20Cloud.md)
+- [Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud](docs/google/cloud/2026-10-27/Powering%20the%20agentic%20enterprise%20with%20latest%20innovations%20in%20Oracle%20AI%20Database_Google%20Cloud.md)
+- [The sleep framework: A new way for LLMs to retain knowledge in continual learning](docs/google/research/2026-10-27/The%20sleep%20framework_%20A%20new%20way%20for%20LLMs%20to%20retain%20knowledge%20in%20continual%20learning.md)
+- [Genie 4: A new generation of world simulation](docs/google/deepmind/2026-10-27/Genie%204_%20A%20new%20generation%20of%20world%20simulation.md)
+- [We’re announcing Genie 4, our new world model for real-time interactive simulation.](docs/google/blog/2026-10-27/We_re%20announcing%20Genie%204_%20our%20new%20world%20model%20for%20real-time%20interactive%20simulation.md)
+- [Securely connecting Gemini Enterprise to Snowflake data](docs/google/cloud/2026-10-27/Securely%20connecting%20Gemini%20Enterprise%20to%20Snowflake%20data.md)
+- [8 examples of Gemini 4 Argon in action](docs/google/blog/2026-10-27/8%20examples%20of%20Gemini%204%20Argon%20in%20action.md)
+- [Bringing Google TPUs to Oracle Cloud Infrastructure](docs/google/cloud/2026-10-27/Bringing%20Google%20TPUs%20to%20Oracle%20Cloud%20Infrastructure.md)
+- [Fitbit Edge: Premium design for an active life](docs/google/blog/2026-10-27/Fitbit%20Edge_%20Premium%20design%20for%20an%20active%20life.md)
+- [Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud](docs/google/cloud/2026-10-27/Gemini%20Robotics%20Embodied%20Reasoning%202%20is%20now%20available%20on%20Google%20Cloud.md)
+- [Google Cloud and NASA: Testing robotic systems for deep space missions](docs/google/cloud/2026-10-27/Google%20Cloud%20and%20NASA_%20Testing%20robotic%20systems%20for%20deep%20space%20missions.md)
+- [Beyond tree cover: mapping the world’s forest types](docs/google/deepmind/2026-10-22/Beyond%20tree%20cover_%20mapping%20the%20world_s%20forest%20types.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
