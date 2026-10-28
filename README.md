@@ -35,10 +35,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](docs/huggingface/blog/2026-10-23/LitPivot_%20Developing%20research%20ideas%20through%20dynamic%20contextualization%20within%20the%20literature%20landscape.md)
-- [Does Your Model Run on AWS Trainium? Look It Up](docs/huggingface/blog/2026-10-23/Does%20Your%20Model%20Run%20on%20AWS%20Trainium_%20Look%20It%20Up.md)
-- [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](docs/huggingface/blog/2026-10-22/Turning%20Database%20Grading%20into%20RL%20Rewards_%20Post-Training%20Agents%20with%20ThinkingBox.md)
-- [Ensemble forecasting with IBM Granite time-series models](docs/huggingface/blog/2026-10-22/Ensemble%20forecasting%20with%20IBM%20Granite%20time-series%20models.md)
+- [Build specialized multimodal models with LFM3](docs/huggingface/blog/2026-10-27/Build%20specialized%20multimodal%20models%20with%20LFM3.md)
+- [Can we trust LLMs to judge whether a research idea is novel?](docs/huggingface/blog/2026-10-27/Can%20we%20trust%20LLMs%20to%20judge%20whether%20a%20research%20idea%20is%20novel.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
