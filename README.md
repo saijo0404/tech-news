@@ -28,22 +28,13 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield](docs/nvidia/developer/2026-10-26/How%20NVIDIA%20Minerva%20Turns%20Telemetry%20Chaos%20Into%20Peak%20GPU%20Yield.md)
-- [How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes](docs/nvidia/developer/2026-10-26/How%20NVIDIA%20Mission%20Control%202_5%20Brings%20Autonomous%20Recovery%20to%20Kubernetes.md)
-- [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2](docs/nvidia/developer/2026-10-23/Scaling%20NVIDIA%20TensorRT%20Performance%20Optimization%20Beyond%20a%20Single%20Build%20Route%20with%20the%20Global%20Performance%20Tuner_%20Part%202.md)
-- [Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1](docs/nvidia/developer/2026-10-23/Scaling%20NVIDIA%20TensorRT%20Performance%20Optimization%20Beyond%20a%20Single%20Build%20Route%20with%20the%20Global%20Performance%20Tuner_%20Part%201.md)
-- [Using AI Agents to Teach Robots Like Microduck to Walk in Simulation](docs/nvidia/developer/2026-10-23/Using%20AI%20Agents%20to%20Teach%20Robots%20Like%20Microduck%20to%20Walk%20in%20Simulation.md)
-- [Kazakhstan Expands Compute for Its AI Future](docs/nvidia/blogs/2026-10-23/Kazakhstan%20Expands%20Compute%20for%20Its%20AI%20Future.md)
-- [How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage](docs/nvidia/developer/2026-10-22/How%20to%20Read%20Data%20into%20GPU%20Memory%20in%20Python%20with%20NVIDIA%20GPUDirect%20Storage.md)
-- [Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes](docs/nvidia/developer/2026-10-22/Running%20Frontier-Class%20AI%20Models%20Across%208%20NVIDIA%20DGX%20Spark%20Nodes.md)
-- [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](docs/nvidia/blogs/2026-10-22/NVIDIA%20Unveils%20Minerva%20to%20Bring%20End-to-End%20Observability%20for%20AI%20Factories.md)
-- [Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW](docs/nvidia/blogs/2026-10-22/Cloud%20Deployment%20Incoming_%20_Call%20of%20Duty_%20Modern%20Warfare%204_%20Arrives%20on%20GeForce%20NOW.md)
-- [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](docs/nvidia/blogs/2026-10-22/Leading%20European%20Financial%20Services%20Organizations%20Embrace%20Open%20Models%20to%20Build%20Proprietary%20Intelligence.md)
-- [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](docs/nvidia/blogs/2026-10-22/NVIDIA%20Cosmos%20Opens%20New%20Tools%20to%20Train_%20Evaluate%20and%20Deploy%20World%20Models.md)
-- [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](docs/nvidia/blogs/2026-10-22/How%20Companies%20Are%20Using%20NVIDIA%20DSX%20to%20Break%20the%20Power%20Bottleneck.md)
-- [NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations](docs/nvidia/blogs/2026-10-22/NVIDIA%20Transforms%20European%20Retail_%20From%20Digital%20Discovery%20to%20Physical%20Operations.md)
-- [Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction](docs/nvidia/blogs/2026-10-22/Pioneers%20Across%20Europe%20Deploy%20NVIDIA%20Earth-2%20Open%20Models%20to%20Power%20Real-World%20Weather%20and%20Climate%20Prediction.md)
-- [NVIDIA Open Models Power a New Wave of European Public Sector Projects](docs/nvidia/blogs/2026-10-22/NVIDIA%20Open%20Models%20Power%20a%20New%20Wave%20of%20European%20Public%20Sector%20Projects.md)
+- [Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4](docs/nvidia/developer/2026-10-27/Memory-Enforced%20GPU%20Sharing%20in%20Kubernetes%20with%20NVIDIA%20CUDA%2013_4.md)
+- [NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games](docs/nvidia/developer/2026-10-27/NVIDIA%20RTX%20Spark%20Powers%20Neural%20Rendering%20and%20AI%20Characters%20in%20Games.md)
+- [Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages](docs/nvidia/developer/2026-10-27/Fine-Tuning%20NVIDIA%20Nemotron%20to%20Know%20Local%20Rules_%20Not%20Just%20Local%20Languages.md)
+- [NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure](docs/nvidia/newsroom/2026-10-27/NVIDIA%20and%20Oracle%20Expand%20NVIDIA%20Vera%20Rubin%20to%20Multi-Gigawatt%20Scale%20and%20Bring%20NVIDIA%20Vera%20CPU%20to%20Oracle%20Cloud%20Infrastructure.md)
+- [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](docs/nvidia/blogs/2026-10-27/How%20AI%20Is%20Changing%20the%20Pace%20of%20Discovery%20for%20Millions%20Living%20With%20Dementia.md)
+- [3 Ways to Boost MoE Inference on NVIDIA DGX Spark](docs/nvidia/developer/2026-10-27/3%20Ways%20to%20Boost%20MoE%20Inference%20on%20NVIDIA%20DGX%20Spark.md)
+- [NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth](docs/nvidia/newsroom/2026-10-27/NVIDIA%20and%20Meta%20to%20Expand%20Collaboration%20on%20Muse%20and%20Muse%20Family%20of%20Models%20Amid%20Robust%20Growth.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
