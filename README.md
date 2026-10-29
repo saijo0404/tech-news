@@ -8,18 +8,22 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Introducing VMware solution on Google Cloud](docs/google/cloud/2026-10-27/Introducing%20VMware%20solution%20on%20Google%20Cloud.md)
-- [Powering the agentic enterprise with latest innovations in Oracle AI Database@Google Cloud](docs/google/cloud/2026-10-27/Powering%20the%20agentic%20enterprise%20with%20latest%20innovations%20in%20Oracle%20AI%20Database_Google%20Cloud.md)
-- [The sleep framework: A new way for LLMs to retain knowledge in continual learning](docs/google/research/2026-10-27/The%20sleep%20framework_%20A%20new%20way%20for%20LLMs%20to%20retain%20knowledge%20in%20continual%20learning.md)
-- [Genie 4: A new generation of world simulation](docs/google/deepmind/2026-10-27/Genie%204_%20A%20new%20generation%20of%20world%20simulation.md)
-- [We’re announcing Genie 4, our new world model for real-time interactive simulation.](docs/google/blog/2026-10-27/We_re%20announcing%20Genie%204_%20our%20new%20world%20model%20for%20real-time%20interactive%20simulation.md)
-- [Securely connecting Gemini Enterprise to Snowflake data](docs/google/cloud/2026-10-27/Securely%20connecting%20Gemini%20Enterprise%20to%20Snowflake%20data.md)
-- [8 examples of Gemini 4 Argon in action](docs/google/blog/2026-10-27/8%20examples%20of%20Gemini%204%20Argon%20in%20action.md)
-- [Bringing Google TPUs to Oracle Cloud Infrastructure](docs/google/cloud/2026-10-27/Bringing%20Google%20TPUs%20to%20Oracle%20Cloud%20Infrastructure.md)
-- [Fitbit Edge: Premium design for an active life](docs/google/blog/2026-10-27/Fitbit%20Edge_%20Premium%20design%20for%20an%20active%20life.md)
-- [Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud](docs/google/cloud/2026-10-27/Gemini%20Robotics%20Embodied%20Reasoning%202%20is%20now%20available%20on%20Google%20Cloud.md)
-- [Google Cloud and NASA: Testing robotic systems for deep space missions](docs/google/cloud/2026-10-27/Google%20Cloud%20and%20NASA_%20Testing%20robotic%20systems%20for%20deep%20space%20missions.md)
-- [Beyond tree cover: mapping the world’s forest types](docs/google/deepmind/2026-10-22/Beyond%20tree%20cover_%20mapping%20the%20world_s%20forest%20types.md)
+- [Ads in AI Mode expand to new markets.](docs/google/blog/2026-10-28/Ads%20in%20AI%20Mode%20expand%20to%20new%20markets.md)
+- [Q3 2026 earnings call: Remarks from our CEO](docs/google/blog/2026-10-28/Q3%202026%20earnings%20call_%20Remarks%20from%20our%20CEO.md)
+- [Adapt your ad strategy to meet the way people search today.](docs/google/blog/2026-10-28/Adapt%20your%20ad%20strategy%20to%20meet%20the%20way%20people%20search%20today.md)
+- [Dive into new topics with immersive explorations in the Gemini app.](docs/google/blog/2026-10-28/Dive%20into%20new%20topics%20with%20immersive%20explorations%20in%20the%20Gemini%20app.md)
+- [Gemini 4 Carbon: Our next frontier model](docs/google/deepmind/2026-10-28/Gemini%204%20Carbon_%20Our%20next%20frontier%20model.md)
+- [Gemini 4 Carbon: our next frontier model](docs/google/blog/2026-10-28/Gemini%204%20Carbon_%20our%20next%20frontier%20model.md)
+- [XREAL AURA: Wired XR glasses to watch, work, and play](docs/google/blog/2026-10-28/XREAL%20AURA_%20Wired%20XR%20glasses%20to%20watch_%20work_%20and%20play.md)
+- [Build and manage Connected Apps in one place](docs/google/blog/2026-10-28/Build%20and%20manage%20Connected%20Apps%20in%20one%20place.md)
+- [Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.](docs/google/blog/2026-10-28/Chrome_s%20enhanced%20autofill%20helps%20you%20fill%20out%20forms%20with%20suggestions%20pulled%20from%20Gmail.md)
+- [Introducing the AlloyDB Omni web UI for easier cluster observability](docs/google/cloud/2026-10-28/Introducing%20the%20AlloyDB%20Omni%20web%20UI%20for%20easier%20cluster%20observability.md)
+- [Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments](docs/google/cloud/2026-10-28/Near-zero%20downtime%20upgrades_%20Announcing%20Cloud%20SQL%20for%20MySQL%20blue-green%20deployments.md)
+- [Behind the scenes, two months later: How we ship Google Agent Skills like products](docs/google/cloud/2026-10-28/Behind%20the%20scenes_%20two%20months%20later_%20How%20we%20ship%20Google%20Agent%20Skills%20like%20products.md)
+- [How to troubleshoot GKE workloads faster with VPC Flow Logs](docs/google/cloud/2026-10-28/How%20to%20troubleshoot%20GKE%20workloads%20faster%20with%20VPC%20Flow%20Logs.md)
+- [How GKE networking scales to support high densities of concurrent AI agents](docs/google/cloud/2026-10-28/How%20GKE%20networking%20scales%20to%20support%20high%20densities%20of%20concurrent%20AI%20agents.md)
+- [Step into a new dimension with XREAL AURA, the first-of-its-kind wired XR glasses](docs/google/cloud/2026-10-28/Step%20into%20a%20new%20dimension%20with%20XREAL%20AURA_%20the%20first-of-its-kind%20wired%20XR%20glasses.md)
+- [Indie Games Fund in Africa: Meet the selected studios](docs/google/blog/2026-10-28/Indie%20Games%20Fund%20in%20Africa_%20Meet%20the%20selected%20studios.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
