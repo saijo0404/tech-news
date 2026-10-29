@@ -34,8 +34,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Build specialized multimodal models with LFM3](docs/huggingface/blog/2026-10-27/Build%20specialized%20multimodal%20models%20with%20LFM3.md)
-- [Can we trust LLMs to judge whether a research idea is novel?](docs/huggingface/blog/2026-10-27/Can%20we%20trust%20LLMs%20to%20judge%20whether%20a%20research%20idea%20is%20novel.md)
+- [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](docs/huggingface/blog/2026-10-28/NVIDIA%20Nemotron%203_5%20Transcribe%20and%20Granary%20v2_%20Intelligent%20Multilingual%20Transcription%20You%20Can%20Prompt%20and%20Adapt.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
