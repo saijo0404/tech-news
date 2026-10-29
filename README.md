@@ -24,13 +24,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4](docs/nvidia/developer/2026-10-27/Memory-Enforced%20GPU%20Sharing%20in%20Kubernetes%20with%20NVIDIA%20CUDA%2013_4.md)
-- [NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games](docs/nvidia/developer/2026-10-27/NVIDIA%20RTX%20Spark%20Powers%20Neural%20Rendering%20and%20AI%20Characters%20in%20Games.md)
-- [Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages](docs/nvidia/developer/2026-10-27/Fine-Tuning%20NVIDIA%20Nemotron%20to%20Know%20Local%20Rules_%20Not%20Just%20Local%20Languages.md)
-- [NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure](docs/nvidia/newsroom/2026-10-27/NVIDIA%20and%20Oracle%20Expand%20NVIDIA%20Vera%20Rubin%20to%20Multi-Gigawatt%20Scale%20and%20Bring%20NVIDIA%20Vera%20CPU%20to%20Oracle%20Cloud%20Infrastructure.md)
-- [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](docs/nvidia/blogs/2026-10-27/How%20AI%20Is%20Changing%20the%20Pace%20of%20Discovery%20for%20Millions%20Living%20With%20Dementia.md)
-- [3 Ways to Boost MoE Inference on NVIDIA DGX Spark](docs/nvidia/developer/2026-10-27/3%20Ways%20to%20Boost%20MoE%20Inference%20on%20NVIDIA%20DGX%20Spark.md)
-- [NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth](docs/nvidia/newsroom/2026-10-27/NVIDIA%20and%20Meta%20to%20Expand%20Collaboration%20on%20Muse%20and%20Muse%20Family%20of%20Models%20Amid%20Robust%20Growth.md)
+- [NVIDIA Sets Conference Call for Third-Quarter Financial Results](docs/nvidia/newsroom/2026-10-28/NVIDIA%20Sets%20Conference%20Call%20for%20Third-Quarter%20Financial%20Results.md)
+- [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](docs/nvidia/blogs/2026-10-28/Thin_%20Light%20and%20Built%20for%20Everything_%20NVIDIA%20RTX%20Spark%20Windows%20Laptops%20Gain%20New%20Models_%20Agent%20Tools%20and%20Games.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
