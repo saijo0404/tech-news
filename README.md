@@ -28,8 +28,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Sets Conference Call for Third-Quarter Financial Results](docs/nvidia/newsroom/2026-10-28/NVIDIA%20Sets%20Conference%20Call%20for%20Third-Quarter%20Financial%20Results.md)
-- [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](docs/nvidia/blogs/2026-10-28/Thin_%20Light%20and%20Built%20for%20Everything_%20NVIDIA%20RTX%20Spark%20Windows%20Laptops%20Gain%20New%20Models_%20Agent%20Tools%20and%20Games.md)
+- [Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials](docs/nvidia/developer/2026-10-29/Unlocking%20Tensor%20Core%20Performance%20for%20Machine%20Learning%20Interatomic%20Potentials.md)
+- [Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW](docs/nvidia/blogs/2026-10-29/Slice%20Into%20GFN%20Thursday_%20_Phantom%20Blade%20Zero_%20Launches%20on%20GeForce%20NOW.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
