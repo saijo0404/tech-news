@@ -29,7 +29,10 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](docs/huggingface/blog/2026-10-28/NVIDIA%20Nemotron%203_5%20Transcribe%20and%20Granary%20v2_%20Intelligent%20Multilingual%20Transcription%20You%20Can%20Prompt%20and%20Adapt.md)
+- [Granite Switch 4.1.1 — Update models like you update software](docs/huggingface/blog/2026-10-29/Granite%20Switch%204_1_1%20_%20Update%20models%20like%20you%20update%20software.md)
+- [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](docs/huggingface/blog/2026-10-29/Announcing%20Project%20ProtoStar_%20Making%20Publicly%20Funded%20Science%20AI-Ready.md)
+- [Welcome Le Chonk: Mistral Large 4 on Hugging Face](docs/huggingface/blog/2026-10-29/Welcome%20Le%20Chonk_%20Mistral%20Large%204%20on%20Hugging%20Face.md)
+- [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](docs/huggingface/blog/2026-10-29/Introducing%20AnySpeechRecognizer%20and%20AnyDecisionModel_%20Open%20Models%20for%20Speech%20and%20Decisions%20on%20Apple%20Platforms.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
