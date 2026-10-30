@@ -8,22 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Ads in AI Mode expand to new markets.](docs/google/blog/2026-10-28/Ads%20in%20AI%20Mode%20expand%20to%20new%20markets.md)
-- [Q3 2026 earnings call: Remarks from our CEO](docs/google/blog/2026-10-28/Q3%202026%20earnings%20call_%20Remarks%20from%20our%20CEO.md)
-- [Adapt your ad strategy to meet the way people search today.](docs/google/blog/2026-10-28/Adapt%20your%20ad%20strategy%20to%20meet%20the%20way%20people%20search%20today.md)
-- [Dive into new topics with immersive explorations in the Gemini app.](docs/google/blog/2026-10-28/Dive%20into%20new%20topics%20with%20immersive%20explorations%20in%20the%20Gemini%20app.md)
-- [Gemini 4 Carbon: Our next frontier model](docs/google/deepmind/2026-10-28/Gemini%204%20Carbon_%20Our%20next%20frontier%20model.md)
-- [Gemini 4 Carbon: our next frontier model](docs/google/blog/2026-10-28/Gemini%204%20Carbon_%20our%20next%20frontier%20model.md)
-- [XREAL AURA: Wired XR glasses to watch, work, and play](docs/google/blog/2026-10-28/XREAL%20AURA_%20Wired%20XR%20glasses%20to%20watch_%20work_%20and%20play.md)
-- [Build and manage Connected Apps in one place](docs/google/blog/2026-10-28/Build%20and%20manage%20Connected%20Apps%20in%20one%20place.md)
-- [Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.](docs/google/blog/2026-10-28/Chrome_s%20enhanced%20autofill%20helps%20you%20fill%20out%20forms%20with%20suggestions%20pulled%20from%20Gmail.md)
-- [Introducing the AlloyDB Omni web UI for easier cluster observability](docs/google/cloud/2026-10-28/Introducing%20the%20AlloyDB%20Omni%20web%20UI%20for%20easier%20cluster%20observability.md)
-- [Near-zero downtime upgrades: Announcing Cloud SQL for MySQL blue-green deployments](docs/google/cloud/2026-10-28/Near-zero%20downtime%20upgrades_%20Announcing%20Cloud%20SQL%20for%20MySQL%20blue-green%20deployments.md)
-- [Behind the scenes, two months later: How we ship Google Agent Skills like products](docs/google/cloud/2026-10-28/Behind%20the%20scenes_%20two%20months%20later_%20How%20we%20ship%20Google%20Agent%20Skills%20like%20products.md)
-- [How to troubleshoot GKE workloads faster with VPC Flow Logs](docs/google/cloud/2026-10-28/How%20to%20troubleshoot%20GKE%20workloads%20faster%20with%20VPC%20Flow%20Logs.md)
-- [How GKE networking scales to support high densities of concurrent AI agents](docs/google/cloud/2026-10-28/How%20GKE%20networking%20scales%20to%20support%20high%20densities%20of%20concurrent%20AI%20agents.md)
-- [Step into a new dimension with XREAL AURA, the first-of-its-kind wired XR glasses](docs/google/cloud/2026-10-28/Step%20into%20a%20new%20dimension%20with%20XREAL%20AURA_%20the%20first-of-its-kind%20wired%20XR%20glasses.md)
-- [Indie Games Fund in Africa: Meet the selected studios](docs/google/blog/2026-10-28/Indie%20Games%20Fund%20in%20Africa_%20Meet%20the%20selected%20studios.md)
+- [You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.](docs/google/blog/2026-10-29/You%20can%20now%20generate_%20preview_%20and%20edit%20documents_%20PDFs_%20presentations_%20spreadsheets_%20and%20more%20directly%20in%20Gemini.md)
+- [Colorado students joined a Google hackathon to tackle energy grid challenges.](docs/google/blog/2026-10-29/Colorado%20students%20joined%20a%20Google%20hackathon%20to%20tackle%20energy%20grid%20challenges.md)
+- [Gemini Notebook makes hundreds of textbooks available to help students learn even more.](docs/google/blog/2026-10-29/Gemini%20Notebook%20makes%20hundreds%20of%20textbooks%20available%20to%20help%20students%20learn%20even%20more.md)
+- [Celebrate Halloween with these tricks in Google Photos.](docs/google/blog/2026-10-29/Celebrate%20Halloween%20with%20these%20tricks%20in%20Google%20Photos.md)
+- [Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)](docs/google/cloud/2026-10-29/Cloud%20CISO%20Perspectives_%20Introducing%20new%20_250_000%20tier%20for%20Google%20Cloud%20VRP%20_Q_A.md)
+- [Querying Databricks Apache Iceberg Tables with the borderless Lakehouse](docs/google/cloud/2026-10-29/Querying%20Databricks%20Apache%20Iceberg%20Tables%20with%20the%20borderless%20Lakehouse.md)
+- [Grounding agents in one context graph connecting semantic models you already trust](docs/google/cloud/2026-10-29/Grounding%20agents%20in%20one%20context%20graph%20connecting%20semantic%20models%20you%20already%20trust.md)
+- [Equipping healthcare professionals with practical AI skills](docs/google/blog/2026-10-29/Equipping%20healthcare%20professionals%20with%20practical%20AI%20skills.md)
+- [How to use Gemini to update your resume](docs/google/blog/2026-10-29/How%20to%20use%20Gemini%20to%20update%20your%20resume.md)
+- [How Gemini is helping students and teachers in the classroom](docs/google/blog/2026-10-29/How%20Gemini%20is%20helping%20students%20and%20teachers%20in%20the%20classroom.md)
+- [Partnering with Singapore to bring frontier AI to public health](docs/google/blog/2026-10-29/Partnering%20with%20Singapore%20to%20bring%20frontier%20AI%20to%20public%20health.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
