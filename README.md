@@ -23,8 +23,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials](docs/nvidia/developer/2026-10-29/Unlocking%20Tensor%20Core%20Performance%20for%20Machine%20Learning%20Interatomic%20Potentials.md)
-- [Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW](docs/nvidia/blogs/2026-10-29/Slice%20Into%20GFN%20Thursday_%20_Phantom%20Blade%20Zero_%20Launches%20on%20GeForce%20NOW.md)
+- [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](docs/nvidia/developer/2026-10-30/Build%20a%20Validated%20Kubernetes%20Runtime%20for%20NVIDIA%20Dynamo.md)
+- [Run AI Models for Edge Application Development with Just a Few Commands](docs/nvidia/developer/2026-10-30/Run%20AI%20Models%20for%20Edge%20Application%20Development%20with%20Just%20a%20Few%20Commands.md)
+- [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](docs/nvidia/developer/2026-10-30/Build%20Specialized%20Agents%20on%20a%20Stack%20You%20Control%20with%20NVIDIA%20NemoClaw.md)
+- [How to Check and Configure NVIDIA GPUDirect Storage for Your Platform](docs/nvidia/developer/2026-10-30/How%20to%20Check%20and%20Configure%20NVIDIA%20GPUDirect%20Storage%20for%20Your%20Platform.md)
+- [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](docs/nvidia/blogs/2026-10-30/Things%20That%20Go%20Beep%20in%20the%20Night_%20Agentic%20AI%20Joins%20the%20Search%20for%20Extraterrestrial%20Signals.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
