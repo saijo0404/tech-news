@@ -8,17 +8,14 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.](docs/google/blog/2026-10-29/You%20can%20now%20generate_%20preview_%20and%20edit%20documents_%20PDFs_%20presentations_%20spreadsheets_%20and%20more%20directly%20in%20Gemini.md)
-- [Colorado students joined a Google hackathon to tackle energy grid challenges.](docs/google/blog/2026-10-29/Colorado%20students%20joined%20a%20Google%20hackathon%20to%20tackle%20energy%20grid%20challenges.md)
-- [Gemini Notebook makes hundreds of textbooks available to help students learn even more.](docs/google/blog/2026-10-29/Gemini%20Notebook%20makes%20hundreds%20of%20textbooks%20available%20to%20help%20students%20learn%20even%20more.md)
-- [Celebrate Halloween with these tricks in Google Photos.](docs/google/blog/2026-10-29/Celebrate%20Halloween%20with%20these%20tricks%20in%20Google%20Photos.md)
-- [Cloud CISO Perspectives: Introducing new $250,000 tier for Google Cloud VRP (Q&A)](docs/google/cloud/2026-10-29/Cloud%20CISO%20Perspectives_%20Introducing%20new%20_250_000%20tier%20for%20Google%20Cloud%20VRP%20_Q_A.md)
-- [Querying Databricks Apache Iceberg Tables with the borderless Lakehouse](docs/google/cloud/2026-10-29/Querying%20Databricks%20Apache%20Iceberg%20Tables%20with%20the%20borderless%20Lakehouse.md)
-- [Grounding agents in one context graph connecting semantic models you already trust](docs/google/cloud/2026-10-29/Grounding%20agents%20in%20one%20context%20graph%20connecting%20semantic%20models%20you%20already%20trust.md)
-- [Equipping healthcare professionals with practical AI skills](docs/google/blog/2026-10-29/Equipping%20healthcare%20professionals%20with%20practical%20AI%20skills.md)
-- [How to use Gemini to update your resume](docs/google/blog/2026-10-29/How%20to%20use%20Gemini%20to%20update%20your%20resume.md)
-- [How Gemini is helping students and teachers in the classroom](docs/google/blog/2026-10-29/How%20Gemini%20is%20helping%20students%20and%20teachers%20in%20the%20classroom.md)
-- [Partnering with Singapore to bring frontier AI to public health](docs/google/blog/2026-10-29/Partnering%20with%20Singapore%20to%20bring%20frontier%20AI%20to%20public%20health.md)
+- [Google Fitbit Edge: On shelves now](docs/google/blog/2026-10-30/Google%20Fitbit%20Edge_%20On%20shelves%20now.md)
+- [We’ve received our first response from the Project Suncatcher prototype satellite.](docs/google/blog/2026-10-30/We_ve%20received%20our%20first%20response%20from%20the%20Project%20Suncatcher%20prototype%20satellite.md)
+- [See who has access to your Gmail inbox in 2 minutes.](docs/google/blog/2026-10-30/See%20who%20has%20access%20to%20your%20Gmail%20inbox%20in%202%20minutes.md)
+- [When the Kubernetes API went silent: A three-layer networking mystery](docs/google/cloud/2026-10-30/When%20the%20Kubernetes%20API%20went%20silent_%20A%20three-layer%20networking%20mystery.md)
+- [Innovate on your own business terms: Google Cloud spend caps now generally available](docs/google/cloud/2026-10-30/Innovate%20on%20your%20own%20business%20terms_%20Google%20Cloud%20spend%20caps%20now%20generally%20available.md)
+- [ARTEX and Friends: Enter Agentic Offensive Frameworks](docs/google/cloud/2026-10-30/ARTEX%20and%20Friends_%20Enter%20Agentic%20Offensive%20Frameworks.md)
+- [New Gemini courses for financial services and legal teams](docs/google/cloud/2026-10-30/New%20Gemini%20courses%20for%20financial%20services%20and%20legal%20teams.md)
+- [How to upgrade embedding models in AlloyDB AI with zero downtime](docs/google/cloud/2026-10-28/How%20to%20upgrade%20embedding%20models%20in%20AlloyDB%20AI%20with%20zero%20downtime.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
