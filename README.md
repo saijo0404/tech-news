@@ -20,11 +20,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Build a Validated Kubernetes Runtime for NVIDIA Dynamo](docs/nvidia/developer/2026-10-30/Build%20a%20Validated%20Kubernetes%20Runtime%20for%20NVIDIA%20Dynamo.md)
-- [Run AI Models for Edge Application Development with Just a Few Commands](docs/nvidia/developer/2026-10-30/Run%20AI%20Models%20for%20Edge%20Application%20Development%20with%20Just%20a%20Few%20Commands.md)
-- [Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw](docs/nvidia/developer/2026-10-30/Build%20Specialized%20Agents%20on%20a%20Stack%20You%20Control%20with%20NVIDIA%20NemoClaw.md)
-- [How to Check and Configure NVIDIA GPUDirect Storage for Your Platform](docs/nvidia/developer/2026-10-30/How%20to%20Check%20and%20Configure%20NVIDIA%20GPUDirect%20Storage%20for%20Your%20Platform.md)
-- [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](docs/nvidia/blogs/2026-10-30/Things%20That%20Go%20Beep%20in%20the%20Night_%20Agentic%20AI%20Joins%20the%20Search%20for%20Extraterrestrial%20Signals.md)
+- [Diagnose Distributed AI Workload Failures with NVIDIA Attribution](docs/nvidia/developer/2026-11-02/Diagnose%20Distributed%20AI%20Workload%20Failures%20with%20NVIDIA%20Attribution.md)
+- [Keep Distributed Training Running with Automated Workload Recovery](docs/nvidia/developer/2026-11-02/Keep%20Distributed%20Training%20Running%20with%20Automated%20Workload%20Recovery.md)
+- [Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One](docs/nvidia/developer/2026-11-02/Making%20Kubernetes%20AI-Ready%20for%20NVIDIA%20Vera%20Rubin%20on%20Day%20One.md)
+- [Build World Models for Interactive Simulation with NVIDIA Cosmos](docs/nvidia/developer/2026-11-02/Build%20World%20Models%20for%20Interactive%20Simulation%20with%20NVIDIA%20Cosmos.md)
+- [Support New AI Frameworks Faster Using NVIDIA Workload Map](docs/nvidia/developer/2026-11-02/Support%20New%20AI%20Frameworks%20Faster%20Using%20NVIDIA%20Workload%20Map.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
