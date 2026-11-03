@@ -8,14 +8,13 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Google Fitbit Edge: On shelves now](docs/google/blog/2026-10-30/Google%20Fitbit%20Edge_%20On%20shelves%20now.md)
-- [We’ve received our first response from the Project Suncatcher prototype satellite.](docs/google/blog/2026-10-30/We_ve%20received%20our%20first%20response%20from%20the%20Project%20Suncatcher%20prototype%20satellite.md)
-- [See who has access to your Gmail inbox in 2 minutes.](docs/google/blog/2026-10-30/See%20who%20has%20access%20to%20your%20Gmail%20inbox%20in%202%20minutes.md)
-- [When the Kubernetes API went silent: A three-layer networking mystery](docs/google/cloud/2026-10-30/When%20the%20Kubernetes%20API%20went%20silent_%20A%20three-layer%20networking%20mystery.md)
-- [Innovate on your own business terms: Google Cloud spend caps now generally available](docs/google/cloud/2026-10-30/Innovate%20on%20your%20own%20business%20terms_%20Google%20Cloud%20spend%20caps%20now%20generally%20available.md)
-- [ARTEX and Friends: Enter Agentic Offensive Frameworks](docs/google/cloud/2026-10-30/ARTEX%20and%20Friends_%20Enter%20Agentic%20Offensive%20Frameworks.md)
-- [New Gemini courses for financial services and legal teams](docs/google/cloud/2026-10-30/New%20Gemini%20courses%20for%20financial%20services%20and%20legal%20teams.md)
-- [How to upgrade embedding models in AlloyDB AI with zero downtime](docs/google/cloud/2026-10-28/How%20to%20upgrade%20embedding%20models%20in%20AlloyDB%20AI%20with%20zero%20downtime.md)
+- [Google Cloud Developer plugin now available in Antigravity Marketplace](docs/google/cloud/2026-11-02/Google%20Cloud%20Developer%20plugin%20now%20available%20in%20Antigravity%20Marketplace.md)
+- [The latest AI news we announced in October 2026](docs/google/blog/2026-11-02/The%20latest%20AI%20news%20we%20announced%20in%20October%202026.md)
+- [Google Messages, Phone by Google, and Google Contacts get new, updated icons.](docs/google/blog/2026-11-02/Google%20Messages_%20Phone%20by%20Google_%20and%20Google%20Contacts%20get%20new_%20updated%20icons.md)
+- [Beyond Migration: Using Database Migration Service for disk shrinking](docs/google/cloud/2026-11-02/Beyond%20Migration_%20Using%20Database%20Migration%20Service%20for%20disk%20shrinking.md)
+- [What Google Cloud announced in AI this month](docs/google/cloud/2026-11-02/What%20Google%20Cloud%20announced%20in%20AI%20this%20month.md)
+- [Shutting the Door on the XCPE Botnet](docs/google/cloud/2026-11-02/Shutting%20the%20Door%20on%20the%20XCPE%20Botnet.md)
+- [The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources](docs/google/cloud/2026-11-02/The%20Rise%20of%20LLMJacking_%20How%20Threat%20Actors%20Monetize%20Compromised%20Cloud%20and%20Model%20Resources.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
