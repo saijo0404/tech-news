@@ -19,11 +19,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Diagnose Distributed AI Workload Failures with NVIDIA Attribution](docs/nvidia/developer/2026-11-02/Diagnose%20Distributed%20AI%20Workload%20Failures%20with%20NVIDIA%20Attribution.md)
-- [Keep Distributed Training Running with Automated Workload Recovery](docs/nvidia/developer/2026-11-02/Keep%20Distributed%20Training%20Running%20with%20Automated%20Workload%20Recovery.md)
-- [Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One](docs/nvidia/developer/2026-11-02/Making%20Kubernetes%20AI-Ready%20for%20NVIDIA%20Vera%20Rubin%20on%20Day%20One.md)
-- [Build World Models for Interactive Simulation with NVIDIA Cosmos](docs/nvidia/developer/2026-11-02/Build%20World%20Models%20for%20Interactive%20Simulation%20with%20NVIDIA%20Cosmos.md)
-- [Support New AI Frameworks Faster Using NVIDIA Workload Map](docs/nvidia/developer/2026-11-02/Support%20New%20AI%20Frameworks%20Faster%20Using%20NVIDIA%20Workload%20Map.md)
+- [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](docs/nvidia/blogs/2026-11-03/AI%20Is%20Changing%20How%20Semiconductor%20Fabs%20Work%20_%20and%20Engineers%20Are%20Moving%20Faster%20Because%20of%20It.md)
+- [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](docs/nvidia/blogs/2026-11-03/Cities%20Worldwide%20Build%20and%20Scale%20AI%20Services%20With%20NVIDIA%20Physical%20and%20Agentic%20AI.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
