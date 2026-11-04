@@ -8,13 +8,18 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Google Cloud Developer plugin now available in Antigravity Marketplace](docs/google/cloud/2026-11-02/Google%20Cloud%20Developer%20plugin%20now%20available%20in%20Antigravity%20Marketplace.md)
-- [The latest AI news we announced in October 2026](docs/google/blog/2026-11-02/The%20latest%20AI%20news%20we%20announced%20in%20October%202026.md)
-- [Google Messages, Phone by Google, and Google Contacts get new, updated icons.](docs/google/blog/2026-11-02/Google%20Messages_%20Phone%20by%20Google_%20and%20Google%20Contacts%20get%20new_%20updated%20icons.md)
-- [Beyond Migration: Using Database Migration Service for disk shrinking](docs/google/cloud/2026-11-02/Beyond%20Migration_%20Using%20Database%20Migration%20Service%20for%20disk%20shrinking.md)
-- [What Google Cloud announced in AI this month](docs/google/cloud/2026-11-02/What%20Google%20Cloud%20announced%20in%20AI%20this%20month.md)
-- [Shutting the Door on the XCPE Botnet](docs/google/cloud/2026-11-02/Shutting%20the%20Door%20on%20the%20XCPE%20Botnet.md)
-- [The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources](docs/google/cloud/2026-11-02/The%20Rise%20of%20LLMJacking_%20How%20Threat%20Actors%20Monetize%20Compromised%20Cloud%20and%20Model%20Resources.md)
+- [How Nammu21 automates syndicated loans on Google Cloud Universal Ledger](docs/google/cloud/2026-11-03/How%20Nammu21%20automates%20syndicated%20loans%20on%20Google%20Cloud%20Universal%20Ledger.md)
+- [Leading in the agentic era: How to put people first as you adopt AI agents](docs/google/cloud/2026-11-03/Leading%20in%20the%20agentic%20era_%20How%20to%20put%20people%20first%20as%20you%20adopt%20AI%20agents.md)
+- [New research shows how Guided Learning supports students](docs/google/blog/2026-11-03/New%20research%20shows%20how%20Guided%20Learning%20supports%20students.md)
+- [We’re providing funding for organizations building AI for teachers.](docs/google/blog/2026-11-03/We_re%20providing%20funding%20for%20organizations%20building%20AI%20for%20teachers.md)
+- [AI in the learning era](docs/google/blog/2026-11-03/AI%20in%20the%20learning%20era.md)
+- [Designing responsible AI for learning](docs/google/blog/2026-11-03/Designing%20responsible%20AI%20for%20learning.md)
+- [Working collaboratively to fight scams in Asia Pacific](docs/google/blog/2026-11-03/Working%20collaboratively%20to%20fight%20scams%20in%20Asia%20Pacific.md)
+- [Expanding AI educator training to new countries](docs/google/blog/2026-11-03/Expanding%20AI%20educator%20training%20to%20new%20countries.md)
+- [Five rules for evaluating agent skills before they bloat your context window](docs/google/cloud/2026-11-03/Five%20rules%20for%20evaluating%20agent%20skills%20before%20they%20bloat%20your%20context%20window.md)
+- [Introducing Physical-Engineering’s Last Exam for agents](docs/google/cloud/2026-11-03/Introducing%20Physical-Engineering_s%20Last%20Exam%20for%20agents.md)
+- [Advancing research and partnering with universities in Singapore](docs/google/blog/2026-11-03/Advancing%20research%20and%20partnering%20with%20universities%20in%20Singapore.md)
+- [Speeding up planning decisions with AI](docs/google/deepmind/2026-10-30/Speeding%20up%20planning%20decisions%20with%20AI.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
