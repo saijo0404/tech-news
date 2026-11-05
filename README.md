@@ -24,8 +24,10 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](docs/nvidia/blogs/2026-11-03/AI%20Is%20Changing%20How%20Semiconductor%20Fabs%20Work%20_%20and%20Engineers%20Are%20Moving%20Faster%20Because%20of%20It.md)
-- [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](docs/nvidia/blogs/2026-11-03/Cities%20Worldwide%20Build%20and%20Scale%20AI%20Services%20With%20NVIDIA%20Physical%20and%20Agentic%20AI.md)
+- [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](docs/nvidia/developer/2026-11-04/How%20NVIDIA%20Uses%20AI%20Agents%20to%20Streamline%20AI%20Factory%20Operations.md)
+- [NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support](docs/nvidia/developer/2026-11-04/NVIDIA%20CUDA%2013_5%20Brings%20NVIDIA%20Vera%20Rubin%20GA%20Support.md)
+- [How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues](docs/nvidia/developer/2026-11-04/How%20NVIDIA%20Factory%20Operations%20Blueprint%20Coordinates%20AI%20Agents%20to%20Investigate%20Production%20Issues.md)
+- [Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes](docs/nvidia/developer/2026-11-04/Use%20NVIDIA%20NeMo%20to%20Turn%20Agent%20Failures%20into%20Tests%20and%20Harness%20Fixes.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
