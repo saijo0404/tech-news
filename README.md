@@ -33,10 +33,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [StateBench: Testing how language models track state changes over long documents](docs/huggingface/blog/2026-11-03/StateBench_%20Testing%20how%20language%20models%20track%20state%20changes%20over%20long%20documents.md)
-- [Palette: teaching a small model to build decks in your design language](docs/huggingface/blog/2026-11-03/Palette_%20teaching%20a%20small%20model%20to%20build%20decks%20in%20your%20design%20language.md)
-- [CWE-bench v2: More coverage, quality, and transparency](docs/huggingface/blog/2026-11-03/CWE-bench%20v2_%20More%20coverage_%20quality_%20and%20transparency.md)
-- [Transformers Model Integration Contracts](docs/huggingface/blog/2026-11-03/Transformers%20Model%20Integration%20Contracts.md)
+- [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](docs/huggingface/blog/2026-11-04/Dharma%20Field%20Extractor_%20Any%20Document%20In_%20Structured%20Fields%20in%20JSON%20Out.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
