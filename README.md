@@ -8,18 +8,19 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [How Nammu21 automates syndicated loans on Google Cloud Universal Ledger](docs/google/cloud/2026-11-03/How%20Nammu21%20automates%20syndicated%20loans%20on%20Google%20Cloud%20Universal%20Ledger.md)
-- [Leading in the agentic era: How to put people first as you adopt AI agents](docs/google/cloud/2026-11-03/Leading%20in%20the%20agentic%20era_%20How%20to%20put%20people%20first%20as%20you%20adopt%20AI%20agents.md)
-- [New research shows how Guided Learning supports students](docs/google/blog/2026-11-03/New%20research%20shows%20how%20Guided%20Learning%20supports%20students.md)
-- [We’re providing funding for organizations building AI for teachers.](docs/google/blog/2026-11-03/We_re%20providing%20funding%20for%20organizations%20building%20AI%20for%20teachers.md)
-- [AI in the learning era](docs/google/blog/2026-11-03/AI%20in%20the%20learning%20era.md)
-- [Designing responsible AI for learning](docs/google/blog/2026-11-03/Designing%20responsible%20AI%20for%20learning.md)
-- [Working collaboratively to fight scams in Asia Pacific](docs/google/blog/2026-11-03/Working%20collaboratively%20to%20fight%20scams%20in%20Asia%20Pacific.md)
-- [Expanding AI educator training to new countries](docs/google/blog/2026-11-03/Expanding%20AI%20educator%20training%20to%20new%20countries.md)
-- [Five rules for evaluating agent skills before they bloat your context window](docs/google/cloud/2026-11-03/Five%20rules%20for%20evaluating%20agent%20skills%20before%20they%20bloat%20your%20context%20window.md)
-- [Introducing Physical-Engineering’s Last Exam for agents](docs/google/cloud/2026-11-03/Introducing%20Physical-Engineering_s%20Last%20Exam%20for%20agents.md)
-- [Advancing research and partnering with universities in Singapore](docs/google/blog/2026-11-03/Advancing%20research%20and%20partnering%20with%20universities%20in%20Singapore.md)
-- [Speeding up planning decisions with AI](docs/google/deepmind/2026-10-30/Speeding%20up%20planning%20decisions%20with%20AI.md)
+- [Agile Deliberation: How AI helps humans define the gray areas](docs/google/research/2026-11-04/Agile%20Deliberation_%20How%20AI%20helps%20humans%20define%20the%20gray%20areas.md)
+- [Watch Henry Cavill build a video game on his Googlebook](docs/google/blog/2026-11-04/Watch%20Henry%20Cavill%20build%20a%20video%20game%20on%20his%20Googlebook.md)
+- [Helping you build and defend at machine-speed in the agentic era](docs/google/cloud/2026-11-04/Helping%20you%20build%20and%20defend%20at%20machine-speed%20in%20the%20agentic%20era.md)
+- [Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot](docs/google/cloud/2026-11-04/Highlights%20and%20reflections%20from%20Google%20Public%20Sector%20Summit_%20Where%20mission%20meets%20moonshot.md)
+- [Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production](docs/google/cloud/2026-11-04/Introducing%20Compute%20Engine%20API%20multi-versioning_%20Predictable%20evolution%20without%20breaking%20production.md)
+- [We're sharing our framework for building safer and more helpful AI for health.](docs/google/blog/2026-11-04/We_re%20sharing%20our%20framework%20for%20building%20safer%20and%20more%20helpful%20AI%20for%20health.md)
+- [New capabilities to power agents at scale with Google's Agentic Data Cloud](docs/google/cloud/2026-11-04/New%20capabilities%20to%20power%20agents%20at%20scale%20with%20Google_s%20Agentic%20Data%20Cloud.md)
+- [AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents](docs/google/cloud/2026-11-04/AlloyDB%20Express_%20Instant_%20scale-to-zero%20PostgreSQL%20for%20developers%20and%20coding%20agents.md)
+- [Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL](docs/google/cloud/2026-11-04/Unify%20operational%20and%20Lakehouse%20data%20with%20direct%20Iceberg%20access%20in%20AlloyDB%20for%20PostgreSQL.md)
+- [Take a closer look at art with the Courtauld](docs/google/blog/2026-11-04/Take%20a%20closer%20look%20at%20art%20with%20the%20Courtauld.md)
+- [Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari](docs/google/cloud/2026-11-04/Chrome%20Enterprise%20Premium%20drives%2050_%20projected%20cost%20reduction%20for%20Mercari.md)
+- [Agentic cheminformatics with Google Antigravity](docs/google/deepmind/2026-11-03/Agentic%20cheminformatics%20with%20Google%20Antigravity.md)
+- [What’s new in AI infrastructure and orchestration in October](docs/google/cloud/2026-10-30/What_s%20new%20in%20AI%20infrastructure%20and%20orchestration%20in%20October.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
