@@ -41,7 +41,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Day 0 support for Mistral Large 4 on vLLM](docs/vllm/blog/2026-10-29/Day%200%20support%20for%20Mistral%20Large%204%20on%20vLLM.md)
+- [Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes](docs/vllm/blog/2026-11-04/Introducing%20Kinference_%20An%20Open%20Source%20Inference%20Control%20Plane%20for%20vLLM%20and%20Kubernetes.md)
+- [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](docs/vllm/blog/2026-11-04/vLLM%20Delivers%20Day-0%20Support%20for%20Kimi%20K3_1%20Pro.md)
 <!-- END:vllm -->
 
 ---
