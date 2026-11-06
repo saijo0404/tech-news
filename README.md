@@ -8,19 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Agile Deliberation: How AI helps humans define the gray areas](docs/google/research/2026-11-04/Agile%20Deliberation_%20How%20AI%20helps%20humans%20define%20the%20gray%20areas.md)
-- [Watch Henry Cavill build a video game on his Googlebook](docs/google/blog/2026-11-04/Watch%20Henry%20Cavill%20build%20a%20video%20game%20on%20his%20Googlebook.md)
-- [Helping you build and defend at machine-speed in the agentic era](docs/google/cloud/2026-11-04/Helping%20you%20build%20and%20defend%20at%20machine-speed%20in%20the%20agentic%20era.md)
-- [Highlights and reflections from Google Public Sector Summit: Where mission meets moonshot](docs/google/cloud/2026-11-04/Highlights%20and%20reflections%20from%20Google%20Public%20Sector%20Summit_%20Where%20mission%20meets%20moonshot.md)
-- [Introducing Compute Engine API multi-versioning: Predictable evolution without breaking production](docs/google/cloud/2026-11-04/Introducing%20Compute%20Engine%20API%20multi-versioning_%20Predictable%20evolution%20without%20breaking%20production.md)
-- [We're sharing our framework for building safer and more helpful AI for health.](docs/google/blog/2026-11-04/We_re%20sharing%20our%20framework%20for%20building%20safer%20and%20more%20helpful%20AI%20for%20health.md)
-- [New capabilities to power agents at scale with Google's Agentic Data Cloud](docs/google/cloud/2026-11-04/New%20capabilities%20to%20power%20agents%20at%20scale%20with%20Google_s%20Agentic%20Data%20Cloud.md)
-- [AlloyDB Express: Instant, scale-to-zero PostgreSQL for developers and coding agents](docs/google/cloud/2026-11-04/AlloyDB%20Express_%20Instant_%20scale-to-zero%20PostgreSQL%20for%20developers%20and%20coding%20agents.md)
-- [Unify operational and Lakehouse data with direct Iceberg access in AlloyDB for PostgreSQL](docs/google/cloud/2026-11-04/Unify%20operational%20and%20Lakehouse%20data%20with%20direct%20Iceberg%20access%20in%20AlloyDB%20for%20PostgreSQL.md)
-- [Take a closer look at art with the Courtauld](docs/google/blog/2026-11-04/Take%20a%20closer%20look%20at%20art%20with%20the%20Courtauld.md)
-- [Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari](docs/google/cloud/2026-11-04/Chrome%20Enterprise%20Premium%20drives%2050_%20projected%20cost%20reduction%20for%20Mercari.md)
-- [Agentic cheminformatics with Google Antigravity](docs/google/deepmind/2026-11-03/Agentic%20cheminformatics%20with%20Google%20Antigravity.md)
-- [What’s new in AI infrastructure and orchestration in October](docs/google/cloud/2026-10-30/What_s%20new%20in%20AI%20infrastructure%20and%20orchestration%20in%20October.md)
+- [Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.](docs/google/blog/2026-11-05/Generate%20longer%20AI%20videos%20with%20Omni%201_2%20Flash%20in%20Google%20Vids%20at%20no%20cost.md)
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](docs/google/blog/2026-11-05/Gemini%20Omni%201_2%20Flash_%20Fast%20and%20cost-effective%20with%20longer%20clips.md)
+- [Investing in Wyoming’s infrastructure, energy and workforce](docs/google/blog/2026-11-05/Investing%20in%20Wyoming_s%20infrastructure_%20energy%20and%20workforce.md)
+- [Transform a quick drawing into a live app with Gemini.](docs/google/blog/2026-11-05/Transform%20a%20quick%20drawing%20into%20a%20live%20app%20with%20Gemini.md)
+- [Building an agent skill optimizer with AlphaEvolve, Harbor and Gemini 4 Argon](docs/google/cloud/2026-11-05/Building%20an%20agent%20skill%20optimizer%20with%20AlphaEvolve_%20Harbor%20and%20Gemini%204%20Argon.md)
+- [Semantic aggregation over millions of rows in BigQuery with AI.AGG](docs/google/cloud/2026-11-05/Semantic%20aggregation%20over%20millions%20of%20rows%20in%20BigQuery%20with%20AI_AGG.md)
+- [Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available](docs/google/cloud/2026-11-05/Gemini%20Omni%201_2%20Flash_%20Fast_%20cost-effective_%20and%20reliable%20video%20generation%20and%20editing%20now%20generally%20available.md)
+- [Detecting signs of hypertension using wearable sensors](docs/google/research/2026-11-05/Detecting%20signs%20of%20hypertension%20using%20wearable%20sensors.md)
+- [Check out our free livestream during National Veterans Small Business Week.](docs/google/blog/2026-11-05/Check%20out%20our%20free%20livestream%20during%20National%20Veterans%20Small%20Business%20Week.md)
+- [Powering open infrastructure for autonomous agents](docs/google/cloud/2026-11-05/Powering%20open%20infrastructure%20for%20autonomous%20agents.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
