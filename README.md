@@ -32,7 +32,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](docs/huggingface/blog/2026-11-04/Dharma%20Field%20Extractor_%20Any%20Document%20In_%20Structured%20Fields%20in%20JSON%20Out.md)
+- [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](docs/huggingface/blog/2026-11-05/New%20NVIDIA%20Cosmos%203%20Open%20Models%20for%20Interactive%20World%20Simulation.md)
+- [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](docs/huggingface/blog/2026-11-05/A%20Closer%20Look%20at%20Phonon%20TTS_%20Launching%20High-Quality%20On-Device%20Speech%20That%20Tops%20the%20Benchmarks.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
