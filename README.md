@@ -25,10 +25,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How NVIDIA Uses AI Agents to Streamline AI Factory Operations](docs/nvidia/developer/2026-11-04/How%20NVIDIA%20Uses%20AI%20Agents%20to%20Streamline%20AI%20Factory%20Operations.md)
-- [NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support](docs/nvidia/developer/2026-11-04/NVIDIA%20CUDA%2013_5%20Brings%20NVIDIA%20Vera%20Rubin%20GA%20Support.md)
-- [How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues](docs/nvidia/developer/2026-11-04/How%20NVIDIA%20Factory%20Operations%20Blueprint%20Coordinates%20AI%20Agents%20to%20Investigate%20Production%20Issues.md)
-- [Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes](docs/nvidia/developer/2026-11-04/Use%20NVIDIA%20NeMo%20to%20Turn%20Agent%20Failures%20into%20Tests%20and%20Harness%20Fixes.md)
+- [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](docs/nvidia/blogs/2026-11-05/Vera%20Delivers%20the%20Best%20of%20Both%20Worlds_%20Highest%20Throughput%20and%20Fastest%20Agents.md)
+- [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](docs/nvidia/developer/2026-11-05/Configure_%20Certify_%20and%20Operate%20Kubernetes%20GPU%20Clusters%20with%20NVIDIA%20DSX%20OS.md)
+- [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](docs/nvidia/blogs/2026-11-05/The%20Wizard%20of%20Open%20Weights_%20Chris%20Alexiuk%20Makes%20AI%20Easy%20With%20Open%20Models.md)
+- [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](docs/nvidia/blogs/2026-11-05/More%20Performance%20From%20Every%20Byte_%20How%20Full-Stack%20Codesign%20Solves%20AI_s%20Memory%20Challenge.md)
+- [Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory](docs/nvidia/developer/2026-11-05/Five%20Ways%20NVIDIA%20Co-Design%20Maximizes%20the%20Value%20of%20Every%20Byte%20in%20the%20AI%20Factory.md)
+- [‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW](docs/nvidia/blogs/2026-11-05/Hogwarts%20Legacy_%20Gets%20a%20Magical%20NVIDIA%20DLSS%205%20Upgrade%20on%20GeForce%20NOW.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
