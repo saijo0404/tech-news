@@ -31,8 +31,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes](docs/vllm/blog/2026-11-04/Introducing%20Kinference_%20An%20Open%20Source%20Inference%20Control%20Plane%20for%20vLLM%20and%20Kubernetes.md)
-- [vLLM Delivers Day-0 Support for Kimi K3.1 Pro](docs/vllm/blog/2026-11-04/vLLM%20Delivers%20Day-0%20Support%20for%20Kimi%20K3_1%20Pro.md)
+- [Migrating vLLM to the LibTorch Stable ABI](docs/vllm/blog/2026-11-06/Migrating%20vLLM%20to%20the%20LibTorch%20Stable%20ABI.md)
+- [Zero Mismatch, Simple Async RL: REINFORCE Zero, DeepSeek-V4.1 and Kimi K3.1](docs/vllm/blog/2026-11-06/Zero%20Mismatch_%20Simple%20Async%20RL_%20REINFORCE%20Zero_%20DeepSeek-V4_1%20and%20Kimi%20K3_1.md)
 <!-- END:vllm -->
 
 ---
