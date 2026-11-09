@@ -25,8 +25,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](docs/huggingface/blog/2026-11-05/New%20NVIDIA%20Cosmos%203%20Open%20Models%20for%20Interactive%20World%20Simulation.md)
-- [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](docs/huggingface/blog/2026-11-05/A%20Closer%20Look%20at%20Phonon%20TTS_%20Launching%20High-Quality%20On-Device%20Speech%20That%20Tops%20the%20Benchmarks.md)
+- [ToyBlocks: A controlled world for robot learning and evaluation](docs/huggingface/blog/2026-11-06/ToyBlocks_%20A%20controlled%20world%20for%20robot%20learning%20and%20evaluation.md)
+- [Egyptian and Nigerian English join the Open ASR Leaderboard](docs/huggingface/blog/2026-11-06/Egyptian%20and%20Nigerian%20English%20join%20the%20Open%20ASR%20Leaderboard.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
