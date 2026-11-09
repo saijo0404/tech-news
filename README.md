@@ -22,12 +22,11 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](docs/nvidia/blogs/2026-11-05/Vera%20Delivers%20the%20Best%20of%20Both%20Worlds_%20Highest%20Throughput%20and%20Fastest%20Agents.md)
-- [Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS](docs/nvidia/developer/2026-11-05/Configure_%20Certify_%20and%20Operate%20Kubernetes%20GPU%20Clusters%20with%20NVIDIA%20DSX%20OS.md)
-- [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](docs/nvidia/blogs/2026-11-05/The%20Wizard%20of%20Open%20Weights_%20Chris%20Alexiuk%20Makes%20AI%20Easy%20With%20Open%20Models.md)
-- [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](docs/nvidia/blogs/2026-11-05/More%20Performance%20From%20Every%20Byte_%20How%20Full-Stack%20Codesign%20Solves%20AI_s%20Memory%20Challenge.md)
-- [Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory](docs/nvidia/developer/2026-11-05/Five%20Ways%20NVIDIA%20Co-Design%20Maximizes%20the%20Value%20of%20Every%20Byte%20in%20the%20AI%20Factory.md)
-- [‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW](docs/nvidia/blogs/2026-11-05/Hogwarts%20Legacy_%20Gets%20a%20Magical%20NVIDIA%20DLSS%205%20Upgrade%20on%20GeForce%20NOW.md)
+- [A Message to Our Company](docs/nvidia/newsroom/2026-11-08/A%20Message%20to%20Our%20Company.md)
+- [Statement from NVIDIA Board of Directors](docs/nvidia/newsroom/2026-11-08/Statement%20from%20NVIDIA%20Board%20of%20Directors.md)
+- [Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](docs/nvidia/developer/2026-11-06/Speed%20Up%20Image%20Generation%20with%20FLUX%203%20Image%20Klein%20on%20NVIDIA%20Blackwell%20GPUs.md)
+- [Accelerating Reinforcement Learning Weight Refit with the Reshard Collective](docs/nvidia/developer/2026-11-06/Accelerating%20Reinforcement%20Learning%20Weight%20Refit%20with%20the%20Reshard%20Collective.md)
+- [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](docs/nvidia/blogs/2026-11-06/How%20NVIDIA%20Open%20Source%20Tools%20Are%20Helping%20Researchers%20Build%20Next-Generation%206G%20Networks.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
