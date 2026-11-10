@@ -35,8 +35,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [ToyBlocks: A controlled world for robot learning and evaluation](docs/huggingface/blog/2026-11-06/ToyBlocks_%20A%20controlled%20world%20for%20robot%20learning%20and%20evaluation.md)
-- [Egyptian and Nigerian English join the Open ASR Leaderboard](docs/huggingface/blog/2026-11-06/Egyptian%20and%20Nigerian%20English%20join%20the%20Open%20ASR%20Leaderboard.md)
+- [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](docs/huggingface/blog/2026-11-09/Nemotron-Personas-Finance-Japan_%20A%20Synthetic%20Dataset%20Capturing%20Japan_s%20Demographics%20and%20Financial%20Context.md)
+- [Your Experts Have Partners. There's HOPE for Keeping Them Together](docs/huggingface/blog/2026-11-09/Your%20Experts%20Have%20Partners_%20There_s%20HOPE%20for%20Keeping%20Them%20Together.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
