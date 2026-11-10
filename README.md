@@ -8,10 +8,17 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot](docs/google/cloud/2026-11-06/The%20Blueprint_%20Orchestrating%205_000_%20AI%20assets%20for%20a%20World%20Cup%20TV%20spot.md)
-- [Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems](docs/google/cloud/2026-11-06/Introducing%20Z4M_%20storage-optimized%20compute%20for%20AI_ML%20and%20parallel%20file%20systems.md)
-- [Zero-shot predictions in Pandas using the new BigQuery Accessor](docs/google/cloud/2026-11-06/Zero-shot%20predictions%20in%20Pandas%20using%20the%20new%20BigQuery%20Accessor.md)
-- [Bringing conversational analytics to Gemini with Agentic Data Cloud connectors](docs/google/cloud/2026-11-05/Bringing%20conversational%20analytics%20to%20Gemini%20with%20Agentic%20Data%20Cloud%20connectors.md)
+- [The open AI-native stack on Kubernetes: From open models to distributed inference and agents](docs/google/cloud/2026-11-10/The%20open%20AI-native%20stack%20on%20Kubernetes_%20From%20open%20models%20to%20distributed%20inference%20and%20agents.md)
+- [Exploring the world's languages with Language Explorer](docs/google/research/2026-11-09/Exploring%20the%20world_s%20languages%20with%20Language%20Explorer.md)
+- [Developers can now build with Google Maps Platform in AI Studio.](docs/google/blog/2026-11-09/Developers%20can%20now%20build%20with%20Google%20Maps%20Platform%20in%20AI%20Studio.md)
+- [New survey finds enterprises trapped between legacy software and AI modernization](docs/google/cloud/2026-11-09/New%20survey%20finds%20enterprises%20trapped%20between%20legacy%20software%20and%20AI%20modernization.md)
+- [Cloud CISO Perspectives: Our security forecast for 2027](docs/google/cloud/2026-11-09/Cloud%20CISO%20Perspectives_%20Our%20security%20forecast%20for%202027.md)
+- [Our newest TPUs: 8tx and 8i Max, built for the agentic era](docs/google/blog/2026-11-09/Our%20newest%20TPUs_%208tx%20and%208i%20Max_%20built%20for%20the%20agentic%20era.md)
+- [Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU](docs/google/cloud/2026-11-09/Introducing%20TPU%20Sync_%20Fast%20KV%20cache%20and%20weight%20transfer%20for%20inference%20and%20RL%20on%20TPU.md)
+- [Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs](docs/google/cloud/2026-11-09/Now%20generally%20available_%20GKE%20dynamic%20slicing%20for%20higher%20resilience_%20and%20efficiency%20for%20TPUs.md)
+- [Our newest TPUs: 8tx and 8i Max, built for the agentic era](docs/google/cloud/2026-11-09/Our%20newest%20TPUs_%208tx%20and%208i%20Max_%20built%20for%20the%20agentic%20era.md)
+- [Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA](docs/google/cloud/2026-11-09/Cloud%20Pathways_%20a%20distributed%20ML%20runtime%20for%20massive%20accelerator%20fleets_%20now%20GA.md)
+- [Holiday 100: Your guide to this year’s top trending gifts](docs/google/blog/2026-11-09/Holiday%20100_%20Your%20guide%20to%20this%20year_s%20top%20trending%20gifts.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
