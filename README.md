@@ -16,11 +16,14 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [A Message to Our Company](docs/nvidia/newsroom/2026-11-08/A%20Message%20to%20Our%20Company.md)
-- [Statement from NVIDIA Board of Directors](docs/nvidia/newsroom/2026-11-08/Statement%20from%20NVIDIA%20Board%20of%20Directors.md)
-- [Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs](docs/nvidia/developer/2026-11-06/Speed%20Up%20Image%20Generation%20with%20FLUX%203%20Image%20Klein%20on%20NVIDIA%20Blackwell%20GPUs.md)
-- [Accelerating Reinforcement Learning Weight Refit with the Reshard Collective](docs/nvidia/developer/2026-11-06/Accelerating%20Reinforcement%20Learning%20Weight%20Refit%20with%20the%20Reshard%20Collective.md)
-- [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](docs/nvidia/blogs/2026-11-06/How%20NVIDIA%20Open%20Source%20Tools%20Are%20Helping%20Researchers%20Build%20Next-Generation%206G%20Networks.md)
+- [Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5](docs/nvidia/developer/2026-11-09/Make%20a%20Robot%20Arm%20Feel%20Weightless%20with%20NVIDIA%20Holoscan%205.md)
+- [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](docs/nvidia/blogs/2026-11-09/Practice%20Makes%20Precise_%20At%20CoRL_%20NVIDIA%20and%20Partners%20Reveal%20How%20Robots%20Rehearse%20Delicate%20Work%20in%20Simulation.md)
+- [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](docs/nvidia/blogs/2026-11-09/NVIDIA%20Announces%20New%20Planned%20Investments%20in%20Korean%20Startups%20at%20the%20MSIT-NVIDIA%20AI%20Startup%20Partnership%20Forum.md)
+- [Korea Advances Physical AI Across Industries With NVIDIA](docs/nvidia/blogs/2026-11-09/Korea%20Advances%20Physical%20AI%20Across%20Industries%20With%20NVIDIA.md)
+- [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](docs/nvidia/blogs/2026-11-09/Korea_s%20AI%20Ecosystem%20Advances%20and%20Secures%20Agentic%20AI%20With%20NVIDIA.md)
+- [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](docs/nvidia/blogs/2026-11-09/From%20Chips%20to%20Skills_%20NVIDIA%20and%20Korea%20Expand%20Sovereign%20AI%20Collaboration.md)
+- [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](docs/nvidia/blogs/2026-11-09/NVIDIA%20Dynamo%20Recipes%20Bring%20Korea_s%20Leading%20Open%20Models%20to%20Production.md)
+- [NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion](docs/nvidia/newsroom/2026-11-09/NVIDIA_%20Rebellions%20and%20SK%20Telecom%20Announce%20Collaboration%20to%20Advance%20Sovereign%20AI%20Infrastructure%20With%20NVIDIA%20NVLink%20Fusion.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
