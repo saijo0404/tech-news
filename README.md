@@ -8,17 +8,26 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [The open AI-native stack on Kubernetes: From open models to distributed inference and agents](docs/google/cloud/2026-11-10/The%20open%20AI-native%20stack%20on%20Kubernetes_%20From%20open%20models%20to%20distributed%20inference%20and%20agents.md)
-- [Exploring the world's languages with Language Explorer](docs/google/research/2026-11-09/Exploring%20the%20world_s%20languages%20with%20Language%20Explorer.md)
-- [Developers can now build with Google Maps Platform in AI Studio.](docs/google/blog/2026-11-09/Developers%20can%20now%20build%20with%20Google%20Maps%20Platform%20in%20AI%20Studio.md)
-- [New survey finds enterprises trapped between legacy software and AI modernization](docs/google/cloud/2026-11-09/New%20survey%20finds%20enterprises%20trapped%20between%20legacy%20software%20and%20AI%20modernization.md)
-- [Cloud CISO Perspectives: Our security forecast for 2027](docs/google/cloud/2026-11-09/Cloud%20CISO%20Perspectives_%20Our%20security%20forecast%20for%202027.md)
-- [Our newest TPUs: 8tx and 8i Max, built for the agentic era](docs/google/blog/2026-11-09/Our%20newest%20TPUs_%208tx%20and%208i%20Max_%20built%20for%20the%20agentic%20era.md)
-- [Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU](docs/google/cloud/2026-11-09/Introducing%20TPU%20Sync_%20Fast%20KV%20cache%20and%20weight%20transfer%20for%20inference%20and%20RL%20on%20TPU.md)
-- [Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs](docs/google/cloud/2026-11-09/Now%20generally%20available_%20GKE%20dynamic%20slicing%20for%20higher%20resilience_%20and%20efficiency%20for%20TPUs.md)
-- [Our newest TPUs: 8tx and 8i Max, built for the agentic era](docs/google/cloud/2026-11-09/Our%20newest%20TPUs_%208tx%20and%208i%20Max_%20built%20for%20the%20agentic%20era.md)
-- [Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA](docs/google/cloud/2026-11-09/Cloud%20Pathways_%20a%20distributed%20ML%20runtime%20for%20massive%20accelerator%20fleets_%20now%20GA.md)
-- [Holiday 100: Your guide to this year’s top trending gifts](docs/google/blog/2026-11-09/Holiday%20100_%20Your%20guide%20to%20this%20year_s%20top%20trending%20gifts.md)
+- [Gemini Intelligence: New features, on more devices](docs/google/blog/2026-11-10/Gemini%20Intelligence_%20New%20features_%20on%20more%20devices.md)
+- [Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop](docs/google/blog/2026-11-10/Pixel%2010%20with%20Gemini%20Intelligence_%20custom%20widgets_%20and%20more%20in%20our%20November%20Pixel%20Drop.md)
+- [Get step-by-step workout guidance on your Pixel Watch.](docs/google/blog/2026-11-10/Get%20step-by-step%20workout%20guidance%20on%20your%20Pixel%20Watch.md)
+- [Introducing Google Fi’s new super network](docs/google/blog/2026-11-10/Introducing%20Google%20Fi_s%20new%20super%20network.md)
+- [Inside the Gemini factory: Accelerating partner solutions](docs/google/cloud/2026-11-10/Inside%20the%20Gemini%20factory_%20Accelerating%20partner%20solutions.md)
+- [Don't just flag it, fix it: How to run CodeMender in your pull requests](docs/google/cloud/2026-11-10/Don_t%20just%20flag%20it_%20fix%20it_%20How%20to%20run%20CodeMender%20in%20your%20pull%20requests.md)
+- [BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy](docs/google/cloud/2026-11-10/BigQuery%20measures%20is%20now%20GA_%20Unifying%20BI%20metrics%20and%20knowledge%20graphs%20for%20AI%20accuracy.md)
+- [Gemini 4 Carbon is now available](docs/google/deepmind/2026-11-10/Gemini%204%20Carbon%20is%20now%20available.md)
+- [Gemini 4 Carbon is now available for developers.](docs/google/blog/2026-11-10/Gemini%204%20Carbon%20is%20now%20available%20for%20developers.md)
+- [Introducing the Multimodal Knowledge Agent benchmark](docs/google/blog/2026-11-10/Introducing%20the%20Multimodal%20Knowledge%20Agent%20benchmark.md)
+- [Gemini 4 Carbon is now available](docs/google/blog/2026-11-10/Gemini%204%20Carbon%20is%20now%20available.md)
+- [Introducing 3 new domains: .eat, .fly, and .here](docs/google/blog/2026-11-10/Introducing%203%20new%20domains_%20_eat_%20_fly_%20and%20_here.md)
+- [Experimenting with ClusterNetworkPolicy in GKE](docs/google/cloud/2026-11-10/Experimenting%20with%20ClusterNetworkPolicy%20in%20GKE.md)
+- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](docs/google/blog/2026-11-10/We_re%20bringing%20Adobe_s%20creative%20and%20productivity%20tools%20closer%20to%20your%20everyday%20Google%20apps.md)
+- [40 years of American culinary history with the James Beard Foundation](docs/google/blog/2026-11-10/40%20years%20of%20American%20culinary%20history%20with%20the%20James%20Beard%20Foundation.md)
+- [Google Cloud launches Gemini for healthcare.](docs/google/blog/2026-11-10/Google%20Cloud%20launches%20Gemini%20for%20healthcare.md)
+- [Waze and Garmin team up to boost driver awareness of cyclists.](docs/google/blog/2026-11-10/Waze%20and%20Garmin%20team%20up%20to%20boost%20driver%20awareness%20of%20cyclists.md)
+- [The Blueprint: How Authentic Brands Group expands creativity with AuthOS](docs/google/cloud/2026-11-10/The%20Blueprint_%20How%20Authentic%20Brands%20Group%20expands%20creativity%20with%20AuthOS.md)
+- [Introducing Gemini for healthcare](docs/google/cloud/2026-11-10/Introducing%20Gemini%20for%20healthcare.md)
+- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](docs/google/deepmind/2026-11-05/Gemini%20Omni%201_2%20Flash_%20Fast%20and%20cost-effective%20with%20longer%20clips.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
