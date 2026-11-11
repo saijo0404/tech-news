@@ -48,8 +48,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Migrating vLLM to the LibTorch Stable ABI](docs/vllm/blog/2026-11-06/Migrating%20vLLM%20to%20the%20LibTorch%20Stable%20ABI.md)
-- [Zero Mismatch, Simple Async RL: REINFORCE Zero, DeepSeek-V4.1 and Kimi K3.1](docs/vllm/blog/2026-11-06/Zero%20Mismatch_%20Simple%20Async%20RL_%20REINFORCE%20Zero_%20DeepSeek-V4_1%20and%20Kimi%20K3_1.md)
+- [VeRL-Omni v0.3.0: Async Training and Broader Multimodal Post-Training](docs/vllm/blog/2026-11-06/VeRL-Omni%20v0_3_0_%20Async%20Training%20and%20Broader%20Multimodal%20Post-Training.md)
 <!-- END:vllm -->
 
 ---
