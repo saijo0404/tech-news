@@ -23,14 +23,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5](docs/nvidia/developer/2026-11-09/Make%20a%20Robot%20Arm%20Feel%20Weightless%20with%20NVIDIA%20Holoscan%205.md)
-- [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](docs/nvidia/blogs/2026-11-09/Practice%20Makes%20Precise_%20At%20CoRL_%20NVIDIA%20and%20Partners%20Reveal%20How%20Robots%20Rehearse%20Delicate%20Work%20in%20Simulation.md)
-- [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](docs/nvidia/blogs/2026-11-09/NVIDIA%20Announces%20New%20Planned%20Investments%20in%20Korean%20Startups%20at%20the%20MSIT-NVIDIA%20AI%20Startup%20Partnership%20Forum.md)
-- [Korea Advances Physical AI Across Industries With NVIDIA](docs/nvidia/blogs/2026-11-09/Korea%20Advances%20Physical%20AI%20Across%20Industries%20With%20NVIDIA.md)
-- [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](docs/nvidia/blogs/2026-11-09/Korea_s%20AI%20Ecosystem%20Advances%20and%20Secures%20Agentic%20AI%20With%20NVIDIA.md)
-- [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](docs/nvidia/blogs/2026-11-09/From%20Chips%20to%20Skills_%20NVIDIA%20and%20Korea%20Expand%20Sovereign%20AI%20Collaboration.md)
-- [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](docs/nvidia/blogs/2026-11-09/NVIDIA%20Dynamo%20Recipes%20Bring%20Korea_s%20Leading%20Open%20Models%20to%20Production.md)
-- [NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion](docs/nvidia/newsroom/2026-11-09/NVIDIA_%20Rebellions%20and%20SK%20Telecom%20Announce%20Collaboration%20to%20Advance%20Sovereign%20AI%20Infrastructure%20With%20NVIDIA%20NVLink%20Fusion.md)
+- [Statement From the Independent Members of the NVIDIA Board](docs/nvidia/newsroom/2026-11-10/Statement%20From%20the%20Independent%20Members%20of%20the%20NVIDIA%20Board.md)
+- [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](docs/nvidia/blogs/2026-11-10/NVIDIA%20Expands%20Open%20Source%20Commitment%20With%20OpenShell%20Donation%20and%20New%20AI%20Infrastructure.md)
+- [Running AV Reasoning Models Within Onboard Compute and Latency Limits](docs/nvidia/developer/2026-11-10/Running%20AV%20Reasoning%20Models%20Within%20Onboard%20Compute%20and%20Latency%20Limits.md)
+- [Agent Substrate: Advancing Kubernetes for Agents at Scale](docs/nvidia/developer/2026-11-10/Agent%20Substrate_%20Advancing%20Kubernetes%20for%20Agents%20at%20Scale.md)
+- [Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot](docs/nvidia/developer/2026-11-10/Start%20and%20Restore%20GPU%20Workloads%20in%20Seconds%20with%20NVIDIA%20Snapshot.md)
+- [Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine](docs/nvidia/developer/2026-11-10/Manage%20Kubernetes%20Clusters%20for%20GPU%20Infrastructure%20with%20NVIDIA%20Kubernetes%20Engine.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
