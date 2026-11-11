@@ -42,8 +42,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](docs/huggingface/blog/2026-11-09/Nemotron-Personas-Finance-Japan_%20A%20Synthetic%20Dataset%20Capturing%20Japan_s%20Demographics%20and%20Financial%20Context.md)
-- [Your Experts Have Partners. There's HOPE for Keeping Them Together](docs/huggingface/blog/2026-11-09/Your%20Experts%20Have%20Partners_%20There_s%20HOPE%20for%20Keeping%20Them%20Together.md)
+- [Pay for Hugging Face Hub with your Google Cloud Account](docs/huggingface/blog/2026-11-10/Pay%20for%20Hugging%20Face%20Hub%20with%20your%20Google%20Cloud%20Account.md)
+- [Decision Models in Hugging Face](docs/huggingface/blog/2026-11-10/Decision%20Models%20in%20Hugging%20Face.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
