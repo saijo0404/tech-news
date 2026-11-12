@@ -36,7 +36,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [VeRL-Omni v0.3.0: Async Training and Broader Multimodal Post-Training](docs/vllm/blog/2026-11-06/VeRL-Omni%20v0_3_0_%20Async%20Training%20and%20Broader%20Multimodal%20Post-Training.md)
+- [Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD](docs/vllm/blog/2026-11-11/Encoder%20Disaggregation%20in%20vLLM_%20Scaling%20Multimodal%20Serving%20with%20EPD.md)
 <!-- END:vllm -->
 
 ---
