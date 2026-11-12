@@ -30,8 +30,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Pay for Hugging Face Hub with your Google Cloud Account](docs/huggingface/blog/2026-11-10/Pay%20for%20Hugging%20Face%20Hub%20with%20your%20Google%20Cloud%20Account.md)
-- [Decision Models in Hugging Face](docs/huggingface/blog/2026-11-10/Decision%20Models%20in%20Hugging%20Face.md)
+- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](docs/huggingface/blog/2026-11-11/BotPsy_%20On-Device%20Personal%20Assistant%20with%20a%20Sub-Billion-Parameter%20Agentic%20Language%20Model.md)
+- [Token Pooling-Aware Training for Multi-Vector Embedding Models](docs/huggingface/blog/2026-11-11/Token%20Pooling-Aware%20Training%20for%20Multi-Vector%20Embedding%20Models.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
