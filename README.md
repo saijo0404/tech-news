@@ -32,12 +32,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Statement From the Independent Members of the NVIDIA Board](docs/nvidia/newsroom/2026-11-10/Statement%20From%20the%20Independent%20Members%20of%20the%20NVIDIA%20Board.md)
-- [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](docs/nvidia/blogs/2026-11-10/NVIDIA%20Expands%20Open%20Source%20Commitment%20With%20OpenShell%20Donation%20and%20New%20AI%20Infrastructure.md)
-- [Running AV Reasoning Models Within Onboard Compute and Latency Limits](docs/nvidia/developer/2026-11-10/Running%20AV%20Reasoning%20Models%20Within%20Onboard%20Compute%20and%20Latency%20Limits.md)
-- [Agent Substrate: Advancing Kubernetes for Agents at Scale](docs/nvidia/developer/2026-11-10/Agent%20Substrate_%20Advancing%20Kubernetes%20for%20Agents%20at%20Scale.md)
-- [Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot](docs/nvidia/developer/2026-11-10/Start%20and%20Restore%20GPU%20Workloads%20in%20Seconds%20with%20NVIDIA%20Snapshot.md)
-- [Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine](docs/nvidia/developer/2026-11-10/Manage%20Kubernetes%20Clusters%20for%20GPU%20Infrastructure%20with%20NVIDIA%20Kubernetes%20Engine.md)
+- [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](docs/nvidia/developer/2026-11-11/Validating%20GPU%20Platforms%20with%20Runtime%20AI%20Inventory%20via%20the%20NVIDIA%20DSX%20AI%20Factory.md)
+- [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](docs/nvidia/blogs/2026-11-11/How%20AI%20Helps%20Recyclers%20Turn%20Mixed%20Waste%20Into%20Reusable%20Material.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
