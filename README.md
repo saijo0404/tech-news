@@ -8,26 +8,18 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Gemini Intelligence: New features, on more devices](docs/google/blog/2026-11-10/Gemini%20Intelligence_%20New%20features_%20on%20more%20devices.md)
-- [Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop](docs/google/blog/2026-11-10/Pixel%2010%20with%20Gemini%20Intelligence_%20custom%20widgets_%20and%20more%20in%20our%20November%20Pixel%20Drop.md)
-- [Get step-by-step workout guidance on your Pixel Watch.](docs/google/blog/2026-11-10/Get%20step-by-step%20workout%20guidance%20on%20your%20Pixel%20Watch.md)
-- [Introducing Google Fi’s new super network](docs/google/blog/2026-11-10/Introducing%20Google%20Fi_s%20new%20super%20network.md)
-- [Inside the Gemini factory: Accelerating partner solutions](docs/google/cloud/2026-11-10/Inside%20the%20Gemini%20factory_%20Accelerating%20partner%20solutions.md)
-- [Don't just flag it, fix it: How to run CodeMender in your pull requests](docs/google/cloud/2026-11-10/Don_t%20just%20flag%20it_%20fix%20it_%20How%20to%20run%20CodeMender%20in%20your%20pull%20requests.md)
-- [BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy](docs/google/cloud/2026-11-10/BigQuery%20measures%20is%20now%20GA_%20Unifying%20BI%20metrics%20and%20knowledge%20graphs%20for%20AI%20accuracy.md)
-- [Gemini 4 Carbon is now available](docs/google/deepmind/2026-11-10/Gemini%204%20Carbon%20is%20now%20available.md)
-- [Gemini 4 Carbon is now available for developers.](docs/google/blog/2026-11-10/Gemini%204%20Carbon%20is%20now%20available%20for%20developers.md)
-- [Introducing the Multimodal Knowledge Agent benchmark](docs/google/blog/2026-11-10/Introducing%20the%20Multimodal%20Knowledge%20Agent%20benchmark.md)
-- [Gemini 4 Carbon is now available](docs/google/blog/2026-11-10/Gemini%204%20Carbon%20is%20now%20available.md)
-- [Introducing 3 new domains: .eat, .fly, and .here](docs/google/blog/2026-11-10/Introducing%203%20new%20domains_%20_eat_%20_fly_%20and%20_here.md)
-- [Experimenting with ClusterNetworkPolicy in GKE](docs/google/cloud/2026-11-10/Experimenting%20with%20ClusterNetworkPolicy%20in%20GKE.md)
-- [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](docs/google/blog/2026-11-10/We_re%20bringing%20Adobe_s%20creative%20and%20productivity%20tools%20closer%20to%20your%20everyday%20Google%20apps.md)
-- [40 years of American culinary history with the James Beard Foundation](docs/google/blog/2026-11-10/40%20years%20of%20American%20culinary%20history%20with%20the%20James%20Beard%20Foundation.md)
-- [Google Cloud launches Gemini for healthcare.](docs/google/blog/2026-11-10/Google%20Cloud%20launches%20Gemini%20for%20healthcare.md)
-- [Waze and Garmin team up to boost driver awareness of cyclists.](docs/google/blog/2026-11-10/Waze%20and%20Garmin%20team%20up%20to%20boost%20driver%20awareness%20of%20cyclists.md)
-- [The Blueprint: How Authentic Brands Group expands creativity with AuthOS](docs/google/cloud/2026-11-10/The%20Blueprint_%20How%20Authentic%20Brands%20Group%20expands%20creativity%20with%20AuthOS.md)
-- [Introducing Gemini for healthcare](docs/google/cloud/2026-11-10/Introducing%20Gemini%20for%20healthcare.md)
-- [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](docs/google/deepmind/2026-11-05/Gemini%20Omni%201_2%20Flash_%20Fast%20and%20cost-effective%20with%20longer%20clips.md)
+- [Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching](docs/google/research/2026-11-11/Using%20wearables%20to%20enable%20cardiovascular-kidney-metabolic%20_CKM_%20risk%20profiling%20for%20personalized%20coaching.md)
+- [Gemini Decisions API: Fast, calibrated multimodal decisions](docs/google/blog/2026-11-11/Gemini%20Decisions%20API_%20Fast_%20calibrated%20multimodal%20decisions.md)
+- [Built on Googlebook: Play Henry Cavill’s video game to support Movember](docs/google/blog/2026-11-11/Built%20on%20Googlebook_%20Play%20Henry%20Cavill_s%20video%20game%20to%20support%20Movember.md)
+- [Talk it through with Gemini, now on Apple CarPlay](docs/google/blog/2026-11-11/Talk%20it%20through%20with%20Gemini_%20now%20on%20Apple%20CarPlay.md)
+- [Google’s ongoing commitment to the veteran community](docs/google/blog/2026-11-11/Google_s%20ongoing%20commitment%20to%20the%20veteran%20community.md)
+- [Google Cloud leaders share what to expect in cybersecurity for 2027.](docs/google/blog/2026-11-11/Google%20Cloud%20leaders%20share%20what%20to%20expect%20in%20cybersecurity%20for%202027.md)
+- [Get certified as a Google Cloud Professional Agentic Architect.](docs/google/blog/2026-11-11/Get%20certified%20as%20a%20Google%20Cloud%20Professional%20Agentic%20Architect.md)
+- [How lemonflow built real-time agents for EV charging using Gemma and TPUs](docs/google/cloud/2026-11-11/How%20lemonflow%20built%20real-time%20agents%20for%20EV%20charging%20using%20Gemma%20and%20TPUs.md)
+- [Introducing new AI functions for AlloyDB: ai.classify and ai.extract](docs/google/cloud/2026-11-11/Introducing%20new%20AI%20functions%20for%20AlloyDB_%20ai_classify%20and%20ai_extract.md)
+- [Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification](docs/google/cloud/2026-11-11/Don_t%20just%20prompt%20AI%20_%20architect%20it_%20Introducing%20the%20Professional%20Agentic%20Architect%20Certification.md)
+- [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](docs/google/blog/2026-11-11/Try%20Tabletop_%20Customizable_%20collaborative%20spaces%20for%20groups%20to%20plan_%20play%20and%20do%20more%20together.md)
+- [Experience the art and legacy of Dr. Esther Mahlangu](docs/google/blog/2026-11-11/Experience%20the%20art%20and%20legacy%20of%20Dr_%20Esther%20Mahlangu.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
