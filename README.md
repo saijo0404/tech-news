@@ -8,18 +8,23 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching](docs/google/research/2026-11-11/Using%20wearables%20to%20enable%20cardiovascular-kidney-metabolic%20_CKM_%20risk%20profiling%20for%20personalized%20coaching.md)
-- [Gemini Decisions API: Fast, calibrated multimodal decisions](docs/google/blog/2026-11-11/Gemini%20Decisions%20API_%20Fast_%20calibrated%20multimodal%20decisions.md)
-- [Built on Googlebook: Play Henry Cavill’s video game to support Movember](docs/google/blog/2026-11-11/Built%20on%20Googlebook_%20Play%20Henry%20Cavill_s%20video%20game%20to%20support%20Movember.md)
-- [Talk it through with Gemini, now on Apple CarPlay](docs/google/blog/2026-11-11/Talk%20it%20through%20with%20Gemini_%20now%20on%20Apple%20CarPlay.md)
-- [Google’s ongoing commitment to the veteran community](docs/google/blog/2026-11-11/Google_s%20ongoing%20commitment%20to%20the%20veteran%20community.md)
-- [Google Cloud leaders share what to expect in cybersecurity for 2027.](docs/google/blog/2026-11-11/Google%20Cloud%20leaders%20share%20what%20to%20expect%20in%20cybersecurity%20for%202027.md)
-- [Get certified as a Google Cloud Professional Agentic Architect.](docs/google/blog/2026-11-11/Get%20certified%20as%20a%20Google%20Cloud%20Professional%20Agentic%20Architect.md)
-- [How lemonflow built real-time agents for EV charging using Gemma and TPUs](docs/google/cloud/2026-11-11/How%20lemonflow%20built%20real-time%20agents%20for%20EV%20charging%20using%20Gemma%20and%20TPUs.md)
-- [Introducing new AI functions for AlloyDB: ai.classify and ai.extract](docs/google/cloud/2026-11-11/Introducing%20new%20AI%20functions%20for%20AlloyDB_%20ai_classify%20and%20ai_extract.md)
-- [Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification](docs/google/cloud/2026-11-11/Don_t%20just%20prompt%20AI%20_%20architect%20it_%20Introducing%20the%20Professional%20Agentic%20Architect%20Certification.md)
-- [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](docs/google/blog/2026-11-11/Try%20Tabletop_%20Customizable_%20collaborative%20spaces%20for%20groups%20to%20plan_%20play%20and%20do%20more%20together.md)
-- [Experience the art and legacy of Dr. Esther Mahlangu](docs/google/blog/2026-11-11/Experience%20the%20art%20and%20legacy%20of%20Dr_%20Esther%20Mahlangu.md)
+- [5 new Google Flow Tools designed by visual artists](docs/google/blog/2026-11-12/5%20new%20Google%20Flow%20Tools%20designed%20by%20visual%20artists.md)
+- [Chrome Enterprise brings more protections to healthcare technologies](docs/google/cloud/2026-11-12/Chrome%20Enterprise%20brings%20more%20protections%20to%20healthcare%20technologies.md)
+- [Google Search gets a major upgrade with Gemini 4 Hydrogen](docs/google/blog/2026-11-12/Google%20Search%20gets%20a%20major%20upgrade%20with%20Gemini%204%20Hydrogen.md)
+- [Gemini 4 Hydrogen: everyday coding and agentic workflows for developers](docs/google/blog/2026-11-12/Gemini%204%20Hydrogen_%20everyday%20coding%20and%20agentic%20workflows%20for%20developers.md)
+- [Introducing Gemini 4 Hydrogen](docs/google/blog/2026-11-12/Introducing%20Gemini%204%20Hydrogen.md)
+- [Scientists are using Google AI to help restore giant kelp forests.](docs/google/blog/2026-11-12/Scientists%20are%20using%20Google%20AI%20to%20help%20restore%20giant%20kelp%20forests.md)
+- [Meet the 2026 Google PhD Fellows](docs/google/blog/2026-11-12/Meet%20the%202026%20Google%20PhD%20Fellows.md)
+- [We're launching a $10 million Energy Impact Program in West Virginia.](docs/google/blog/2026-11-12/We_re%20launching%20a%20_10%20million%20Energy%20Impact%20Program%20in%20West%20Virginia.md)
+- [Get quick answers from Gemini on any website.](docs/google/blog/2026-11-12/Get%20quick%20answers%20from%20Gemini%20on%20any%20website.md)
+- [Powering agentic cloud governance: What's new in Organization Policy](docs/google/cloud/2026-11-12/Powering%20agentic%20cloud%20governance_%20What_s%20new%20in%20Organization%20Policy.md)
+- [Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect](docs/google/cloud/2026-11-12/Simplifying%20last%20mile%20cloud%20connectivity%20with%20Lumen%20and%20partner%20Cross-Cloud%20Interconnect.md)
+- [What’s new with Google Data Cloud](docs/google/cloud/2026-11-12/What_s%20new%20with%20Google%20Data%20Cloud.md)
+- [Autonomous defense at cloud speed with SentinelOne and Google Security Operations](docs/google/cloud/2026-11-12/Autonomous%20defense%20at%20cloud%20speed%20with%20SentinelOne%20and%20Google%20Security%20Operations.md)
+- [Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms](docs/google/cloud/2026-11-12/Google%20named%20the%20furthest%20in%20vision%20for%20the%20Gartner%20Magic%20Quadrant%20for%20Data%20Lakehouse%20Platforms.md)
+- [Designing for privacy on intelligent eyewear](docs/google/blog/2026-11-12/Designing%20for%20privacy%20on%20intelligent%20eyewear.md)
+- [See our intelligent eyewear lineup and pre-order your pair](docs/google/blog/2026-11-12/See%20our%20intelligent%20eyewear%20lineup%20and%20pre-order%20your%20pair.md)
+- [We’re introducing a new transparency tool for invalid traffic in Google Ads.](docs/google/blog/2026-11-12/We_re%20introducing%20a%20new%20transparency%20tool%20for%20invalid%20traffic%20in%20Google%20Ads.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
