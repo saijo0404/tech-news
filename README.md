@@ -35,8 +35,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](docs/huggingface/blog/2026-11-11/BotPsy_%20On-Device%20Personal%20Assistant%20with%20a%20Sub-Billion-Parameter%20Agentic%20Language%20Model.md)
-- [Token Pooling-Aware Training for Multi-Vector Embedding Models](docs/huggingface/blog/2026-11-11/Token%20Pooling-Aware%20Training%20for%20Multi-Vector%20Embedding%20Models.md)
+- [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](docs/huggingface/blog/2026-11-12/LLMON_%20An%20LLM-Native%20Markup%20Language_%20now%20in%20Granite%204_1%203B%20and%208B.md)
+- [The Definitive Fine-Tuning Guide for 3D Generation Models](docs/huggingface/blog/2026-11-12/The%20Definitive%20Fine-Tuning%20Guide%20for%203D%20Generation%20Models.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
