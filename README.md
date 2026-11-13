@@ -24,8 +24,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory](docs/nvidia/developer/2026-11-11/Validating%20GPU%20Platforms%20with%20Runtime%20AI%20Inventory%20via%20the%20NVIDIA%20DSX%20AI%20Factory.md)
-- [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](docs/nvidia/blogs/2026-11-11/How%20AI%20Helps%20Recyclers%20Turn%20Mixed%20Waste%20Into%20Reusable%20Material.md)
+- [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](docs/nvidia/blogs/2026-11-12/A%20New%20Dawn%20in%20the%20Cloud_%20_Warhammer%2040_000_%20Dawn%20of%20War%20IV_%20Is%20Coming%20to%20GeForce%20NOW.md)
+- [NVIDIA Announces CEO Transition](docs/nvidia/newsroom/2026-11-12/NVIDIA%20Announces%20CEO%20Transition.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
