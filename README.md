@@ -33,8 +33,9 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](docs/huggingface/blog/2026-11-12/LLMON_%20An%20LLM-Native%20Markup%20Language_%20now%20in%20Granite%204_1%203B%20and%208B.md)
-- [The Definitive Fine-Tuning Guide for 3D Generation Models](docs/huggingface/blog/2026-11-12/The%20Definitive%20Fine-Tuning%20Guide%20for%203D%20Generation%20Models.md)
+- [Build a Robot Pick-and-Place Simulation with SimReady Assets](docs/huggingface/blog/2026-11-13/Build%20a%20Robot%20Pick-and-Place%20Simulation%20with%20SimReady%20Assets.md)
+- [XYBench: Helping with the problem behind the question](docs/huggingface/blog/2026-11-13/XYBench_%20Helping%20with%20the%20problem%20behind%20the%20question.md)
+- [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](docs/huggingface/blog/2026-11-13/llama_cpp%20v1_0_0%20_%20A%20stronger%20foundation%20for%20the%20local%20AI%20ecosystem.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
