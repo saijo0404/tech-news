@@ -8,23 +8,16 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [5 new Google Flow Tools designed by visual artists](docs/google/blog/2026-11-12/5%20new%20Google%20Flow%20Tools%20designed%20by%20visual%20artists.md)
-- [Chrome Enterprise brings more protections to healthcare technologies](docs/google/cloud/2026-11-12/Chrome%20Enterprise%20brings%20more%20protections%20to%20healthcare%20technologies.md)
-- [Google Search gets a major upgrade with Gemini 4 Hydrogen](docs/google/blog/2026-11-12/Google%20Search%20gets%20a%20major%20upgrade%20with%20Gemini%204%20Hydrogen.md)
-- [Gemini 4 Hydrogen: everyday coding and agentic workflows for developers](docs/google/blog/2026-11-12/Gemini%204%20Hydrogen_%20everyday%20coding%20and%20agentic%20workflows%20for%20developers.md)
-- [Introducing Gemini 4 Hydrogen](docs/google/blog/2026-11-12/Introducing%20Gemini%204%20Hydrogen.md)
-- [Scientists are using Google AI to help restore giant kelp forests.](docs/google/blog/2026-11-12/Scientists%20are%20using%20Google%20AI%20to%20help%20restore%20giant%20kelp%20forests.md)
-- [Meet the 2026 Google PhD Fellows](docs/google/blog/2026-11-12/Meet%20the%202026%20Google%20PhD%20Fellows.md)
-- [We're launching a $10 million Energy Impact Program in West Virginia.](docs/google/blog/2026-11-12/We_re%20launching%20a%20_10%20million%20Energy%20Impact%20Program%20in%20West%20Virginia.md)
-- [Get quick answers from Gemini on any website.](docs/google/blog/2026-11-12/Get%20quick%20answers%20from%20Gemini%20on%20any%20website.md)
-- [Powering agentic cloud governance: What's new in Organization Policy](docs/google/cloud/2026-11-12/Powering%20agentic%20cloud%20governance_%20What_s%20new%20in%20Organization%20Policy.md)
-- [Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect](docs/google/cloud/2026-11-12/Simplifying%20last%20mile%20cloud%20connectivity%20with%20Lumen%20and%20partner%20Cross-Cloud%20Interconnect.md)
-- [What’s new with Google Data Cloud](docs/google/cloud/2026-11-12/What_s%20new%20with%20Google%20Data%20Cloud.md)
-- [Autonomous defense at cloud speed with SentinelOne and Google Security Operations](docs/google/cloud/2026-11-12/Autonomous%20defense%20at%20cloud%20speed%20with%20SentinelOne%20and%20Google%20Security%20Operations.md)
-- [Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms](docs/google/cloud/2026-11-12/Google%20named%20the%20furthest%20in%20vision%20for%20the%20Gartner%20Magic%20Quadrant%20for%20Data%20Lakehouse%20Platforms.md)
-- [Designing for privacy on intelligent eyewear](docs/google/blog/2026-11-12/Designing%20for%20privacy%20on%20intelligent%20eyewear.md)
-- [See our intelligent eyewear lineup and pre-order your pair](docs/google/blog/2026-11-12/See%20our%20intelligent%20eyewear%20lineup%20and%20pre-order%20your%20pair.md)
-- [We’re introducing a new transparency tool for invalid traffic in Google Ads.](docs/google/blog/2026-11-12/We_re%20introducing%20a%20new%20transparency%20tool%20for%20invalid%20traffic%20in%20Google%20Ads.md)
+- [Advancing science & engineering with Antigravity’s /teamwork](docs/google/research/2026-11-13/Advancing%20science%20_%20engineering%20with%20Antigravity_s%20_teamwork.md)
+- [Claim your Google Cloud Credits in Google AI Studio](docs/google/blog/2026-11-13/Claim%20your%20Google%20Cloud%20Credits%20in%20Google%20AI%20Studio.md)
+- [Connect Google Wallet to Gemini for personal finance insights](docs/google/blog/2026-11-13/Connect%20Google%20Wallet%20to%20Gemini%20for%20personal%20finance%20insights.md)
+- [New AI agent observability and governance across BigQuery and Looker](docs/google/cloud/2026-11-13/New%20AI%20agent%20observability%20and%20governance%20across%20BigQuery%20and%20Looker.md)
+- [Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26](docs/google/cloud/2026-11-13/Where%20supercomputing%20meets%20agentic%20AI_%20What_s%20new%20in%20Google%20Cloud%20HPC%20and%20AI%20at%20SC26.md)
+- [From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB](docs/google/cloud/2026-11-13/From%20OLAP%20to%20OLTP_%20How%20Copel%20Simplified%20Reverse%20ETL%20Using%20BigQuery_s%20Native%20Export%20to%20AlloyDB.md)
+- [Introducing Gemini 4 Hydrogen](docs/google/deepmind/2026-11-12/Introducing%20Gemini%204%20Hydrogen.md)
+- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](docs/google/deepmind/2026-11-11/AlphaGenome%202_%20Deciphering%20how%20cells%20read%20DNA%20to%20better%20understand%20disease.md)
+- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](docs/google/deepmind/2026-11-10/Introducing%20AlphaProof%20Code_%20a%20breakthrough%20in%20verifying%20complex%20software%20at%20depth.md)
+- [Opening the datasets behind our AI weather models](docs/google/deepmind/2026-11-10/Opening%20the%20datasets%20behind%20our%20AI%20weather%20models.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
