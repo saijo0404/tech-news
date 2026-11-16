@@ -29,8 +29,13 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](docs/nvidia/blogs/2026-11-12/A%20New%20Dawn%20in%20the%20Cloud_%20_Warhammer%2040_000_%20Dawn%20of%20War%20IV_%20Is%20Coming%20to%20GeForce%20NOW.md)
-- [NVIDIA Announces CEO Transition](docs/nvidia/newsroom/2026-11-12/NVIDIA%20Announces%20CEO%20Transition.md)
+- [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](docs/nvidia/blogs/2026-11-16/AI%20Day%20Seoul%20Brings%20Together%20Korea_s%20Industry%20Leaders_%20Startups%20and%20Developer%20Communities.md)
+- [Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS](docs/nvidia/developer/2026-11-13/Faster%20Scientific%20Simulations%20with%20New%20FP64%20Algorithms%20in%20NVIDIA%20cuBLAS.md)
+- [Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton](docs/nvidia/developer/2026-11-13/Run%20GPU-Powered%20Black%20Hole%20Interferometry%20with%20NVIDIA%20cuPhoton.md)
+- [Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA](docs/nvidia/developer/2026-11-13/Run%20Native%20DLA%20Inference%20in%20Python%20on%20NVIDIA%20Jetson%20AGX%20Orin%20Using%20cuDLA.md)
+- [When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM](docs/nvidia/developer/2026-11-13/When%20One%20GPU%20Isn_t%20Enough_%20Serving%20GLM-5_3%20Across%20Two%20NVIDIA%20DGX%20Stations%20with%20vLLM.md)
+- [Adapt Human Motion for Robots with NVIDIA SOMA Retargeter](docs/nvidia/developer/2026-11-13/Adapt%20Human%20Motion%20for%20Robots%20with%20NVIDIA%20SOMA%20Retargeter.md)
+- [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](docs/nvidia/blogs/2026-11-13/How%20AI%20Is%20Helping%20Care%20Teams%20Get%20Patients%20the%20Right%20Care_%20Sooner.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
