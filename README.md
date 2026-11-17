@@ -48,9 +48,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Build a Robot Pick-and-Place Simulation with SimReady Assets](docs/huggingface/blog/2026-11-13/Build%20a%20Robot%20Pick-and-Place%20Simulation%20with%20SimReady%20Assets.md)
-- [XYBench: Helping with the problem behind the question](docs/huggingface/blog/2026-11-13/XYBench_%20Helping%20with%20the%20problem%20behind%20the%20question.md)
-- [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](docs/huggingface/blog/2026-11-13/llama_cpp%20v1_0_0%20_%20A%20stronger%20foundation%20for%20the%20local%20AI%20ecosystem.md)
+- [Hugging Face and OpenRouter join forces to make open-weight models easy to run](docs/huggingface/blog/2026-11-16/Hugging%20Face%20and%20OpenRouter%20join%20forces%20to%20make%20open-weight%20models%20easy%20to%20run.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
