@@ -55,9 +55,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [DeepSeek-V4.1-Flash on Vera Rubin NVL72: 58x Throughput vs. GB300 NVL72 at 387 tokens/s](docs/vllm/blog/2026-11-12/DeepSeek-V4_1-Flash%20on%20Vera%20Rubin%20NVL72_%2058x%20Throughput%20vs_%20GB300%20NVL72%20at%20387%20tokens_s.md)
-- [Inkling 2 Small on vLLM: Day-0 Support](docs/vllm/blog/2026-11-12/Inkling%202%20Small%20on%20vLLM_%20Day-0%20Support.md)
-- [H3-Image Day-0 Support: 4K in 0.87s with Vera Rubin](docs/vllm/blog/2026-11-12/H3-Image%20Day-0%20Support_%204K%20in%200_87s%20with%20Vera%20Rubin.md)
+- [Reinforcement Learning: Optimizing 0.6B Dense Models on TPU v7 via vLLM](docs/vllm/blog/2026-11-12/Reinforcement%20Learning_%20Optimizing%200_6B%20Dense%20Models%20on%20TPU%20v7%20via%20vLLM.md)
 <!-- END:vllm -->
 
 ---
