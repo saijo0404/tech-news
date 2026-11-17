@@ -8,16 +8,24 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Advancing science & engineering with Antigravity’s /teamwork](docs/google/research/2026-11-13/Advancing%20science%20_%20engineering%20with%20Antigravity_s%20_teamwork.md)
-- [Claim your Google Cloud Credits in Google AI Studio](docs/google/blog/2026-11-13/Claim%20your%20Google%20Cloud%20Credits%20in%20Google%20AI%20Studio.md)
-- [Connect Google Wallet to Gemini for personal finance insights](docs/google/blog/2026-11-13/Connect%20Google%20Wallet%20to%20Gemini%20for%20personal%20finance%20insights.md)
-- [New AI agent observability and governance across BigQuery and Looker](docs/google/cloud/2026-11-13/New%20AI%20agent%20observability%20and%20governance%20across%20BigQuery%20and%20Looker.md)
-- [Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26](docs/google/cloud/2026-11-13/Where%20supercomputing%20meets%20agentic%20AI_%20What_s%20new%20in%20Google%20Cloud%20HPC%20and%20AI%20at%20SC26.md)
-- [From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB](docs/google/cloud/2026-11-13/From%20OLAP%20to%20OLTP_%20How%20Copel%20Simplified%20Reverse%20ETL%20Using%20BigQuery_s%20Native%20Export%20to%20AlloyDB.md)
-- [Introducing Gemini 4 Hydrogen](docs/google/deepmind/2026-11-12/Introducing%20Gemini%204%20Hydrogen.md)
-- [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](docs/google/deepmind/2026-11-11/AlphaGenome%202_%20Deciphering%20how%20cells%20read%20DNA%20to%20better%20understand%20disease.md)
-- [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](docs/google/deepmind/2026-11-10/Introducing%20AlphaProof%20Code_%20a%20breakthrough%20in%20verifying%20complex%20software%20at%20depth.md)
-- [Opening the datasets behind our AI weather models](docs/google/deepmind/2026-11-10/Opening%20the%20datasets%20behind%20our%20AI%20weather%20models.md)
+- [Regional voices are rolling out in the Gemini app.](docs/google/blog/2026-11-16/Regional%20voices%20are%20rolling%20out%20in%20the%20Gemini%20app.md)
+- [The era of autonomous attacks has arrived.](docs/google/blog/2026-11-16/The%20era%20of%20autonomous%20attacks%20has%20arrived.md)
+- [New Google AdMob AI tools help app creators build, fix, and grow faster](docs/google/blog/2026-11-16/New%20Google%20AdMob%20AI%20tools%20help%20app%20creators%20build_%20fix_%20and%20grow%20faster.md)
+- [Beyond the compute bottleneck: Maximizing the ROI of AI accelerators with purpose-built storage](docs/google/cloud/2026-11-16/Beyond%20the%20compute%20bottleneck_%20Maximizing%20the%20ROI%20of%20AI%20accelerators%20with%20purpose-built%20storage.md)
+- [New AI training performance benchmarks for Google TPUs](docs/google/blog/2026-11-16/New%20AI%20training%20performance%20benchmarks%20for%20Google%20TPUs.md)
+- [Transform notes, research, and sources into interactive sites with Gemini Notebook.](docs/google/blog/2026-11-16/Transform%20notes_%20research_%20and%20sources%20into%20interactive%20sites%20with%20Gemini%20Notebook.md)
+- [How to find the best Black Friday deals and shop smarter](docs/google/blog/2026-11-16/How%20to%20find%20the%20best%20Black%20Friday%20deals%20and%20shop%20smarter.md)
+- [New Ask Maps features to help with holiday travel and prep](docs/google/blog/2026-11-16/New%20Ask%20Maps%20features%20to%20help%20with%20holiday%20travel%20and%20prep.md)
+- [Navigate holiday traffic and crowds with Google Maps trends](docs/google/blog/2026-11-16/Navigate%20holiday%20traffic%20and%20crowds%20with%20Google%20Maps%20trends.md)
+- [4 ways Search can help with your holiday plans](docs/google/blog/2026-11-16/4%20ways%20Search%20can%20help%20with%20your%20holiday%20plans.md)
+- [Ask Maps is coming to Europe.](docs/google/blog/2026-11-16/Ask%20Maps%20is%20coming%20to%20Europe.md)
+- [GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold](docs/google/cloud/2026-11-16/GTIG%20AI%20Threat%20Tracker_%20Agentic%20Threat%20Activity%20Crosses%20a%20Significant%20Threshold.md)
+- [Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud Operational Database Management Systems](docs/google/cloud/2026-11-16/Google%20is%20a%20Leader%20in%20the%202026%20Gartner_%20Magic%20Quadrant_%20for%20Cloud%20Operational%20Database%20Management%20Systems.md)
+- [How ISVs are unlocking European workloads using Google Cloud Dedicated technology](docs/google/cloud/2026-11-16/How%20ISVs%20are%20unlocking%20European%20workloads%20using%20Google%20Cloud%20Dedicated%20technology.md)
+- [Inside the new Google Cloud Data Boundary experience](docs/google/cloud/2026-11-16/Inside%20the%20new%20Google%20Cloud%20Data%20Boundary%20experience.md)
+- [What teenagers really think about online safety and AI](docs/google/blog/2026-11-16/What%20teenagers%20really%20think%20about%20online%20safety%20and%20AI.md)
+- [Helping teens navigate online news and information](docs/google/blog/2026-11-16/Helping%20teens%20navigate%20online%20news%20and%20information.md)
+- [Listening to teens on online safety](docs/google/blog/2026-11-16/Listening%20to%20teens%20on%20online%20safety.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
