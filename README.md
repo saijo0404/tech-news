@@ -30,20 +30,12 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](docs/nvidia/blogs/2026-11-16/NVIDIA%20DGX%20Spark%20Developer%20Kit%20Turns%20a%20Desk%20Into%20a%20Supercomputing%20Lab.md)
-- [Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential](docs/nvidia/developer/2026-11-16/Accelerate%20Molecular%20Dynamics%20Simulations%20with%20Accurate_%20Flexible%20Primitives%20Using%20NVIDIA%20cuPotential.md)
-- [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](docs/nvidia/blogs/2026-11-16/How%20the%20World_s%20Most%20Advanced%20AI%20Infrastructure%20Supply%20Chain%20Invents%20the%20Future.md)
-- [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](docs/nvidia/blogs/2026-11-16/Lambda%20Boosts%20AI%20Factory%20Resiliency%20and%20Efficiency%20With%20NVIDIA%20Photonics.md)
-- [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](docs/nvidia/blogs/2026-11-16/NVIDIA%20Expands%20Slurm%20to%20Bring%20Quantum%20Computing%20Into%20Supercomputing.md)
-- [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](docs/nvidia/blogs/2026-11-16/NVIDIA%20Sweeps%20MLPerf%20Training%20and%20Endpoints%20as%20Vera%20Rubin%20Debuts%20With%20Leading%20Performance.md)
-- [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](docs/nvidia/blogs/2026-11-16/NVIDIA%20CUDA-X%20Libraries%20Give%20Agents%20the%20Tools%20to%20Accelerate%20Scientific%20Discovery.md)
-- [CUDA at 20: How the Platform Transformed Scientific Computing](docs/nvidia/blogs/2026-11-16/CUDA%20at%2020_%20How%20the%20Platform%20Transformed%20Scientific%20Computing.md)
-- [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](docs/nvidia/blogs/2026-11-16/NVIDIA%20Announces%20Rubin%20HPC%20_%20A%20New%20GPU%20to%20Accelerate%20Agents%20for%20Science_%20Engineering%20and%20Analytics.md)
-- [Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain](docs/nvidia/developer/2026-11-16/Post-Training%20NVIDIA%20Nemotron%20to%20Increase%20Accuracy%20in%20Your%20Scientific%20Domain.md)
-- [NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0](docs/nvidia/developer/2026-11-16/NVIDIA%20Vera%20Rubin%20NVL72%20Leads%20Agentic%20Inference%20Performance%20on%20MLPerf%20Endpoints%20v1_0.md)
-- [NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1](docs/nvidia/developer/2026-11-16/NVIDIA%20Vera%20Rubin%20NVL72%20Achieves%20up%20to%202x%20Blackwell%20Ultra%20Performance%20in%20MLPerf%20Training%20v6_1.md)
-- [NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery](docs/nvidia/newsroom/2026-11-16/NVIDIA%20Expands%20Vera%20CPU%20Platform%20to%20Accelerate%20Scientific%20Discovery.md)
-- [NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents](docs/nvidia/newsroom/2026-11-16/NVIDIA%20Introduces%20Nemotron%20for%20Science%20to%20Accelerate%20Discoveries%20With%20Agents.md)
+- [NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout](docs/nvidia/newsroom/2026-11-17/NVIDIA%20Expands%20Commitments%20With%20Supply%20Chain%20Partners%20to%20Support%20AI%20Infrastructure%20Buildout.md)
+- [NVIDIA Announces Financial Results for Third Quarter Fiscal 2027](docs/nvidia/newsroom/2026-11-17/NVIDIA%20Announces%20Financial%20Results%20for%20Third%20Quarter%20Fiscal%202027.md)
+- [Co-Designing Sparse Attention for Efficient Long-Context Inference](docs/nvidia/developer/2026-11-17/Co-Designing%20Sparse%20Attention%20for%20Efficient%20Long-Context%20Inference.md)
+- [Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins](docs/nvidia/developer/2026-11-17/Integrating%20QPUs%20into%20Supercomputing%20Centers%20Using%20Slurm%20HRES%20Plugins.md)
+- [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](docs/nvidia/blogs/2026-11-17/Ian%20Buck%20Kicks%20Off%20NVIDIA_s%20Week%20at%20SC26%20as%20Science%20Enters%20the%20Age%20of%20Agents.md)
+- [NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee](docs/nvidia/newsroom/2026-11-17/NVIDIA%20Board%20of%20Directors%20Establishes%20National%20Security%20and%20Export%20Control%20Oversight%20Committee.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
