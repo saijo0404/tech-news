@@ -43,7 +43,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Reinforcement Learning: Optimizing 0.6B Dense Models on TPU v7 via vLLM](docs/vllm/blog/2026-11-12/Reinforcement%20Learning_%20Optimizing%200_6B%20Dense%20Models%20on%20TPU%20v7%20via%20vLLM.md)
+- [Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM](docs/vllm/blog/2026-11-18/Keeping%20Agents%20Fast_%20High-Interactivity%20Decode%20with%20FlyDSL%20MonoKernels%20in%20vLLM.md)
 <!-- END:vllm -->
 
 ---
