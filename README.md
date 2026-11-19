@@ -31,12 +31,9 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout](docs/nvidia/newsroom/2026-11-17/NVIDIA%20Expands%20Commitments%20With%20Supply%20Chain%20Partners%20to%20Support%20AI%20Infrastructure%20Buildout.md)
-- [NVIDIA Announces Financial Results for Third Quarter Fiscal 2027](docs/nvidia/newsroom/2026-11-17/NVIDIA%20Announces%20Financial%20Results%20for%20Third%20Quarter%20Fiscal%202027.md)
-- [Co-Designing Sparse Attention for Efficient Long-Context Inference](docs/nvidia/developer/2026-11-17/Co-Designing%20Sparse%20Attention%20for%20Efficient%20Long-Context%20Inference.md)
-- [Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins](docs/nvidia/developer/2026-11-17/Integrating%20QPUs%20into%20Supercomputing%20Centers%20Using%20Slurm%20HRES%20Plugins.md)
-- [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](docs/nvidia/blogs/2026-11-17/Ian%20Buck%20Kicks%20Off%20NVIDIA_s%20Week%20at%20SC26%20as%20Science%20Enters%20the%20Age%20of%20Agents.md)
-- [NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee](docs/nvidia/newsroom/2026-11-17/NVIDIA%20Board%20of%20Directors%20Establishes%20National%20Security%20and%20Export%20Control%20Oversight%20Committee.md)
+- [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](docs/nvidia/developer/2026-11-18/Build%20Training-Ready%20Physical%20AI%20Datasets%20with%20Two%20Prompts%20in%20NVIDIA%20Cosmos.md)
+- [Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision](docs/nvidia/developer/2026-11-18/Tackling%20GPU%20Bottlenecks%20in%20Plane-Wave%20DFT%20with%20K-Point%20Batching%20and%20Mixed%20Precision.md)
+- [NVIDIA RTX Spark Compact Desktops Out Now](docs/nvidia/blogs/2026-11-18/NVIDIA%20RTX%20Spark%20Compact%20Desktops%20Out%20Now.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
