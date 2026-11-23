@@ -38,11 +38,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](docs/huggingface/blog/2026-11-18/DaisyRose-27B_%20Pushing%20the%20Frontier%20of%20Post-Training%20Efficiency.md)
-- [Why your fine-tuning job takes longer than the FLOPs say](docs/huggingface/blog/2026-11-18/Why%20your%20fine-tuning%20job%20takes%20longer%20than%20the%20FLOPs%20say.md)
-- [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](docs/huggingface/blog/2026-11-18/Time-Series%20Models%20in%20the%20Streamhouse_%20A%20New%20Frontier%20and%20Use%20Cases.md)
-- [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](docs/huggingface/blog/2026-11-18/180B%20Parameters_%2032GB%20of%20RAM_%20Pushing%20MoE%20Inference%20to%20the%20Limit%20with%20Transformers.md)
-- [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](docs/huggingface/blog/2026-11-18/Rumble-2-Flash_%20an%20open%200_5B%20speech%20model%20for%2040_%20languages.md)
+- [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](docs/huggingface/blog/2026-11-20/Welcome%20Inkling%202%20Mini_%20Cutting-edge%20Performance%20for%20your%20Local%20Setup.md)
+- [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](docs/huggingface/blog/2026-11-20/Introducing%20harness%20adapters_%20adapt%20your%20favorite%20model%20to%20your%20harness%20to%20improve%20performance%20and%20cost.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
