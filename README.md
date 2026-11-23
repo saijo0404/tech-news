@@ -33,13 +33,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Announces Upcoming Event for Financial Community](docs/nvidia/newsroom/2026-11-19/NVIDIA%20Announces%20Upcoming%20Event%20for%20Financial%20Community.md)
-- [Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo](docs/nvidia/developer/2026-11-19/Reducing%20Rollout%20Bottlenecks%20in%20Reinforcement%20Learning%20with%20NVIDIA%20Dynamo.md)
-- [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](docs/nvidia/blogs/2026-11-19/NVIDIA%20and%20Microsoft%20Expand%20Accelerated%20Computing%20From%20Azure%20to%20Windows%20PCs.md)
-- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](docs/nvidia/blogs/2026-11-19/Into%20the%20Omniverse_%20How%20Developers%20Turn%20Ideas%20Into%20Simulations%20With%20Frontier%20AI%20Agents.md)
-- [Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition](docs/nvidia/developer/2026-11-19/Enabling%20Real-Time%20AI%20for%20Scientific%20Instruments%20with%20GPU-Native%20Data%20Acquisition.md)
-- [Build Tool-Calling Parsers in Rust with AI Agents](docs/nvidia/developer/2026-11-19/Build%20Tool-Calling%20Parsers%20in%20Rust%20with%20AI%20Agents.md)
-- [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](docs/nvidia/blogs/2026-11-19/Season_s%20Streamings%20and%20Savings_%20Black%20Friday%20Deals%20Come%20to%20GeForce%20NOW.md)
+- [NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing](docs/nvidia/newsroom/2026-11-16/NVIDIA%20Announces%20Collaboration%20With%20IBM%20and%20Fermi%20National%20Accelerator%20Laboratory%20to%20Launch%20Quantum-Classical%20Codesign%20Platform_%20Plus%20Error-Correction%20Breakthrough%20to%20Advance%20Practical%20Quantum%20Computi.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
