@@ -33,7 +33,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing](docs/nvidia/newsroom/2026-11-16/NVIDIA%20Announces%20Collaboration%20With%20IBM%20and%20Fermi%20National%20Accelerator%20Laboratory%20to%20Launch%20Quantum-Classical%20Codesign%20Platform_%20Plus%20Error-Correction%20Breakthrough%20to%20Advance%20Practical%20Quantum%20Computi.md)
+- [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](docs/nvidia/blogs/2026-11-23/Merry%20Making_%20Play_%20Build%20and%20Create%20With%20NVIDIA%20Technologies%20This%20Holiday%20Season.md)
+- [NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director](docs/nvidia/newsroom/2026-11-23/NVIDIA%20Board%20Reinstates%20Jensen%20Huang%20as%20President_%20CEO%20and%20Board%20Director.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
