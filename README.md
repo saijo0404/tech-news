@@ -39,7 +39,7 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model](docs/vllm/blog/2026-11-20/Inkling%202%20Mini%20on%20vLLM_%20Day-0%20Support%20for%20a%20Looped%20Model.md)
+- [Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe](docs/vllm/blog/2026-11-23/Skip%20the%20DRAM%20Tier_%20MoRI%20UMBP%20Runs%20the%20Agentic%20KV%20Cache%20on%20NVMe.md)
 <!-- END:vllm -->
 
 ---
