@@ -33,8 +33,8 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](docs/huggingface/blog/2026-11-20/Welcome%20Inkling%202%20Mini_%20Cutting-edge%20Performance%20for%20your%20Local%20Setup.md)
-- [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](docs/huggingface/blog/2026-11-20/Introducing%20harness%20adapters_%20adapt%20your%20favorite%20model%20to%20your%20harness%20to%20improve%20performance%20and%20cost.md)
+- [RoboTrack: Point tracking for real-world robotic manipulation](docs/huggingface/blog/2026-11-23/RoboTrack_%20Point%20tracking%20for%20real-world%20robotic%20manipulation.md)
+- [How to build and maintain an agentic evaluation](docs/huggingface/blog/2026-11-23/How%20to%20build%20and%20maintain%20an%20agentic%20evaluation.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
