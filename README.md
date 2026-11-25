@@ -36,7 +36,8 @@
 
 ### 🔹 vLLM Blog
 <!-- START:vllm -->
-- [Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe](docs/vllm/blog/2026-11-23/Skip%20the%20DRAM%20Tier_%20MoRI%20UMBP%20Runs%20the%20Agentic%20KV%20Cache%20on%20NVMe.md)
+- [vLLM Day-0 Support for ERNIE 5.5 Flash Preview: Plugin Deployment and E2E Inference Acceleration](docs/vllm/blog/2026-11-24/vLLM%20Day-0%20Support%20for%20ERNIE%205_5%20Flash%20Preview_%20Plugin%20Deployment%20and%20E2E%20Inference%20Acceleration.md)
+- [Announcing vLLM-GR: Efficient Inference for Generative Recommendation](docs/vllm/blog/2026-11-24/Announcing%20vLLM-GR_%20Efficient%20Inference%20for%20Generative%20Recommendation.md)
 <!-- END:vllm -->
 
 ---
