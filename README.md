@@ -8,21 +8,13 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [See what 6 builders are making with Gemini 4 Hydrogen](docs/google/blog/2026-11-23/See%20what%206%20builders%20are%20making%20with%20Gemini%204%20Hydrogen.md)
-- [Here are 4 things you didn’t know you could do with Gemini Canvas.](docs/google/blog/2026-11-23/Here%20are%204%20things%20you%20didn_t%20know%20you%20could%20do%20with%20Gemini%20Canvas.md)
-- [Supercharging transformer residual connections](docs/google/research/2026-11-23/Supercharging%20transformer%20residual%20connections.md)
-- [A more tailored Google Search that’s uniquely yours](docs/google/blog/2026-11-23/A%20more%20tailored%20Google%20Search%20that_s%20uniquely%20yours.md)
-- [Organize and share your holiday memories with these five updates in Google Photos.](docs/google/blog/2026-11-23/Organize%20and%20share%20your%20holiday%20memories%20with%20these%20five%20updates%20in%20Google%20Photos.md)
-- [Data + AI Anywhere: AlloyDB Omni integration with local models](docs/google/cloud/2026-11-23/Data%20_%20AI%20Anywhere_%20AlloyDB%20Omni%20integration%20with%20local%20models.md)
-- [How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI](docs/google/cloud/2026-11-23/How%20Sinch%20modernized%20its%20enterprise%20data%20warehouse%20from%20Snowflake%20to%20BigQuery%20to%20power%20AI.md)
-- [Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](docs/google/cloud/2026-11-23/Google%20is%20named%20a%20Leader%20in%20the%202026%20Gartner_%20Magic%20Quadrant_%20for%20SIEM.md)
-- [Introducing file slicing controls in the Gemini API](docs/google/blog/2026-11-23/Introducing%20file%20slicing%20controls%20in%20the%20Gemini%20API.md)
-- [Get your year-end tasks done with new Connected Apps.](docs/google/blog/2026-11-20/Get%20your%20year-end%20tasks%20done%20with%20new%20Connected%20Apps.md)
-- [How Watch Duty is using Gemini to get wildfire alerts out faster](docs/google/blog/2026-11-20/How%20Watch%20Duty%20is%20using%20Gemini%20to%20get%20wildfire%20alerts%20out%20faster.md)
-- [How Vodafone is using the Data Engineering Agent to improve their data pipelines](docs/google/cloud/2026-11-20/How%20Vodafone%20is%20using%20the%20Data%20Engineering%20Agent%20to%20improve%20their%20data%20pipelines.md)
-- [Introducing ambient networking for GKE](docs/google/cloud/2026-11-20/Introducing%20ambient%20networking%20for%20GKE.md)
-- [How to simplify cloud access with Unified Access Policies, now in preview](docs/google/cloud/2026-11-20/How%20to%20simplify%20cloud%20access%20with%20Unified%20Access%20Policies_%20now%20in%20preview.md)
-- [Introducing the MongoDB Integration for Google's ADK](docs/google/cloud/2026-11-19/Introducing%20the%20MongoDB%20Integration%20for%20Google_s%20ADK.md)
+- [We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.](docs/google/blog/2026-11-24/We_re%20launching%20Humanity_s%20First%20Exam%20and%20a%20Kaggle%20hackathon%20to%20test%20LLM%20reliability.md)
+- [Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud](docs/google/cloud/2026-11-24/Built%20for%20trust%20and%20control_%20Powering%20the%20next%20wave%20of%20AI%20agents%20across%20Google%20Workspace%20and%20Google%20Cloud.md)
+- [How Gemini is changing the game for Golden State's organization and fans.](docs/google/blog/2026-11-24/How%20Gemini%20is%20changing%20the%20game%20for%20Golden%20State_s%20organization%20and%20fans.md)
+- [See what 5 builders are making with Gemini 4 Neon](docs/google/blog/2026-11-24/See%20what%205%20builders%20are%20making%20with%20Gemini%204%20Neon.md)
+- [Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium](docs/google/cloud/2026-11-24/Enabling%20zero%20trust_%20ALLEN_s%20move%20to%20Chrome%20Enterprise%20Premium.md)
+- [Independent filmmakers in India bring big-screen stories to life with Google Flow.](docs/google/blog/2026-11-24/Independent%20filmmakers%20in%20India%20bring%20big-screen%20stories%20to%20life%20with%20Google%20Flow.md)
+- [We’re expanding our London home in King's Cross.](docs/google/blog/2026-11-24/We_re%20expanding%20our%20London%20home%20in%20King_s%20Cross.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
