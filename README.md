@@ -30,8 +30,7 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [RoboTrack: Point tracking for real-world robotic manipulation](docs/huggingface/blog/2026-11-23/RoboTrack_%20Point%20tracking%20for%20real-world%20robotic%20manipulation.md)
-- [How to build and maintain an agentic evaluation](docs/huggingface/blog/2026-11-23/How%20to%20build%20and%20maintain%20an%20agentic%20evaluation.md)
+- [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](docs/huggingface/blog/2026-11-24/Microduck%20Obstacle%20Avoidance_%20A%20Sim2Real%20Workflow%20with%20Isaac%20Lab%20and%20Newton.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
