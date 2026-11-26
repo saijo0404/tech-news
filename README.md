@@ -21,7 +21,9 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](docs/huggingface/blog/2026-11-24/Microduck%20Obstacle%20Avoidance_%20A%20Sim2Real%20Workflow%20with%20Isaac%20Lab%20and%20Newton.md)
+- [Where scientists draw the line on AI agents](docs/huggingface/blog/2026-11-25/Where%20scientists%20draw%20the%20line%20on%20AI%20agents.md)
+- [An Indic Voice Agent with CUGA](docs/huggingface/blog/2026-11-25/An%20Indic%20Voice%20Agent%20with%20CUGA.md)
+- [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](docs/huggingface/blog/2026-11-25/Hill-climbing%20Inkling%202%20Mini%20inference%20on%20one%20RTX%20PRO%206000.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
