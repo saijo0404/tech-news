@@ -19,13 +19,8 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers](docs/nvidia/developer/2026-11-24/How%20to%20Run%20NVIDIA%20Cosmos%203%20on%20Local%20AI%20Devices%20Using%20Hugging%20Face%20Diffusers.md)
-- [Prepare Market Data for Forecasting with NVIDIA Megatron Core](docs/nvidia/developer/2026-11-24/Prepare%20Market%20Data%20for%20Forecasting%20with%20NVIDIA%20Megatron%20Core.md)
-- [What’s New for Game Developers: AI Animation and RTX Tools](docs/nvidia/developer/2026-11-24/What_s%20New%20for%20Game%20Developers_%20AI%20Animation%20and%20RTX%20Tools.md)
-- [Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5](docs/nvidia/developer/2026-11-24/Q_A_%20How%20Everstone%20Brings%20Where%20Winds%20Meet%20to%20Life%20with%20NVIDIA%20DLSS%205.md)
-- [Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0](docs/nvidia/developer/2026-11-23/Accelerating%20Direct%20Sparse%20Solvers%20for%20Computational%20Engineering%20with%20NVIDIA%20cuDSS%201_0.md)
-- [Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension](docs/nvidia/developer/2026-11-23/Get%20Started%20with%20GPU-Accelerated%20DuckDB%20Analytics%20Using%20the%20Sirius%20Core%20Extension.md)
-- [Connecting Energy Use to Scientific Output with Science per Joule](docs/nvidia/developer/2026-11-18/Connecting%20Energy%20Use%20to%20Scientific%20Output%20with%20Science%20per%20Joule.md)
+- [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](docs/nvidia/developer/2026-11-25/How%20to%20Optimize%20NVFP4%20Attention%20on%20NVIDIA%20RTX%20Blackwell%20Through%20Register%20Recycling.md)
+- [Manage Liquid-Cooled AI Factories with NVIDIA Mission Control](docs/nvidia/developer/2026-11-19/Manage%20Liquid-Cooled%20AI%20Factories%20with%20NVIDIA%20Mission%20Control.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
