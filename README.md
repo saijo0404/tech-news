@@ -8,13 +8,9 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.](docs/google/blog/2026-11-24/We_re%20launching%20Humanity_s%20First%20Exam%20and%20a%20Kaggle%20hackathon%20to%20test%20LLM%20reliability.md)
-- [Built for trust and control: Powering the next wave of AI agents across Google Workspace and Google Cloud](docs/google/cloud/2026-11-24/Built%20for%20trust%20and%20control_%20Powering%20the%20next%20wave%20of%20AI%20agents%20across%20Google%20Workspace%20and%20Google%20Cloud.md)
-- [How Gemini is changing the game for Golden State's organization and fans.](docs/google/blog/2026-11-24/How%20Gemini%20is%20changing%20the%20game%20for%20Golden%20State_s%20organization%20and%20fans.md)
-- [See what 5 builders are making with Gemini 4 Neon](docs/google/blog/2026-11-24/See%20what%205%20builders%20are%20making%20with%20Gemini%204%20Neon.md)
-- [Enabling zero trust: ALLEN’s move to Chrome Enterprise Premium](docs/google/cloud/2026-11-24/Enabling%20zero%20trust_%20ALLEN_s%20move%20to%20Chrome%20Enterprise%20Premium.md)
-- [Independent filmmakers in India bring big-screen stories to life with Google Flow.](docs/google/blog/2026-11-24/Independent%20filmmakers%20in%20India%20bring%20big-screen%20stories%20to%20life%20with%20Google%20Flow.md)
-- [We’re expanding our London home in King's Cross.](docs/google/blog/2026-11-24/We_re%20expanding%20our%20London%20home%20in%20King_s%20Cross.md)
+- [Verifiable Social Reasoning for LLM Assistants](docs/google/research/2026-11-25/Verifiable%20Social%20Reasoning%20for%20LLM%20Assistants.md)
+- [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](docs/google/deepmind/2026-11-24/From%20spectrum%20to%20structure_%20Identifying%20molecules%20with%20Mass%20Spec%20Skills%20for%20Google%20Antigravity.md)
+- [Finding faster quantum algorithms with agents and formal verification](docs/google/deepmind/2026-11-23/Finding%20faster%20quantum%20algorithms%20with%20agents%20and%20formal%20verification.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
