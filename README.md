@@ -15,8 +15,7 @@
 
 ### 🔹 NVIDIA News
 <!-- START:nvidia -->
-- [How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling](docs/nvidia/developer/2026-11-25/How%20to%20Optimize%20NVFP4%20Attention%20on%20NVIDIA%20RTX%20Blackwell%20Through%20Register%20Recycling.md)
-- [Manage Liquid-Cooled AI Factories with NVIDIA Mission Control](docs/nvidia/developer/2026-11-19/Manage%20Liquid-Cooled%20AI%20Factories%20with%20NVIDIA%20Mission%20Control.md)
+- [Come for the Games, Stay for the Community With GeForce NOW](docs/nvidia/blogs/2026-11-26/Come%20for%20the%20Games_%20Stay%20for%20the%20Community%20With%20GeForce%20NOW.md)
 <!-- END:nvidia -->
 
 ### 🔹 Hugging Face Blog
