@@ -18,9 +18,9 @@
 
 ### 🔹 Hugging Face Blog
 <!-- START:huggingface -->
-- [Where scientists draw the line on AI agents](docs/huggingface/blog/2026-11-25/Where%20scientists%20draw%20the%20line%20on%20AI%20agents.md)
-- [An Indic Voice Agent with CUGA](docs/huggingface/blog/2026-11-25/An%20Indic%20Voice%20Agent%20with%20CUGA.md)
-- [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](docs/huggingface/blog/2026-11-25/Hill-climbing%20Inkling%202%20Mini%20inference%20on%20one%20RTX%20PRO%206000.md)
+- [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](docs/huggingface/blog/2026-11-26/Introducing%20the%20llama_cpp%20benchmark%20dashboard%20for%20AMD%20Ryzen%20and%20Radeon.md)
+- [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](docs/huggingface/blog/2026-11-26/Building%20on%20Nemotron%203_5%20Parse_%20Open%20Data_%20Fine-Tuning_%20and%20Faster%20Inference.md)
+- [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](docs/huggingface/blog/2026-11-26/Swarms_%20Flocks_%20Gangs_%20How%20to%20build_%20train_%20and%20evaluate%20multi-agent%20systems.md)
 <!-- END:huggingface -->
 
 ### 🔹 vLLM Blog
