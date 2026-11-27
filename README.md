@@ -8,9 +8,7 @@
 
 ### 🔹 Google News
 <!-- START:google -->
-- [Verifiable Social Reasoning for LLM Assistants](docs/google/research/2026-11-25/Verifiable%20Social%20Reasoning%20for%20LLM%20Assistants.md)
-- [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](docs/google/deepmind/2026-11-24/From%20spectrum%20to%20structure_%20Identifying%20molecules%20with%20Mass%20Spec%20Skills%20for%20Google%20Antigravity.md)
-- [Finding faster quantum algorithms with agents and formal verification](docs/google/deepmind/2026-11-23/Finding%20faster%20quantum%20algorithms%20with%20agents%20and%20formal%20verification.md)
+- [15 years of investing in Colombia’s talent and future](docs/google/blog/2026-11-26/15%20years%20of%20investing%20in%20Colombia_s%20talent%20and%20future.md)
 <!-- END:google -->
 
 ### 🔹 NVIDIA News
